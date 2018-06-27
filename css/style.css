@@ -1,0 +1,12 @@
+body {
+  background-color: #e9e9e9;
+  height: 3000px;
+}
+
+.activeDark{
+  border-bottom: 2px solid white;
+}
+
+.activeLight{
+  border-bottom: 2px solid black;
+}
