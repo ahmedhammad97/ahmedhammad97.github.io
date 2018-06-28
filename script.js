@@ -38,7 +38,7 @@ $(".nav-item").click(event=>{
 //HOME SECTION
 $(document).ready(()=>{
   let d = new Date();
-  if(d.getHours() < 5 || d.getHours() >= 15){
+  if(d.getHours() < 5 || d.getHours() >= 18){
     $(".homeText h2").html("<h2>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h2>");
   }else if(d.getHours() >= 5 && d.getHours() < 12){
     $(".homeText h2").html("<h2>Good Morning!&nbsp;&nbsp;<i class=\"fas fa-sun\"></i></h2>");
@@ -47,7 +47,7 @@ $(document).ready(()=>{
   }
 
   let str = ['My name is Ahmed Hammad.','I am an undergraduate in Computer Engineering.','A full-stack developer.','And, a content creator.','Here, you can know all about me.','Come on, take a tour.                           '];
-  TxtType($(".homeText h3")[0],str,1500);
+  //TxtType($(".homeText h3")[0],str,1500);
 });
 
 
@@ -89,6 +89,4 @@ var TxtType = function(el, toRotate, period) {
     };
     this.tick();
 };
-
-
 //END HOME SECTION
