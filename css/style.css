@@ -4,10 +4,18 @@ body {
 
 .activeDark{
   border-bottom: 2px solid white;
+  -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .activeLight{
   border-bottom: 2px solid black;
+  -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .carousel-item img{
@@ -16,6 +24,12 @@ body {
   opacity: 0.7;
   width: 100%;
   height: 100%;
+}
+
+.carousel-caption img{
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+  opacity: 1;
 }
 
 #home{

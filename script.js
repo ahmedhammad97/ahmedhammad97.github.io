@@ -22,15 +22,39 @@ $(window).scroll(event=>{
 
 
 $(".nav-item").click(event=>{
+  setCursor(event.target);
+});
+
+function setCursor(el){
   if($(document).scrollTop() < 350){
     $(".activeLight").removeClass("activeLight");
-    $(event.target).addClass("activeLight");
+    $(el).addClass("activeLight");
   }
   else{
     $(".activeDark").removeClass("activeDark");
-    $(event.target).addClass("activeDark");
+    $(el).addClass("activeDark");
   }
-});
+}
+
+
+/*let homeTop = $("#Home").offset().top;
+let homeButtom = homeTop + $("#Home").height();
+let aboutTop = $("#About").offset().top;
+let aboutButtom = aboutTop + $("#About").height();
+let skillsTop = $("#Skills").offset().top;
+let skillsButtom = skillsTop + $("#Skills").height();
+let projectsTop = $("#Projects").offset().top;
+let projectsButtom = projectsTop + $("#Projects").height();
+
+
+$(window).scroll(event=>{
+  let x = $(document).scrollTop();
+  if(x < homeButtom){setCursor($(".nav-item")[0]);}
+  else if(x > aboutTop && x <= aboutButtom){setCursor($(".nav-item")[1]);}
+  else if(x > skillsTop && x <= skillsButtom){setCursor($(".nav-item")[2]);}
+  else if(x > projectsTop && x <= projectsButtom){setCursor($(".nav-item")[3]);}
+})*/
+
 //END NAVBAR TOGGLE
 
 
