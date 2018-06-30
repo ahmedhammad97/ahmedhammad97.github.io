@@ -46,7 +46,7 @@ $(document).ready(()=>{
     $(".homeText h2").html("<h2>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h2>");
   }
 
-  let str = ['My name is Ahmed Hammad.','I am an undergraduate in Computer Engineering.','A full-stack developer.','And, a content creator.','Here, you can know all about me.','Come on, take a tour.                           '];
+  let str = ['It\'s so nice of you to come and visit!' ,'My name is Ahmed Hammad.','Here, you can know all about me.','Come on, take a tour.                           '];
   //TxtType($(".homeText h3")[0],str,1500);
 });
 
@@ -90,3 +90,47 @@ var TxtType = function(el, toRotate, period) {
     this.tick();
 };
 //END HOME SECTION
+
+
+
+//SKILLS SECTION
+
+let techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.8);
+let persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
+let setR=false,setB=false;
+
+$(window).scroll(event=>{
+
+
+  if($(document).scrollTop() > techSkillsHeight){progressRadialOn();}
+
+  if($(window).scrollTop() > persSkillsHeight){ProgressBarOn();}
+});
+
+function progressRadialOn(){
+  if(!setR){$(".c100").each((i,el)=>{setTimeout(updateCircle($(el)),100)});}
+  setR=true;
+}
+
+function updateCircle(el){
+  displayProgress($(el).attr("progress"),el);
+}
+
+function displayProgress(p,el){
+  $(el).removeClass("p0");
+  $(el).addClass("p"+p);
+}
+
+function ProgressBarOn(){
+  if(!setB){$(".progress-bar").each((i,el)=>{setTimeout(lonenProgress($(el)),100)});}
+  setB=true;
+}
+
+function lonenProgress(el){
+  var val = $(el).attr("progress") + "%";
+  $(el).attr("style","width: "+val);
+}
+
+
+
+//END SKILLS SECTION

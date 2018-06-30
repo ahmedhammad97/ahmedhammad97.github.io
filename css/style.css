@@ -99,3 +99,49 @@ body {
 #About i{
   font-style: italic;
 }
+
+#About .fas{
+  color: darkgrey;
+}
+
+#About .red{
+  color: red;
+}
+
+.c100{
+  margin-bottom: 30px;
+  background-color: bg-ligh;
+  margin-left: 30px;
+}
+
+.c100 .text-skills{
+  padding-left: 35px;
+  padding-top: 35px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.c100:hover > .text-skills {
+  font-size: 25px;
+  color: #307bbb;
+  padding-left: 20px;
+  padding-top: 30px;
+  text-align:left;
+}
+
+.c100 .bar{
+  -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.progress{
+  height: 30px;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.progress-bar{
+  border-radius: 20px;
+}
