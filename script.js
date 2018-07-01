@@ -1,4 +1,11 @@
+/*$("body").niceScroll({
+  cursorcolor:"white",
+  cursorwidth:"7px"
+});*/
+
+
 //NAVBAR TOGGLE
+
 $(window).scroll(event=>{
   if($(document).scrollTop() < 350){
     $(".navbar").removeClass("navbar-dark");
@@ -22,7 +29,9 @@ $(window).scroll(event=>{
 
 
 $(".nav-item").click(event=>{
+  event.preventDefault();
   setCursor(event.target);
+  scrollToSection(event.target);
 });
 
 function setCursor(el){
@@ -36,24 +45,37 @@ function setCursor(el){
   }
 }
 
+function scrollToSection(nav){
+  let target = $(nav).attr("href");
+  $('html, body').animate({
+    scrollTop : $(target).offset().top
+  },1000);
+}
 
-/*let homeTop = $("#Home").offset().top;
-let homeButtom = homeTop + $("#Home").height();
+
+let homeTop = $("#Home").offset().top;
+let homeBottom = homeTop + $("#Home").height();
 let aboutTop = $("#About").offset().top;
-let aboutButtom = aboutTop + $("#About").height();
+let aboutBottom = aboutTop + $("#About").height();
 let skillsTop = $("#Skills").offset().top;
-let skillsButtom = skillsTop + $("#Skills").height();
+let skillsBottom = skillsTop + $("#Skills").height();
 let projectsTop = $("#Projects").offset().top;
-let projectsButtom = projectsTop + $("#Projects").height();
+let projectsBottom = projectsTop + $("#Projects").height();
+let achTop = $("#Achievments").offset().top;
+let achBottom = achTop + $("#Achievments").height();
+let contactTop = $("#Contact").offset().top;
+let contactBottom = contactTop + $("#Contact").height();
 
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop();
-  if(x < homeButtom){setCursor($(".nav-item")[0]);}
-  else if(x > aboutTop && x <= aboutButtom){setCursor($(".nav-item")[1]);}
-  else if(x > skillsTop && x <= skillsButtom){setCursor($(".nav-item")[2]);}
-  else if(x > projectsTop && x <= projectsButtom){setCursor($(".nav-item")[3]);}
-})*/
+  let x = $(document).scrollTop() + 150;
+  if(x < homeBottom){setCursor($(".nav-item")[0]);}
+  else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
+  else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
+  else if(x > projectsTop && x <= projectsBottom){setCursor($(".nav-item")[3]);}
+  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]);}
+  else if(x > contactTop && x <= contactBottom){setCursor($(".nav-item")[5]);}
+})
 
 //END NAVBAR TOGGLE
 
