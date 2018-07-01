@@ -12,7 +12,7 @@ $(window).scroll(event=>{
     $(".navbar").addClass("navbar-light");
     $(".activeDark").addClass("activeLight");
     $(".activeDark").removeClass("activeDark");
-    $(".navbar-toggler").removeClass("greyBack");
+    $(".navbar-toggler").removeClass("lightGreyBack");
     $(".navbar-toggler").addClass("transBack");
   }
   else{
@@ -20,7 +20,7 @@ $(window).scroll(event=>{
     $(".navbar").addClass("navbar-dark");
     $(".activeLight").addClass("activeDark");
     $(".activeLight").removeClass("activeLight");
-    $(".navbar-toggler").addClass("greyBack");
+    $(".navbar-toggler").addClass("lightGreyBack");
     $(".navbar-toggler").css("borderRadius","20px");
     if($(window).width() < 990){$(".navbar").addClass("transBack");}
     else{$(".navbar").removeClass("transBack");}
@@ -30,7 +30,7 @@ $(window).scroll(event=>{
 
 $(".nav-item").click(event=>{
   event.preventDefault();
-  setCursor(event.target);
+  /*setCursor(event.target);*/
   scrollToSection(event.target);
 });
 
@@ -68,14 +68,24 @@ let contactBottom = contactTop + $("#Contact").height();
 
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop() + 150;
+  let x = $(document).scrollTop() + ($(window).height()*0.25);
   if(x < homeBottom){setCursor($(".nav-item")[0]);}
   else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
   else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
   else if(x > projectsTop && x <= projectsBottom){setCursor($(".nav-item")[3]);}
-  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]);}
-  else if(x > contactTop && x <= contactBottom){setCursor($(".nav-item")[5]);}
+  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]); doMagic();}
+  else if(x > achBottom){setCursor($(".nav-item")[5]);}
 })
+
+
+var magicFlag = false;
+
+function doMagic(){
+  if(magicFlag){return;}
+  $("#Achievments img").removeClass("pre-flipImages");
+  $("#Achievments img").addClass("post-flipImages");
+  magicFlag = true;
+}
 
 //END NAVBAR TOGGLE
 
@@ -85,15 +95,15 @@ $(window).scroll(event=>{
 $(document).ready(()=>{
   let d = new Date();
   if(d.getHours() < 5 || d.getHours() >= 18){
-    $(".homeText h2").html("<h2>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h2>");
+    $(".homeText h1").html("<h1>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h1>");
   }else if(d.getHours() >= 5 && d.getHours() < 12){
-    $(".homeText h2").html("<h2>Good Morning!&nbsp;&nbsp;<i class=\"fas fa-sun\"></i></h2>");
+    $(".homeText h1").html("<h1>Good Morning!&nbsp;&nbsp;<i class=\"fas fa-sun\"></i></h1>");
   }else{
-    $(".homeText h2").html("<h2>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h2>");
+    $(".homeText h1").html("<h1>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h1>");
   }
 
   let str = ['It\'s so nice of you to come and visit!' ,'My name is Ahmed Hammad.','Here, you can know all about me.','Come on, take a tour.                           '];
-  //TxtType($(".homeText h3")[0],str,1500);
+  TxtType($(".homeText h3")[0],str,1500);
 });
 
 
