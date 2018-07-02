@@ -1,12 +1,4 @@
-//SCROLLBAR
-$("body").niceScroll({
-  cursorcolor:"white",
-  cursorwidth:"7px"
-});
-
-
 //NAVBAR TOGGLE
-
 $(window).scroll(event=>{
   if($(document).scrollTop() < 350){
     $(".navbar").removeClass("navbar-dark");
@@ -31,8 +23,8 @@ $(window).scroll(event=>{
 
 $(".nav-item").click(event=>{
   event.preventDefault();
-  /*setCursor(event.target);*/
   scrollToSection(event.target);
+  //setCursor(event.target);
 });
 
 function setCursor(el){
@@ -46,7 +38,7 @@ function setCursor(el){
   }
 }
 
-function scrollToSection(nav){
+function scrollToSection(nav,callback){
   let target = $(nav).attr("href");
   $('html, body').animate({
     scrollTop : $(target).offset().top - 50
@@ -69,25 +61,14 @@ let contactBottom = contactTop + $("#Contact").height();
 
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop() + ($(window).height()*0.35);
+  let x = $(document).scrollTop() + ($(window).height()*0.3);
   if(x < homeBottom){setCursor($(".nav-item")[0]);}
   else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
   else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
   else if(x > projectsTop && x <= projectsBottom){setCursor($(".nav-item")[3]);}
-  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]); doMagic();}
+  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]);}
   else if(x > achBottom){setCursor($(".nav-item")[5]);}
 })
-
-
-var magicFlag = false;
-
-function doMagic(){
-  if(magicFlag){return;}
-  $("#Achievments img").removeClass("pre-flipImages");
-  $("#Achievments img").addClass("post-flipImages");
-  magicFlag = true;
-}
-
 //END NAVBAR TOGGLE
 
 
@@ -151,16 +132,12 @@ var TxtType = function(el, toRotate, period) {
 
 
 //SKILLS SECTION
-
 let techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.6);
 let persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
 let setR=false,setB=false;
 
 $(window).scroll(event=>{
-
-
   if($(document).scrollTop() > techSkillsHeight){progressRadialOn();}
-
   if($(window).scrollTop() > persSkillsHeight){ProgressBarOn();}
 });
 
@@ -187,7 +164,19 @@ function lonenProgress(el){
   var val = $(el).attr("progress") + "%";
   $(el).attr("style","width: "+val);
 }
-
-
-
 //END SKILLS SECTION
+
+//ACHIEVMENTS SECTION
+let achHeight = $("#Achievments").offset().top - ($(window).height()*0.6);
+$(window).scroll(event=>{
+  if($(document).scrollTop() > achHeight){doMagic();}
+});
+
+var magicFlag = false;
+function doMagic(){
+  if(magicFlag){return;}
+  $("#Achievments img").removeClass("pre-flipImages");
+  $("#Achievments img").addClass("post-flipImages");
+  magicFlag = true;
+}
+//END ACHIEVMENTS SECTION

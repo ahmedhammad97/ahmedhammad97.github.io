@@ -5,23 +5,28 @@
     <title>Ahmed Hammad</title>
     <link rel="icon" href="images/rubiks.ico">
     <script type="text/javascript" src="resources/jquery-3.3.1.min.js"></script>
-    <script type="text/javascript" src="curtains.js"></script>
+
+    <script type="text/javascript">
+    $(window).on("load",()=>{
+      $(".curtain").fadeOut(1000);
+    });
+    </script>
+    
     <link href="https://fonts.googleapis.com/css?family=Itim|Josefin+Sans|Kalam|Merienda+One|Montserrat|Poppins" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <link rel="stylesheet" href="css/circle.css">
-    <link rel="stylesheet" href="resources/bootstrap.css">
+    <link rel="stylesheet" href="resources/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-edits.css">
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
 
     <!-- CURTAINS SECTION -->
-
         <section class="curtain">
           <img src="images/rubiks.png" alt="LOADING">
         </section>
-
     <!-- END CURTAINS SECTION -->
+
 
     <!-- NAVIGATION BAR -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
@@ -42,9 +47,9 @@
     </nav>
     <!-- END NAVIGATION BAR -->
 
+
     <!-- HOME SECTION -->
     <section id="Home" class="container">
-
       <center><div class="homeText">
         <h1></h1>
         <h3></h3>
@@ -71,89 +76,83 @@
     </section>
     <!-- END HOME SECTION -->
 
+
     <!--ABOUT ME SECTION -->
     <section id="About" class="container">
       <div class="row">
-        <div class="col col-12 col-md-4">
+        <div class="col col-12 col-lg-4">
             <center>
               <img src="images/me.jpg" alt="My face">
             </center>
         </div>
-        <div class="col col-sm-12 col-md-8">
+        <div class="col col-12 col-lg-8">
             <ul>
               <li>They say &nbsp<i class="fas fa-quote-left"></i>&nbsp<i>Strangers are just friends waiting to happen.&nbsp</i><i class="fas fa-quote-right"></i></li>
               <li>&nbsp</li>
               <li>I was born in <i>Alexandria, Egypt.</i> Living there since then.</li>
               <li>I am a fourth year student at Alexandria university, majoring Computer Engineering.</li>
-              <li>I have a huge passion for Computer science, specially Algorithms and Data structures' design and analysis.</li>
+              <li>I have a huge passion for Computer science, specially Algorithms and Data structures'.</li>
               <li>I like to concider my self a full-stack software Engineer, as I built many projects' both ends.</li>
               <li>I am a digital content creator, mainly on Youtube platform.</li>
               <li>Music, Coffee, Sea side, Tennis, and Books, are the joy of my life. </li>
               <li>&nbsp</li>
               <li><i>Now, we are strangers no more. Follow up, friend</i>.&nbsp<i class="fas fa-heart red"></i></li>
             </ul>
-
         </div>
       </div>
     </section>
-
     <!-- END ABOUT ME SECTION -->
 
 
     <!-- SKILLS SECTION -->
       <section id="Skills" class="container darkGreyBack">
         <h2>Technical Skills:</h2>
-
         <div class="row tech-skills">
-          <!--d-flex justify-content-center-->
 
-          <div class="col"><div progress="90" class="c100 p0 medium jsColor"><span><i class="fab fa-js"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="90" class="c100 p0 medium jsColor"><span><i class="fab fa-js"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="85" class="c100 p0 medium cColor"><span class="text-skills">&nbsp&nbsp&nbspC/C++</span>
+          <div class="col col-md-4 col-xl-2"><div progress="85" class="c100 p0 medium cColor"><span class="text-skills">&nbsp&nbsp&nbspC/C++</span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="90" class="c100 p0 medium javaColor"><span><i class="fab fa-java"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="90" class="c100 p0 medium javaColor"><span><i class="fab fa-java"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="85" class="c100 p0 medium htmlColor"><span><i class="fab fa-html5"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="85" class="c100 p0 medium htmlColor"><span><i class="fab fa-html5"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="75" class="c100 p0 medium cssColor"><span><i class="fab fa-css3-alt"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="75" class="c100 p0 medium cssColor"><span><i class="fab fa-css3-alt"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="60" class="c100 p0 medium nodeColor"><span><i class="fab fa-node"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="60" class="c100 p0 medium nodeColor"><span><i class="fab fa-node"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="85" class="c100 p0 medium jqueryColor"><span class="text-skills">&nbsp&nbspJQuery</span>
+          <div class="col col-md-4 col-xl-2"><div progress="85" class="c100 p0 medium jqueryColor"><span class="text-skills">&nbsp&nbspJQuery</span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="75" class="c100 p0 medium bootColor"><span class="text-skills">Bootstrap</span>
+          <div class="col col-md-4 col-xl-2"><div progress="75" class="c100 p0 medium bootColor"><span class="text-skills">Bootstrap</span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="60" class="c100 p0 medium mongoColor"><span class="text-skills">MongoDB</span>
+          <div class="col col-md-4 col-xl-2"><div progress="60" class="c100 p0 medium mongoColor"><span class="text-skills">MongoDB</span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="65" class="c100 p0 medium mysqlColor"><span class="text-skills">&nbsp&nbspMySQL</span>
+          <div class="col col-md-4 col-xl-2"><div progress="65" class="c100 p0 medium mysqlColor"><span class="text-skills">&nbsp&nbspMySQL</span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="75" class="c100 p0 medium gitColor"><span><i class="fab fa-git"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="75" class="c100 p0 medium gitColor"><span><i class="fab fa-git"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
-          <div class="col"><div progress="60" class="c100 p0 medium linuxColor"><span><i class="fab fa-linux"></i></span>
+          <div class="col col-md-4 col-xl-2"><div progress="60" class="c100 p0 medium linuxColor"><span><i class="fab fa-linux"></i></span>
           <div class="slice"><div class="bar"></div><div class="fill"></div></div></div></div>
 
         </div>
 
+
         <h2>Personal Skills:</h2>
 
         <div class="row pers-skills">
-
-            <div class="col col-0 col-sm-0 col-md-1">
-
-            </div>
-
-            <div class="col col-12 col-sm-12 col-md-10">
+            <div class="col col-0 col-sm-0 col-lg-1"></div>
+            <div class="col col-12 col-sm-12 col-lg-10">
 
               <div class="progress">
                 <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" progress="87" role="progressbar" style="width: 5%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">English Language</div>
@@ -177,10 +176,7 @@
 
               </div>
 
-            <div class="col col-0 col-sm-0 col-md-1">
-
-            </div>
-
+            <div class="col col-0 col-sm-0 col-lg-1"></div>
         </div>
       </section>
       <!-- END SKILLS SECTION -->
@@ -188,7 +184,6 @@
 
 
       <!-- PROJECTS SECTION -->
-
         <section id="Projects" class="container">
           <h2>Projects</h2>
           <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
@@ -216,7 +211,7 @@
                 <div class="carousel-caption">
                   <div class="d-none d-md-block"><img src="images/maze.jpg" alt="Game Image"></div>
                   <h5>Maze Runner</h5>
-                  <p>A stuck a player, who tries to reach the end of the maze, while collecting gifts, avoiding getting lost between walls, and killing monsters. Enhanced by Multi-threading, MVC, and many design useful patterns</p>
+                  <p>A stuck a player, who tries to reach the end of the maze, while collecting gifts, avoiding getting lost between walls, and killing monsters. Enhanced by Multi-threading, MVC, and many useful design patterns</p>
                   <a href="https://github.com/ahmedhammad97/Javafx-Maze-Runner" role="button"><i class="fab fa-github"></i></a>
                 </div>
               </div>
@@ -253,18 +248,15 @@
           </div>
 
         </section>
-
-
     <!-- END PROJECTS SECTION -->
 
 
     <!-- ACHIEVMENTS SECTION -->
-
         <section id="Achievments" class="container">
               <h2>Achievments</h2>
               <div class="row">
 
-                <div class="col-12 col-md-6 vr-rule-dark">
+                <div class="col-12 col-lg-6 vr-rule-dark">
 
                   <div class="row">
 
@@ -280,7 +272,7 @@
 
                 </div>
 
-                <div class="col-12 col-md-6 vr-rule-dark">
+                <div class="col-12 col-lg-6 vr-rule-dark">
 
                   <div class="row">
 
@@ -298,12 +290,12 @@
 
               </div>
         </section>
-
     <!-- END ACHIEVMENTS SECTION -->
+
 
     <!-- CONTACT SECTION -->
 
-      <section id="Contact" class="container darkGreyBack">
+      <section id="Contact" class="container darkGreyBack" style="height:450px;">
         <h2>Contact me</h2>
 
         <center>
@@ -320,22 +312,15 @@
             <a role="button" href="https://www.instagram.com/ahmedhammad97"><i class="fab fa-instagram"></i></a>&nbsp&nbsp&nbsp
             <a role="button" href="https://www.snapchat.com/add/ahmedhammad97"><i class="fab fa-snapchat-square"></i></a>&nbsp&nbsp&nbsp
           </div>
-
           <hr style="width:50%;" /><br>
-
           <span>All copyrights reserved <i class="far fa-copyright"></i> 2018.</span><br><br>
-
-
-
-        </center>
+          </center>
 
 
       </section>
-
     <!-- END CONTACT SECTION -->
 
     <script type="text/javascript" src="resources/bootstrap.min.js"></script>
-    <script type="text/javascript" src="resources/jquery.nicescroll.min.js"></script>
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
