@@ -1,7 +1,8 @@
-/*$("body").niceScroll({
+//SCROLLBAR
+$("body").niceScroll({
   cursorcolor:"white",
   cursorwidth:"7px"
-});*/
+});
 
 
 //NAVBAR TOGGLE
@@ -48,7 +49,7 @@ function setCursor(el){
 function scrollToSection(nav){
   let target = $(nav).attr("href");
   $('html, body').animate({
-    scrollTop : $(target).offset().top
+    scrollTop : $(target).offset().top - 50
   },1000);
 }
 
@@ -68,7 +69,7 @@ let contactBottom = contactTop + $("#Contact").height();
 
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop() + ($(window).height()*0.25);
+  let x = $(document).scrollTop() + ($(window).height()*0.35);
   if(x < homeBottom){setCursor($(".nav-item")[0]);}
   else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
   else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
@@ -151,7 +152,7 @@ var TxtType = function(el, toRotate, period) {
 
 //SKILLS SECTION
 
-let techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.8);
+let techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.6);
 let persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
 let setR=false,setB=false;
 

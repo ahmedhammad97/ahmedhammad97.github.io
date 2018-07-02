@@ -10,9 +10,12 @@
   background-color: transparent;
 }
 
+@media screen and (max-width: 1235px){
 .navbar-collapse{
     background-color: white;
 }
+}
+
 
 .navbar .navbar-nav{
   float: none;
