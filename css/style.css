@@ -304,6 +304,30 @@ h2{
   font-family: 'Poppins', sans-serif;
 }
 
+#Achievments .problem-solving{
+  padding-top: 30px;
+}
+
+#Achievments .problem-solving a{
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: #212529;
+  font-size: 17px;
+  background-color: lightgrey;
+  border-radius: 20px;
+  padding: 8px;
+  font-family: 'Kalam', cursive;
+}
+
+#Achievments .problem-solving a:hover{
+  color: white;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
 
 #Contact a{
   font-size: 30px;
