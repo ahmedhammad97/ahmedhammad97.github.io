@@ -30,7 +30,7 @@ body {
 }
 
 h2{
-  font-size: 25px;
+  font-size: 28px;
   color: #2b2b2b;
   border-right: 1.5px dashed #2b2b2b;
   border-bottom: 1.5px dashed #2b2b2b;
@@ -88,27 +88,27 @@ h2{
 
 .homeText h3,h1{
   padding: 20px;
-  color: white;
 }
 
 .homeText h1{
   font-size: 70px;
   font-family: 'Itim', cursive;
+  color: white;
 }
 
 .homeText h3{
-  font-size: 35px;
+  font-size: 38px;
   font-family: 'Kalam', cursive;
   color: rgba(255,255,255,0.85);
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1239px) {
   .homeText h1{
-    font-size: 35px;
+    font-size: 75px;
   }
 
   .homeText h3{
-    font-size: 18px;
+    font-size: 38px;
   }
 }
 
@@ -156,7 +156,13 @@ h2{
   list-style: none;
   text-align: justify;
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 1239px) {
+  #About li{
+    font-size: 22px;
+  }
 }
 
 #About i{
@@ -198,10 +204,10 @@ h2{
 }
 
 .c100 .bar{
-  -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+  -webkit-transition: all 1.5s ease-in-out;
+    -moz-transition: all 1.5s ease-in-out;
+    -o-transition: all 1.5s ease-in-out;
+    transition: all 1.5s ease-in-out;
 }
 
 .pers-skills{
@@ -289,7 +295,7 @@ h2{
 }
 
 #Achievments .vr-rule-dark{
-  border-left: 3px groove darkgrey;
+  border-left: 2px solid darkgrey;
 }
 
 #Achievments p{
@@ -316,7 +322,7 @@ h2{
 }
 
 #Contact a :hover{
-  color: black;
+  color: #f9f9f9;
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
