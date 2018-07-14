@@ -62,12 +62,12 @@ let contactBottom = contactTop + $("#Contact").height();
 
 $(window).scroll(event=>{
   let x = $(document).scrollTop() + ($(window).height()*0.3);
-  if(x < homeBottom){setCursor($(".nav-item")[0]);}
+  if($('body').height() <= ($(window).height() + $(window).scrollTop()) + 50 ){setCursor($(".nav-item")[5]);}
+  else if(x < homeBottom){setCursor($(".nav-item")[0]);}
   else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
   else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
   else if(x > projectsTop && x <= projectsBottom){setCursor($(".nav-item")[3]);}
   else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]);}
-  else if(x > achBottom){setCursor($(".nav-item")[5]);}
 })
 //END NAVBAR TOGGLE
 
