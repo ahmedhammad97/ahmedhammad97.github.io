@@ -161,7 +161,7 @@ h2{
 
 @media screen and (max-width: 1239px) {
   #About li{
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -256,6 +256,14 @@ h2{
     color: black;
     font-size: 25px;
 }
+
+#Projects .carousel-inner{
+    background-image: url('../images/project.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 @media screen and (max-width: 900px) {
   .carousel-caption img{
     width: 50%;
