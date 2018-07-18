@@ -1,3 +1,8 @@
+//PLACEHOLDER
+let dummyHeight = $('#About').offset().top;
+$('#placeholder').css('height',dummyHeight);
+$('#Home').css('position','fixed');
+
 //NAVBAR TOGGLE
 $(window).scroll(event=>{
   if($(document).scrollTop() < 350){
