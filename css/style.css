@@ -73,6 +73,7 @@ h2{
 }
 
 #Home{
+  position: fixed;
   z-index: -2;
   top: 0;
 }
@@ -123,13 +124,6 @@ h2{
 
 .darkGreyBack{
   background-color: #2b2b2b;
-}
-
-#placeholder{
-    width: 100px;
-    background-color: transparent;
-    z-index: -10;
-    position: static;
 }
 
 #About img{
