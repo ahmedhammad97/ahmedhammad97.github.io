@@ -79,7 +79,7 @@ h2{
 
 .homeText{
   position: absolute;
-  z-index: 1000;
+  z-index: 10;
   text-align: center;
   left: 0;
   right: 0;
@@ -234,7 +234,7 @@ h2{
 }
 
 #Projects h2{
-  z-index: 200;
+  z-index: 60;
   position: absolute;
   color: white;
   border-color: white;
@@ -294,6 +294,7 @@ h2{
 
 #Achievments img{
   border: 2px solid white;
+  z-index: 700;
 }
 
 .pre-flipImages{
