@@ -1,7 +1,14 @@
+//CURTAINS
+$(window).on('load', function(){
+  $('.curtain').fadeOut(1000);
+});
+
 //PLACEHOLDER
-let dummyHeight = $('#About').offset().top;
-$('#placeholder').css('height',dummyHeight);
-$('#Home').css('position','fixed');
+$(window).on('load', function(){
+let dummyHeight = $('#Home .carousel').css('height');
+$('#About').css('margin-top',dummyHeight);
+});
+
 
 //NAVBAR TOGGLE
 $(window).scroll(event=>{
