@@ -88,7 +88,7 @@ $(window).scroll(event=>{
 
 
 //HOME SECTION
-$(document).ready(()=>{
+$(window).on('load', function(){
   let d = new Date();
   if(d.getHours() < 5 || d.getHours() >= 18){
     $(".homeText h1").html("<h1>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h1>");
