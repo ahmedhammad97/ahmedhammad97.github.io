@@ -1,13 +1,6 @@
-//CURTAINS
-$(window).on('load', function(){
-  $('.curtain').fadeOut(1000);
-});
-
-//PLACEHOLDER
-$(window).on('load', function(){
 let dummyHeight = $('#Home .carousel').css('height');
 $('#About').css('margin-top',dummyHeight);
-});
+
 
 
 //NAVBAR TOGGLE
@@ -52,43 +45,31 @@ function setCursor(el){
   }
 }
 
-function scrollToSection(nav,callback){
+function scrollToSection(nav){
   let target = $(nav).attr("href");
   $('html, body').animate({
     scrollTop : $(target).offset().top - 50
   },1000);
-}
+};
 
-
-let homeTop = $("#Home").offset().top;
-let homeBottom = homeTop + $("#Home").height();
-let aboutTop = $("#About").offset().top;
-let aboutBottom = aboutTop + $("#About").height();
-let skillsTop = $("#Skills").offset().top;
-let skillsBottom = skillsTop + $("#Skills").height();
-let projectsTop = $("#Projects").offset().top;
-let projectsBottom = projectsTop + $("#Projects").height();
-let achTop = $("#Achievments").offset().top;
-let achBottom = achTop + $("#Achievments").height();
-let contactTop = $("#Contact").offset().top;
-let contactBottom = contactTop + $("#Contact").height();
-
+let aboutCenter = $('#About').offset().top + $('#About').height() / 2;
+let skillsCenter = $('#Skills').offset().top + $('#Skills').height() / 2;
+let projectsCenter = $('#Projects').offset().top + $('#Projects').height() / 2;
+let achCenter = $('#Achievments').offset().top + $('#Achievments').height() / 2;
+let contactCenter = $('#Contact').offset().top + $('#Contact').height() / 2;
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop() + ($(window).height()*0.3);
-  if($('body').height() <= ($(window).height() + $(window).scrollTop()) + 50 ){setCursor($(".nav-item")[5]);}
-  else if(x < homeBottom){setCursor($(".nav-item")[0]);}
-  else if(x > aboutTop && x <= aboutBottom){setCursor($(".nav-item")[1]);}
-  else if(x > skillsTop && x <= skillsBottom){setCursor($(".nav-item")[2]);}
-  else if(x > projectsTop && x <= projectsBottom){setCursor($(".nav-item")[3]);}
-  else if(x > achTop && x <= achBottom){setCursor($(".nav-item")[4]);}
+  let x = $(document).scrollTop() + ($(window).height()*0.7);
+  if(x <= aboutCenter){$(".activeLight").removeClass("activeLight"); $(".activeDark").removeClass("activeDark");}
+  else if($(document).height() <= ($(window).height() + $(window).scrollTop()) + 50 ){setCursor($(".nav-item")[4]);}
+  else if(x > aboutCenter && x <= skillsCenter){setCursor($(".nav-item")[0]);}
+  else if(x > skillsCenter && x <= projectsCenter){setCursor($(".nav-item")[1]); console.log("skills");}
+  else if(x > projectsCenter && x <= achCenter){setCursor($(".nav-item")[2]); console.log("proj");}
+  else if(x > achCenter && x <= contactCenter){setCursor($(".nav-item")[3]); console.log("ach");}
 })
 //END NAVBAR TOGGLE
 
-
-
 //HOME SECTION
-$(window).on('load', function(){
   let d = new Date();
   if(d.getHours() < 5 || d.getHours() >= 18){
     $(".homeText h1").html("<h1>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h1>");
@@ -99,8 +80,10 @@ $(window).on('load', function(){
   }
 
   let str = ['It\'s so nice of you to come and visit!' ,'My name is Ahmed Hammad.','Here, you can know all about me.','Come on, take a tour.                           '];
-  TxtType($(".homeText h3")[0],str,1500);
-});
+
+  $(window).on('load', function(){
+    TxtType($(".homeText h3")[0],str,1500);
+  });
 
 
 //CREDIT TO CSS TRICKS.
