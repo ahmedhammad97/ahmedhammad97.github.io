@@ -648,3 +648,19 @@
 .c100.linuxColor:hover > span {
   color: #f4af00;
 }
+
+.c100.vueColor .bar,
+.c100.vueColor .fill {
+  border-color: #00c380 !important;
+}
+.c100.vueColor:hover > span {
+  color: #00c380;
+}
+
+.c100.vuexColor .bar,
+.c100.vuexColor .fill {
+  border-color: #2D2F38 !important;
+}
+.c100.vuexColor:hover > span {
+  color: #2D2F38;
+}

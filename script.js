@@ -162,18 +162,3 @@ function lonenProgress(el){
   $(el).attr("style","width: "+val);
 }
 //END SKILLS SECTION
-
-//ACHIEVMENTS SECTION
-let achHeight = $("#Achievments").offset().top - ($(window).height()*0.6);
-$(window).scroll(event=>{
-  if($(document).scrollTop() > achHeight){doMagic();}
-});
-
-var magicFlag = false;
-function doMagic(){
-  if(magicFlag){return;}
-  $("#Achievments img").removeClass("pre-flipImages");
-  $("#Achievments img").addClass("post-flipImages");
-  magicFlag = true;
-}
-//END ACHIEVMENTS SECTION
