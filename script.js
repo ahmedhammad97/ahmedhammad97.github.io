@@ -1,6 +1,7 @@
 let dummyHeight = $('#Home .carousel').css('height');
-$('#About').css('margin-top',dummyHeight);
-
+dummyHeight = dummyHeight.substring(0, dummyHeight.length - 2);
+let windowHeight = $(window).height();
+$('#About').css('margin-top', Math.min(+dummyHeight, +windowHeight) + 'px' );
 
 
 //NAVBAR TOGGLE
@@ -21,7 +22,7 @@ $(window).scroll(event=>{
     $(".activeLight").addClass("activeDark");
     $(".activeLight").removeClass("activeLight");
     $(".navbar-toggler").addClass("lightGreyBack");
-    $(".navbar-toggler").css("borderRadius","20px");
+    $(".navbar-toggler").css("borderRadius","40px");
     if($(window).width() < 991.98){$(".navbar").addClass("transBack");}
     else{$(".navbar").removeClass("transBack");}
   }
@@ -59,13 +60,13 @@ let achCenter = $('#Achievments').offset().top + $('#Achievments').height() / 2;
 let contactCenter = $('#Contact').offset().top + $('#Contact').height() / 2;
 
 $(window).scroll(event=>{
-  let x = $(document).scrollTop() + ($(window).height()*0.7);
+  let x = $(document).scrollTop() + 200;
   if(x <= aboutCenter){$(".activeLight").removeClass("activeLight"); $(".activeDark").removeClass("activeDark");}
   else if($(document).height() <= ($(window).height() + $(window).scrollTop()) + 50 ){setCursor($(".nav-item")[4]);}
   else if(x > aboutCenter && x <= skillsCenter){setCursor($(".nav-item")[0]);}
-  else if(x > skillsCenter && x <= projectsCenter){setCursor($(".nav-item")[1]); console.log("skills");}
-  else if(x > projectsCenter && x <= achCenter){setCursor($(".nav-item")[2]); console.log("proj");}
-  else if(x > achCenter && x <= contactCenter){setCursor($(".nav-item")[3]); console.log("ach");}
+  else if(x > skillsCenter && x <= projectsCenter){setCursor($(".nav-item")[1]);}
+  else if(x > projectsCenter && x <= achCenter){setCursor($(".nav-item")[2]);}
+  else if(x > achCenter && x <= contactCenter){setCursor($(".nav-item")[3]);}
 })
 //END NAVBAR TOGGLE
 
@@ -162,3 +163,12 @@ function lonenProgress(el){
   $(el).attr("style","width: "+val);
 }
 //END SKILLS SECTION
+
+
+//TEST
+if($('#Home .carousel').css('height') === 0){
+  let dummyHeight = $('#Home .carousel').css('height');
+  dummyHeight = dummyHeight.substring(0, dummyHeight.length - 2);
+  let windowHeight = $(window).height();
+  $('#About').css('margin-top', Math.min(+dummyHeight, +windowHeight) + 'px' );
+}

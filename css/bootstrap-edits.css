@@ -10,6 +10,10 @@
   background-color: transparent;
 }
 
+.navbar-toggler-icon{
+  padding: 30px !important;
+}
+
 @media screen and (max-width: 991.98px){
   .navbar-collapse{
       background-color: white;
