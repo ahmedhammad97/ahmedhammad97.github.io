@@ -664,3 +664,11 @@
 .c100.vuexColor:hover > span {
   color: #2D2F38;
 }
+
+.c100.pythonColor .bar,
+.c100.pythonColor .fill {
+  border-color: #253F62 !important;
+}
+.c100.pythonColor:hover > span {
+  color: ##253F62;
+}
