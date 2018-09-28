@@ -32,19 +32,7 @@ $(window).scroll(event=>{
 $(".nav-item").click(event=>{
   event.preventDefault();
   scrollToSection(event.target);
-  //setCursor(event.target);
 });
-
-function setCursor(el){
-  if($(document).scrollTop() < 350){
-    $(".activeLight").removeClass("activeLight");
-    $(el).addClass("activeLight");
-  }
-  else{
-    $(".activeDark").removeClass("activeDark");
-    $(el).addClass("activeDark");
-  }
-}
 
 function scrollToSection(nav){
   let target = $(nav).attr("href");
@@ -52,22 +40,6 @@ function scrollToSection(nav){
     scrollTop : $(target).offset().top - 50
   },1000);
 };
-
-let aboutCenter = $('#About').offset().top + $('#About').height() / 2;
-let skillsCenter = $('#Skills').offset().top + $('#Skills').height() / 2;
-let projectsCenter = $('#Projects').offset().top + $('#Projects').height() / 2;
-let achCenter = $('#Achievments').offset().top + $('#Achievments').height() / 2;
-let contactCenter = $('#Contact').offset().top + $('#Contact').height() / 2;
-
-$(window).scroll(event=>{
-  let x = $(document).scrollTop() + 200;
-  if(x <= aboutCenter){$(".activeLight").removeClass("activeLight"); $(".activeDark").removeClass("activeDark");}
-  else if($(document).height() <= ($(window).height() + $(window).scrollTop()) + 50 ){setCursor($(".nav-item")[4]);}
-  else if(x > aboutCenter && x <= skillsCenter){setCursor($(".nav-item")[0]);}
-  else if(x > skillsCenter && x <= projectsCenter){setCursor($(".nav-item")[1]);}
-  else if(x > projectsCenter && x <= achCenter){setCursor($(".nav-item")[2]);}
-  else if(x > achCenter && x <= contactCenter){setCursor($(".nav-item")[3]);}
-})
 //END NAVBAR TOGGLE
 
 //HOME SECTION
