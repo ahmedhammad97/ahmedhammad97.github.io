@@ -1,8 +1,10 @@
-let dummyHeight = $('#Home .carousel').css('height');
-dummyHeight = dummyHeight.substring(0, dummyHeight.length - 2);
-let windowHeight = $(window).height();
-$('#About').css('margin-top', Math.min(+dummyHeight, +windowHeight) + 'px' );
-
+//ABOUT SECTION TOP MARGIN
+$(window).on('load', ()=>{
+  let dummyHeight = $('#Home .carousel').css('height');
+  dummyHeight = dummyHeight.substring(0, dummyHeight.length - 2);
+  let windowHeight = $(window).height();
+  $('#About').css('margin-top', Math.min(+dummyHeight, +windowHeight) + 'px' );
+})
 
 //NAVBAR TOGGLE
 $(window).scroll(event=>{
@@ -135,12 +137,3 @@ function lonenProgress(el){
   $(el).attr("style","width: "+val);
 }
 //END SKILLS SECTION
-
-
-//TEST
-if($('#Home .carousel').css('height') === 0){
-  let dummyHeight = $('#Home .carousel').css('height');
-  dummyHeight = dummyHeight.substring(0, dummyHeight.length - 2);
-  let windowHeight = $(window).height();
-  $('#About').css('margin-top', Math.min(+dummyHeight, +windowHeight) + 'px' );
-}
