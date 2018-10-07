@@ -104,9 +104,15 @@ var TxtType = function(el, toRotate, period) {
 
 
 //SKILLS SECTION
-let techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.6);
-let persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
-let setR=false,setB=false;
+
+var techSkillsHeight, persSkillsHeight, setR, setB;
+
+$(window).on('load', ()=>{
+  techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.6);
+  persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
+  setR=false;
+  setB=false;
+})
 
 $(window).scroll(event=>{
   if($(document).scrollTop() > techSkillsHeight){progressRadialOn();}
