@@ -670,5 +670,21 @@
   border-color: #253F62 !important;
 }
 .c100.pythonColor:hover > span {
-  color: ##253F62;
+  color: #253F62;
+}
+
+.c100.djangoColor .bar,
+.c100.djangoColor .fill {
+  border-color: #3F695A !important;
+}
+.c100.djangoColor:hover > span {
+  color: #3F695A;
+}
+
+.c100.djangoColor .bar,
+.c100.djangoColor .fill {
+  border-color: #7A6BAA !important;
+}
+.c100.djangoColor:hover > span {
+  color: #7A6BAA;
 }
