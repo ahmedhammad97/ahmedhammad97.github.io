@@ -143,3 +143,19 @@ function lonenProgress(el){
   $(el).attr("style","width: "+val);
 }
 //END SKILLS SECTION
+
+//EXPERIENCE SECTION
+$(window).on('load', ()=>{
+  setInterval(()=>{
+    let src = $('#courseImg').attr('src');
+    let num = src[src.length - 5];
+    let newNum = +(num) + 1;
+    if(newNum==4) newNum = 1;
+    $('#courseImg').animate({opacity: '0.5'}, 100, ()=>{
+      setTimeout(()=>{
+        $('#courseImg').attr('src', 'images/course' + newNum + '.jpg');
+        $('#courseImg').animate({opacity: '0.9'}, 100)
+      } ,300);
+    })
+  },5000)
+})
