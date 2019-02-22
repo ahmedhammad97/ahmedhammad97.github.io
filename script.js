@@ -54,7 +54,10 @@ function scrollToSection(nav){
     $(".homeText h1").html("<h1>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h1>");
   }
 
-  let str = ['It\'s so nice of you to come and visit!' ,'My name is Ahmed Hammad.','Here, you can know all about me.','Come on, take a tour.                           '];
+  let str = [ 'It\'s so nice of you to come and visit!',
+              'My name is Ahmed Hammad',
+              'Here, you can know all about me',
+              'Come on, take a tour...                           '];
 
   $(window).on('load', function(){
     TxtType($(".homeText h3")[0],str,1500);
