@@ -162,3 +162,7 @@ $(window).on('load', ()=>{
     })
   },5000)
 })
+
+//LAZY LOADING
+const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
