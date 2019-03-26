@@ -681,10 +681,10 @@
   color: #3F695A;
 }
 
-.c100.testColor .bar,
-.c100.testColor .fill {
-  border-color: #7A6BAA !important;
+.c100.goColor .bar,
+.c100.goColor .fill {
+  border-color: #74CDDD !important;
 }
-.c100.testColor:hover > span {
-  color: #7A6BAA;
+.c100.goColor:hover > span {
+  color: #74CDDD;
 }
