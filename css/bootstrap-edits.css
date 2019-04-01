@@ -4,37 +4,23 @@
   cursor: pointer;
   font-family: 'Montserrat', sans-serif;
 }
-
 .navbar-toggler{
   border: none;
   background-color: transparent;
 }
-
-.navbar-toggler-icon{
-  padding: 30px !important;
-}
-
+.navbar-toggler-icon{padding: 30px !important;}
 @media screen and (max-width: 992px){
-  .navbar-collapse{
-      background-color: white;
-  }
+  .navbar-collapse{background-color: white;}
 }
-
-
 .navbar .navbar-nav{
   float: none;
   margin: 0 auto;
 }
-
 .navbar-brand{
   padding: 0;
   margin: 0;
 }
-
-.navbar-light{
-  background-color: transparent;
-}
-
+.navbar-light{background-color: transparent;}
 .navbar-dark{
   background-color: white;
   opacity: 0.8;
@@ -42,69 +28,52 @@
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
 }
-
 @media screen and (max-width: 992px) {
-  .navbar-dark{
-    margin-top: 0px;
-  }
+  .navbar-dark{margin-top: 0px;}
 }
-
 .navbar-dark:hover{
   opacity: 1;
   margin-top: 0px;
 }
-
-
 .navbar-light .navbar-nav .nav-link{
   color : black;
 }
-
 .navbar-dark .navbar-nav .nav-link{
   color: #2b2b2b;
 }
-
 .navbar-dark .navbar-nav .nav-link:hover {
   transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   color: darkgrey;
 }
-
 .navbar-dark .navbar-nav .nav-link:focus {
   color: #2b2b2b;
 }
-
 .navbar-light .navbar-nav .nav-link:hover {
   transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   color: rgba(0,0,0,0.7);
 }
-
 .navbar-light .navbar-nav .nav-link:focus {
   color: black;
 }
-
-
 .container{
   margin: 0;
   padding: 0;
   min-height: 100%;
   min-width: 100%;
 }
-
 .carousel-inner{
     background-color: black;
     height: 100%;
 }
-
 .carousel{
   min-width: 100%;
   position: relative;
 }
-
 .row{
   margin: auto;
 }
-
 .progress-bar{
   -webkit-transition: width 1s ease-in-out;
     -moz-transition: width 1s ease-in-out;
