@@ -112,14 +112,11 @@ var techSkillsHeight, persSkillsHeight, setR, setB;
 
 $(window).on('load', ()=>{
   techSkillsHeight = $(".tech-skills:first").offset().top - ($(window).height()*0.6);
-  persSkillsHeight = $(".pers-skills:first").offset().top - ($(window).height()*0.8);
   setR=false;
-  setB=false;
 })
 
 $(window).scroll(event=>{
   if($(document).scrollTop() > techSkillsHeight){progressRadialOn();}
-  if($(window).scrollTop() > persSkillsHeight){ProgressBarOn();}
 });
 
 function progressRadialOn(){
@@ -134,11 +131,6 @@ function updateCircle(el){
 function displayProgress(p,el){
   $(el).removeClass("p0");
   $(el).addClass("p"+p);
-}
-
-function ProgressBarOn(){
-  if(!setB){$(".progress-bar").each((i,el)=>{setTimeout(lonenProgress($(el)),100)});}
-  setB=true;
 }
 
 function lonenProgress(el){
