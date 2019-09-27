@@ -125,7 +125,7 @@ h2{
 }
 
 #About{
-  background-color: #2b2b2b;
+  background-color: lightgrey;
 }
 
 #About img{
@@ -152,7 +152,7 @@ h2{
   margin: auto;
   margin-top: 5%;
   margin-bottom: 5%;
-  color: lightgrey;
+  color: #2b2b2b;
 }
 
 #About li{
@@ -338,8 +338,10 @@ h2{
 
 .post-flipImages{
   width: 65%;
+  max-width: 300px;
   opacity: 0.9;
   transition: all 0.5s ease-in-out;
+  margin-left: 20%;
 }
 
 .post-flipImages:hover{
