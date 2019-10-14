@@ -142,3 +142,7 @@ function lonenProgress(el){
 //LAZY LOADING
 const observer = lozad(); // lazy loads elements with default selector as '.lozad'
 observer.observe();
+
+// COPYRIGHTS
+const yearSpan = document.querySelector('#year');
+yearSpan.innerText = new Date().getFullYear();
