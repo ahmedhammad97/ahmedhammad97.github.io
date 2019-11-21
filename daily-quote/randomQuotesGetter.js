@@ -4,7 +4,7 @@ const author = document.querySelector("#author");
 const another = document.querySelector("#another");
 const random = document.querySelector("#random");
 
-var partNumber = Math.floor(Math.random() * 7335) + 1;
+var partNumber = Math.floor(Math.random() * 999) + 1;
 
 let scriptTag = document.createElement('script');
 scriptTag.src = "./quotes/part-" + partNumber + ".js";
