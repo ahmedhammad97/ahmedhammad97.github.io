@@ -1,0 +1,1 @@
+var author6492 = "The Bridge (2006 documentary film)", quotes6492 = ["The rail is so low, a 7-year-old can climb over it. — director Eric Steel"]

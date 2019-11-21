@@ -1,0 +1,1 @@
+var author4083 = "Leonard D. White", quotes4083 = ["Any system of public administration inevitably reflects its environment.","You cannot give an official power to do right without at the same time giving him power to do wrong."]

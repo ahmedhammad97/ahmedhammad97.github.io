@@ -1,0 +1,1 @@
+var author6714 = "Tinker Sawyer", quotes6714 = ["Technology is our friend.","I'll be in Hell for breakfast.","Get the meat!","Peace brother! Shalom! Hail!","We have the means! We have the machines!","You have to ass-ume re-sponsibility for your own life!"]

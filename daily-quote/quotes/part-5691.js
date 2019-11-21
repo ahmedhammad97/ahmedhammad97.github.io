@@ -1,0 +1,1 @@
+var author5691 = "Riiko Sakkinen", quotes5691 = ["I paint what you love to hate and what you hate to love."]

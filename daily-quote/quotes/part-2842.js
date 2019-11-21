@@ -1,0 +1,1 @@
+var author2842 = "Henry James Sumner Maine", quotes2842 = ["Except the blind forces of Nature, nothing moves in this world which is not Greek in its origin."]

@@ -1,0 +1,1 @@
+var author4544 = "Mellin de Saint-Gelais", quotes4544 = ["It's better to act and to regret / Than to regret not to have acted","No bird can ever fly / like a heart can rise so high","A friendship that can be ended / didn't ever start","So you must always remember / that time ends the beauty"]

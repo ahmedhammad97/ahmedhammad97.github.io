@@ -1,0 +1,1 @@
+var author606 = "Arthur Kemp", quotes606 = ["Those people who occupy a territory determine the nature of the society in that region.","[History]... is nothing else but the rise and disappearance of races."]

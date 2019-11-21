@@ -1,0 +1,1 @@
+var author6874 = "Vasil Bykaŭ", quotes6874 = ["Suffering makes us human. A person without suffering is just grass.","Bureaucracy and culture are incompatible. Bureaucracy needs power, and culture is not wanted by it."]

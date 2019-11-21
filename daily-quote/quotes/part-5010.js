@@ -1,0 +1,1 @@
+var author5010 = "Opera", quotes5010 = ["No good opera plot can be sensible, for people do not sing when they are feeling sensible. ","An exotic and irrational entertainment, which has been always combated, and always has prevailed."]

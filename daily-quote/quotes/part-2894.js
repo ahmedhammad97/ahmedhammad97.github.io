@@ -1,0 +1,1 @@
+var author2894 = "Hermann Weyl", quotes2894 = ["Consciousness spreads out its web, in the form of time, over reality."]

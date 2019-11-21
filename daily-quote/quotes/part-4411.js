@@ -1,0 +1,1 @@
+var author4411 = "Mars", quotes4411 = ["Mars is too cold, Venus is too hot, Earth is just right.","She saw the snowy poles of moonless Mars"]

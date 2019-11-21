@@ -1,0 +1,1 @@
+var author4699 = "Mohammad Mosaddegh", quotes4699 = ["The moral aspect of oil nationalization is more important than its economic aspect."]

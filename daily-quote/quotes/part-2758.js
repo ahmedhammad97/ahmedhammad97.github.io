@@ -1,0 +1,1 @@
+var author2758 = "Harrington Emerson", quotes2758 = ["Twelve Principles of Efficiency "]

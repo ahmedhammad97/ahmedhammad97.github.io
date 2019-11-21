@@ -1,0 +1,1 @@
+var author6594 = "Theresa May", quotes6594 = ["You can judge me by my record."]

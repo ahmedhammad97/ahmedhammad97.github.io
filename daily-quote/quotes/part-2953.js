@@ -1,0 +1,1 @@
+var author2953 = "Howard E. Aldrich", quotes2953 = ["Organizations are goal-directed, boundary-maintaining, activity systems. "]

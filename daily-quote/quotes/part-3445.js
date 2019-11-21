@@ -1,0 +1,1 @@
+var author3445 = "Joe Bob Briggs", quotes3445 = ["The man is ugly, the man is evil, and the man is in love. This is gonna be an American classic.","Menahem Golan, the Israeli king of the ninja flick, announced he was producing the remake.","Eleven dead bodies. One dead cat. No breasts.","If you know what I mean, and I think you do.","Joe Bob says check it out."]

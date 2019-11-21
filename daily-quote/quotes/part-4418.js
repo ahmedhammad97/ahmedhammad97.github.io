@@ -1,0 +1,1 @@
+var author4418 = "Mart Laar", quotes4418 = ["My name is Mart Laar. I have been twice Prime Minister of Estonia, and I'm not an economist."]

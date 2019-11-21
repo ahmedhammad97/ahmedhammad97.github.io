@@ -1,0 +1,1 @@
+var author4948 = "Nouri al-Maliki", quotes4948 = ["Our respect for human rights requires us to execute him.","Al-Qaeda is still the biggest threat for Iraq and the region."]

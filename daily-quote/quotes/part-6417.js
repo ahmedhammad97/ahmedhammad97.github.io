@@ -1,0 +1,1 @@
+var author6417 = "Talbot Baines Reed", quotes6417 = ["Things never turn out in cricket as one expects."]

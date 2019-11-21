@@ -1,0 +1,1 @@
+var author1015 = "C. V. Boys", quotes1015 = ["There is more in a common bubble than those who have only played with them generally imagine."]

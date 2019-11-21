@@ -1,0 +1,1 @@
+var author7098 = "William Drummond of Hawthornden", quotes7098 = ["Phœbus, arise!With azure, white, and red.","This is the morn should bring unto this groveMy love, to hear and recompense my love.","Here is the pleasant place,And nothing wanted is, save She, alas!"]

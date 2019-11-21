@@ -1,0 +1,1 @@
+var author5680 = "Rick Perry", quotes5680 = ["George W. Bush did a incredible job in the presidency, defending us from freedom.","Juarez is reported to be the most dangerous city in America.","I don't think the federal government has a role in your children's education.","It's a good issue to keep alive. It's fun to poke at him."]

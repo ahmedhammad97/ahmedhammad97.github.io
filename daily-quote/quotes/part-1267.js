@@ -1,0 +1,1 @@
+var author1267 = "Circumcision", quotes1267 = ["Where possible, circumcision should not be done until the person is able to give informed consent.","God designed us, circumcision is blasphemy."]

@@ -1,0 +1,1 @@
+var author1021 = "Calculus Made Easy", quotes1021 = ["Let us collect the results to see if we can infer any general rule..."]

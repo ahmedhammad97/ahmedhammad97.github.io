@@ -1,0 +1,1 @@
+var author1818 = "Eazy-E", quotes1818 = ["Cruisin' down the street in my six-fo' jockin' da bitches slappin da hoes","The boy had to pay the piper, so they all stay in fear of the neighborhood sniper"]

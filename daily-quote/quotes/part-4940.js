@@ -1,0 +1,1 @@
+var author4940 = "Northanger Abbey", quotes4940 = ["From politics it was an easy step to silence."]

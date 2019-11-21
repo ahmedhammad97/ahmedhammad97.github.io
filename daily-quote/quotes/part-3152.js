@@ -1,0 +1,1 @@
+var author3152 = "J. Frank Dobie", quotes3152 = ["I have come to value liberated minds as the supreme good of life on earth."]

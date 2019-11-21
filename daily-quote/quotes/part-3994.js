@@ -1,0 +1,1 @@
+var author3994 = "Land art", quotes3994 = ["My work comes first, reasons for it follow.","Art happens all the time, everywhere. All we have to do is to keep our minds open.","Nature is never finished."]

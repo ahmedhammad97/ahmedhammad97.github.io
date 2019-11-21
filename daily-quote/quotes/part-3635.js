@@ -1,0 +1,1 @@
+var author3635 = "John Quincy Adams", quotes3635 = ["This is the last of Earth! I am content."]

@@ -1,0 +1,1 @@
+var author7119 = "William Graham Sumner", quotes7119 = ["It is often said that the earth belongs to the race, as if raw land was a boon, or gift.","What we prepare for is what we shall get."]

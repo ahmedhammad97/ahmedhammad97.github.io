@@ -1,0 +1,1 @@
+var author986 = "Burnett Streeter", quotes986 = ["As well hope to start with a string of sausages and reconstruct the pig"]

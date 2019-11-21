@@ -1,0 +1,1 @@
+var author2102 = "Eugene Kaspersky", quotes2102 = ["I think [Apple is] ten years behind Microsoft in terms of security."]

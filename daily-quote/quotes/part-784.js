@@ -1,0 +1,1 @@
+var author784 = "Bermuda", quotes784 = ["Where the remote Bermudas ride,In th' ocean's bosom unespied."]

@@ -1,0 +1,1 @@
+var author1712 = "Divorce", quotes1712 = ["Incompatibility. And besides, I think she hated me.","Ah, yes, divorce, from the Latin word meaning to rip out a man's genitals through his wallet."]

@@ -1,0 +1,1 @@
+var author5414 = "Princess Madeleine, Duchess of Hälsingland and Gästrikland", quotes5414 = ["It started as a friendship that grew into something more.","We decided to turn off all cell phones and computers."]

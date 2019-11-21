@@ -1,0 +1,1 @@
+var author6402 = "T. Colin Campbell", quotes6402 = ["No chemical carcinogen is nearly so important in causing human cancer as animal protein."]

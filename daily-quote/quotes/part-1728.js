@@ -1,0 +1,1 @@
+var author1728 = "Don Imus", quotes1728 = ["This is the Imus in the Morning program, We're not happy 'till you're not happy.","I would rather go to Baghdad than go to a professional basketball game."]

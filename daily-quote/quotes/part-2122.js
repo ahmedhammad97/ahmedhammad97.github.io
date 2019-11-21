@@ -1,0 +1,1 @@
+var author2122 = "Evgeny Kissin", quotes2122 = ["Here lies Evgeny Kissin, son of the Jewish people, a servant of music."]

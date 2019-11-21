@@ -1,0 +1,1 @@
+var author5626 = "Richard Boyatzis", quotes5626 = ["The study resulted in a model of competence, not merely a laundry list of characteristics.","is a process for encoding quantitative information."]

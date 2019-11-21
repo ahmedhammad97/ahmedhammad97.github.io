@@ -1,0 +1,1 @@
+var author4583 = "Michael Franti", quotes4583 = ["The harder they hit us, the louder we become, kind of like the skin on a drum.","We can bomb the world to pieces, but we can't bomb it into peace.","Those who start wars never fight them, and those who fight wars never like them.","My goal has not ever been to change minds, my goal is to open minds."]

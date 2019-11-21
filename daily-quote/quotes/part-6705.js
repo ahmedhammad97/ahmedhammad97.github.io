@@ -1,0 +1,1 @@
+var author6705 = "Times", quotes6705 = ["The times they are a-changin'","This time, like all times, is a very good one, if we but know what to do with it.","The man and the hour have met."]

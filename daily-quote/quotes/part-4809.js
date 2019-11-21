@@ -1,0 +1,1 @@
+var author4809 = "Nathalie Kosciusko-Morizet", quotes4809 = ["My only fight is for Paris."]

@@ -1,0 +1,1 @@
+var author1974 = "Elmore Leonard", quotes1974 = ["If it sounds like writing, I rewrite it.","I leave out the parts that people skip.","What do you tell a man with two black eyes? Nothing, he's already been told twice. "]

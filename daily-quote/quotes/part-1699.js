@@ -1,0 +1,1 @@
+var author1699 = "Discovery (law)", quotes1699 = ["Discovery is a matter of remedy, and not matter of right."]

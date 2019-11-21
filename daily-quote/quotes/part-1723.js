@@ -1,0 +1,1 @@
+var author1723 = "Dolphins", quotes1723 = ["Then, cleaving the grass, gazelles appear(The gentler dolphins of kindlier waves).","Though pleased to see the dolphins play,I mind my compass and my way."]

@@ -1,0 +1,1 @@
+var author4840 = "Neil Bauman", quotes4840 = ["You have now officially crossed the line.","Please feel free to post this if you have the gonads.","This is true lunacy!","Obviously you have lost possession of your Yiddish cup."]

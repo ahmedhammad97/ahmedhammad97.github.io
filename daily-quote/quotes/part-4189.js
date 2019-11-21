@@ -1,0 +1,1 @@
+var author4189 = "Louis V. Gerstner, Jr.", quotes4189 = ["People do what you inspect, not what you expect. "]

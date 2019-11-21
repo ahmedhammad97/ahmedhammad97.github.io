@@ -1,0 +1,1 @@
+var author3289 = "James Weldon Johnson", quotes3289 = ["The glory of the day was in her face,The beauty of the night was in her eyes.","And God smiled again,And curled itself around his shoulder.","With his head in his hands,Till he thought: I'll make me a man!","Young man—Young man—Your arm’s too short to box with God."]

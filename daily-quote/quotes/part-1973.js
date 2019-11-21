@@ -1,0 +1,1 @@
+var author1973 = "Ellsworth Kelly", quotes1973 = ["The form of my painting is the content."]

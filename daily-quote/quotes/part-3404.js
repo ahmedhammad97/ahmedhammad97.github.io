@@ -1,0 +1,1 @@
+var author3404 = "Jewish vegetarianism", quotes3404 = ["In the perfect world originally designed by God, man was meant to be a vegetarian.","Vegetarianism: a kashrut for our age. ","The first man had not been allowed to eat meat."]

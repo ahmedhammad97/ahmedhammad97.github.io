@@ -1,0 +1,1 @@
+var author5126 = "Patrick Nielsen Hayden", quotes5126 = ["This is stupid. I now have stupid all over me."]

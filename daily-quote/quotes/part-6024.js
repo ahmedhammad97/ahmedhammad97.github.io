@@ -1,0 +1,1 @@
+var author6024 = "Seal (musician)", quotes6024 = ["Fearless people, And lives are broken."]

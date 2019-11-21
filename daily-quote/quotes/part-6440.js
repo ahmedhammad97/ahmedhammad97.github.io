@@ -1,0 +1,1 @@
+var author6440 = "Tax noncompliance", quotes6440 = ["We don't pay taxes. Only the little people pay taxes."]

@@ -1,0 +1,1 @@
+var author4067 = "Lena Horne", quotes4067 = ["It's so nice to get flowers while you can still smell the fragrance."]

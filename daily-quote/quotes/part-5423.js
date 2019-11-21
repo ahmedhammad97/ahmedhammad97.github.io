@@ -1,0 +1,1 @@
+var author5423 = "Private property", quotes5423 = ["The abolition of private property has become not only possible but absolutely necessary.","Prostitution is based on private property and falls with it.","The theory of Communism may be summed up in the single sentence: Abolition of private property."]

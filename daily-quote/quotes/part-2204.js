@@ -1,0 +1,1 @@
+var author2204 = "Fidel Castro", quotes2204 = ["Condemn me, it does not matter: history will absolve me.","Men do not shape destiny. Destiny produces the man for the hour."]

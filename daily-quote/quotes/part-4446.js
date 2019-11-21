@@ -1,0 +1,1 @@
+var author4446 = "Mary Augusta Ward", quotes4446 = ["One may as well preach a respectable mythology as anything else.","This Laodicean cant of tolerance.","All things change, creeds and philosophies and outward systems — but God remains.","Truth has never been, can never be, contained in any one creed or system."]

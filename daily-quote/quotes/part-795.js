@@ -1,0 +1,1 @@
+var author795 = "Bernie Ecclestone", quotes795 = ["“The morning after I die. And the first 12 copies go to the Inland Revenue”"]

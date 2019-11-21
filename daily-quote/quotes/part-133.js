@@ -1,0 +1,1 @@
+var author133 = "Affection", quotes133 = ["Affection exaggerates its own offences. ","A mixture of admiration and pity is one of the surest recipes for affection.","Affection is a coal that must be cool'd;Else, suffer'd, it will set the heart on fire.","Of such affection and unbroken faithAs temper life's worst bitterness."]

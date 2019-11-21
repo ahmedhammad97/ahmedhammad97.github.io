@@ -1,0 +1,1 @@
+var author6356 = "Surfing", quotes6356 = ["It was so big [the wave], it didn't even know we were there."]

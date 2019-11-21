@@ -1,0 +1,1 @@
+var author3549 = "John G. Azzopardi", quotes3549 = ["Experience can be merely the repetition of same error often enough."]

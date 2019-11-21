@@ -1,0 +1,1 @@
+var author4306 = "Management science", quotes4306 = ["The key to virtually every management science application is a mathematical model."]

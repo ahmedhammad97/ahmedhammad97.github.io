@@ -1,0 +1,1 @@
+var author6982 = "Walter Rauschenbusch", quotes6982 = ["Under the warm breath of religious faith all social institutions become plastic.","The better we know Jesus, the more social do his thoughts and aims become."]

@@ -1,0 +1,1 @@
+var author4550 = "Mental process", quotes4550 = ["Criteria of Mind","Cognitive processes surely exist, so it can hardly be unscientific to study them. "]

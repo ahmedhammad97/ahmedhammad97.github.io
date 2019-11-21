@@ -1,0 +1,1 @@
+var author3739 = "Joseph Fourier", quotes3739 = ["Profound study of nature is the most fertile source of mathematical discoveries."]

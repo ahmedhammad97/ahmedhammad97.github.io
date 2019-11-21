@@ -1,0 +1,1 @@
+var author5566 = "Regina E. Dugan", quotes5566 = ["Scientists and engineers changed the world.","5. Create tension."]

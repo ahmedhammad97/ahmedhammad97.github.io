@@ -1,0 +1,1 @@
+var author1487 = "Dana Reeve", quotes1487 = ["We have become accustomed to living our life with joy amidst pain and challenges"]

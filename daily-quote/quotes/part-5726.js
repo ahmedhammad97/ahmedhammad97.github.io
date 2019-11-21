@@ -1,0 +1,1 @@
+var author5726 = "Robert Doyle", quotes5726 = ["Adelaide has so little going for it that it should be shut down.","I was suprised to learn that Adelaide had television."]

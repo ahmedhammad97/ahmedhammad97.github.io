@@ -1,0 +1,1 @@
+var author1782 = "Drunkenness", quotes1782 = ["Men intoxicated are sometimes stunned into sobriety.","He that kyllyth a man drunk, sobur schal be' hangyd."]

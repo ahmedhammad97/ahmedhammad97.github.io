@@ -1,0 +1,1 @@
+var author2243 = "Forethought", quotes2243 = ["Cautious silence is where prudence takes refuge."]

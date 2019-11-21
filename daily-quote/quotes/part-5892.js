@@ -1,0 +1,1 @@
+var author5892 = "Russell Berman", quotes5892 = ["Literature is most social when it is least social."]

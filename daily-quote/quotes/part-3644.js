@@ -1,0 +1,1 @@
+var author3644 = "John Rogers", quotes3644 = ["I would put my pilot out on the Internet in a heartbeat. Want five more? Come buy the boxed set."]

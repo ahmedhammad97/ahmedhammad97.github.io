@@ -1,0 +1,1 @@
+var author6921 = "Virginity", quotes6921 = ["Virginity is the ideal of those who want to deflower.","I always thought of losing my virginity as a career move.","Your old virginity is like one of our French withered pears: it looks ill, it eats drily.","It is one of the superstitions of the human mind to have imagined that virginity could be a virtue."]

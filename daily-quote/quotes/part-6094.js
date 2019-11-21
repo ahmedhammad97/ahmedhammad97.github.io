@@ -1,0 +1,1 @@
+var author6094 = "Shelby Foote", quotes6094 = ["I think making mistakes and discovering them for yourself is of great value."]

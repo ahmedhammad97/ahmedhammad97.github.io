@@ -1,0 +1,1 @@
+var author4973 = "Obsolescence", quotes4973 = ["In an age of multiple and massive innovations, obsolescence becomes the major obsession.","Obsolescence is the moment of superabundance."]

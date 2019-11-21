@@ -1,0 +1,1 @@
+var author2884 = "Herman Cain", quotes2884 = ["We have a war on our moral fiber. We will not allow the godless few to destroy our moral foundation.","I could eat black walnut all the time, it's not a flavor of the week!"]

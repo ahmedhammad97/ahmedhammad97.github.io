@@ -1,0 +1,1 @@
+var author790 = "Bernard Mandeville", quotes790 = ["They put off hearings wilfully,To finger the refreshing fee.","The worst of all the MultitudeDid something for the Common Good.","Pride and Vanity have built more Hospitals than all the Virtues together."]

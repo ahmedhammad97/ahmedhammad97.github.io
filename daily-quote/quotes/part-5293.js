@@ -1,0 +1,1 @@
+var author5293 = "Phillip Abbott Luce", quotes5293 = ["[The state is] never a contract among peaceful men but always a conquest of one group over another."]

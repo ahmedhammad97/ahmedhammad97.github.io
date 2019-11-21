@@ -1,0 +1,1 @@
+var author3727 = "Josaia Waqabaca", quotes3727 = ["My fear is that if it is not resolved then it will be Fijians shooting Fijians."]

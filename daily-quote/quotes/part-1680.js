@@ -1,0 +1,1 @@
+var author1680 = "Digression", quotes1680 = ["Even good arguments fail, if they are spiced with digressions."]

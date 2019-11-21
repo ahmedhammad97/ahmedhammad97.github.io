@@ -1,0 +1,1 @@
+var author1183 = "Charlton Heston", quotes1183 = ["Political correctness is tyranny with manners.","Sam is the only person I've ever physically threatened on a set."]

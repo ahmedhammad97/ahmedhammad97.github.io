@@ -1,0 +1,1 @@
+var author7312 = "Zhou Enlai", quotes7312 = ["All diplomacy is a continuation of war by other means.","For us, it is all right if the talks succeed, and it is all right if they fail.","We shall use only peaceful means and we shall not permit any other kind of method.","It is too soon to say."]

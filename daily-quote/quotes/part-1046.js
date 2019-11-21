@@ -1,0 +1,1 @@
+var author1046 = "Carl Friedrich Gauss", quotes1046 = ["Mathematics is the queen of the sciences.","Ask her to wait a moment — I am almost done.","I have had my results for a long time: but I do not yet know how I am to arrive at them."]

@@ -1,0 +1,1 @@
+var author5436 = "Protection", quotes5436 = ["Protection is not a principle, but an expedient.","To protect those who are not able to protect themselves is a duty which every one owes to society.","A man wants no protection when his conduct is strictly right."]

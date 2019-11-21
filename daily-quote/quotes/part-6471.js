@@ -1,0 +1,1 @@
+var author6471 = "Terrance Hayes", quotes6471 = ["I too, having lost faithin language, have placed my faith in language."]

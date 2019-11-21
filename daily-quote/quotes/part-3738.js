@@ -1,0 +1,1 @@
+var author3738 = "Joseph Dare (reverend)", quotes3738 = ["Snow is water, and ice is water, and water is water; these three are one."]

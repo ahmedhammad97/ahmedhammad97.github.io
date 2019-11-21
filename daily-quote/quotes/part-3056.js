@@ -1,0 +1,1 @@
+var author3056 = "Ingrid Bergman", quotes3056 = ["It's not whether you really cry. It's whether the audience thinks you are crying.","A kiss is a lovely trick designed by nature to stop speech when words become superfluous."]

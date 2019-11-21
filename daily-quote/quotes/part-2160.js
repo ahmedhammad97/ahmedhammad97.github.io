@@ -1,0 +1,1 @@
+var author2160 = "Falklands War", quotes2160 = ["The Falklands thing was a fight between two bald men over a comb. "]

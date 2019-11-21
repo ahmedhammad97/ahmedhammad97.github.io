@@ -1,0 +1,1 @@
+var author6742 = "Tommy Robinson", quotes6742 = ["Islam is not a religion of peace; it never has been and never will be.","If Islam is this religion of peace, why is everyone so scared?"]

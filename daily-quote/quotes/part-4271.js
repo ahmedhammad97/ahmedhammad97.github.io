@@ -1,0 +1,1 @@
+var author4271 = "Magnetism", quotes4271 = ["Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."]

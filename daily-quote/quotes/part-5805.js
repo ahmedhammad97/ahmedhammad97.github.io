@@ -1,0 +1,1 @@
+var author5805 = "Robin Morgan", quotes5805 = ["Women are not inherently passive or peaceful. We're not inherently anything but human."]

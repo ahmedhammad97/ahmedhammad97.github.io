@@ -1,0 +1,1 @@
+var author2442 = "Geometry", quotes2442 = ["And the whole [is] greater than the part.","There is no royal road to geometry."]

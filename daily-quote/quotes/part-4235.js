@@ -1,0 +1,1 @@
+var author4235 = "Luxury", quotes4235 = ["Blesses his stars, and thinks it luxury.","Blest hour! It was a luxury—to be!","O Luxury! thou curst by Heaven's decree.","Fell luxury! more perilous to youthThan storms or quicksands, poverty or chains.","Like sending them ruffles, when wanting a shirt.","Falsely luxurious, will not man awake?"]

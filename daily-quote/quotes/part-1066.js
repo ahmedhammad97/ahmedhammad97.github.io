@@ -1,0 +1,1 @@
+var author1066 = "Carol Grace", quotes1066 = ["The dying process begins the minute you are born, but it accelerates during dinner parties."]

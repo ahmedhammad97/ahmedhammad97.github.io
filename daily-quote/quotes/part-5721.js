@@ -1,0 +1,1 @@
+var author5721 = "Robert Cecil, 1st Viscount Cecil of Chelwood", quotes5721 = ["The League is dead; long live the United Nations!"]

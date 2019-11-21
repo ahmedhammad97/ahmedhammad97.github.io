@@ -1,0 +1,1 @@
+var author5970 = "Sandy Koufax", quotes5970 = ["Pitching is the art of instilling fear.","A guy that throws what he intends to throw, that's the definition of a good pitcher.","Show me a guy who can't pitch inside and I'll show you a loser."]

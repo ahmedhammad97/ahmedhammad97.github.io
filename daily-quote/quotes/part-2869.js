@@ -1,0 +1,1 @@
+var author2869 = "Henryk Sienkiewicz", quotes2869 = ["Life deserves laughter, hence people laugh at it.","Not Nero, but God, rules the world.","Aniela died this morning."]

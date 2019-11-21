@@ -1,0 +1,1 @@
+var author4820 = "National security", quotes4820 = ["Fifth Column.","To be prepared for War is one of the most effectual means of preserving peace.","A government without the power of defence! it is a solecism."]

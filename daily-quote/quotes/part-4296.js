@@ -1,0 +1,1 @@
+var author4296 = "Malcolm Rutherford", quotes4296 = ["The old and the new differ in many respects... The dispute centers on five main issues: "]

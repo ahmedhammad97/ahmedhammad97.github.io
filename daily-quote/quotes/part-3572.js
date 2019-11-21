@@ -1,0 +1,1 @@
+var author3572 = "John Herschel", quotes3572 = ["Self-respect is the cornerstone of all virtue.","What God sends is welcome.","God knows how ardently I wish I had ten lives"]

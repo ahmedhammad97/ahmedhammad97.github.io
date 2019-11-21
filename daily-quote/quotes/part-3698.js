@@ -1,0 +1,1 @@
+var author3698 = "Johnny Carson", quotes3698 = ["Who could follow Carson? Well, believe me, somebody can — and will.","I did not know that."]

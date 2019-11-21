@@ -1,0 +1,1 @@
+var author6842 = "Upanishads", quotes6842 = ["The gods love what is mysterious, and dislike what is evident."]

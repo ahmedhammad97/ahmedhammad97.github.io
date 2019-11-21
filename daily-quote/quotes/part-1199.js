@@ -1,0 +1,1 @@
+var author1199 = "Chester W. Nimitz", quotes1199 = ["Hindsight is notably cleverer than foresight.","Our present control of the sea is so absolute that it is sometimes taken for granted."]

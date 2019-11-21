@@ -1,0 +1,1 @@
+var author2745 = "Harold Innis", quotes2745 = ["The Middle Ages burned its heretics and the modern age threatens them with atom bombs."]

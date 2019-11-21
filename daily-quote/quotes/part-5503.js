@@ -1,0 +1,1 @@
+var author5503 = "Rafael Sabatini", quotes5503 = ["He was born with a gift of laughter and a sense that the world was mad.","Sir! she checked him. I think you are talking treason.I hope I am not obscure, said he."]

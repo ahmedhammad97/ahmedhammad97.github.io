@@ -1,0 +1,1 @@
+var author2633 = "Grapes", quotes2633 = ["Nay, in death's hand, the grape-stone provesAs strong as thunder is in Jove's.","The fathers have eaten sour grapes, and the children's teeth are set on edge.","Is not the gleaning of the grapes of Ephraim better than the vintage of Abi-ezer?"]

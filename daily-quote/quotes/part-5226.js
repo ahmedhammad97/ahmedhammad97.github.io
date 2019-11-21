@@ -1,0 +1,1 @@
+var author5226 = "Peter Ackroyd", quotes5226 = ["He had the satisfied countenance of a man who has never succeeded in boring himself.","One can forgive Shakespeare anything, except one's own bad lines.","Only those with great ambitions know what great fears drive them forward.","I believe that the gods themselves are frightened of the world which they have fashioned."]

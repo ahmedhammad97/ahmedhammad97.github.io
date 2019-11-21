@@ -1,0 +1,1 @@
+var author3483 = "John Belushi", quotes3483 = ["I give so much pleasure to so many people. Why can I not get some pleasure for myself?","I owe it all to little chocolate donuts."]

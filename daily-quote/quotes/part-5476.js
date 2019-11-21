@@ -1,0 +1,1 @@
+var author5476 = "Queen Latifah", quotes5476 = ["There are different flavours of sexiness."]

@@ -1,0 +1,1 @@
+var author259 = "Alexander Bain", quotes259 = ["Instinct is untaught ability."]

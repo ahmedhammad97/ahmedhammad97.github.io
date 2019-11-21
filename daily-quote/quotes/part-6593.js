@@ -1,0 +1,1 @@
+var author6593 = "Therapy", quotes6593 = ["Things have to be done fast in America, and therefore therapy has to be brief.","Skillful, state-of-the-art therapy requires constant practice and training."]

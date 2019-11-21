@@ -1,0 +1,1 @@
+var author323 = "Alice Cary", quotes323 = ["We serve Him most who take the most of His exhaustless love.","How many lives we live in one,And how much less than one, in all."]

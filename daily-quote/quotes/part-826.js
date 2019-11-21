@@ -1,0 +1,1 @@
+var author826 = "Bill Maher", quotes826 = ["Work in the fields? Senator, I'm a house nigga. ","Selling pot allowed me to get through college and make enough money to start off in comedy.","The Bible looks like it started out as a game of Mad Libs."]

@@ -1,0 +1,1 @@
+var author2327 = "Fred Willard", quotes2327 = ["A great director is someone who makes you feel like you're moving forward."]

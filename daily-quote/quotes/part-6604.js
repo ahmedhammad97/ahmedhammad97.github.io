@@ -1,0 +1,1 @@
+var author6604 = "Thomas Bastard", quotes6604 = ["Age is deformed, youth unkind,We scorn their bodies, they our mind."]

@@ -1,0 +1,1 @@
+var author1325 = "Colin Farrell", quotes1325 = ["Desperation will allow you to do incredible things in the name of survival."]

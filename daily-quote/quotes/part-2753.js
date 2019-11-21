@@ -1,0 +1,1 @@
+var author2753 = "Harpo Marx", quotes2753 = ["No worse than a bad cold.","I was the same kind of father as I was a harpist - I played by ear."]

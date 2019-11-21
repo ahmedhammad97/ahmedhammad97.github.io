@@ -1,0 +1,1 @@
+var author5702 = "Rob Enderle", quotes5702 = ["Steve Jobs is the Ronald McDonald of Apple, he is the face."]

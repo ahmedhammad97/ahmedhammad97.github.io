@@ -1,0 +1,1 @@
+var author883 = "Bob Woodward", quotes883 = ["All good work is done in defiance of management."]

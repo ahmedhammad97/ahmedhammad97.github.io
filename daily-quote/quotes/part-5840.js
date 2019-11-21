@@ -1,0 +1,1 @@
+var author5840 = "Ronald Syme", quotes5840 = ["Without a party a statesman is nothing. He sometimes forgets that awkward fact.","Security and aggression are terms of partisan interpretation.","The best party is but a kind of conspiracy against the Commonwealth."]

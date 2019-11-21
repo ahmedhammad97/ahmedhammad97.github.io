@@ -1,0 +1,1 @@
+var author3928 = "Kiichiro Toyoda", quotes3928 = ["Before you say you can't do something, try it."]

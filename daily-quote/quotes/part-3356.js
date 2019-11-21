@@ -1,0 +1,1 @@
+var author3356 = "Jeanne Marie Bouvier de la Motte Guyon", quotes3356 = ["We must forget ourselves and all self-interest, and listen, and be attentive to God."]

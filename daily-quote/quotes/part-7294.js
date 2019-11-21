@@ -1,0 +1,1 @@
+var author7294 = "Yumi Hotta", quotes7294 = ["All you are is the Go you play.","To link the far past, with the far future."]

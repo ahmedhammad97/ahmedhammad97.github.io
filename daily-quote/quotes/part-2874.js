@@ -1,0 +1,1 @@
+var author2874 = "Herbert Lom", quotes2874 = ["I made those films for 20 years, and after 10 years they ran out of good scripts. "]

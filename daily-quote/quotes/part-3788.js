@@ -1,0 +1,1 @@
+var author3788 = "Judith Butler", quotes3788 = ["Indeed it may be only by risking the incoherence of identity that connection is possible.","Perhaps the promise of phallus is always dissatisfying in some way."]

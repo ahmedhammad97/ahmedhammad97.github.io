@@ -1,0 +1,1 @@
+var author1439 = "Cruelty", quotes1439 = ["Man's inhumanity to man Makes countless thousands mourn!","Detested sport,That owes its pleasures to another's pain.","It is not linen you're wearing out,But human creatures' lives.","I must be cruel, only to be kind.","See what a rent the envious Casca made.","Inhumanity is caught from man,From smiling man."]

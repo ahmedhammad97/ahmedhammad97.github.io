@@ -1,0 +1,1 @@
+var author3713 = "Jonathan Livingston Seagull", quotes3713 = ["The gull sees farthest who flies highest.","But the speed was power, and the speed was joy, and the speed was pure beauty."]

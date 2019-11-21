@@ -1,0 +1,1 @@
+var author1376 = "Consolation", quotes1376 = ["Love is not consolation, it is light."]

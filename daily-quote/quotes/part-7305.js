@@ -1,0 +1,1 @@
+var author7305 = "Zbigniew Brzezinski", quotes7305 = ["History is much more the product of chaos than of conspiracy."]

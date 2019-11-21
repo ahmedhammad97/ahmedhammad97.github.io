@@ -1,0 +1,1 @@
+var author6086 = "Shaun Ellis", quotes6086 = ["My ultimate ambition is to introduce a captive pack of wolves into the wild and live with them."]

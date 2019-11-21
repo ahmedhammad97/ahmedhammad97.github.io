@@ -1,0 +1,1 @@
+var author1070 = "Caroline Elizabeth Sarah Norton", quotes1070 = ["I am listening for the voicesWhich I heard in days of old.","Every poet hopes that after-timesShall set some value on his votive lay."]

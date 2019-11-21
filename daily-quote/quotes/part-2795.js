@@ -1,0 +1,1 @@
+var author2795 = "Heinz Guderian", quotes2795 = ["Logistics is the ball and chain of armored warfare.","When the situation is obscure, attack.","If the tanks succeed, then victory follows.","New weapons require new tactics. Never put new wine into old bottles."]

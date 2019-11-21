@@ -1,0 +1,1 @@
+var author4814 = "Nathaniel Emmons", quotes4814 = ["The weakest spot in every man is where he thinks himself to be the wisest.","Style should be like window-glass, perfectly transparent, and with very little sash."]

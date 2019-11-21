@@ -1,0 +1,1 @@
+var author965 = "Bruce Fairchild Barton", quotes965 = ["A man may be down, but he is never out."]

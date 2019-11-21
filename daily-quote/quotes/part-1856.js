@@ -1,0 +1,1 @@
+var author1856 = "Edmund Hillary", quotes1856 = ["Well, we knocked the bastard off!","I am hell-bent for the South Pole — God willing and crevasses permitting.","Better if he had said something natural like, Jesus, here we are.","It is not the mountain we conquer, but ourselves.","Some day I’m going to climb Everest."]

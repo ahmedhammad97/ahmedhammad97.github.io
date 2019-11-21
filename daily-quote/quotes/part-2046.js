@@ -1,0 +1,1 @@
+var author2046 = "Eric Kandel", quotes2046 = ["Nothing is more stimulating for self-education than working in a new area.","The function of the modern artist was not to convey beauty, but to convey new truths.","Science may explain aspects of art but it will not replace the inspiration that art evokes..."]

@@ -1,0 +1,1 @@
+var author4045 = "Le Corbusier", quotes4045 = ["The styles are a lie."]

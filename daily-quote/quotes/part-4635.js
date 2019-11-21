@@ -1,0 +1,1 @@
+var author4635 = "Midnight's Children", quotes4635 = ["You be respectable, sister, she said, Me, I'll be alive.","Children are vessels where adults pour their poison.","There is no magic on earth strong enough to wipe out the legacies of one's parents."]

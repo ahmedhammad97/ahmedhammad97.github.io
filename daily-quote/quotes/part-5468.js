@@ -1,0 +1,1 @@
+var author5468 = "Qasem Soleimani", quotes5468 = ["We’re not like the Americans. We don’t abandon our friends.","When I see the children of the martyrs, I want to smell their scent, and I lose myself."]

@@ -1,0 +1,1 @@
+var author2846 = "Henry M. Jackson", quotes2846 = ["In matters of national security, the best politics is no politics."]

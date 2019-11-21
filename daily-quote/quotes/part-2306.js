@@ -1,0 +1,1 @@
+var author2306 = "Franz von Papen", quotes2306 = ["Names and individuals are unimportant when Germany's final fate is at stake.","It is to be hoped that the leaders of this movement will place the nation above the party."]

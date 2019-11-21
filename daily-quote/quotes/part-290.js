@@ -1,0 +1,1 @@
+var author290 = "Alf Ramsey", quotes290 = ["Never change a winning team.","We will win the World Cup.","You've won it once. Now you'll have to go out there and win it again."]

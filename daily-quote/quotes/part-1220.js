@@ -1,0 +1,1 @@
+var author1220 = "Chris Martin", quotes1220 = ["There's no reason not to stand for this song, come on, if you stand we'll buy you all ice cream"]

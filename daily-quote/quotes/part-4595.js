@@ -1,0 +1,1 @@
+var author4595 = "Michael Joyce", quotes4595 = ["There is no simple way to say this.","I want to say I may have seen my son die this morning."]

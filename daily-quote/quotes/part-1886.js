@@ -1,0 +1,1 @@
+var author1886 = "Edward Hirsch", quotes1886 = ["The line is a way of thinking in poetry, by poetry..it paces the poem.","Poetry is a voicing, a calling forth, words waiting to be vocalized.","There is no true poetry unconcious inspiration.","The poem is an original and unique creation, but it is reading and recitation: participation.","Poetry is a form of necessary speech."]

@@ -1,0 +1,1 @@
+var author2139 = "Extremism", quotes2139 = ["Extremism in the defense of liberty is no vice. Moderation in the pursuit of justice is no virtue."]

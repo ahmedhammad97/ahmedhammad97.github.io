@@ -1,0 +1,1 @@
+var author5567 = "Regina Jonas", quotes5567 = ["I must fight for God."]

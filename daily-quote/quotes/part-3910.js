@@ -1,0 +1,1 @@
+var author3910 = "Kent Thiry", quotes3910 = ["Just as beauty is in the eye of the beholder, leadership is in the eyes of the led.","Speak your dreams, no one climbs a mountain accidentally.","[When it comes to leadership] intentionality rules.","Leadership is not a function of position, it is a function of behavior."]

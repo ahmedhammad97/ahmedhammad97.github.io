@@ -1,0 +1,1 @@
+var author1562 = "David Hilbert", quotes1562 = ["One of the supreme achievements of purely intellectual human activity.","Keep computations to the lowest level of the multiplication table.","Good, he did not have enough imagination to become a mathematician."]

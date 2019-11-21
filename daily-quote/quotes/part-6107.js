@@ -1,0 +1,1 @@
+var author6107 = "Shirley Manson", quotes6107 = ["I'm a sucker for tragedy - I love the death scenes."]

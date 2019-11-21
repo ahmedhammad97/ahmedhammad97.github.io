@@ -1,0 +1,1 @@
+var author3973 = "L. David Mech", quotes3973 = ["It is beyond ridiculous that wolves need to study a human or that they are capable of it.","Mr. Ellis is neither a scientist nor an expert on the natural behavior of wolves."]

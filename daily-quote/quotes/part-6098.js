@@ -1,0 +1,1 @@
+var author6098 = "Sheriff", quotes6098 = ["I do really believe you, Mr. Sheriff; you have done like an honest man.","I shot the sheriff / But I didn't shoot no deputy, oh no! Oh!","The sheriffs of London have been immemorially the sheriff of Middlesex."]

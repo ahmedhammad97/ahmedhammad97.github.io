@@ -1,0 +1,1 @@
+var author5389 = "Potential", quotes5389 = ["Leadership is all about unlocking the potential in others."]

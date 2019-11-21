@@ -1,0 +1,1 @@
+var author726 = "Barry Perowne", quotes726 = ["Cricket is no excuse for ignorance."]

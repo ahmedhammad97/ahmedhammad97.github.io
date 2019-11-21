@@ -1,0 +1,1 @@
+var author653 = "Atom", quotes653 = ["We have grasped the mystery of the atom and rejected the Sermon on the Mount. ","I don't believe that atoms exist!","Atoms are round balls of wood invented by Dr. Dalton.","For every atom belonging to me as good belongs to you."]

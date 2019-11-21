@@ -1,0 +1,1 @@
+var author2343 = "Free software", quotes2343 = ["Talk is cheap. Show me the code.","Making Linux GPL'd was definitely the best thing I ever did.","Given enough eyeballs, all bugs are shallow.","The Many Minds Principle: the coolest thing to do with your data will be thought of by someone else."]

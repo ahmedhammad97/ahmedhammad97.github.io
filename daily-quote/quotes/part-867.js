@@ -1,0 +1,1 @@
+var author867 = "Blogging", quotes867 = ["I remember. I blogged the whole thing. "]

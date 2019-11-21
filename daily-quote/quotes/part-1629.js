@@ -1,0 +1,1 @@
+var author1629 = "Democracy and Education", quotes1629 = ["Nature offers simply the germs which education is to develop and perfect."]

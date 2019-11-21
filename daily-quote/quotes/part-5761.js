@@ -1,0 +1,1 @@
+var author5761 = "Robert Lucas Jr.", quotes5761 = ["I guess everyone is a Keynesian in a foxhole."]

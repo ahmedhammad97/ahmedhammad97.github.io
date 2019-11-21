@@ -1,0 +1,1 @@
+var author6518 = "The Last Unicorn", quotes6518 = ["He was not lying, merely organizing events more sensibly."]

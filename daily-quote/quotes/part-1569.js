@@ -1,0 +1,1 @@
+var author1569 = "David Lin", quotes1569 = ["There were some Gambian expectations that we (Republic of China) could not satisfy."]

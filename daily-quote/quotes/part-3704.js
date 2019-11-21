@@ -1,0 +1,1 @@
+var author3704 = "Jon Anderson", quotes3704 = ["Sweet songs of youth, the wise, the meeting of all wisdom To believe in the good in man."]

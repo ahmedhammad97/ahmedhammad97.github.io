@@ -1,0 +1,1 @@
+var author2902 = "Hierarchy", quotes2902 = ["Hierarchy has had six thousand years of trial. It will never succeed for long in any form."]

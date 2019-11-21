@@ -1,0 +1,1 @@
+var author6225 = "Spoonerisms", quotes6225 = ["Let us drink to the Queer old dean."]

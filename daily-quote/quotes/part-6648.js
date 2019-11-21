@@ -1,0 +1,1 @@
+var author6648 = "Thomas Moss (minister)", quotes6648 = ["A pampered menial drove me from the door."]

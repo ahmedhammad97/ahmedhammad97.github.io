@@ -1,0 +1,1 @@
+var author3458 = "Joel Spolsky", quotes3458 = ["Smart, and Gets Things Done"]

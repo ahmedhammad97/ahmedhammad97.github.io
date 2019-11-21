@@ -1,0 +1,1 @@
+var author4598 = "Michael Korda", quotes4598 = ["Learn to accept your mistakes. Don't be a perfectionist about everything.","Don't make waves, move smoothly without disturbing things.","One way to keep momentum going is to have constantly greater goals.","The more you can dream, the more you can do."]

@@ -1,0 +1,1 @@
+var author5987 = "Sarah Monette", quotes5987 = ["He did not entirely believe himself, but he knew he had best pretend he did.","“It is not foolish,” Dachensol Polchina agreed. “It is new, which is not the same thing.”","They took silence for assent, as the zealous often do."]

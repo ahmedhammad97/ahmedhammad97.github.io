@@ -1,0 +1,1 @@
+var author1421 = "Coventry Mystery Plays", quotes1421 = ["The weykist gothe eyuer to the walle."]

@@ -1,0 +1,1 @@
+var author4903 = "Nigel Lawson", quotes4903 = ["To govern is to choose. To appear to be unable to choose is to appear to be unable to govern."]

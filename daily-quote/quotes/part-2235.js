@@ -1,0 +1,1 @@
+var author2235 = "Fluxus", quotes2235 = ["fluxus is the “event” according to george brecht:"]

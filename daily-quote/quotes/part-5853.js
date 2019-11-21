@@ -1,0 +1,1 @@
+var author5853 = "Ross Thomas", quotes5853 = ["Never end a sentence with a preposition,” he recited.“Not never; just seldom.","Eight-fifteen in the morning in Washington is not a happy time."]

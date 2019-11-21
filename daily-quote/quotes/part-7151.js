@@ -1,0 +1,1 @@
+var author7151 = "William March", quotes7151 = ["...man...is a frail, lost creature, too weak to walk unaided.","Everybody must seem crazy if you see deep enough into their minds."]

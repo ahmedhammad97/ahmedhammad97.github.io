@@ -1,0 +1,1 @@
+var author2230 = "Florence Nightingale", quotes2230 = ["How very little can be done under the spirit of fear.","I attribute my success to this — I never gave or took any excuse."]

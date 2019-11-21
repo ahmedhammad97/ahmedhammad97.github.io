@@ -1,0 +1,1 @@
+var author909 = "Boris Johnson", quotes909 = ["Look, I wouldn't trust Harriet Harman's political judgement."]

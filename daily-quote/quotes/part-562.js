@@ -1,0 +1,1 @@
+var author562 = "Aristocracy", quotes562 = ["Aristocrats need not be rich, but they must be free."]

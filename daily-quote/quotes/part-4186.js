@@ -1,0 +1,1 @@
+var author4186 = "Louis Philippe I", quotes4186 = ["The cordial agreement"]

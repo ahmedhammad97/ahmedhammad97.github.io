@@ -1,0 +1,1 @@
+var author2768 = "Harry Turtledove", quotes2768 = ["Fiction has to be plausible. All history has to do is happen.","Many things are possible. Few things are certain.","I'm Jake Featherston, and I'm here to tell you the truth."]

@@ -1,0 +1,1 @@
+var author3684 = "John Wentworth", quotes3684 = ["You damned fools. You can either vote for me for mayor or you can go to hell."]

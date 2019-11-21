@@ -1,0 +1,1 @@
+var author1943 = "Elephants", quotes1943 = ["An elephant can trumpet and shake the earth but not the self-possession of the ants who hold it.","Nature's great masterpiece, an elephant,The only harmless great thing.","Women and elephants never forget an injury.","The elephant hath joints, but none for courtesy: his legs are legs for necessity, not for flexure."]

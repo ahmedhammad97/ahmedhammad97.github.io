@@ -1,0 +1,1 @@
+var author4162 = "Lois Lowry", quotes4162 = ["Why are you lying?"]

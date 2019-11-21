@@ -1,0 +1,1 @@
+var author5847 = "Rose Scott", quotes5847 = ["We will one day think it as horrible to eat animals as we now think it horrible to eat each other."]

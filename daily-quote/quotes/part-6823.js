@@ -1,0 +1,1 @@
+var author6823 = "Unicorns", quotes6823 = ["If even one Unicorn walks the Earth my power is not complete.","You know what they call a unicorn without a horn? A freaking horse.","Here sits the UnicornCaptive at last","Here sits the UnicornYet free.","Here sits the Unicorn;Still bleed","Here sits the Unicorn — In repose."]

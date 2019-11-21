@@ -1,0 +1,1 @@
+var author5285 = "Philip Selznick", quotes5285 = ["The institutional leader, then, is primarily an expert in the promotion and protection of values.","The term “leadership” connotes critical experience rather than routine practice."]

@@ -1,0 +1,1 @@
+var author6894 = "Vic Mizzy", quotes6894 = ["Green Acres is the place to be;Farm living is the life for me."]

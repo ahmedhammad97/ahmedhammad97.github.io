@@ -1,0 +1,1 @@
+var author5448 = "Public policy", quotes5448 = ["It is impossible to say what the opinion of a man or a Judge might be as to what public policy is.","Public policy is a high horse to mount, and is difficult to ride when you have mounted it.","Whatever is injurious to the interests of the public is void, on the grounds of public policy."]

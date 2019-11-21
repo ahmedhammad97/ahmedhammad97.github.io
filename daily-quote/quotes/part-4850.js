@@ -1,0 +1,1 @@
+var author4850 = "Nelson Algren", quotes4850 = ["If Jesus Christ treated me like you do, I’d drive in the nails myself.","A walk on the wild side."]

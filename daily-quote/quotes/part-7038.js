@@ -1,0 +1,1 @@
+var author7038 = "White Dawg", quotes7038 = ["Hell no, you can't smoke for free! White Dawg make you bounce when you want that weed.","Just like a toilet seat, nigga, I piss on my bitches."]

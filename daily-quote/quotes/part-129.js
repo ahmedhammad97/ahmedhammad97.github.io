@@ -1,0 +1,1 @@
+var author129 = "Aeschines", quotes129 = ["Lying rumours do not penetrate farther than our ears.","Truth is strong enough to overcome all human sophistries.","An evil nature wielding great authority brings misfortune upon the community.","Right is not unlimited, but is limited by the laws."]

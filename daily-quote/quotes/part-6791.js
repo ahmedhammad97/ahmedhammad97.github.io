@@ -1,0 +1,1 @@
+var author6791 = "Trumpism", quotes6791 = ["Trumpism is here to stay."]

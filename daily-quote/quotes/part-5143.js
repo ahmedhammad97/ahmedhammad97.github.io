@@ -1,0 +1,1 @@
+var author5143 = "Paul Elmer More", quotes5143 = ["Great music is a psychical storm, agitating to fathomless depths the mystery of the past within us."]

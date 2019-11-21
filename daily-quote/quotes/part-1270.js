@@ -1,0 +1,1 @@
+var author1270 = "Citation", quotes1270 = ["Citation does not necessarily reflect current demand.","The devil can cite Scripture for his purpose."]

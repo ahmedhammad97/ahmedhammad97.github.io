@@ -1,0 +1,1 @@
+var author6931 = "Vladimir Mayakovsky", quotes6931 = ["If you wish,not a man, but a cloud in trousers!"]

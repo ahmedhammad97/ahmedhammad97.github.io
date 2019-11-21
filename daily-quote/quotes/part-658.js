@@ -1,0 +1,1 @@
+var author658 = "Audioslave", quotes658 = ["You thought you made a manbefore my role defines you. "]

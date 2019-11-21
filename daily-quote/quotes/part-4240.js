@@ -1,0 +1,1 @@
+var author4240 = "Lynda Gratton", quotes4240 = ["We are more likely to love our work when we see it as play."]

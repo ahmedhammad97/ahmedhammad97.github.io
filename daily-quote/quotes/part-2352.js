@@ -1,0 +1,1 @@
+var author2352 = "Friedensreich Hundertwasser", quotes2352 = ["There are no evils in Nature, there are only evils of Man.","The straight line is godless and immoral."]

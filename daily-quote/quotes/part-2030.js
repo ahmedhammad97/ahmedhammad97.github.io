@@ -1,0 +1,1 @@
+var author2030 = "Epistemology", quotes2030 = ["Science is what we know, and philosophy is what we don't know."]

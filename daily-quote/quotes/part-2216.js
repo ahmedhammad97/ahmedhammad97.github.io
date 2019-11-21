@@ -1,0 +1,1 @@
+var author2216 = "First love", quotes2216 = ["The magic of first love is our ignorance that it can ever end.","God will look to every soul like its first love because He is its first love."]

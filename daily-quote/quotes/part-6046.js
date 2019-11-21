@@ -1,0 +1,1 @@
+var author6046 = "Self-sufficiency", quotes6046 = ["Nothing satisfies the man who is not satisfied with a little.","Self-sufficiency is the greatest of all riches."]

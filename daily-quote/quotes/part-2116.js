@@ -1,0 +1,1 @@
+var author2116 = "Evan Schoenberg", quotes2116 = ["All women love a good geek, and those who tell you otherwise are lying."]

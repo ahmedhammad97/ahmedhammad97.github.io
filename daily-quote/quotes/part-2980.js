@@ -1,0 +1,1 @@
+var author2980 = "Hung Hsiu-chu", quotes2980 = ["People should remember history so they can truly cherish what they have now.","This (KMT) party can forsake me, but I will not abandon this party."]

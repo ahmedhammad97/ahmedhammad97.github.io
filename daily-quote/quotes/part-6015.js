@@ -1,0 +1,1 @@
+var author6015 = "Scott Atran", quotes6015 = ["Religions are not adaptations and they have no evolutionary functions as such."]

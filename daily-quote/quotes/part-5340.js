@@ -1,0 +1,1 @@
+var author5340 = "Pittacus of Mytilene", quotes5340 = ["Do not to your neighbor what you would take ill from him.","Forgiveness is better than revenge."]

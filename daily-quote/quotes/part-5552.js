@@ -1,0 +1,1 @@
+var author5552 = "Raymond Williams", quotes5552 = ["The gap between our feelings and our social observation is dangerously wide.","Culture is one of the two or three most complicated words in the English language.","To be truly radical is to make hope possible, rather than despair convincing."]

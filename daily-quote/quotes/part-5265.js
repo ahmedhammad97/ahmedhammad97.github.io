@@ -1,0 +1,1 @@
+var author5265 = "Phaedo", quotes5265 = ["False words are not only evil in themselves, but they infect the soul with evil."]

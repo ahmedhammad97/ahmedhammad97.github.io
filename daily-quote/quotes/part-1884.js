@@ -1,0 +1,1 @@
+var author1884 = "Edward Hall Alderson", quotes1884 = ["Human nature is imperfect.","My duty is, as a Judge, to be governed by fixed rules and former precedents."]

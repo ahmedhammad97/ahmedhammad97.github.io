@@ -1,0 +1,1 @@
+var author2480 = "George Henry Powell", quotes2480 = ["Private Perkins is a funny little codger."]

@@ -1,0 +1,1 @@
+var author3280 = "James Shirley", quotes3280 = ["The honour is overpaid,When he that did the act is commentator.","Only the actions of the justSmell sweet and blossom in the dust."]

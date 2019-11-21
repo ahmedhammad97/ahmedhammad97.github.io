@@ -1,0 +1,1 @@
+var author2255 = "Frailty", quotes2255 = ["This is the porcelain clay of human kind.","Unthought-of Frailties cheat us in the Wise.","Frailty, thy name is woman!","Alas! our frailty is the cause, not we;For, such as we are made of, such we be."]

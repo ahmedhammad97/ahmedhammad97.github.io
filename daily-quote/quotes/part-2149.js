@@ -1,0 +1,1 @@
+var author2149 = "F. S. Flint", quotes2149 = ["I have followed my ear and my heart, which may be false. I hope not.","The poem, a harmonious flow of nuances, demands a musical rhythm, Vers libre."]

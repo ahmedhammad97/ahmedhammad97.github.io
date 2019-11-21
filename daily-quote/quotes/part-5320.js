@@ -1,0 +1,1 @@
+var author5320 = "Pierre Louis Maupertuis", quotes5320 = ["Nature always uses the simplest means to accomplish its effects."]

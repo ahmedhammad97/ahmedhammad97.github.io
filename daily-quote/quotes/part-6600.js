@@ -1,0 +1,1 @@
+var author6600 = "Thom Gunn", quotes6600 = ["These seem like bristles, and the hide is tough.No claw or web here: each foot ends in hoof.","Direct me gods, whose changes are all holy,To where it flickers deep in grass, the moly."]

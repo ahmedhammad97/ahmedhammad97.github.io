@@ -1,0 +1,1 @@
+var author2208 = "Filippo Tommaso Marinetti", quotes2208 = ["Mondrian is the greatest Futurist painter of the North.","And now I am obliged to tell you what it is that clearly distinguishes Futurism from anarchism."]

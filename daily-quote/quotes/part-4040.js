@@ -1,0 +1,1 @@
+var author4040 = "Laws (dialogue)", quotes4040 = ["The greatest penalty of evildoing is to grow into the likeness of bad men.","Of all animals, the boy is the most unmanageable."]

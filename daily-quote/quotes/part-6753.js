@@ -1,0 +1,1 @@
+var author6753 = "Tony Judt", quotes6753 = ["I am, I discover in late middle age, a work in progress."]

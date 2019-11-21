@@ -1,0 +1,1 @@
+var author6028 = "Seashells", quotes6028 = ["She sells sea-shells on the sea-shore;The shells she sells are sea-shells I'm sure."]

@@ -1,0 +1,1 @@
+var author2595 = "Godfrey Bloom", quotes2595 = ["Look, my job is to upset The Guardian and the BBC. I love it, I love it."]

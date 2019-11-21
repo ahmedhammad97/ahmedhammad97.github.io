@@ -1,0 +1,1 @@
+var author2375 = "Fukuzawa Yukichi", quotes2375 = ["The world is large."]

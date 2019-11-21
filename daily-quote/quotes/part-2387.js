@@ -1,0 +1,1 @@
+var author2387 = "Gabriel", quotes2387 = ["Gabriel, one of the holy angels, who is over Paradise and the serpents and the Cherubim."]

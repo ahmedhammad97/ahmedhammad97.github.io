@@ -1,0 +1,1 @@
+var author1983 = "Emil Zátopek", quotes1983 = ["I was not talented enough to run and smile at the same time.","It's at the borders of pain and suffering that the men are separated from the boys.","It is not gymnastics or ice skating, you know.","Are you running out of breath? Go faster! (Life credo)"]

@@ -1,0 +1,1 @@
+var author2019 = "Enrique Vila-Matas", quotes2019 = ["One has to know how to swim just well enough to avoid having to save anyone else."]

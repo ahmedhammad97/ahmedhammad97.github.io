@@ -1,0 +1,1 @@
+var author2714 = "Hal David", quotes2714 = ["The man who shot Liberty Valance,He was the bravest of them all."]

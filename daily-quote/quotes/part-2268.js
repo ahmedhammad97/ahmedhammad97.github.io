@@ -1,0 +1,1 @@
+var author2268 = "Francis Hutcheson (philosopher)", quotes2268 = ["Wisdom denotes the pursuing of the best Ends by the best Means.","Men have been Laughed out of Faults which a Sermon could not reform."]

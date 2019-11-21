@@ -1,0 +1,1 @@
+var author1377 = "Conspiracy", quotes1377 = ["The real rulers of a nation are undiscoverable.","Conspiracies no sooner should be formedThan executed.","O conspiracy,When evils are most free?","Open-eye conspiracy His time doth take."]

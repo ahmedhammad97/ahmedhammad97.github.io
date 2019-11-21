@@ -1,0 +1,1 @@
+var author7252 = "Wrongs", quotes7252 = ["Brother, brother; we are both in the wrong.","Wrongs unredressed, or insults unavenged.","In the great right of an excessive wrong."]

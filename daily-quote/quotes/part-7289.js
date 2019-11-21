@@ -1,0 +1,1 @@
+var author7289 = "Ysabella Brave", quotes7289 = ["I appreciate that you have your own tastes, but — give me a break!","I look at the lyrics, and if that's something honest for me at the moment, I'll sing it.","Control yourself and no one else see the Truth my brother"]

@@ -1,0 +1,1 @@
+var author887 = "Bobolinks", quotes887 = ["The crack-brained bobolink courts his crazy mate,Poised on a bulrush tipsy with his weight."]

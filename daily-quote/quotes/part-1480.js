@@ -1,0 +1,1 @@
+var author1480 = "Dan Millman", quotes1480 = ["Anger is stronger than fear, stronger than sorrow.","You will be free of the world's turbulence as soon as you stop taking your thoughts so seriously.","There are no ordinary moments."]

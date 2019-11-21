@@ -1,0 +1,1 @@
+var author1435 = "Crispin Sartwell", quotes1435 = ["The two-party system is breaking down into a race system."]

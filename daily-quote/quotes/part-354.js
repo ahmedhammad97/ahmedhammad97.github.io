@@ -1,0 +1,1 @@
+var author354 = "Amedeo Modigliani", quotes354 = ["The function of art is to struggle against obligation."]

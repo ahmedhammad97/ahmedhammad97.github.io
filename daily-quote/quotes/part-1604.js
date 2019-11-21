@@ -1,0 +1,1 @@
+var author1604 = "Debate", quotes1604 = ["I never knew any debatable point not maintained on both sides by unanswerable arguments ; …"]

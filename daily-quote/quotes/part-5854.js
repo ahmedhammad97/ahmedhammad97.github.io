@@ -1,0 +1,1 @@
+var author5854 = "Rote learning", quotes5854 = ["Learning without thought is labor lost. ","Nothing taught by force stays in the soul.","We work merely to fill the memory, leaving the understanding empty.","Learned we may be with another man’s learning: we can only be wise with wisdom of our own.","The bookful blockhead ignorantly read,"]

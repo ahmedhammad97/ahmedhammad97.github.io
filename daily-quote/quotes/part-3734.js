@@ -1,0 +1,1 @@
+var author3734 = "Joseph B. Soloveitchik", quotes3734 = ["Not only the qualitative world bursts forth in song, but so does the quantitative.","Newtonian physics found its apostle in Kant; modern physics is still awaiting its modern expounder."]

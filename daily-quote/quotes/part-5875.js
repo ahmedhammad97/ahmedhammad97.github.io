@@ -1,0 +1,1 @@
+var author5875 = "Ruggedman", quotes5875 = ["You either love me or hate me in peace and war."]

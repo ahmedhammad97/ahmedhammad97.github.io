@@ -1,0 +1,1 @@
+var author192 = "Alan Hovhaness", quotes192 = ["The greater the emotional intensity, the greater the simplicity."]

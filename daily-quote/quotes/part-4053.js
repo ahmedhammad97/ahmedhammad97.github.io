@@ -1,0 +1,1 @@
+var author4053 = "Lee Siegel", quotes4053 = ["I despise Wikipedia. I loathe Wikipedia. I'm appalled by Wikipedia. I use it throughout the day."]

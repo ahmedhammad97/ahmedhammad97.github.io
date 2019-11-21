@@ -1,0 +1,1 @@
+var author4356 = "Margot Grahame", quotes4356 = ["Margo. The 'T' is silent as in Harlow."]

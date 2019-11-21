@@ -1,0 +1,1 @@
+var author6104 = "Shirley Chisholm", quotes6104 = ["Of my two handicaps, being female put many more obstacles in my path than being black.","When morality comes up against profit, it is seldom that profit loses.","I don't measure America by its achievement but by its potential."]

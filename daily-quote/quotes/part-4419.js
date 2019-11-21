@@ -1,0 +1,1 @@
+var author4419 = "Martha Graham", quotes4419 = ["Dancing is just discovery, discovery, discovery — what it all means…\\xa0","To me, the only sin is mediocrity."]

@@ -1,0 +1,1 @@
+var author4821 = "Nationalism", quotes4821 = ["Traditional nationalism cannot survive the fissioning of the atom. One world or none.","Nationalism is an infantile disease. It is the measles of mankind.","Nationalism is power hunger tempered by self-deception."]

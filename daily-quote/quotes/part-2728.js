@@ -1,0 +1,1 @@
+var author2728 = "Hans Christian von Baeyer", quotes2728 = ["Science has taught us that what we see and touch is not what is really there.","In fact, an information theory that leaves out the issue of noise turns out to have no content. ","An electron is real; a probability is not."]

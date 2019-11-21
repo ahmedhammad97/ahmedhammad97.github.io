@@ -1,0 +1,1 @@
+var author5194 = "Penelope Fitzgerald", quotes5194 = ["Helping other people is a drug so dangerous that there is no cure, short of total abstention.","There are dilettantes in human relationships just as there are, let's say, in politics."]

@@ -1,0 +1,1 @@
+var author510 = "Antireligion", quotes510 = ["Religion is a species of mental disease. It has always had a pathological reaction on mankind.","There can be nothing more abominable than religion.","[A]ll worship of a divinity is a necrophilia."]

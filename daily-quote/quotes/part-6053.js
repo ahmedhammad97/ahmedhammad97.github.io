@@ -1,0 +1,1 @@
+var author6053 = "Sensibility", quotes6053 = ["Chords that vibrate sweetest pleasureThrill the deepest notes of wo.","Susceptible persons are more affected by a change of tone than by unexpected words.","To touch the quick.","Too quick a sense of constant infelicity."]

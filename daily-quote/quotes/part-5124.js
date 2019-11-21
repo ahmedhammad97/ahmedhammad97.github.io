@@ -1,0 +1,1 @@
+var author5124 = "Patrick MacDonogh", quotes5124 = ["God pity me now and all desolate sinnersDemented with beauty!"]

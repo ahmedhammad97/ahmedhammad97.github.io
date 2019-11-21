@@ -1,0 +1,1 @@
+var author7026 = "Wendy Kaminer", quotes7026 = ["Only people who die very young learn all they really need to know in kindergarten."]

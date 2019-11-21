@@ -1,0 +1,1 @@
+var author4342 = "Margaret Fishback", quotes4342 = ["Old man, forswear that dogged rumba Go home and yield to Christian slumba.","Fashion makes the fur fly."]

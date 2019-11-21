@@ -1,0 +1,1 @@
+var author817 = "Bigotry", quotes817 = ["The price of hating other human beings is loving oneself less. ","All seems Infected that th' Infected spy,As all looks yellow to the Jaundic'd Eye.","Bigotry tries to keep truth safe in its hand With a grip that kills it."]

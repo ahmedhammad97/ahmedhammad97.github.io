@@ -1,0 +1,1 @@
+var author2523 = "George Walter Thornbury", quotes2523 = ["Man’s life is but a jest,A dream, a shadow, bubble, air, a vapor at the best."]

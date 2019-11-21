@@ -1,0 +1,1 @@
+var author6845 = "Uranus", quotes6845 = ["The moons of Uranus seem to have got a twist."]

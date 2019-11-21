@@ -1,0 +1,1 @@
+var author3673 = "John Tyler", quotes3673 = ["Patronage is the sword and cannon by which war may be made on the liberty of the human race.","Wealth can only be accumulated by the earnings of industry and the savings of frugality."]

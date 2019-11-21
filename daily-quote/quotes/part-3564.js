@@ -1,0 +1,1 @@
+var author3564 = "John Hagee", quotes3564 = ["You will either offend the world and please God, or please the world and offend God.","What is the point of having free speech if you have nothing to say?","Why would you want to be politically correct when you can be right?","The most important thing to the Christian community is not the environment but evangelism. "]

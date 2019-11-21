@@ -1,0 +1,1 @@
+var author2324 = "Fred Rogers", quotes2324 = ["Vermont is a small state which makes an enormous difference.","Children are to be respected and I respect them deeply. They've taught me an awful lot."]

@@ -1,0 +1,1 @@
+var author5828 = "Romance", quotes5828 = ["Romance is the poetry of literature.","Lady of the Mere,Sole-sitting by the shores of old romance."]

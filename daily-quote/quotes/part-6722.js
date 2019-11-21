@@ -1,0 +1,1 @@
+var author6722 = "Todd Akin", quotes6722 = ["And yet we have terrorists in our own culture called abortionists."]

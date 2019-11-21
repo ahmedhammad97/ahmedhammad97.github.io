@@ -1,0 +1,1 @@
+var author3795 = "Jules Michelet", quotes3795 = ["The intimate fusion of races is the identity of our nation, its personality."]

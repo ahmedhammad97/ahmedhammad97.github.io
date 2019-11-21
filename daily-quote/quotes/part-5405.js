@@ -1,0 +1,1 @@
+var author5405 = "Prestige", quotes5405 = ["Prestige bars any serious attack on power. Do people attack a thing they consider with awe?"]

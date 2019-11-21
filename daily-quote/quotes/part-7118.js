@@ -1,0 +1,1 @@
+var author7118 = "William Golding", quotes7118 = ["The Herr Doctor does not know about peoples.","How can you expect to be rescued if you don’t put first things first and act proper?"]

@@ -1,0 +1,1 @@
+var author3174 = "Jack Lang", quotes3174 = ["In the race of life, always back self-interest; at least you know it's trying."]

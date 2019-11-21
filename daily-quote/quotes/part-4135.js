@@ -1,0 +1,1 @@
+var author4135 = "Linji Yixuan", quotes4135 = ["Be a master everywhere and wherever you stand is your true place. (Translator unsourced.)"]

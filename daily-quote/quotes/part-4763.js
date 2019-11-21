@@ -1,0 +1,1 @@
+var author4763 = "Mulk Raj Anand", quotes4763 = ["Why don’t you call, you swine, and announce your approach! ","Not a virgin or a rupee was safe in his realm. ","Please look out for the few thorns that might have got mixed up with the roses. ","The trouble with liberal democracy is that it takes a long time to mature."]

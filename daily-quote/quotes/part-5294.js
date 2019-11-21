@@ -1,0 +1,1 @@
+var author5294 = "Phillip E. Johnson", quotes5294 = ["We are removing the most important cultural roadblock to accepting the role of God as creator.","The subject is not just the theory of evolution, the subject is the reality of God."]

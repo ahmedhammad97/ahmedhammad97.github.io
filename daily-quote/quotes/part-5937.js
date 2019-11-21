@@ -1,0 +1,1 @@
+var author5937 = "Sam Neill", quotes5937 = ["I'm playing a cat burglar. I've made it. This is the high point of my career. I'm really chuffed.","I got an Irish passport the other day. I love it. It's the best thing in my pocket."]

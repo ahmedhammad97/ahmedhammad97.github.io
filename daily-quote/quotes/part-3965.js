@@ -1,0 +1,1 @@
+var author3965 = "Kurt Student", quotes3965 = ["I have never seen such a defiance of death."]

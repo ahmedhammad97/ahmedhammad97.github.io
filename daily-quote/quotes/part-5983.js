@@ -1,0 +1,1 @@
+var author5983 = "Sarah Grimké", quotes5983 = ["There has been a comparatively greater proportion of good queens, than of good kings."]

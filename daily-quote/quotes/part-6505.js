@@ -1,0 +1,1 @@
+var author6505 = "The Founders of Geology", quotes6505 = ["William Nicol was never adequately recognised in his lifetime."]

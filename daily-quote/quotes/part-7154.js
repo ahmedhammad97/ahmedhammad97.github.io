@@ -1,0 +1,1 @@
+var author7154 = "William McKinley", quotes7154 = ["War should never be entered upon until every agency of peace has failed.","We need Hawaii just as much and a good deal more than we did California. It is manifest destiny.","The mission of the United States is one of benevolent assimilation.","Expositions are the timekeepers of progress."]

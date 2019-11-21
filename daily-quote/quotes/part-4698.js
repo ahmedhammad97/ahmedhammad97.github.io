@@ -1,0 +1,1 @@
+var author4698 = "Mohammad Hussein Fadlallah", quotes4698 = ["Muslims (companions) misunderstood the speech of the Prophet on the day of Ghadeer.","Female masturbation is permissible unconditionally.","Shaking hands with the strangers of opposite sex is forbidden"]

@@ -1,0 +1,1 @@
+var author7051 = "Wilhelm Bittrich", quotes7051 = ["In all my years as a soldier, I have never seen men fight so hard."]

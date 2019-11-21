@@ -1,0 +1,1 @@
+var author3957 = "Koodiyattam", quotes3957 = ["I thought it was the most beautiful “thing” I had ever seen.","I thought it was the most beautiful “thing” I had ever seen."]

@@ -1,0 +1,1 @@
+var author4414 = "Marshall Faulk", quotes4414 = ["I think as a kid I never really understood the magnitude of a hurricane and what it could do."]

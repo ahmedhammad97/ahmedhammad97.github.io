@@ -1,0 +1,1 @@
+var author110 = "Adolf A. Berle", quotes110 = ["Major corporations in most instances do not seek capital. They form it themselves."]

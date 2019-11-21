@@ -1,0 +1,1 @@
+var author576 = "Arnold Hano", quotes576 = ["When you think of natural ballplayers, only two come into mind, Babe Ruth and Willie Mays."]

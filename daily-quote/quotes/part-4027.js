@@ -1,0 +1,1 @@
+var author4027 = "Laurence Lampert", quotes4027 = ["Nietzsche discovered the clue to esotericism early … “The fact of the pious fraud.”"]

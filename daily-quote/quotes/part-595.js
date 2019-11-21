@@ -1,0 +1,1 @@
+var author595 = "Arthur D. Hall", quotes595 = ["For any given set of objects it is impossible to say that no interrelationships exist."]

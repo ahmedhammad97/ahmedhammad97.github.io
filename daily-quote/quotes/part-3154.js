@@ -1,0 +1,1 @@
+var author3154 = "J. J. Abrams", quotes3154 = ["Of course there is a monkey. There is always a monkey."]

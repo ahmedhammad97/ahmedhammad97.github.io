@@ -1,0 +1,1 @@
+var author5850 = "Rosie O'Donnell", quotes5850 = ["Get away from the fear. Don't fear the terrorists. They're mothers and fathers.","President Bush almost killed me."]

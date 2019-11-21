@@ -1,0 +1,1 @@
+var author2493 = "George Lucas", quotes2493 = ["Being in Washington is more fictional than being in Hollywood.","Don't avoid the cliches - they are cliches because they work!"]

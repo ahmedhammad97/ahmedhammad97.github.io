@@ -1,0 +1,1 @@
+var author5835 = "Ronald Cohen", quotes5835 = ["If you want to build a major firm, you cannot do it by having a modest vision. "]

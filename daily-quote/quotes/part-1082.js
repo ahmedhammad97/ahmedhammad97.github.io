@@ -1,0 +1,1 @@
+var author1082 = "Castlevania: Aria of Sorrow", quotes1082 = ["Soma Cruz: What? What has?","Soma Cruz: I've got a favour to ask of you.","Julius Belmont: I will...I promise."]

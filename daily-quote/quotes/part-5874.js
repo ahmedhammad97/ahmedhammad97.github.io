@@ -1,0 +1,1 @@
+var author5874 = "Rufus Wainwright", quotes5874 = ["Mowing your lawn is against nature.","Yes, I'm a homosexual and I like to shock people with glamour."]

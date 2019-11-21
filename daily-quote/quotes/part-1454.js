@@ -1,0 +1,1 @@
+var author1454 = "Cyndi Lauper", quotes1454 = ["on Catholicism:"]

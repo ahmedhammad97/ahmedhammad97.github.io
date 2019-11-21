@@ -1,0 +1,1 @@
+var author6316 = "Strangeness", quotes6316 = ["There is no excellent beauty that hath not some strangeness in the proportion.","The universe is not only stranger than we imagine, it's stranger than we can imagine.","The weight of evidence for an extraordinary claim must be proportioned to its strangeness."]

@@ -1,0 +1,1 @@
+var author6399 = "Systems thinking", quotes6399 = ["A systems approach begins when first you see the world through the eyes of another."]

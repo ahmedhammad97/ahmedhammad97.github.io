@@ -1,0 +1,1 @@
+var author5142 = "Paul Dirac", quotes5142 = ["I was taught at school never to start a sentence without knowing the end of it.","God used beautiful mathematics in creating the world."]

@@ -1,0 +1,1 @@
+var author2134 = "Explanations", quotes2134 = ["Very simple was my explanation, and plausible enough—as most wrong theories are!","Paradoxes explain everything. Since they do, they cannot be explained."]

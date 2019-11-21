@@ -1,0 +1,1 @@
+var author1885 = "Edward Herbert, 1st Baron Herbert of Cherbury", quotes1885 = ["Now that the April of your youth adornsThe garden of your face.","Sleep, Nurse of our life, Care’s best reposer,Nature's high'st rapture, and the vision giver.","A good rider on a good horse, is as much above himself and others, as this world can make him."]

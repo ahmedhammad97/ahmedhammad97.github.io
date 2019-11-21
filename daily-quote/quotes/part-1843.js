@@ -1,0 +1,1 @@
+var author1843 = "Edgard Varèse", quotes1843 = ["Everyone is born with genius, but most people only keep it a few minutes."]

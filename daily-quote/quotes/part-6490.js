@@ -1,0 +1,1 @@
+var author6490 = "The Audacity of Hope", quotes6490 = ["We are on our own, and have only our own reason and our judgment to rely on."]

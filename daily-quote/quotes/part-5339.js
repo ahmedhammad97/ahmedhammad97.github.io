@@ -1,0 +1,1 @@
+var author5339 = "Pitirim Sorokin", quotes5339 = ["Are there quantitative aspects to the phenomena of war that can be counted? Evidently! ","Man is a conscious, rational thinker and a supra-conscious creator genius."]

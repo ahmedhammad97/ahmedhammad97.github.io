@@ -1,0 +1,1 @@
+var author1927 = "Egypt", quotes1927 = ["And they spoiled the Egyptians."]

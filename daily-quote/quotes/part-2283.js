@@ -1,0 +1,1 @@
+var author2283 = "Frank Costello", quotes2283 = ["I’m sorry, counselor, I’d rather blow the goddamn case."]

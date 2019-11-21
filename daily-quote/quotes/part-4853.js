@@ -1,0 +1,1 @@
+var author4853 = "Nepenthes rajah", quotes4853 = ["This very striking species has never been confounded with any other."]

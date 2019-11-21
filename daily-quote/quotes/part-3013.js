@@ -1,0 +1,1 @@
+var author3013 = "Ignazio Silone", quotes3013 = ["Fascism was a counter-revolution against a revolution that never took place."]

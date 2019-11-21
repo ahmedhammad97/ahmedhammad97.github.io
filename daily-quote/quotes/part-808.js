@@ -1,0 +1,1 @@
+var author808 = "Bette Midler", quotes808 = ["The only thing Madonna will ever do like a virgin is give birth in a stable."]

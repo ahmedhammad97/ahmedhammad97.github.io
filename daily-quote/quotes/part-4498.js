@@ -1,0 +1,1 @@
+var author4498 = "Max Barry", quotes4498 = ["When it's done with being graceful and poetic, language is meant to communicate, after all.","John said, You know what makes a successful executive?"]

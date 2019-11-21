@@ -1,0 +1,1 @@
+var author6188 = "Solidarity", quotes6188 = ["The most important word in the language of the working class is solidarity."]

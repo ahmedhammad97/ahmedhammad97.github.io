@@ -1,0 +1,1 @@
+var author930 = "Branch Rickey", quotes930 = ["Luck is the residue of design. "]

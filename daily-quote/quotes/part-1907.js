@@ -1,0 +1,1 @@
+var author1907 = "Edwin Abbott Abbott", quotes1907 = ["From dreams I proceed to facts.","The very fact that a Line is visible implies that it possesses yet another Dimension."]

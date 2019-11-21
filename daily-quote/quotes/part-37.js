@@ -1,0 +1,1 @@
+var author37 = "A. S. Neill", quotes37 = ["If the emotions are free, the intellect will look after itself.","Hate breeds hate, and love breeds love."]

@@ -1,0 +1,1 @@
+var author6337 = "Sudhir Ruparelia", quotes6337 = ["When starting out, ensure your business has adequate capital for growth."]

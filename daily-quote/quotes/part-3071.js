@@ -1,0 +1,1 @@
+var author3071 = "Integration", quotes3071 = ["God does not care about our mathematical difficulties. He integrates empirically.","He had the charm of all people who believe implicitly in themselves, that of integration."]

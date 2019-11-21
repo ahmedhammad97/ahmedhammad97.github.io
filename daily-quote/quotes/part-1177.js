@@ -1,0 +1,1 @@
+var author1177 = "Charlie Parker", quotes1177 = ["Don't play the saxophone. Let it play you."]

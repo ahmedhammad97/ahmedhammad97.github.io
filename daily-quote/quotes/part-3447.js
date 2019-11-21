@@ -1,0 +1,1 @@
+var author3447 = "Joe E. Lewis", quotes3447 = ["[A banker is] a man who will lend you money if you can prove to him that you don't need it."]

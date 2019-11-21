@@ -1,0 +1,1 @@
+var author1117 = "Charles Abbott, 1st Baron Tenterden", quotes1117 = ["Although our powers are great, they are not unlimited—they are bounded by some lines of demarcation."]

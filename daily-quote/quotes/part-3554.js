@@ -1,0 +1,1 @@
+var author3554 = "John Gibson Lockhart", quotes3554 = ["A male Horace Walpole.","Here lies the peerless paper lord, Lord Peter,Who broke the laws of God and man, and metre."]

@@ -1,0 +1,1 @@
+var author4617 = "Michael T. Hannan", quotes4617 = ["Inertial pressures prevent most organizations from radically changing strategies and structures."]

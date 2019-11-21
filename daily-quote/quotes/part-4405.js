@@ -1,0 +1,1 @@
+var author4405 = "Marlene Dietrich", quotes4405 = ["Sex: In America an obsession. In other parts of the world a fact.","The legs aren't so beautiful, I just know what to do with them. ","The Germans and I no longer speak the same language. "]

@@ -1,0 +1,1 @@
+var author4552 = "Merchant", quotes4552 = ["It is when merchants dispute about their own rules that they invoke the law.","The word commission sounds sweet in a merchant's ear."]

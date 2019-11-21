@@ -1,0 +1,1 @@
+var author3629 = "John Pentland Mahaffy", quotes3629 = ["With Alexander the stage of Greek influence spread across the world."]

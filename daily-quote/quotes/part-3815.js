@@ -1,0 +1,1 @@
+var author3815 = "Julius Fučík (journalist)", quotes3815 = ["Humans, I have loved you all. Be vigilant!"]

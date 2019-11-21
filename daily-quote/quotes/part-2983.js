@@ -1,0 +1,1 @@
+var author2983 = "Hunting", quotes2983 = ["Detested sport,That owes its pleasures to another's pain."]

@@ -1,0 +1,1 @@
+var author6255 = "Stephen Baxter", quotes6255 = ["For the genes it made sense, of course. Otherwise it would not have happened."]

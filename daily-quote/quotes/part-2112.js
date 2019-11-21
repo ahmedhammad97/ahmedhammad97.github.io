@@ -1,0 +1,1 @@
+var author2112 = "Euro", quotes2112 = ["With the euro, that form of pressure has gone."]

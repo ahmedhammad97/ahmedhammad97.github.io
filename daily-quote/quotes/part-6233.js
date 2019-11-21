@@ -1,0 +1,1 @@
+var author6233 = "Stafford Cripps", quotes6233 = ["It is fundamental to Socialism that we should liquidate the British Empire as soon as we can.","Emphatically no, and I never have been."]

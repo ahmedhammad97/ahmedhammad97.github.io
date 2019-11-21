@@ -1,0 +1,1 @@
+var author3773 = "Joy Behar", quotes3773 = ["Republican Party hasn't been black friendly over the many centuries in this country."]

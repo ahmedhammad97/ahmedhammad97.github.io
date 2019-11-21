@@ -1,0 +1,1 @@
+var author3866 = "Kate Clinton", quotes3866 = ["And they picketh it up and laideth it in a Ziploc bag"]

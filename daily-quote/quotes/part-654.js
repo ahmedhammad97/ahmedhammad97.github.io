@@ -1,0 +1,1 @@
+var author654 = "Atomic bombings of Hiroshima and Nagasaki", quotes654 = ["REST IN PEACE. THE MISTAKE SHALL NOT BE REPEATED. ","If I had foreseen Hiroshima and Nagasaki, I would have torn up my formula in 1905.","A Thousand Paper Cranes. Peace on Earth and in the Heavens. "]

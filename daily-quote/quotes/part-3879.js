@@ -1,0 +1,1 @@
+var author3879 = "Kathryn Lasky", quotes3879 = ["Bye-bye, Auntie cooed, and waved a tattered wing. Bye-bye, 12-8, you fool!","Oh, if only I were perfectly moon blinked [hypnotized]. If only I were..."]

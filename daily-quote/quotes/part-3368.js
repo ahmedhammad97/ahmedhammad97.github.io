@@ -1,0 +1,1 @@
+var author3368 = "Jefferson Davis", quotes3368 = ["If the Confederacy falls, there should be written on its tombstone: Died of a theory."]

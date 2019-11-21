@@ -1,0 +1,1 @@
+var author3886 = "Keariene Muizz", quotes3886 = ["Being an artist means seeing things and never having the ability to shut your eyes.","It's not who you know, but who you are that matters most."]

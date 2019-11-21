@@ -1,0 +1,1 @@
+var author5155 = "Paul LePage", quotes5155 = ["My brain was slower than my mouth.","I have a heart. I have a heart for Maine people."]

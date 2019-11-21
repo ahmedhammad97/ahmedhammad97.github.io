@@ -1,0 +1,1 @@
+var author1635 = "Denis Healey", quotes1635 = ["It has never been my nature, I regret to admit to the House, to turn the other cheek.","He must be out of his tiny Chinese mind.","By the end of next year, we really shall be on our way to that so-called economic miracle we need."]

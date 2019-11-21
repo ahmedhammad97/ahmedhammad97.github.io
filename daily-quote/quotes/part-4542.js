@@ -1,0 +1,1 @@
+var author4542 = "Melinda M. Snodgrass", quotes4542 = ["Magic is only useful against those with an affinity to magic.","Expediency is the god of princes.","There is no kindness at courts, only greed and lies and pain."]

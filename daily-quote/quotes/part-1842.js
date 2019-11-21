@@ -1,0 +1,1 @@
+var author1842 = "Edgar Wallace", quotes1842 = ["What is a highbrow? He is a man who has found something more interesting than women.","Dreamin' of thee! Dreamin' of thee!"]

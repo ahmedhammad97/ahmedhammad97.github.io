@@ -1,0 +1,1 @@
+var author2311 = "François-Bernard Mâche", quotes2311 = ["Myth does not set out to give lessons in natural science any more than in morals or sociology.","Myth therefore seems to choose history, rather than be chosen by it."]

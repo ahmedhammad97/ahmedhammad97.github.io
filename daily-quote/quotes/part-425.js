@@ -1,0 +1,1 @@
+var author425 = "Andy Goldsworthy", quotes425 = ["My work comes first, reasons for it follow."]

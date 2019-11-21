@@ -1,0 +1,1 @@
+var author7277 = "Yochanan Afek", quotes7277 = ["I achieved more than I could dream of in chess and in chess composing."]

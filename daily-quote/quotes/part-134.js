@@ -1,0 +1,1 @@
+var author134 = "Affidavit", quotes134 = ["I am a trial lawyer…. Matilda says that at dinner on a good day I sound like an affidavit.","We cannot try the merits upon affidavit."]

@@ -1,0 +1,1 @@
+var author498 = "Anthony Robbins", quotes498 = ["Action is the foundational key to all success.","The quality of your life is the quality of your communication.","Put the dwarf within you to sleep."]

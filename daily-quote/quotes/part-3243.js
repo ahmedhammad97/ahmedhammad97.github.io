@@ -1,0 +1,1 @@
+var author3243 = "James Goldsmith", quotes3243 = ["When a man marries his mistress, he creates a vacancy."]

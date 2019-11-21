@@ -1,0 +1,1 @@
+var author2610 = "Gospel", quotes2610 = ["It is the grand endeavor of the gospel to communicate God to men.","The vengeance of the gospel is heavier than the vengeance of the law."]

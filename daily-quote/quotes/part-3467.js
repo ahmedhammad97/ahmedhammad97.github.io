@@ -1,0 +1,1 @@
+var author3467 = "Johannes Kepler", quotes3467 = ["Nature uses as little as possible of anything.","Without proper experiments I conclude nothing.","Wherever there are qualities there are likewise quantities, but not always vice versa."]

@@ -1,0 +1,1 @@
+var author6926 = "Vita Sackville-West", quotes6926 = ["A man and his tools make a man and his trade.","A man and his land make a man and his creed.","A man and his loves make a man and his life.","Forget not bees in winter, though they sleep.","All craftsmen share a knowledge. They have heldReality down fluttering to a bench."]

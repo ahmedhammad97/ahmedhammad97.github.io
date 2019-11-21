@@ -1,0 +1,1 @@
+var author2151 = "Facebook", quotes2151 = ["I have one friend whose Facebook updates are exclusively complaining about Facebook."]

@@ -1,0 +1,1 @@
+var author2949 = "Hostility", quotes2949 = ["Acts of hostility shall be intended matters of force."]

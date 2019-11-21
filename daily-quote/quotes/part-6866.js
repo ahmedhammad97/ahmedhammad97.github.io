@@ -1,0 +1,1 @@
+var author6866 = "Van Morrison", quotes6866 = ["Music is spiritual. The music business is not."]

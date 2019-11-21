@@ -1,0 +1,1 @@
+var author322 = "Ali Zayn al-Abidin", quotes322 = ["If people realize the value of science and knowledge, they will sacrifice themselves for earning it.","The dearest among you to God (the High), is the one whose deeds and behavior are better than others.","To what extent you can, avoid bad deeds, even if everybody takes you as the agent of bad deeds."]

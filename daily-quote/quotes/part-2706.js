@@ -1,0 +1,1 @@
+var author2706 = "Hafez al-Assad", quotes2706 = ["Strike the enemy’s settlements, turn them into dust, pave the Arab roads with the skulls of Jews."]

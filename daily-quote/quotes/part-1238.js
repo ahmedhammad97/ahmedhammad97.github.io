@@ -1,0 +1,1 @@
+var author1238 = "Christina Rossetti", quotes1238 = ["The birthday of my lifeIs come, my love is come to me.","Remember me when I am gone away,Gone far away into the silent land.","Better by far you should forget and smileThan that you should remember and be sad."]

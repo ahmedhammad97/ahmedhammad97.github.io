@@ -1,0 +1,1 @@
+var author2916 = "History of American Socialisms", quotes2916 = ["Nov. 8. Many persons leaving.","In December the use of ardent spirits was abolished."]

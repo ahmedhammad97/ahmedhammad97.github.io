@@ -1,0 +1,1 @@
+var author1951 = "Elijah Fenton", quotes1951 = ["Wedded love is founded on esteem."]

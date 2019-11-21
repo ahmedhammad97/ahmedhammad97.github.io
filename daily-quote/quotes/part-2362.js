@@ -1,0 +1,1 @@
+var author2362 = "Friedrich-Wilhelm Marquardt", quotes2362 = ["God is not a basis for interpreting the world, but the fact which really transforms it."]

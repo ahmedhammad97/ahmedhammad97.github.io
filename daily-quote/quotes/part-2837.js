@@ -1,0 +1,1 @@
+var author2837 = "Henry Hart Milman", quotes2837 = ["Ride on, ride on, in majesty!In lowly pomp ride on to die."]

@@ -1,0 +1,1 @@
+var author5309 = "Physiocracy", quotes5309 = ["What is everybody's interest is nobody's interest."]

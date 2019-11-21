@@ -1,0 +1,1 @@
+var author6699 = "Tim Paterson", quotes6699 = ["IBM wanted CP/M prompts. It made me throw up.","Life begins with a disk drive."]

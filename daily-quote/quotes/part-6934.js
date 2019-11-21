@@ -1,0 +1,1 @@
+var author6934 = "Vladislav Doronin", quotes6934 = ["In any case, I am usually in bed by midnight."]

@@ -1,0 +1,1 @@
+var author5313 = "Pictorialism", quotes5313 = ["Pictorialism is the thesis that mental images represent in the manner of pictures."]

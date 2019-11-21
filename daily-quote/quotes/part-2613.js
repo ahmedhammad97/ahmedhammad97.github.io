@@ -1,0 +1,1 @@
+var author2613 = "Gospel of Mark", quotes2613 = ["In all the nations, the good news has to be preached first."]

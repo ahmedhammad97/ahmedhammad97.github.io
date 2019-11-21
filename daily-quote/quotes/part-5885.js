@@ -1,0 +1,1 @@
+var author5885 = "Rupert Boneham", quotes5885 = ["I'm that guy who just trusts a little too much.","We are going to take the libertarian philosophy to the people.","Competition is good."]

@@ -1,0 +1,1 @@
+var author44 = "Aaron Burr", quotes44 = ["The rule of my life is to make business a pleasure and pleasure my business."]

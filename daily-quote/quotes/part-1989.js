@@ -1,0 +1,1 @@
+var author1989 = "Emily Dickinson", quotes1989 = ["To Whom the Mornings stand for Nights,What must the Midnights — be!","A little Madness in the SpringIs wholesome even for the King.","Who has not found the Heaven — below —Will fail of it above —"]

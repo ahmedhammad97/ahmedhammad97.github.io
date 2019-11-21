@@ -1,0 +1,1 @@
+var author1966 = "Elizabeth Taylor", quotes1966 = ["I've always admitted that I'm ruled by my passions.","You find out who your real friends are when you're involved in a scandal.","There is no deodorant like success."]

@@ -1,0 +1,1 @@
+var author1094 = "Catullus", quotes1094 = ["Nam risu inepto res ineptior nulla est."]

@@ -1,0 +1,1 @@
+var author4004 = "Larry Andersen", quotes4004 = ["We're still in the driver's seat. We just lost our map.","Why do people sing Take Me Out to the Ballgame at the stadium when they're already there?","ROSES ARE RED. VIOLETS ARE BLUE, I'M A SCHIZOPHRENIC AND so AM I"]

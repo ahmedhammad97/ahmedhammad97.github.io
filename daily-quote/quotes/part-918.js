@@ -1,0 +1,1 @@
+var author918 = "Boxing", quotes918 = ["Boxing is a lot of white men watching two black men beat each other up.","Boxing is the toughest and loneliest sport in the world.","You know, I cut easily, so I don’t think I would’ve won the title, but I would’ve been a contender."]

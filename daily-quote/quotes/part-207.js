@@ -1,0 +1,1 @@
+var author207 = "Alan Williams (novelist)", quotes207 = ["Sex is good but poker lasts longer.","A journalist who has to borrow a typewriter is bad news."]

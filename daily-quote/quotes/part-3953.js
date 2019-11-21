@@ -1,0 +1,1 @@
+var author3953 = "Kofi Annan", quotes3953 = ["You have said that your first priority is the eradication of extreme poverty.","We don’t need any more promises. We need to start keeping the promises we already made.","In today’s world, the security of every one of us is linked to that of everyone else."]

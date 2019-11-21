@@ -1,0 +1,1 @@
+var author5648 = "Richard Holbrooke", quotes5648 = ["You've got to stop this war in Afghanistan."]

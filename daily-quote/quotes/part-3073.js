@@ -1,0 +1,1 @@
+var author3073 = "Intellect", quotes3073 = ["Mad, adj. Affected with a high degree of intellectual independence.","Character is higher than intellect. A great soul will be strong to live as well as strong to think.","Thou living ray of intellectual fire."]

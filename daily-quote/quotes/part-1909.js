@@ -1,0 +1,1 @@
+var author1909 = "Edwin Arthur Burtt", quotes1909 = ["The only way to avoid becoming a metaphysician is to say nothing."]

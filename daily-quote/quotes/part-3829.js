@@ -1,0 +1,1 @@
+var author3829 = "Jöns Jacob Berzelius", quotes3829 = ["A tidy laboratory means a lazy chemist. "]

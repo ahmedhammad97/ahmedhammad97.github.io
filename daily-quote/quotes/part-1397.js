@@ -1,0 +1,1 @@
+var author1397 = "Copyright", quotes1397 = ["If creativity is the field, copyright is the fence"]

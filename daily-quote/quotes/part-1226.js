@@ -1,0 +1,1 @@
+var author1226 = "Christa McAuliffe", quotes1226 = ["No teacher has ever been better prepared to teach a lesson.","Reach for it, you know. Go push yourself as far as you can.","What are we doing here? We're reaching for the stars.","May your future be limited only by your dreams!"]

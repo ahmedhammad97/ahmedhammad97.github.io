@@ -1,0 +1,1 @@
+var author3321 = "Jay Lemke", quotes3321 = ["The medium of printed scientific text is first of all a visual one.","The basic point-of-view is that science is a social process.","Minds are formed by our social interactions in a community and a culture."]

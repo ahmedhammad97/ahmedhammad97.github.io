@@ -1,0 +1,1 @@
+var author308 = "Alfred Rosenberg", quotes308 = ["Fate will not be confined by paragraphs.","Anti-Semitism is the unifying element of the reconstruction of Germany."]

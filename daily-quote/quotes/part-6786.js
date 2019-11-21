@@ -1,0 +1,1 @@
+var author6786 = "Trolls", quotes6786 = ["Trolls are slow in the uptake, and mighty suspicious about anything new to them.","Trolls simply detest the very sight of dwarves (uncooked).","Trolls do not build.","'Now is the time!' cried Gandalf. 'Let us go, before the troll returns!'"]

@@ -1,0 +1,1 @@
+var author4023 = "Laura Welch Bush", quotes4023 = ["I'm not wild about the term first lady. I'd just like to be called Laura Bush.","In contrast to my husband, I can pronounce the word nuclear.","I also want to encourage anyone who has been affected by hurricane Ka, uh, Karina..."]

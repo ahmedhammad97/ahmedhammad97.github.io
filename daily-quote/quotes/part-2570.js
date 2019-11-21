@@ -1,0 +1,1 @@
+var author2570 = "Gino Severini", quotes2570 = ["Art is nothing but humanized science."]

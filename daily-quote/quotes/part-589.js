@@ -1,0 +1,1 @@
+var author589 = "Art Clokey", quotes589 = ["The essence of Gumby is that he makes children feel safe. He's their greatest pal.","Clay is embedded in our subconscious. It has been there for at least 50,000 years."]

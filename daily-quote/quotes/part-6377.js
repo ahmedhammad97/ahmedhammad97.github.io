@@ -1,0 +1,1 @@
+var author6377 = "Swami Narayanananda", quotes6377 = ["Love is not lust. The two (love and lust) are poles apart. Love liberates while lust binds."]

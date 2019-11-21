@@ -1,0 +1,1 @@
+var author6905 = "Viktor Brack", quotes6905 = ["It was no secret in higher Party circles that the Jews were to be exterminated."]

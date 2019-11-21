@@ -1,0 +1,1 @@
+var author2062 = "Ernest Gellner", quotes2062 = ["It is nationalism which engenders nations, and not the other way round.","[I am a humble adherent of]...Enlightenment Rationalist Fundamentalism.","Ideas, and even the detection of errors, require more than care and caution.","Capital, like capitalism, seems an overrated category."]

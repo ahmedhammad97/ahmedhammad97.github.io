@@ -1,0 +1,1 @@
+var author1236 = "Christian pacifism", quotes1236 = ["Our faith obliges us to bind wounds, not to make blood run.","Blessed are the peacemakers; for they shall be called the children of God."]

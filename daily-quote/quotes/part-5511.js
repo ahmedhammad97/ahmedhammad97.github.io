@@ -1,0 +1,1 @@
+var author5511 = "Rainbow Valley", quotes5511 = ["Life had taught her to be brave, to be patient, to love, to forgive."]

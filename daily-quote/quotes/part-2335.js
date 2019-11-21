@@ -1,0 +1,1 @@
+var author2335 = "Frederick Rolfe", quotes2335 = ["He took the imperial hand and shook it in the glad-to-see-you-but-keep-off English fashion.","An appeal to a goodness which is not in him is, to a vain and sensitive soul, a stinging insult.","Pray for the repose of His soul. He was so tired."]

@@ -1,0 +1,1 @@
+var author3064 = "Inns", quotes3064 = ["A region of repose it seems,A place of slumber and of dreams.","In the worst inn's worst room, with mat half hung.","Shall I not take mine ease in mine inn?","Where you have friends you should not go to inns.","The atmosphereSeem full of welcomes."]

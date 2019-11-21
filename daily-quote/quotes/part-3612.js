@@ -1,0 +1,1 @@
+var author3612 = "John McKay", quotes3612 = ["I think it's a good idea.","These guys are almost gutless, and the ones that aren't that are brainless.","Can't stop the pass or the run. Otherwise, we're in great shape.","We've proven that we can't win on the road or in front of our home crowd."]

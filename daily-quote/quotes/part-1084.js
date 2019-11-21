@@ -1,0 +1,1 @@
+var author1084 = "Cat Stevens", quotes1084 = ["Life is a journey, you know; and a lot of journeys, you go out, you come back."]

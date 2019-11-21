@@ -1,0 +1,1 @@
+var author6957 = "W. S. Graham", quotes6957 = ["I leave this at your ear for when you awake."]

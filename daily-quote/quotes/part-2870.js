@@ -1,0 +1,1 @@
+var author2870 = "Heraclitus", quotes2870 = ["Greater fates gain greater rewards","The many are mean; only the few are noble.","All human laws are nourished by one divine law."]

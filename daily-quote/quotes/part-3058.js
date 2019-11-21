@@ -1,0 +1,1 @@
+var author3058 = "Ingvar Kamprad", quotes3058 = ["Most things still remain to be done!"]

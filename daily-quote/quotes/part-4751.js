@@ -1,0 +1,1 @@
+var author4751 = "Mozi", quotes4751 = ["Suppose we try to locate the cause of disorder, we shall find it lies in the want of mutual love."]

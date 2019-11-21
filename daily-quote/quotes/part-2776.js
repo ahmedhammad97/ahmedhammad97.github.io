@@ -1,0 +1,1 @@
+var author2776 = "Harvey Milk", quotes2776 = ["If a bullet should enter my brain, let that bullet destroy every closet door in the country"]

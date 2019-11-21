@@ -1,0 +1,1 @@
+var author7196 = "William Watson (poet)", quotes7196 = ["O be less beautiful,or be less brief.","April, April,Weep thy girlish tears!"]

@@ -1,0 +1,1 @@
+var author7157 = "William Moseley (actor)", quotes7157 = ["I do believe in God but I’m not very religious, I’m probably Christianity.","I did see what people were saying about me and I was terrified.","I don’t feel like a heart-throb. I don’t really know how to get used to it. It’s all quite bizarre."]

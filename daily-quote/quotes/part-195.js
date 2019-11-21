@@ -1,0 +1,1 @@
+var author195 = "Alan Keyes", quotes195 = ["Our success or failure is not in the hands of our leaders. It is in our hands.","The fundamental premise of liberalism is the moral incapacity of the American people.","The answer to crime is not gun control, it is law enforcement and self-control."]

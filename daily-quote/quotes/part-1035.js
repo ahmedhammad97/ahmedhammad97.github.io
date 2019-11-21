@@ -1,0 +1,1 @@
+var author1035 = "Canto General", quotes1035 = ["It was the twilight of the iguana.","Rise up to be born with me, my brother."]

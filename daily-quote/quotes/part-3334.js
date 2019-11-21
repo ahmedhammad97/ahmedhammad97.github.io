@@ -1,0 +1,1 @@
+var author3334 = "Jean Giraudoux", quotes3334 = ["The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life."]

@@ -1,0 +1,1 @@
+var author1523 = "Dartmouth College", quotes1523 = ["When better women are made, Dartmouth men will make them.","It is, Sir, as I have said, a small college. And yet there are those who love it."]

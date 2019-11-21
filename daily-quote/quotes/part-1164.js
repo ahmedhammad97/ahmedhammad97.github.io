@@ -1,0 +1,1 @@
+var author1164 = "Charles Rosen", quotes1164 = ["The eventual survival of the tradition is ultimately not at stake.","Our freedom is hemmed in on every side. We must be grateful for what remains.","Understanding music simply means not being irritated or puzzled by it.","It is above all through landscape that music joins Romantic art and literature."]

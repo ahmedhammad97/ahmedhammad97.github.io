@@ -1,0 +1,1 @@
+var author1877 = "Edward Elgar", quotes1877 = ["To my friends pictured within.","Play it like something you hear down by the river."]

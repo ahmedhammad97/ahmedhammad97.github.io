@@ -1,0 +1,1 @@
+var author3532 = "John Dolan", quotes3532 = ["I live in Fresno which is a death sentence already.","The best war is when you can hate both sides.","Something you have to know about the US military is that it sucks at commando raids."]

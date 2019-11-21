@@ -1,0 +1,1 @@
+var author1648 = "Derek Humphry", quotes1648 = ["If you have to help a person die, say nothing. Let the police do their own sleuthing."]

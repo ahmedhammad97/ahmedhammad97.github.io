@@ -1,0 +1,1 @@
+var author3531 = "John Doe (musician)", quotes3531 = ["There are no angels there are devils in many ways ","The life I lead is mighty slim pickens, there ain't much call for stompin' on chickens","Climbing uphill, one dollar bill, this town is far."]

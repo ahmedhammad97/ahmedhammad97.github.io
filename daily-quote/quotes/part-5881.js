@@ -1,0 +1,1 @@
+var author5881 = "Rum", quotes5881 = ["Don't talk to me about naval tradition. It's nothing but rum, sodomy, and the lash.","But why's the rum gone?.Oh. That's why.","Hide the rum. ","I prefer rum... Rum's good.","Making port, where we can get rum and sultry wenches... once every ten years."]

@@ -1,0 +1,1 @@
+var author6111 = "Shopping", quotes6111 = ["Shopping, true feminine felicity !"]

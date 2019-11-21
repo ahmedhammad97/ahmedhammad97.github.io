@@ -1,0 +1,1 @@
+var author6438 = "Taubie Kushlick", quotes6438 = ["I've been called a termagent, but people BELIEVE in me. I'm a BIG personality.","My type is dying out of the theatre. I'm a conductor who has to ORCHESTRATE the whole thing.","The metallic age suits her - silver hair, gold teeth and lead heart."]

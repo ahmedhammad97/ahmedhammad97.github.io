@@ -1,0 +1,1 @@
+var author319 = "Ali Khamenei", quotes319 = ["It is the mission of the Islamic Republic of Iran to erase Israel from the map of the region.","The purchase of any item which helps strengthen Zionism is not permissible.","Israel Is A Hideous Entity In the Middle East Which Will Undoubtedly Be Annihilated.","They have made the divine sanctuary unsafe for everybody."]

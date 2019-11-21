@@ -1,0 +1,1 @@
+var author6232 = "Stacey Campfield", quotes6232 = ["My understanding is that the KKK doesn't even ban members by race... [and] has less racist bylaws.","That bullying this is the biggest lark out there."]

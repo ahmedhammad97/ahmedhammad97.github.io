@@ -1,0 +1,1 @@
+var author6239 = "Stanisław Sosabowski", quotes6239 = ["Parachuting has taught us to be strong, and only those are needed by our country"]

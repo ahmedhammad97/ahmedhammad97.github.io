@@ -1,0 +1,1 @@
+var author1708 = "Distraction", quotes1708 = ["A person whose mind is distracted lives between the fangs of mental afflictions."]

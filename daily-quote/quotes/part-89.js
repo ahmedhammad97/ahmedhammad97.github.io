@@ -1,0 +1,1 @@
+var author89 = "Ada Lovelace", quotes89 = ["Our family are an alternate stratification of poetry and mathematics."]

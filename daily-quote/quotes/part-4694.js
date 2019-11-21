@@ -1,0 +1,1 @@
+var author4694 = "Modernity", quotes4694 = ["‘Progress’ is just a modern idea, which is to say a false idea.","Men have become the tools of their tools.","The disease of the modern character is specialization. ","Modernism is the attempt to permeate religion with middle-class reason."]

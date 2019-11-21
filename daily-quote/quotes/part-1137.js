@@ -1,0 +1,1 @@
+var author1137 = "Charles Francis Adams, Sr.", quotes1137 = ["It would be superfluous in me to point out to your Lordship that this is war."]

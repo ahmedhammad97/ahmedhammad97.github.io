@@ -1,0 +1,1 @@
+var author315 = "Algernon Sydney", quotes315 = ["Liars ought to have good memories.","Men lived like fishes; the great ones devoured the small.","God helps those who help themselves.","It is not necessary to light a candle to the sun."]

@@ -1,0 +1,1 @@
+var author6832 = "Universal Declaration of Human Rights", quotes6832 = ["Everyone has the right to life, liberty and the security of person.","Everyone has the right to recognition everywhere as a person before the law."]

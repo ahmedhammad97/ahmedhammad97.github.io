@@ -1,0 +1,1 @@
+var author1826 = "Econometrics", quotes1826 = ["(Econometrics is) the unification of economic theory, statistics and mathematics."]

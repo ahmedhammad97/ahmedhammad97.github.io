@@ -1,0 +1,1 @@
+var author6058 = "Serbia", quotes6058 = ["The Greek and Serb peoples will remain united until Doomsday"]

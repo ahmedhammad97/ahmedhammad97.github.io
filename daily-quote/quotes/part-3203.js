@@ -1,0 +1,1 @@
+var author3203 = "Jacques Monod", quotes3203 = ["A curious aspect of the theory of evolution is that everybody thinks he understands it."]

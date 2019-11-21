@@ -1,0 +1,1 @@
+var author6329 = "Style of art", quotes6329 = ["...distinctive manner which permits the grouping of works into related categories."]

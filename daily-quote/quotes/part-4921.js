@@ -1,0 +1,1 @@
+var author4921 = "Noel Gallagher", quotes4921 = ["I hate that Alex and Damon. I hope they catch AIDS and die.","I don't know, I think he's just going senile, isn't he?","All your dreams are made of strawberry lemonade / And you make sure I eat today "]

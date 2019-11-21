@@ -1,0 +1,1 @@
+var author4251 = "MEChA", quotes4251 = ["Economic ties of responsibility must be secured by nationalism and the Chicano defense units.","For the very young there will no longer be acts of juvenile delinquency, but revolutionary acts."]

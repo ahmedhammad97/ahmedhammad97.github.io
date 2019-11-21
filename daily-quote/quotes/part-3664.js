@@ -1,0 +1,1 @@
+var author3664 = "John Tate", quotes3664 = ["It doesn't matter how long it takes, if the end result is a good theorem."]

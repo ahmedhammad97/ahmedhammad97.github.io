@@ -1,0 +1,1 @@
+var author3852 = "Karl Brandt", quotes3852 = ["Ethical obligation has to subordinate itself to the totalitarian nature of war."]

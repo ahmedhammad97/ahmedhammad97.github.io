@@ -1,0 +1,1 @@
+var author3503 = "John Carder Bush", quotes3503 = ["When Man comes at me or let him meet the hooves?","When Woman comes at me or turn away the head?","When I the grass gets cropped."]

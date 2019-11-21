@@ -1,0 +1,1 @@
+var author5457 = "Punch (magazine)", quotes5457 = ["I used your soap two years ago; since then I have used no other."]

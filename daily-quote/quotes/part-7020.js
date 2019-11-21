@@ -1,0 +1,1 @@
+var author7020 = "Weightlifting", quotes7020 = ["No yoga - lots of training, lots of weight training. ","My ankles paid the price.","Everybody wants to be a bodybuilder, but nobody wants to lift no heavy ass weights.","Wait until they see these arms in Africa. They look big enough to me. "]

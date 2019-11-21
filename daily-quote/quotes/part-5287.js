@@ -1,0 +1,1 @@
+var author5287 = "Philip Snowden, 1st Viscount Snowden", quotes5287 = ["Truth, it has been said, is the first casualty of war. "]

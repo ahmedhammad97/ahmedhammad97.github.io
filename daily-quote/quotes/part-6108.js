@@ -1,0 +1,1 @@
+var author6108 = "Shlomo Amar", quotes6108 = ["Even when there is a struggle between nations it cannot be turned into a war of religions."]

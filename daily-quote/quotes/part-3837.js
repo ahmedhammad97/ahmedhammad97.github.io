@@ -1,0 +1,1 @@
+var author3837 = "Kai Ryssdal", quotes3837 = ["When you’re young, hungry and stupid you’ll do whatever it takes."]

@@ -1,0 +1,1 @@
+var author2413 = "Gary Zukav", quotes2413 = ["Summary of the new physics and the old physics:"]

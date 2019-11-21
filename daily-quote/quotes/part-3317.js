@@ -1,0 +1,1 @@
+var author3317 = "Java (programming language)", quotes3317 = ["Java is, in many ways, C++--.","Java is C++ without the guns, knives, and clubs.","In 30 years Lisp will likely be ahead of C++/Java (but behind something else)"]

@@ -1,0 +1,1 @@
+var author1362 = "Conflict", quotes1362 = ["All human conflict is ultimately theological.","There are … no conflicts of interest among rational men, men who do not desire the unearned."]

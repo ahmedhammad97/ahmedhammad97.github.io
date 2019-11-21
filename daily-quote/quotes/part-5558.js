@@ -1,0 +1,1 @@
+var author5558 = "Red Auerbach", quotes5558 = ["You handle animals. You deal with people."]

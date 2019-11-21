@@ -1,0 +1,1 @@
+var author4944 = "Noses", quotes4944 = ["As clear and as manifest as the nose in a man's face.","Plain as a nose in a man's face."]

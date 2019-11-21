@@ -1,0 +1,1 @@
+var author4295 = "Malcolm Muggeridge", quotes4295 = ["Few men of action have been able to make a graceful exit at the appropriate time."]

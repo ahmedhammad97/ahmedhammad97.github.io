@@ -1,0 +1,1 @@
+var author1568 = "David L. Norton", quotes1568 = ["For eudaimonism, an ethics of prohibition is a contradiction in terms."]

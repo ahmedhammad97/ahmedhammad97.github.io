@@ -1,0 +1,1 @@
+var author3194 = "Jacque Fresco", quotes3194 = ["Our times demand the declaration of the world's resources as the common heritage of all people.","Whenever money is involved, there is elitism."]

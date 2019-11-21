@@ -1,0 +1,1 @@
+var author546 = "Aravind Adiga", quotes546 = ["The moment you recognize what is beautiful in this world, you stop being a slave."]

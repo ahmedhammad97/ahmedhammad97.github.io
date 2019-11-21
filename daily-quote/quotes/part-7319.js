@@ -1,0 +1,1 @@
+var author7319 = "Zoroaster", quotes7319 = ["For a thinking man is where Wisdom is at home.","A reflective, contented mind is the best possession.","Satisfaction linked with dishonor or with harm to others is a prison for the seeker."]

@@ -1,0 +1,1 @@
+var author6688 = "Thích Nhất Hạnh", quotes6688 = ["One included all, and all were contained in one.","Freedom from suffering is a great happiness.","It's wonderful to be alive and to walk on earth.","You are a miracle, and everything you touch could be a miracle.","We have more possibilities available in each moment than we realize. "]

@@ -1,0 +1,1 @@
+var author2599 = "Golden Rule", quotes2599 = ["An it harm none, do as thou wilt.","Do as ye wald be done to.","Do not that to another, which thou wouldest not have done to thyself.","When you treat others as you want them to treat you, you liberate yourself.","Learn to treat others in the way that you want to be treated."]

@@ -1,0 +1,1 @@
+var author234 = "Alcoholism", quotes234 = ["Jesus, he said to himself. Drunk for ten years.","...and another little drink wouldn't do us any harm.","‘Tis not the eating, nor ‘tis not the drinking that is to be blamed, but the excess.","Drink is in itself a good creature of God, but the abuse of drink is from Satan.","Alcoholism is the disease of more."]

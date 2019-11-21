@@ -1,0 +1,1 @@
+var author1249 = "Christopher Monckton", quotes1249 = ["The point is, these [oil spill] accidents will happen. As we scientists say, shit happens."]

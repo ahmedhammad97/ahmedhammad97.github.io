@@ -1,0 +1,1 @@
+var author2926 = "Hobby", quotes2926 = ["A hobby is a happy medium between a passion and a monomania.","A hobby is the result of a distorted view of things. It is putting a planet in the place of a sun."]

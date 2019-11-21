@@ -1,0 +1,1 @@
+var author842 = "Bing Xin", quotes842 = ["Forget whatever should be forgotten, so that you can remember what should be remembered."]

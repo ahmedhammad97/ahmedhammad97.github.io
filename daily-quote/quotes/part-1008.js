@@ -1,0 +1,1 @@
+var author1008 = "C. L. R. James", quotes1008 = ["If you are not their slaves, you are rebels.","Dissimulation is the refuge of the slave."]

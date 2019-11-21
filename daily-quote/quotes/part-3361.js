@@ -1,0 +1,1 @@
+var author3361 = "Jef Raskin", quotes3361 = ["Right now, computers, which are supposed to be our servant, are oppressing us.","As far as the customer is concerned, the interface is the product.","The system should treat all user input as sacred.","An unlimited-length file name is a file. The content of a file is its own best name."]

@@ -1,0 +1,1 @@
+var author921 = "Boyd K. Packer", quotes921 = ["Happiness is inseparably connected with decent, clean behavior. ","Fear is the opposite of faith."]

@@ -1,0 +1,1 @@
+var author4812 = "Nathan Leone", quotes4812 = ["The kids have been unbelievable, we love you forever. Don't forget it and don't forget about us."]

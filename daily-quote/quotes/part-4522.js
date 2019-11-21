@@ -1,0 +1,1 @@
+var author4522 = "Means of production", quotes4522 = ["One day we will take hold of the means of production and there will be justice on earth."]

@@ -1,0 +1,1 @@
+var author4578 = "Michael Ende", quotes4578 = ["Time is Life.","Lots of things take time, and time was Momo's only form of wealth."]

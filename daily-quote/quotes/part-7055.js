@@ -1,0 +1,1 @@
+var author7055 = "Wilhelm Lehmbruck", quotes7055 = ["Sculpture is the essence of things, the essence of nature, that which is perpetually human."]

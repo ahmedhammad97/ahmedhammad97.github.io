@@ -1,0 +1,1 @@
+var author4034 = "Lawrence K. Frank", quotes4034 = ["The most important things about the individual are what he cannot or will not say."]

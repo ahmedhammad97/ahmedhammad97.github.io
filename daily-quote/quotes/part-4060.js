@@ -1,0 +1,1 @@
+var author4060 = "Legislators", quotes4060 = ["In all forms of government the people is the true legislator."]

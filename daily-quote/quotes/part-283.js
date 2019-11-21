@@ -1,0 +1,1 @@
+var author283 = "Alexandre Dumas", quotes283 = ["Sleeping on a plank has one advantage — it encourages early rising.","Private misfortunes must never induce us to neglect public affairs.","All human wisdom is contained in these words: Wait and hope!"]

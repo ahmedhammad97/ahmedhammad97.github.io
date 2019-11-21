@@ -1,0 +1,1 @@
+var author2303 = "Franz Kline", quotes2303 = ["I paint not the things I see but the feelings they arouse in me."]

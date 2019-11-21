@@ -1,0 +1,1 @@
+var author1763 = "Douglas Huebler", quotes1763 = ["The world is full of objects, more or less interesting; I do not wish to add any more."]

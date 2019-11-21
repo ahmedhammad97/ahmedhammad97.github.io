@@ -1,0 +1,1 @@
+var author1990 = "Emily Hahn", quotes1990 = ["Free choice is a very precious thing.","With my usual sublime self-confidence, I rode roughshod over the objections. ","The mind of a traveler has only one spotlight, and it is always trained on the present scene. ","I have deliberately chosen the uncertain path whenever I had the chance. "]

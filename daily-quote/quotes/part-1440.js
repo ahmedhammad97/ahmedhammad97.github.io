@@ -1,0 +1,1 @@
+var author1440 = "Cryonics", quotes1440 = ["Cryonics is the second worst thing that can happen to you.","If cryonics were a scam it would have far better marketing and be far more popular."]

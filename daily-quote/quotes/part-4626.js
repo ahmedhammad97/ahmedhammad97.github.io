@@ -1,0 +1,1 @@
+var author4626 = "Michelangelo", quotes4626 = ["Beauty is the purgation of superfluities.","I was never the kind of painter or sculptor who kept a shop."]

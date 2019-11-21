@@ -1,0 +1,1 @@
+var author1938 = "Electrical engineering", quotes1938 = ["Computer science is neither mathematics nor electrical engineering","Computers are no more able to create information than iPods are capable of creating music."]

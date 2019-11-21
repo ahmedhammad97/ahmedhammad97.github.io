@@ -1,0 +1,1 @@
+var author1162 = "Charles Péguy", quotes1162 = ["There will be things that I do that no one will be left to understand.","The faith that I love the best, says God, is hope.","Tyranny is always better organised than freedom."]

@@ -1,0 +1,1 @@
+var author2999 = "Ian Kershaw", quotes2999 = ["The road to Auschwitz was built by hate, but paved with indifference."]

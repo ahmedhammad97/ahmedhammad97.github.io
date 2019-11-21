@@ -1,0 +1,1 @@
+var author301 = "Alfred Jodl", quotes301 = ["My greetings to you, my Germany.","Ah, you come to see the others but rarely to see me.","Yes, I'm very normal, everything is okay, I won't become a psychiatric case."]

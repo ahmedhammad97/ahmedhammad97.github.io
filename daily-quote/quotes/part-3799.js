@@ -1,0 +1,1 @@
+var author3799 = "Julia Child", quotes3799 = ["A cookbook is only as good as its worst recipe.","The only time to eat diet food is while you're waiting for the steak to cook."]

@@ -1,0 +1,1 @@
+var author5635 = "Richard E. Byrd", quotes5635 = ["A static hero is a public liability. Progress grows out of motion.","Half the confusion in the world comes from not knowing how little we need.","A discordant mind, black with confusion and despair, would finish me off as thoroughly as the cold."]

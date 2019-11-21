@@ -1,0 +1,1 @@
+var author1812 = "Earnestness", quotes1812 = ["My God, help me always resolutely to strive, and, through life and death, to force my way unto Thee."]

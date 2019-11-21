@@ -1,0 +1,1 @@
+var author2732 = "Hans Reiser", quotes2732 = ["Doing GPL work is doing charity work in our current legal and economic framework."]

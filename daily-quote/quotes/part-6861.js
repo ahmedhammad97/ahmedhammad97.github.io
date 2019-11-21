@@ -1,0 +1,1 @@
+var author6861 = "Valerie Solanas", quotes6861 = ["Every man, deep down, knows he's a worthless peice of shit.","The male has a negative Midas Touch - everything he touches turns to shit.","That's conversation. I charge six bucks an hour for that."]

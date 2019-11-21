@@ -1,0 +1,1 @@
+var author6834 = "Universal suffrage", quotes6834 = ["In order to reach universal suffrage we need to build trust."]

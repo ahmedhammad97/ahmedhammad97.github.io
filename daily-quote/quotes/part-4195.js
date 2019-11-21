@@ -1,0 +1,1 @@
+var author4195 = "Love of God", quotes4195 = ["The commandments of God should be followed because of love of God, not because of fear of God."]

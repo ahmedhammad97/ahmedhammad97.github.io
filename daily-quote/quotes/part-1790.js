@@ -1,0 +1,1 @@
+var author1790 = "Duo Duo", quotes1790 = ["Looking out from death you will always seeThose whom all your life you ought not to see"]

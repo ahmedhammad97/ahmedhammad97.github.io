@@ -1,0 +1,1 @@
+var author6540 = "The Revolt of the Masses", quotes6540 = ["This is the gravest danger that today threatens civilization: state intervention."]

@@ -1,0 +1,1 @@
+var author1888 = "Edward Lear", quotes1888 = ["Who, or why, or which, or what,Is the Akond of Swat?","It's a fact the whole world knows,That Pebbles are happier without their toes.","Dear pig, are you willing to sell for one shillingYour ring? Said the Piggy, I will."]

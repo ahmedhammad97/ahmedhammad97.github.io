@@ -1,0 +1,1 @@
+var author2010 = "Endless Legend", quotes2010 = ["Marines do not fear the cold, the dark, or the enemy.","A gift to the gods, an Appeasement of Agony to pay for our sins of weakness.","It is said that the worst way to die is to burn."]

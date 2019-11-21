@@ -1,0 +1,1 @@
+var author3125 = "Islamic fundamentalism", quotes3125 = ["The only problem with Islamic fundamentalism are the fundamentals of Islam."]

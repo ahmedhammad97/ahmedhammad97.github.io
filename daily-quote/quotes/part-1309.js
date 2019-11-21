@@ -1,0 +1,1 @@
+var author1309 = "Clowns", quotes1309 = ["Though the clown is often deadpan, he is a connoisseur of laughter."]

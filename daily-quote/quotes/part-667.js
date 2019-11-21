@@ -1,0 +1,1 @@
+var author667 = "Augusto Boal", quotes667 = ["It is forbidden to walk on the grass. It is not forbidden to fly over the grass.","To resist, it is not enough to say No – it is necessary to desire!"]

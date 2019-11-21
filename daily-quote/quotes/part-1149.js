@@ -1,0 +1,1 @@
+var author1149 = "Charles Krauthammer", quotes1149 = ["Obsession with self is the motif of our time.","Fairness through leveling is the essence of Obamaism.","The joy of losing consists in this: Where there are no expectations, there is no disappointment.","The free lunch is the essence of modern liberalism."]

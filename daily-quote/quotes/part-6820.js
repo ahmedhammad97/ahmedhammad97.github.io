@@ -1,0 +1,1 @@
+var author6820 = "Unconscious", quotes6820 = ["If the unconscious is an abyss, how could Sigmund Freud get out of it?"]

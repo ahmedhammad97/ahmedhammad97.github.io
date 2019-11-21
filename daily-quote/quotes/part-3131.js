@@ -1,0 +1,1 @@
+var author3131 = "Israel Zangwill", quotes3131 = ["No Jew was ever fool enough to turn Christian unless he was a clever man.","Scratch the Christian and you find the pagan — spoiled.","Oh, for the simple life,For tents and starry skies!"]

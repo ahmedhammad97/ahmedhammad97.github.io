@@ -1,0 +1,1 @@
+var author831 = "Bill Murray", quotes831 = ["I don't know what my fans are going to think. It's definitely not what they're used to from me."]

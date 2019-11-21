@@ -1,0 +1,1 @@
+var author2883 = "Heretics (book)", quotes2883 = ["We ought to see far enough into a hypocrite to see even his sincerity.","Happiness is a mystery like religion, and should never be rationalised.","Every man speaks of public opinion, and means by public opinion, public opinion minus his opinion."]

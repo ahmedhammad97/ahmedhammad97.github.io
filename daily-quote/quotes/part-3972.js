@@ -1,0 +1,1 @@
+var author3972 = "Käthe Kollwitz", quotes3972 = ["Pacifism simply is not a matter of calm looking on; it is hard work."]

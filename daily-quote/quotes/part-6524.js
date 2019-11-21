@@ -1,0 +1,1 @@
+var author6524 = "The Many Faces of Catwoman", quotes6524 = ["Alex Ross: Catwoman was Batman's opposite number in a weird way.","Oh we're sexy, but kittenish sexy. - Lee Meriwether","A cat is a cat. She has no race creed or collar. - Eartha Kitt","Adrienne has a perfect voice for this. - Suzan Colon","She's divine. - Julie Newmar"]

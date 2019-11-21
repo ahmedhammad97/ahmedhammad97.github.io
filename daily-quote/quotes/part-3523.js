@@ -1,0 +1,1 @@
+var author3523 = "John D. Rockefeller, Jr.", quotes3523 = ["My mother and father raised but one question: Is it right, is it duty?","I took responsibility early and, like my parents, I was serious. ","I believe that truth and justice are fundamental to an enduring social order."]

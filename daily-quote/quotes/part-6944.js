@@ -1,0 +1,1 @@
+var author6944 = "Václav Klaus", quotes6944 = ["You cannot have democratic accountability in anything bigger than a nation state."]

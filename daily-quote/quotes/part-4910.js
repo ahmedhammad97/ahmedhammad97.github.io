@@ -1,0 +1,1 @@
+var author4910 = "Nikola Tesla", quotes4910 = ["I have harnessed the cosmic rays and caused them to operate a motive device.","I am equally proud of my Serbian origin and Croatian homeland."]

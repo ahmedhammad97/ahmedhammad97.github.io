@@ -1,0 +1,1 @@
+var author1724 = "Don Arden", quotes1724 = ["Fear became my weapon. "]

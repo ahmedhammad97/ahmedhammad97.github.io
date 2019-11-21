@@ -1,0 +1,1 @@
+var author2105 = "Eugene McCarthy", quotes2105 = ["Have you ever tried to split sawdust?","It is dangerous for a national candidate to say things that people might remember.","Remember that the worst accidents occur in the middle of the road.","There is only one thing to do — take it to the country!","Lament for an Aging Politician"]

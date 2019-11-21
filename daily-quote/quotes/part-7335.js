@@ -1,0 +1,1 @@
+var author7335 = "Łukasz Pawlikowski", quotes7335 = ["Translation: Art does not ask about the age, just expects a lot."]

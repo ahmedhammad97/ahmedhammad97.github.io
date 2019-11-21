@@ -1,0 +1,1 @@
+var author626 = "Artur Schnabel", quotes626 = ["Applause is a receipt, not a note of demand.","I know two kinds of audience only – one coughing, and one not coughing."]

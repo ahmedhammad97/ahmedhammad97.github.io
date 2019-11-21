@@ -1,0 +1,1 @@
+var author5930 = "Salvation", quotes5930 = ["Sole survivor, cursed with second sight Haunted saviour, cried into the night."]

@@ -1,0 +1,1 @@
+var author293 = "Alfred Adler", quotes293 = ["To be human means to feel inferior.","It is always easier to fight for one's principles than to live up to them.","Man knows much more than he understands."]

@@ -1,0 +1,1 @@
+var author6210 = "Span of control", quotes6210 = ["The purposes of functional charts is"]

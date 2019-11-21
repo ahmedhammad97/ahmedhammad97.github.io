@@ -1,0 +1,1 @@
+var author3977 = "L. P. Hartley", quotes3977 = ["The past is a foreign country; they do things differently there.","But men still shoot each other, don't they? I asked hopefully.","I might go for a walk. Even to me this sounded a pedestrian thing to do."]

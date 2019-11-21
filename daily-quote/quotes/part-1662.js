@@ -1,0 +1,1 @@
+var author1662 = "Dharma", quotes1662 = ["To uplift the lowly is dharmam."]

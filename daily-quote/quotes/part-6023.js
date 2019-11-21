@@ -1,0 +1,1 @@
+var author6023 = "Sea", quotes6023 = ["The sea is the sweat of the earth.","The sea, that great library of books one cannot read.","But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.","Oh salty sea, how much of your saltare tears of Portugal!","Behold, the sea itself"]

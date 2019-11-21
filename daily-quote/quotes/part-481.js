@@ -1,0 +1,1 @@
+var author481 = "Annette Lu", quotes481 = ["Only the blue sky, green land alliance can make Taiwan better."]

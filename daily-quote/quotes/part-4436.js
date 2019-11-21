@@ -1,0 +1,1 @@
+var author4436 = "Martin Rees", quotes4436 = ["Absence of evidence is not evidence of absence."]

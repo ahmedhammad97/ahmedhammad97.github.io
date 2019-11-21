@@ -1,0 +1,1 @@
+var author1027 = "Camels", quotes1027 = ["A camel's hump is an ugly lump"]

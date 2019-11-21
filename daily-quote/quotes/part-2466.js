@@ -1,0 +1,1 @@
+var author2466 = "George Farquhar", quotes2466 = ["I hate all that don’t love me, and slight all that do.","Crimes, like Virtues, are their own Rewards.","Hanging and marriage, you know, go by destiny.","[T]hose who know the least, obey the best.","Sir, you shall taste my Anno Domini.","There is no scandal like rags, nor any crime so shameful as poverty."]

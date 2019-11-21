@@ -1,0 +1,1 @@
+var author5619 = "Richard Aldington", quotes5619 = ["I dream of silent verses where the rhymeGlides noiseless as an oar."]

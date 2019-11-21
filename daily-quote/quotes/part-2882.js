@@ -1,0 +1,1 @@
+var author2882 = "Heresy", quotes2882 = ["It is not necessary to seek truth among others which it is easy to obtain from the Church. ","A man that is a heretic, after the first and second admonition, reject."]

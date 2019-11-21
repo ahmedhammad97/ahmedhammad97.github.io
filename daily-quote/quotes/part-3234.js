@@ -1,0 +1,1 @@
+var author3234 = "James Dickey", quotes3234 = ["Drunk on the wind in my mouth,Wild to be wreckage forever."]

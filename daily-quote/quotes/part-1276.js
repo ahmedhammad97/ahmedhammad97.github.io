@@ -1,0 +1,1 @@
+var author1276 = "Clandestine Insurgent Rebel Clown Army", quotes1276 = ["We are clowns because what else can one be in such a stupid world. ","Only an army can declare absurd war on absurd war.","RUN AWAY FROM THE CIRCUS JOIN THE FORCES OF THE CLANDESTINE INSURGENT REBEL CLOWN ARMY"]

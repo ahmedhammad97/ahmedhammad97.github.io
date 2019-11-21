@@ -1,0 +1,1 @@
+var author4851 = "Neoconservatism", quotes4851 = ["There's no neo in my conservatism."]

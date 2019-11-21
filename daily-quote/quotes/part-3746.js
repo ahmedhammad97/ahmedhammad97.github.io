@@ -1,0 +1,1 @@
+var author3746 = "Joseph L. Bower", quotes3746 = ["To make further progress it is necessary to go beyond the financial model."]

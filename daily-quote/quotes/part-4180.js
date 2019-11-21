@@ -1,0 +1,1 @@
+var author4180 = "Louis Armstrong", quotes4180 = ["If you still have to ask, shame on you "]

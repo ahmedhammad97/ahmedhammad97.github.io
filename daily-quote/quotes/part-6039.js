@@ -1,0 +1,1 @@
+var author6039 = "Self discipline", quotes6039 = ["Self-discipline is indispensable, if you want to master your character.","The middle gear of any man is self-discipline."]

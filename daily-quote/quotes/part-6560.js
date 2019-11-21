@@ -1,0 +1,1 @@
+var author6560 = "Theatre", quotes6560 = ["If you have a message, call western union."]

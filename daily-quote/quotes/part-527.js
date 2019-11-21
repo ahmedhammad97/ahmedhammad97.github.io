@@ -1,0 +1,1 @@
+var author527 = "Anzia Yezierska", quotes527 = ["Poverty was an ornament on a learned man like a red ribbon on a white horse"]

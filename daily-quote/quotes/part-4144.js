@@ -1,0 +1,1 @@
+var author4144 = "Lisa Randall", quotes4144 = ["When it comes to the world around us, is there any choice but to explore?","We certainly don't yet know all the answers. But the universe is about to be pried open.","Secrets of the cosmos will begin to unravel. I, for one, can't wait."]

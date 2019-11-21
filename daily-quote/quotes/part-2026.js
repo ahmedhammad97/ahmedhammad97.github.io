@@ -1,0 +1,1 @@
+var author2026 = "Epicharmus of Kos", quotes2026 = ["I have no desire to die, but I count my death as nothing."]

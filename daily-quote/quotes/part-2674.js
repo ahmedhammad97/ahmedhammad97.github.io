@@ -1,0 +1,1 @@
+var author2674 = "Gulf War", quotes2674 = ["Europe is an economic giant, a political dwarf, and a military worm. ","I seem to smell the stench of appeasement in the air—the rather nauseating stench of appeasement. "]

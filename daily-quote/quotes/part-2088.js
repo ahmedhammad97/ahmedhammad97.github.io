@@ -1,0 +1,1 @@
+var author2088 = "Estimates", quotes2088 = ["An estimated value is a precarious measure of justice, compared with the specific thing."]

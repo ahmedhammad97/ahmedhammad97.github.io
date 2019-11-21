@@ -1,0 +1,1 @@
+var author2655 = "Gro Harlem Brundtland", quotes2655 = ["The global toll of mental illness and neurological disorders is staggering. ","We have an opportunity to launch a massive effort against infectious diseases."]

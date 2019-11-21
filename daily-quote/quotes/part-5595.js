@@ -1,0 +1,1 @@
+var author5595 = "Research", quotes5595 = ["Attempt the end and never stand to doubt;Nothing's so hard but search will find it out.","It is a good thing for a research scientist to discard a pet hypothesis every day before breakfast.","Hail, follow, well met,Who's master, who's man.","The worst thing happens when ideologists are trying to analyse scientific researches."]

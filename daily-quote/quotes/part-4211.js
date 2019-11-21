@@ -1,0 +1,1 @@
+var author4211 = "Lucy Parsons", quotes4211 = ["Never be deceived that the rich will allow you to vote away their wealth."]

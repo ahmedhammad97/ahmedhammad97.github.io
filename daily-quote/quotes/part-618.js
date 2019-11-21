@@ -1,0 +1,1 @@
+var author618 = "Arthur Uther Pendragon", quotes618 = ["Lead, follow, or get out of the fucking way."]

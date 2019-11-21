@@ -1,0 +1,1 @@
+var author5935 = "Sam Kinison", quotes5935 = ["I just got shot in the ass with an infected load of semen! Who's the smart-ass?","They beat us, they beat us, they made us do their BLOW!","I was MARRIED for TWO FUCKING YEARS! Hell would be like Club Med!","How does a guy look at another guy's hairy ass, and find love?"]

@@ -1,0 +1,1 @@
+var author1181 = "Charlotte Perkins Gilman", quotes1181 = ["There are things in that wallpaper that nobody knows about but me, or ever will.","I do not want to be a fly,I want to be a worm!","There is no female mind. The brain is not an organ of sex. As well speak of a female liver."]

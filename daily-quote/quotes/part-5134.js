@@ -1,0 +1,1 @@
+var author5134 = "Paul Begala", quotes5134 = ["Stroke of the pen. Law of the Land. Kinda cool.","Will we lift our sights to meet his vision?","Two Corinthians walk into a bar..."]

@@ -1,0 +1,1 @@
+var author3813 = "Julien Benda", quotes3813 = ["The modern moralists extol … the cult of practical activity in defiance of the disinterested life.","The desire to abase the values of knowledge before the values of action..."]

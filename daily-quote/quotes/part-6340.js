@@ -1,0 +1,1 @@
+var author6340 = "Sukarno", quotes6340 = ["What really happened to her? How did she die?","The result of this is fear. And man gasps for safety and morality."]

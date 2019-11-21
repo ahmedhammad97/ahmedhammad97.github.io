@@ -1,0 +1,1 @@
+var author6309 = "Stock market", quotes6309 = ["When asked what the stock market will do: It will fluctuate"]

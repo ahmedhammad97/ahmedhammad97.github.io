@@ -1,0 +1,1 @@
+var author6966 = "Wallace Stegner", quotes6966 = ["It has never been man’s gift to make wildernesses. But he can make deserts, and has.","There is a sense in which we are all each other's consequences."]

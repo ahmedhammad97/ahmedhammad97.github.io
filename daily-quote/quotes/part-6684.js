@@ -1,0 +1,1 @@
+var author6684 = "Thunder", quotes6684 = ["Loud roared the dreadful thunder,The rain a deluge showers.","Thy thunder, conscious of the new command,Rumbles reluctant o'er our fallen house.","Are there no stones in heavenBut what serve for the thunder?"]

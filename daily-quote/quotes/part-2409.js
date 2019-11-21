@@ -1,0 +1,1 @@
+var author2409 = "Gary Gygax", quotes2409 = ["Hello Fry, it's a ... *[stops mid-sentence, throws a D20 and a D6]* pleasure to meet you."]

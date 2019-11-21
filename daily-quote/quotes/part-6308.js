@@ -1,0 +1,1 @@
+var author6308 = "Stirling Silliphant", quotes6308 = ["If you did not suffer from emotions, from feelings, you could be as powerful as we are. ","You have to be taught to leave us alone. Leave us alone."]

@@ -1,0 +1,1 @@
+var author2557 = "Gestalt psychology", quotes2557 = ["Wholeness [Ganzheit], Gestalt, is the primary attribute of life."]

@@ -1,0 +1,1 @@
+var author6853 = "V. S. Naipaul", quotes6853 = ["Everybody is interesting for an hour, but few people can last more than two.","One always writes comedy at the moment of deepest hysteria.","I could scarcely bear to look at her eyes. They promised such intimacies.","Before comfort had been squeezed out of the hard land, like blood out of stone."]

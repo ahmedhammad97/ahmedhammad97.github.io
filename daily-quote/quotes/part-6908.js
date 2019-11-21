@@ -1,0 +1,1 @@
+var author6908 = "Vilhelm Ekelund", quotes6908 = ["Whose is the world? Whose is thought? His who loves them.","What has been postponed by reason of road and effort is well postponed.","Truth and beauty ... yield themselves only to whoever surrenders to them&mdash;as to a rescuer."]

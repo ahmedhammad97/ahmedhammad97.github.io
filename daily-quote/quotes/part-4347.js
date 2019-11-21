@@ -1,0 +1,1 @@
+var author4347 = "Margaret Sanger", quotes4347 = ["I should be the Hunger Strikee."]

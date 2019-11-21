@@ -1,0 +1,1 @@
+var author6304 = "Stevie Nicks", quotes6304 = ["It's just about a lady who's a goddess of steeds and a maker of birds."]

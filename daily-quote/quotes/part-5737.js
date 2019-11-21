@@ -1,0 +1,1 @@
+var author5737 = "Robert Gilpin", quotes5737 = ["It would be premature to suggest that the nation-state is dead or dying.","The world economy diffuses rather than concentrates wealth. ","Japanese refer to Europe as a museum and America as a farm."]

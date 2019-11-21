@@ -1,0 +1,1 @@
+var author7208 = "Wilson Harris", quotes7208 = ["The arts have to be pursued irrespective of what people think."]

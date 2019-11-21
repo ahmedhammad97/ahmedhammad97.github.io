@@ -1,0 +1,1 @@
+var author993 = "Business process reengineering", quotes993 = ["To succeed at reengineering, you have to be a missionary, a motivator, and a leg breaker."]

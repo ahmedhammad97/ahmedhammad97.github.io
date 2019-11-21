@@ -1,0 +1,1 @@
+var author1691 = "Disappointment", quotes1691 = ["Like to the apples on the Dead Sea's shore,All ashes to the taste.","As distant prospects please us, but when nearWe find but desert rocks and fleeting air.","But O! as to embrace me she inclin'd,I wak'd, she fled, and day brought back my night."]

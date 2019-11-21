@@ -1,0 +1,1 @@
+var author7103 = "William Ellery Channing (poet)", quotes7103 = ["Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.","Most joyful let the Poet be;It is through him that all men see.","A wail in the wind is all I hear;A voice of woe for a lover's loss."]

@@ -1,0 +1,1 @@
+var author6736 = "Tom Shadyac", quotes6736 = ["Coincidence is God's way of remaining anonymous."]

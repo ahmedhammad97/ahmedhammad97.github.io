@@ -1,0 +1,1 @@
+var author4559 = "Merton Miller", quotes4559 = ["What counts is what you do with your money, not where it came from."]

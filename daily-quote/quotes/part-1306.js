@@ -1,0 +1,1 @@
+var author1306 = "Clinton Edgar Woods", quotes1306 = ["The unsightly appearance of automobiles has been commented upon this country a great deal. "]

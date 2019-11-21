@@ -1,0 +1,1 @@
+var author7275 = "Yitzchak Gruenbaum", quotes7275 = ["I think it is necessary to state here – Zionism is above everything."]

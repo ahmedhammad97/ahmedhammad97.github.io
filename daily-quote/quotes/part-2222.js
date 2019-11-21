@@ -1,0 +1,1 @@
+var author2222 = "Flavius Josephus", quotes2222 = ["Their exercises are unbloody battles, and their battles bloody exercises."]

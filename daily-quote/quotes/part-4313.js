@@ -1,0 +1,1 @@
+var author4313 = "Manfred F.R. Kets de Vries", quotes4313 = ["CEOS who are neurotic impostors are also likely to become addicted to consulting companies."]

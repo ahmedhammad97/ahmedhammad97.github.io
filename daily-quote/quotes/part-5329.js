@@ -1,0 +1,1 @@
+var author5329 = "Piet de Jong", quotes5329 = ["'Majesty, there you see a how a person comes down in the world.' ","'As far as I know, pornography is the only working medicine against seasickness.'","'Well, the Belgians aren't a seafaring people, are they?'"]

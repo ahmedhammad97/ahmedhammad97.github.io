@@ -1,0 +1,1 @@
+var author2115 = "Eva Gabor", quotes2115 = ["What's the use of having a gorgeous outfit if you are not happy?"]

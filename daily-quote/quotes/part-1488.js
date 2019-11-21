@@ -1,0 +1,1 @@
+var author1488 = "Dana Stabenow", quotes1488 = ["That's some fucking doorman you've got out there.","I'm always making the mistake of believing what I see with my own eyes.","No fucking wolves in the house!","Killing a park ranger in Alaska ain't the same thing as murder."]

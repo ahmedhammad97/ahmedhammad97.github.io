@@ -1,0 +1,1 @@
+var author5684 = "Ricky Gervais", quotes5684 = ["The truth doesn’t hurt. Whatever it is, it doesn’t hurt. It’s better to know the truth.","I think a comedian's job isn't just to make people laugh. I think it's to make people think."]

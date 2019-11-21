@@ -1,0 +1,1 @@
+var author7146 = "William Lloyd Garrison", quotes7146 = ["Our country is the world — our countrymen are all mankind.","We may be personally defeated, but our principles never.","The success of any great moral enterprise does not depend upon numbers."]

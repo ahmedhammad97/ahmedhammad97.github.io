@@ -1,0 +1,1 @@
+var author792 = "Bernard of Clairvaux", quotes792 = ["The true measure of loving God is to love Him without measure."]

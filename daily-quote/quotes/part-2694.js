@@ -1,0 +1,1 @@
+var author2694 = "Günter Grass", quotes2694 = ["Even bad books are books, and therefore sacred."]

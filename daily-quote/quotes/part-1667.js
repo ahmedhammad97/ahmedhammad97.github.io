@@ -1,0 +1,1 @@
+var author1667 = "Diane Ackerman", quotes1667 = ["I don't want to be a passenger in my own life.","Human beings are sloshing sacks of chemicals on the move.","When art separates this thick tangle of feelings, love bares its bones."]

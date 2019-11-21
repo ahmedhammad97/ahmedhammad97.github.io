@@ -1,0 +1,1 @@
+var author5073 = "Paavo Haavikko", quotes5073 = ["War is time that has marched through the mind, and is later presented in"]

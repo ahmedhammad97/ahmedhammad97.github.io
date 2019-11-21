@@ -1,0 +1,1 @@
+var author5140 = "Paul Churchland", quotes5140 = ["We do have an organ for understanding and recognizing moral facts. It is called the brain.","The curiosity of Man, and the cunning of his reason, have revealed much of what Nature held hidden."]

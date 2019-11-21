@@ -1,0 +1,1 @@
+var author1020 = "Calculus", quotes1020 = ["I don't have a word for how it smelled. Like calculus, perhaps?","God does not care about our mathematical difficulties — he integrates empirically."]

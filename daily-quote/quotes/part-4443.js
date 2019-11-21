@@ -1,0 +1,1 @@
+var author4443 = "Marvin Bell", quotes4443 = ["Learn the rules, break the rules, make up new rules, break the new rules."]

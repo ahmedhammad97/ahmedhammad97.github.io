@@ -1,0 +1,1 @@
+var author1474 = "Damon Knight", quotes1474 = ["Science fiction … means what we point to when we say it.","It's a cookbook! ","“Don’t lose your temper,” said Ruell evenly. “It’s your worst fault, except for ignorance.”"]

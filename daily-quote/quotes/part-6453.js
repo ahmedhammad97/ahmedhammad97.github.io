@@ -1,0 +1,1 @@
+var author6453 = "Ted Williams", quotes6453 = ["If you don't think too good, don't think too much."]

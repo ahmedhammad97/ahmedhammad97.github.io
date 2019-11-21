@@ -1,0 +1,1 @@
+var author711 = "Barbara Cartland", quotes711 = ["The right diet directs sexual energy into the parts that matter."]

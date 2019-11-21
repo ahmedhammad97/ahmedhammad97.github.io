@@ -1,0 +1,1 @@
+var author1503 = "Daniel Goleman", quotes1503 = ["Feelings are self-justifying, with a set of perceptions and proofs all their own."]

@@ -1,0 +1,1 @@
+var author3087 = "Ira Gershwin", quotes3087 = ["I got rhythm,Who could ask for anything more?","Nice work if you can get it,And you can get it if you try."]

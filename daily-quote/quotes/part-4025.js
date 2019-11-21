@@ -1,0 +1,1 @@
+var author4025 = "Laurence Hope", quotes4025 = ["Less than the dust beneath thy chariot wheel,Less than the rust that never stained thy sword,","Less than the weed that grows beside thy door","I would have rather felt you round my throatCrushing out life, than waving me farewell!"]

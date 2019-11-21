@@ -1,0 +1,1 @@
+var author3474 = "John Ashcroft", quotes3474 = ["The objective of securing the safety of Americans from crime and terror has been achieved.","(Allegedly) Why are we talking about this in the White House? History will not judge this kindly.","It is not enough that we have a guilty defendant. We must have an innocent system as well."]

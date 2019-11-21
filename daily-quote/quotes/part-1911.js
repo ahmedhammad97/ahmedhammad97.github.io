@@ -1,0 +1,1 @@
+var author1911 = "Edwin H. Land", quotes1911 = ["One of the best ways to keep a great secret is to shout it."]

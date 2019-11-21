@@ -1,0 +1,1 @@
+var author2797 = "Helen Clark", quotes2797 = ["Girls can do anything. We do do anything and we expect to be treated as equals."]

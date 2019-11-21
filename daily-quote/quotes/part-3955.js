@@ -1,0 +1,1 @@
+var author3955 = "Konstantin Rokossovsky", quotes3955 = ["The German army is a machine, and machines can be broken!","In Russia, they say I'm a Pole, in Poland they call me Russian."]

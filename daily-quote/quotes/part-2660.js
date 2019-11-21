@@ -1,0 +1,1 @@
+var author2660 = "Group process", quotes2660 = ["Interaction and decision making relies heavily on group processes."]

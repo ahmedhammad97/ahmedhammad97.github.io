@@ -1,0 +1,1 @@
+var author558 = "Arin Paul", quotes558 = ["I am insane, with small intervals of horrible sanity.","Anjan Dutta is one of the most interesting persons I have ever met.","Even in Death they had a thing in common, Pain.","I'm so lucky that he agreed. A fascinating tale."]

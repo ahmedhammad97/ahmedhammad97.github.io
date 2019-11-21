@@ -1,0 +1,1 @@
+var author6694 = "Till Lindemann", quotes6694 = ["I don't sing my mother tongue No, this is not a love song"]

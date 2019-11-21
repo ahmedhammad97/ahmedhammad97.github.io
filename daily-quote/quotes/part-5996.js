@@ -1,0 +1,1 @@
+var author5996 = "Sarojini Naidu", quotes5996 = ["Good Heavens! She said ‘grass and goats milk? Never!’","I am not ready to die because it requires infinitely higher courage to live."]

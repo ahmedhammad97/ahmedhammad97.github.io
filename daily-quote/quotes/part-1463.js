@@ -1,0 +1,1 @@
+var author1463 = "DNA", quotes1463 = ["DNA neither cares nor knows. DNA just is. And we dance to its music."]

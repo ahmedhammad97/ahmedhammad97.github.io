@@ -1,0 +1,1 @@
+var author5371 = "Pope Alexander VI", quotes5371 = ["The very heart of him.","May the Lord array thee in the garment of salvation and surround thee with the cloak of happiness.","I am coming; I am coming. It is just. But wait a little."]

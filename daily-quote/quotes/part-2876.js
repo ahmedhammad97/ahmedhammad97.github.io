@@ -1,0 +1,1 @@
+var author2876 = "Herbert N. Casson", quotes2876 = ["According to Taylor, the principles of Efficiency are: ","Emerson is more specific and gives twelve principles, as follows: ","At , everybody thinks.","There is more power in the open hand than in the clenched fist."]

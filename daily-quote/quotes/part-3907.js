@@ -1,0 +1,1 @@
+var author3907 = "Kenosis", quotes3907 = ["We are all one in God’s seeing."]

@@ -1,0 +1,1 @@
+var author5403 = "Presidents of the United States on the United States", quotes5403 = ["The advance of freedom is the calling of our time; it is the calling of our country.","We Americans have no commission from God to police the world.","Our Federal Union! It must be preserved!","Christianity neither is, nor ever was, a part of the common law."]

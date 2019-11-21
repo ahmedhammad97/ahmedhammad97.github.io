@@ -1,0 +1,1 @@
+var author6152 = "Sitting Bull", quotes6152 = ["I am nothing, neither a chief nor a soldier.","This is a good day to die. Follow me!"]

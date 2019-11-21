@@ -1,0 +1,1 @@
+var author5162 = "Paul Ormerod", quotes5162 = ["At 2 per cent growth a year, an economy doubles in size in just thirty years. ","Even in financial markets, the concept of market efficiency does not hold."]

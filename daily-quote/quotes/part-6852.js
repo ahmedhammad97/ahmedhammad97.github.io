@@ -1,0 +1,1 @@
+var author6852 = "Uyghurs", quotes6852 = ["Uyghurs are the best among Turks. Their language is called Hakaniye Turkchesi (King's Turkish).","The Uyghurs knew how to print books centuries before Guetenberg invented his press."]

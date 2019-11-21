@@ -1,0 +1,1 @@
+var author1426 = "Cratinus", quotes1426 = ["What a swarm of sophists you lot have swirled up!","Even to wise mortals Music carries unceasing feelings...","Let the person who wins be him who says what is most desirable for the city.","...Each one of you is a bribe-taking fox.","You’ll never fashion anything clever by drinking water!"]

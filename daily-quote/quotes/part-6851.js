@@ -1,0 +1,1 @@
+var author6851 = "Uuno Kailas", quotes6851 = ["There are lots of words - ","The border cracks open facing Asia and the East."]

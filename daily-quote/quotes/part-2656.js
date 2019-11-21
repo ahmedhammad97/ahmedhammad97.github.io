@@ -1,0 +1,1 @@
+var author2656 = "Grok", quotes2656 = ["Can you sniff/sense/feel/grok the very thing you covet‥and secretly fear?","There was so much to grok, so little to grok from."]

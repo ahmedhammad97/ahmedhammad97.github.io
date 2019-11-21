@@ -1,0 +1,1 @@
+var author5799 = "Robert Williams Buchanan", quotes5799 = ["I saw the starry TreePut forth the blossom Time.","Full of a sweet indifference.","Believing hath a core of unbelieving.","Their hearts and sentiments were free, their appetites were hearty."]

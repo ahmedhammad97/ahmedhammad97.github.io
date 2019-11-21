@@ -1,0 +1,1 @@
+var author3542 = "John Feffer", quotes3542 = ["Trumpism is here to stay."]

@@ -1,0 +1,1 @@
+var author1390 = "Contract", quotes1390 = ["A verbal contract isn't worth the paper it's written on.","Judicial decision on one contract can rarely help us to the understanding of another."]

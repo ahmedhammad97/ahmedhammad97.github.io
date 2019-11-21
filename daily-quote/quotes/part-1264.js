@@ -1,0 +1,1 @@
+var author1264 = "Chế Lan Viên", quotes1264 = ["Nothing at all is lostWhen life has clear purpose.","They destroywhile we want to live"]

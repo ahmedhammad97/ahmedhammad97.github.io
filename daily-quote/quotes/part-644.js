@@ -1,0 +1,1 @@
+var author644 = "Assyrian genocide", quotes644 = ["The massacre of all the Diyarbakir Christians lasted four months."]

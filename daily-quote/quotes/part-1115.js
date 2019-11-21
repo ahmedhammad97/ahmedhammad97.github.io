@@ -1,0 +1,1 @@
+var author1115 = "Charles A. Beard", quotes1115 = ["Four sentences summarizing the lessons of History"]

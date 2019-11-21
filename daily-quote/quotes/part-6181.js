@@ -1,0 +1,1 @@
+var author6181 = "Sociobiology", quotes6181 = ["Even God cannot make two times two not make four.","Sociobiology reduces the human to the animal instead of observing how the animal becomes human."]

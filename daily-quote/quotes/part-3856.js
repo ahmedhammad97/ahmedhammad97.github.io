@@ -1,0 +1,1 @@
+var author3856 = "Karl Friedrich Schinkel", quotes3856 = ["Indifference to the fine arts comes close to barbarism."]

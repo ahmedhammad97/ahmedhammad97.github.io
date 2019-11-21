@@ -1,0 +1,1 @@
+var author5019 = "Optics", quotes5019 = ["As men of inward light are wontTo turn their optics in upon't.","Music is the arithmetic of sounds as optics is the geometry of light."]

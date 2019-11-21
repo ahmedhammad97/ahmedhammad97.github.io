@@ -1,0 +1,1 @@
+var author4875 = "Niall Ferguson", quotes4875 = ["History is not politically correct. Many on the left therefore struggle with its findings.","No civilization, no matter how mighty it may appear to itself, is indestructible. "]

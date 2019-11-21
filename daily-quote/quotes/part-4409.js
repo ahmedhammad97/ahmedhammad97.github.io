@@ -1,0 +1,1 @@
+var author4409 = "Marriage and Morals", quotes4409 = ["Even in civilised mankind faint traces of a monogamic instinct can sometimes be perceived.","Science enables us to realise our purposes, and if our purposes are evil, the result is disaster.","To fear love is to fear life, and those who fear life are already three parts dead."]

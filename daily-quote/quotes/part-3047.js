@@ -1,0 +1,1 @@
+var author3047 = "Industry", quotes3047 = ["Do we realize that industry, which has been our good servant, might make a poor master?","Life without industry is guilt, and industry without art is brutality.","One of the uses of industry is to provide the wealth which may make possible better education."]

@@ -1,0 +1,1 @@
+var author6717 = "Tivadar Csontváry Kosztka", quotes6717 = ["Life is not theory. It is reality, with inherent duties to everything and everyone."]

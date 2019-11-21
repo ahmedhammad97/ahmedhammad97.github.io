@@ -1,0 +1,1 @@
+var author6907 = "Vilfredo Pareto", quotes6907 = ["The assertion that men are objectively equal is so absurd that it does not even merit being refuted.","When it is useful to them, men can believe a theory of which they know nothing more than its name."]

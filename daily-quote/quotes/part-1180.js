@@ -1,0 +1,1 @@
+var author1180 = "Charlotte Elizabeth Tonna", quotes1180 = ["There is an immeasurable distance between submission to the cross and acceptance of it."]

@@ -1,0 +1,1 @@
+var author3865 = "Kate Chopin", quotes3865 = ["Looking at his wife as one looks at a valuable piece of property which has suffered some damage.","As she swam she seemed to be reaching out for the unlimited in which to lose herself."]

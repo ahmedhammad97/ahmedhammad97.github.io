@@ -1,0 +1,1 @@
+var author2474 = "George Gilfillan", quotes2474 = ["The language of poetry is the only speech which has in it the power of permanent impression","Every poet is partly creator and partly the creature of circumstances.","How dearly, at one time, and how cheaply at another, does Genius purchase immortal fame!"]

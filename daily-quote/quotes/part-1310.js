@@ -1,0 +1,1 @@
+var author1310 = "Clyfford Still", quotes1310 = ["[These are] not paintings in the usual sense, they are life and death merging in fearful union.","Through them [his paintings] I breathe again."]

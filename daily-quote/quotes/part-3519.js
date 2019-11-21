@@ -1,0 +1,1 @@
+var author3519 = "John Crowley", quotes3519 = ["The world is founded on a pillar which is founded on the Deep."]

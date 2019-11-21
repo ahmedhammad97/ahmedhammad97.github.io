@@ -1,0 +1,1 @@
+var author1499 = "Daniel Day-Lewis", quotes1499 = ["[re: Abraham Lincoln] Shall we stop this bleeding."]

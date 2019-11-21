@@ -1,0 +1,1 @@
+var author1899 = "Edward Sapir", quotes1899 = ["Fashion is custom in the guise of departure from custom. "]

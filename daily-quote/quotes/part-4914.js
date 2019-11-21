@@ -1,0 +1,1 @@
+var author4914 = "Nina Paley", quotes4914 = ["♡ Copying is an act of love. Please copy & share.","Pronounced “me-me and you-ness.” Mimi has pointy ears and Eunice has floppy ears","I am not a copyright reformer. I am a copyright abolitionist."]

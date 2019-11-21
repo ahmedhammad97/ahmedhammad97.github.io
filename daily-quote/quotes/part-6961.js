@@ -1,0 +1,1 @@
+var author6961 = "Walk Off The Earth", quotes6961 = ["R.E.V.O. — Realize Every Victory Outright. ","You have to have an awesome core of people that you get along with.","It was a complete surprise... totally.","I got this old guitar But it's all I need."]

@@ -1,0 +1,1 @@
+var author4899 = "Nicolaus Sombart", quotes4899 = ["What I am and what I know I owe to my father’s library and to my mother’s salon."]

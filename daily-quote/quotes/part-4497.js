@@ -1,0 +1,1 @@
+var author4497 = "Max Aitken, 1st Baron Beaverbrook", quotes4497 = ["Our cock won't fight."]

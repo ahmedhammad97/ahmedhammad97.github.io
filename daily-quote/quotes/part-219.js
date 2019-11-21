@@ -1,0 +1,1 @@
+var author219 = "Albert K. Cohen", quotes219 = ["A learned man, Emile Durkheim, "]

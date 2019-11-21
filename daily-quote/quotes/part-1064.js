@@ -1,0 +1,1 @@
+var author1064 = "Carlos Ruiz Zafón", quotes1064 = ["A secret's worth depends on the people from whom it must be kept.","There are worse prisons than words.","Coincidences are the scars of fate.","There's no such thing as dead languages, only dormant minds."]

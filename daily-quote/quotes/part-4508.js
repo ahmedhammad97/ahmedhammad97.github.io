@@ -1,0 +1,1 @@
+var author4508 = "Max Sparber", quotes4508 = ["Good friends in hard times and hard friends in good times."]

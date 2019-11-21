@@ -1,0 +1,1 @@
+var author7042 = "Whittaker Chambers", quotes7042 = ["A man is not primarily a witness against something. (p. 5)","A nation's life is about as long as its reverential memory. (p. 40)","The satellite revolt was not sparked from the West. It was sparked by Communism itself. (p. 315)"]

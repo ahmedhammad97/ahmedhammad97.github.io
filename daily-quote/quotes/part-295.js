@@ -1,0 +1,1 @@
+var author295 = "Alfred Binet", quotes295 = ["The mechanical conception of the universe is nothing but naïve realism."]

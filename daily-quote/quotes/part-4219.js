@@ -1,0 +1,1 @@
+var author4219 = "Ludwig von Mises", quotes4219 = ["The criterion of truth is that it works even if nobody is prepared to acknowledge it."]

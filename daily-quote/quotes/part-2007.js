@@ -1,0 +1,1 @@
+var author2007 = "Enda Kenny", quotes2007 = ["You could do with a day's work, I'd say.","Generally when people speak to each other they use words.","Bejaysus, I wish I didn't have to go back and face what I have to face."]

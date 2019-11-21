@@ -1,0 +1,1 @@
+var author4344 = "Margaret Hughes", quotes4344 = ["A great cricketer must be an artist and express himself in his strokes.","I have been treated as a freak, rather like the fat lady at the circus."]

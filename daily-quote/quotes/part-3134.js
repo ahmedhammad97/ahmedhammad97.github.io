@@ -1,0 +1,1 @@
+var author3134 = "Italy", quotes3134 = ["Beyond the Alps lies Italy.","France exists so that you can drive to Italy.","My soul to-daySailing the Vesuvian Bay","Italy, and the spring and first love all together should suffice to make the gloomiest person happy.","You may have the universe if I may have Italy."]

@@ -1,0 +1,1 @@
+var author2136 = "Explosion", quotes2136 = ["Explosions are a common special effect in action movies."]

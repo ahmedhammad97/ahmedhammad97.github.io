@@ -1,0 +1,1 @@
+var author5446 = "Ptahhotep", quotes5446 = ["Truth is great and its effectiveness endures.","Beware an act of avarice; it is bad and incurable disease.","Do not repeat slander; you should not hear it, for it is the result of hot temper.","To resist him that is set in authority is evil.","Be cheerful while you are alive."]

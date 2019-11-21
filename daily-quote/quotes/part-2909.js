@@ -1,0 +1,1 @@
+var author2909 = "Hillel the Elder", quotes2909 = ["A name made great is a name destroyed. He who does not increase his knowledge decreases it.","In a place where there are no men, strive to be a man."]

@@ -1,0 +1,1 @@
+var author6965 = "Wallace Brett Donham", quotes6965 = ["p. 176; cited in: Albert Lepawsky (1949), Administration, p. 194-5"]

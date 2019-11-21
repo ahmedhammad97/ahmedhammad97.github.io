@@ -1,0 +1,1 @@
+var author4108 = "Lewis Thomas", quotes4108 = ["Everything here is alive thanks to the living of everything else.","I have always had a bad memory, as far back as I can remember."]

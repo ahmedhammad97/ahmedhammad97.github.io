@@ -1,0 +1,1 @@
+var author3262 = "James Lovelock", quotes3262 = ["Life has to take charge of its environment and evolve with it."]

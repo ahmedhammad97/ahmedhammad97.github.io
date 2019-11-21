@@ -1,0 +1,1 @@
+var author3021 = "Imitation", quotes3021 = ["Emulation can be positive, if you succeed in avoiding imitation.","Imitation is the sincerest of flattery.","Imitation can acquire pretty much everything but the power which created the thing imitated.","To do the opposite of something is also a form of imitation."]

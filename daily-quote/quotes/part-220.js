@@ -1,0 +1,1 @@
+var author220 = "Albert Kesselring", quotes220 = ["A soldier's first duty is to obey, otherwise you might as well do away with soldiering.","I have always had plenty of friends, and now at age sixty, I face four walls as a common prisoner.","Allied air power was the greatest single reason for the German defeat."]

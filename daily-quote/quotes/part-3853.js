@@ -1,0 +1,1 @@
+var author3853 = "Karl Denninger", quotes3853 = ["Ya gotta be fruity to carry that crap [an iPhone] around in your pocket."]

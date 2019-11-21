@@ -1,0 +1,1 @@
+var author5539 = "Rats", quotes5539 = ["How now? a rat? Dead, for a ducat, dead!"]

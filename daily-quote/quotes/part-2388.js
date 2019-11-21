@@ -1,0 +1,1 @@
+var author2388 = "Gabriel Biel", quotes2388 = ["To be crushed in the winepress of passion.","Always in these matters desiring rather to be taught than to teach.","No one conquers who doesn't fight."]

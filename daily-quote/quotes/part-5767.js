@@ -1,0 +1,1 @@
+var author5767 = "Robert Motherwell", quotes5767 = ["One cuts and chooses and shifts and pastes, and sometimes tears off and begins again.","When I first saw the work of Matisse I knew that was for me.","Among other ends, modern art is related to the ideal of Internationalism."]

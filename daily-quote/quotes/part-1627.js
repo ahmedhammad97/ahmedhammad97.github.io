@@ -1,0 +1,1 @@
+var author1627 = "Demagogue", quotes1627 = ["A demagogue is a person with whom we disagree as to which gang should mismanage the country."]

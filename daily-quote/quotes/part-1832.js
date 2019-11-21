@@ -1,0 +1,1 @@
+var author1832 = "Ed Koch", quotes1832 = ["It is not possible to remake the world. You can fix parts, but you can't remake the world."]

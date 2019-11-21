@@ -1,0 +1,1 @@
+var author2615 = "Gotse Delchev", quotes2615 = ["I understand the world solely as a field for cultural competition among the peoples."]

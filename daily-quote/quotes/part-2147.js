@@ -1,0 +1,1 @@
+var author2147 = "F. Matthias Alexander", quotes2147 = ["We all tend to be greedy end-gainers, paying no attention to our means whereby."]

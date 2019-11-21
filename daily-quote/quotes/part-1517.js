@@ -1,0 +1,1 @@
+var author1517 = "Danse Macabre (book)", quotes1517 = ["Terror...often arises from a pervasive sense of disestablishment; that things are in the unmaking.","Talent is a dull knife that will cut nothing unless it is wielded with great force."]

@@ -1,0 +1,1 @@
+var author2553 = "Gerolamo Cardano", quotes2553 = ["The greatest advantage in gambling lies in not playing at all."]

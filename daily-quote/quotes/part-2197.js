@@ -1,0 +1,1 @@
+var author2197 = "Ferdinand de Saussure", quotes2197 = ["The scope of linguistics should be:","Writing obscures language ; it is not a guise for language but a disguise."]

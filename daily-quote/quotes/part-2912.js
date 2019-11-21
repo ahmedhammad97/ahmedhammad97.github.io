@@ -1,0 +1,1 @@
+var author2912 = "Hippolytus of Rome", quotes2912 = ["If a man is an actor or pantomimist, he must be rejected."]

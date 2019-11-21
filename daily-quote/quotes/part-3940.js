@@ -1,0 +1,1 @@
+var author3940 = "Kirstie Alley", quotes3940 = ["You are not in business to be popular."]

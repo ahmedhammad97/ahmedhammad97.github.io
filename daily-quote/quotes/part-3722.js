@@ -1,0 +1,1 @@
+var author3722 = "Joni Mitchell", quotes3722 = ["Any time I make a record it's followed by a painting period. It's good crop rotation. ","I don't know who I am / but you know, life is for learning.","Laughing and crying, you know it's the same release.","Joni, you have more class than Richard Nixon, Mick Jagger, and Gomer Pyle combined!"]

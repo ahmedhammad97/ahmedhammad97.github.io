@@ -1,0 +1,1 @@
+var author1675 = "Diego Maradona", quotes1675 = ["You Pasman, you have it inside, too.","The unconventional and uninhibited way of living was a part of my life. I won't be like that now."]

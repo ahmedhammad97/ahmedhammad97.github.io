@@ -1,0 +1,1 @@
+var author6494 = "The Buggles", quotes6494 = ["Hello, Doctor, lift my face I wish my skin could stand the pace.","Video killed the radio star.","And now we meet in an abandoned studio. We hear the playback and it seems so long ago."]

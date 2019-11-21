@@ -1,0 +1,1 @@
+var author4014 = "Last Judgment", quotes4014 = ["Kill not the Moth nor Butterfly,For the Last Judgement draweth nigh.","I warrant you, if he danced till doomsday, he thought I was to pay the piper.","Due to the lack of experienced trumpeters, the end of the world has been postponed for three weeks."]

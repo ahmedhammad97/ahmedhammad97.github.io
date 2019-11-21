@@ -1,0 +1,1 @@
+var author4402 = "Marketing", quotes4402 = ["Society drives people crazy with lust and calls it advertising.","Ads are the cave art of the twentieth century.","Give them quality. That's the best kind of advertising in the world.","Marketing is far too important to be left only to the marketing department!."]

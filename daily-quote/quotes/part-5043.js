@@ -1,0 +1,1 @@
+var author5043 = "Oscar Levy", quotes5043 = ["With the great quality of egoism, great deeds and great merits became extinct."]

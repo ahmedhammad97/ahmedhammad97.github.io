@@ -1,0 +1,1 @@
+var author5384 = "Porphyry (philosopher)", quotes5384 = ["The Pythagoreans made kindness to beasts a training in humanity and pity. ","So people should abstain from other animals just as they should from the human."]

@@ -1,0 +1,1 @@
+var author477 = "Anne of Green Gables", quotes477 = ["Oh, this is the most tragical thing that has ever happened to me!","Marilla, isn't it nice to think that tomorrow is a new day with no mistakes in it yet?","Who was that came up the lane with you, Anne?"]

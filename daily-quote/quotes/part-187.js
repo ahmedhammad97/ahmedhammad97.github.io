@@ -1,0 +1,1 @@
+var author187 = "Alan Gibbs", quotes187 = ["He was an arrogant, pigheaded doctrinaire fool."]

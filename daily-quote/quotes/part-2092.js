@@ -1,0 +1,1 @@
+var author2092 = "Ethel Lina White", quotes2092 = ["Lost causes are the only causes worth fighting for."]

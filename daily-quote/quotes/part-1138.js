@@ -1,0 +1,1 @@
+var author1138 = "Charles Hamilton (writer)", quotes1138 = ["The donefulness is terrific.","A somewhat short junior, with a broad, pleasant face and an enormous pair of spectacles","I say you fellows, I expect to see fair play.","All boys ought to be drownded at birth."]

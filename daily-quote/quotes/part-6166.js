@@ -1,0 +1,1 @@
+var author6166 = "Snoop Dogg", quotes6166 = ["Mr. D, why is you doin' the Big Nasty on my bed?!","I keep hearing about muthafucking Harry Potter. Who is this muthafucker?","If the ride is more fly, you must buy","Fuck Bill O'Reilly. He's a muthafucking prick.","The revolution will be televised."]

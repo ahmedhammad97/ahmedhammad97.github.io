@@ -1,0 +1,1 @@
+var author750 = "Belarusian language", quotes750 = ["I listen Belarusian language as music when I walk the streets of Minsk."]

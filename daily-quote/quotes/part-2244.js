@@ -1,0 +1,1 @@
+var author2244 = "Forgetting", quotes2244 = ["The pyramids themselves, doting with age, have forgotten the names of their founders.","A man must get a thing before he can forget it.","Mistakes remember'd are not faults forgot.","If I forget thee, O Jerusalem, let my right hand forget her cunning."]

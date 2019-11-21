@@ -1,0 +1,1 @@
+var author6254 = "Stephanie Zacharek", quotes6254 = ["It's mournful and troubling in a way that goes beyond ordinary movie manipulation. It burns clean. ","Batman Begins leaks existential phoniness from the first frame.","This sprawling epic is as lively as a natural history museum diorama."]

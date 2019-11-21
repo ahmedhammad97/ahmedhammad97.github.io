@@ -1,0 +1,1 @@
+var author3840 = "Kamisese Mara", quotes3840 = ["At that stage my heart ruled my head.","If the constitution goes, I go.","It was the work of opportunists, crooks, thugs for their own self-gain and interest."]

@@ -1,0 +1,1 @@
+var author2431 = "General strike", quotes2431 = ["The poor were wise, who, by the rich oppressed,"]

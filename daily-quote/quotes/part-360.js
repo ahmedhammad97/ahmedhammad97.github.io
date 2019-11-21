@@ -1,0 +1,1 @@
+var author360 = "American Gods", quotes360 = ["If Hell is other people, thought Shadow, then Purgatory is airports.","The quickest way is sometimes the longest.","It's easy, there's a trick to it, you do it or you die.","All revelations are personal. she said. That’s why all revelations are suspect."]

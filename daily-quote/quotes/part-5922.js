@@ -1,0 +1,1 @@
+var author5922 = "Sage (philosophy)", quotes5922 = ["There are more fools than wise men, and even in a wise man there is more folly than wisdom.","He is a despicable sage whose wisdom does not profit himself.","The sage and the contemner of wealth most resemble God."]

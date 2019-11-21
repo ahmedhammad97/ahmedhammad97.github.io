@@ -1,0 +1,1 @@
+var author4795 = "Napoleon Hill", quotes4795 = ["Every adversity has the seed of an equivalent or greater benefit.","A goal is a dream with a deadline.","Whatever the mind of man can conceive and believe it can achieve.","All achievement, all earned riches, have their beginning in an idea!","Truly, thoughts are things, and their scope of operation is the world, itself. "]

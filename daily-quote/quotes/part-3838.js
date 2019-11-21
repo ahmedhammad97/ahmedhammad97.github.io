@@ -1,0 +1,1 @@
+var author3838 = "Kakinomoto no Hitomaro", quotes3838 = ["Asa ne gamiFureteshi mono wo"]

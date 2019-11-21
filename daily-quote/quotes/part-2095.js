@@ -1,0 +1,1 @@
+var author2095 = "Etiquette", quotes2095 = ["Etiquette is a set of rules people use so they can be rude to each other in public."]

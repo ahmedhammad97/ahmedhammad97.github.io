@@ -1,0 +1,1 @@
+var author1023 = "Callimachus", quotes1023 = ["A big book is a big misfortune.","Nothing unattested do I sing.","Here sleeps Saon, of Acanthus, son of Dicon, a holy sleep: say not that the good die.","Set a thief to catch a thief."]

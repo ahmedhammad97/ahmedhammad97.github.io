@@ -1,0 +1,1 @@
+var author3273 = "James O. Fraser", quotes3273 = ["Solid, lasting missionary work is done on our knees."]

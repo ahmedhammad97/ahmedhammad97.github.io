@@ -1,0 +1,1 @@
+var author5582 = "Remorse", quotes5582 = ["Farewell, remorse: all good to me is lost;Evil, be thou my good.","Abandon all remorse;On horror's head horrors accumulate.","Avoidance of sin is much better than the pain of remorse.","Man, wretched man, whene'er he stoops to sin,Feels, with the act, a strong remorse within."]

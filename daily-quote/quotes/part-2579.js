@@ -1,0 +1,1 @@
+var author2579 = "Giuseppe Mazzini", quotes2579 = ["Inexorable as to principles, tolerant and impartial as to persons.","Ideas grow quickly when watered with the blood of martyrs.","So long as you are ready to die for Humanity, the life of your country is immortal."]

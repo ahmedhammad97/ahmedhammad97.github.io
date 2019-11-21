@@ -1,0 +1,1 @@
+var author2807 = "Hellblade: Senua's Sacrifice", quotes2807 = ["The hardest battles are fought in the mind.","The further she saw into the darkness, the more she struggled to see anything at all.","In blindness there can be wisdom; only by giving, can you receive in return.","Only suffering brings salvation. It is the way of the gods."]

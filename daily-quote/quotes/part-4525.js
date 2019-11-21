@@ -1,0 +1,1 @@
+var author4525 = "Meat Loaf", quotes4525 = ["Karaoke bars are devil worship!"]

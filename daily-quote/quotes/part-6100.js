@@ -1,0 +1,1 @@
+var author6100 = "Sherwood Anderson", quotes6100 = ["Everyone in the world is Christ and they are all crucified."]

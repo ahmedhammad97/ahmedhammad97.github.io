@@ -1,0 +1,1 @@
+var author3338 = "Jean Metzinger", quotes3338 = ["The house was filled with the piano and violin. I turned towards the art of painting.","My conviction was justified: art, that which lasts, is based on mathematics.","It should be said that such an art would be neither more false nor more true than classical art.","Cubism was born."]

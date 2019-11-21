@@ -1,0 +1,1 @@
+var author7223 = "Witnesses", quotes7223 = ["One eye-witness weighs more than ten hearsays — Seeing is believing all the world over."]

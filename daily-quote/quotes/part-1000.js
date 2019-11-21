@@ -1,0 +1,1 @@
+var author1000 = "Béla H. Bánáthy", quotes1000 = ["The learner is the key entity and occupies the nucleus of the systems complex of education.","Participation is empowering and design is empowered by it."]

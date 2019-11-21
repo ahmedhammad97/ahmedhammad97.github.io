@@ -1,0 +1,1 @@
+var author3487 = "John Bonica", quotes3487 = ["I have declared war on pain.","Pain—one of the most pressing issues of out time.","No medical school has a pain curriculum...","If I wasn't as busy as I am... I would be a completely disabled guy."]

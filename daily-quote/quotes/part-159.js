@@ -1,0 +1,1 @@
+var author159 = "Aikido", quotes159 = ["Shihonage is the foundation of Aikido. All you ever need to master is shihonage."]

@@ -1,0 +1,1 @@
+var author7037 = "Whigs (British political party)", quotes7037 = ["I have always said the first Whig was the Devil."]

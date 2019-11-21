@@ -1,0 +1,1 @@
+var author5979 = "Sarah Bakewell", quotes5979 = ["From now on, Montaigne would live for himself rather than for duty."]

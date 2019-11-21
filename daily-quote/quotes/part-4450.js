@@ -1,0 +1,1 @@
+var author4450 = "Mary Lasker", quotes4450 = ["If you think research is expensive, try disease!"]

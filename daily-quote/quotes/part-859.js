@@ -1,0 +1,1 @@
+var author859 = "Blackie Lawless", quotes859 = ["F*ck political correctness, that went down with the World Trade Center."]

@@ -1,0 +1,1 @@
+var author4989 = "Oliver Herford", quotes4989 = ["There is no time like the pleasant.","Many are called but few get up.","Diplomacy: Lying in state."]

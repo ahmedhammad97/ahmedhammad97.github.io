@@ -1,0 +1,1 @@
+var author5289 = "Philip Wylie", quotes5289 = ["There is no advance without strife."]

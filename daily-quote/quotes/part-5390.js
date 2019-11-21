@@ -1,0 +1,1 @@
+var author5390 = "Pottery", quotes5390 = ["I am content to be a bric-a-bracker and a Ceramiker.","For a male person bric-a-brac hunting is about as robust a business as making doll-clothes.","Figures that almost move and speak.","All this of Pot and Potter—Tell me then,Who is the Potter, pray, and who the Pot?"]

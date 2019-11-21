@@ -1,0 +1,1 @@
+var author1366 = "Connie Willis", quotes1366 = ["Barbie’s one of those fads whose popularity makes you lose all faith in the human race."]

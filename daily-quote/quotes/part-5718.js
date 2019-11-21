@@ -1,0 +1,1 @@
+var author5718 = "Robert Bulwer-Lytton, 1st Earl of Lytton", quotes5718 = ["Only by knowledge of that which is not thyself, shall thyself be learned."]

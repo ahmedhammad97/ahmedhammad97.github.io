@@ -1,0 +1,1 @@
+var author4895 = "Nicolas Malebranche", quotes4895 = ["I am not my own light unto myself."]

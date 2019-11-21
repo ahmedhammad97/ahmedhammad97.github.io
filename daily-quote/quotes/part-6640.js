@@ -1,0 +1,1 @@
+var author6640 = "Thomas M. Disch", quotes6640 = ["Boz, who had no patience with Science, always confused north and south."]

@@ -1,0 +1,1 @@
+var author6543 = "The Road", quotes6543 = ["She was gone and the coldness of it was her final gift.","There is no God and we are his prophets.","If I were God, I'd make the world just so and no different....so I've you, I've you."]

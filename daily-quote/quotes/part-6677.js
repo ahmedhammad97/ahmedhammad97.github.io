@@ -1,0 +1,1 @@
+var author6677 = "Thorstein Veblen", quotes6677 = ["The possession of wealth confers honor; it is an invidious distinction.","The chief use of servants is the evidence they afford of the master's ability to pay.","All ritual has a notable tendency to reduce itself to a rehearsal of formulas."]

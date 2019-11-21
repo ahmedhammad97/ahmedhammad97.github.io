@@ -1,0 +1,1 @@
+var author1606 = "Debito Arudou", quotes1606 = ["WaiWai was an essential guide to Japanese attitudes and editorial directives."]

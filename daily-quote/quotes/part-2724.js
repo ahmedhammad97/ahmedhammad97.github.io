@@ -1,0 +1,1 @@
+var author2724 = "Hannah Flagg Gould", quotes2724 = ["Wisdom, Power and Goodness meetIn the bounteous field of wheat."]

@@ -1,0 +1,1 @@
+var author494 = "Anthony McAuliffe", quotes494 = ["To the German commander."]

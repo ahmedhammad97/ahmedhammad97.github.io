@@ -1,0 +1,1 @@
+var author2717 = "Hamsters", quotes2717 = ["The general rule among hamsters appears to be bite first and ask questions afterward.","Hamsters have a reputation for biting, which we feel is a defamation of character."]

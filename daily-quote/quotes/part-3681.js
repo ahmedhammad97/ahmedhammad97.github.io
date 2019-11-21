@@ -1,0 +1,1 @@
+var author3681 = "John Waters", quotes3681 = ["To understand bad taste one must have very good taste. ","[I] pride myself on the fact that my work has no socially redeeming value.","Life is nothing without a good sense of humor.","Going to a sensational murder trial is the only way I can relax.","Cheer up. You never know &mdash; maybe something awful will happen tomorrow."]

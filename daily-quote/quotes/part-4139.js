@@ -1,0 +1,1 @@
+var author4139 = "Lionel Jeffries", quotes4139 = ["We grabbed their hands and dragged them home. Ah, I hope they’ve forgiven me.","Dick Van Dyke was older than me and I was playing his dad."]

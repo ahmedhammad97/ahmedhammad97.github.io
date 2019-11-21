@@ -1,0 +1,1 @@
+var author1713 = "Dixy Lee Ray", quotes1713 = ["Beware of averages. The average person has one breast and one testicle."]

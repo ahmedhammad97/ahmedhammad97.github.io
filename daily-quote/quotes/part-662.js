@@ -1,0 +1,1 @@
+var author662 = "August Spies", quotes662 = ["The day will come when our silence will be more powerful than the voices you strangle today."]

@@ -1,0 +1,1 @@
+var author1257 = "Christopher Trace", quotes1257 = ["Now for something completely different..."]

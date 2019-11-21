@@ -1,0 +1,1 @@
+var author3812 = "Julie Burchill", quotes3812 = ["The only kind of socialist to be is a Stalinist, and the only kind of woman to be is a Bitch."]

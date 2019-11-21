@@ -1,0 +1,1 @@
+var author1580 = "David Orrell", quotes1580 = ["For even money itself has no value if there is no network of people to recognize it.","Perfect order is boring, perfect randomness is boring, but complex systems are interesting."]

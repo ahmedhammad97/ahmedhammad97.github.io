@@ -1,0 +1,1 @@
+var author6447 = "Ted Cruz", quotes6447 = ["God bless each and everyone of you.","My friends, this is madness."]

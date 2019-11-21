@@ -1,0 +1,1 @@
+var author5754 = "Robert L. Flood", quotes5754 = ["In general, we seem to associate complexity with anything we find difficult to understand.","Positivism : knowledge is hard, real, and capable of being transmitted in a tangible form."]

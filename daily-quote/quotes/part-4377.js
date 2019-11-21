@@ -1,0 +1,1 @@
+var author4377 = "Marion Barry", quotes4377 = ["Outside of the killings, D.C. has one of the lowest crime rates in the country.","Bitch set me up... I shouldn't have come up here... goddamn bitch."]

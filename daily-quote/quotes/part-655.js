@@ -1,0 +1,1 @@
+var author655 = "Attar of Nishapur", quotes655 = ["The SeaWhatever the drop's philosophy."]

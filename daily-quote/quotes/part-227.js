@@ -1,0 +1,1 @@
+var author227 = "Alberta", quotes227 = ["Come to me. I want to plow you like a Calgary driveway at Christmas."]

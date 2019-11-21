@@ -1,0 +1,1 @@
+var author3193 = "Jacob Zuma", quotes3193 = ["Ever since I was born I have never been involved in corruption and I will never be corrupt. ","All the trouble began in 1652 when Jan van Riebeeck landed in the Cape."]

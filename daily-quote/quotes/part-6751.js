@@ -1,0 +1,1 @@
+var author6751 = "Tony Blair", quotes6751 = ["That's the art of leadership. To make sure that what shouldn't happen, doesn't happen."]

@@ -1,0 +1,1 @@
+var author5858 = "Roy E. Disney", quotes5858 = ["One of the functions of entertainment, I think, is education.","Volunteering is good for our heart and soul."]

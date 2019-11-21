@@ -1,0 +1,1 @@
+var author1231 = "Christian Scriver", quotes1231 = ["My God, help me always resolutely to strive, and, through life and death, to force my way unto Thee.","In the school of Christ they are the best scholars who continue learning to the last.","As ravens rejoice over carrion, so infernal spirits exult over the soul that is dead in sin."]

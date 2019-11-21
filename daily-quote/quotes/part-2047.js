@@ -1,0 +1,1 @@
+var author2047 = "Eric S. Raymond", quotes2047 = ["Given enough eyeballs, all bugs are shallow.","Good programmers know what to write. Great ones know what to rewrite (and reuse).","...and we're weighed down by a crappy implementation language (C++).","When I hear the words social responsibility, I want to reach for my gun."]

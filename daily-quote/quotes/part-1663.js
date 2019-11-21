@@ -1,0 +1,1 @@
+var author1663 = "Dhirubhai Ambani", quotes1663 = ["I dream India of becoming a great economic superpower."]

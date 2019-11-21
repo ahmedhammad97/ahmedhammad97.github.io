@@ -1,0 +1,1 @@
+var author1017 = "C. Wright Mills", quotes1017 = ["Hegel is correct: we learn from history that we cannot learn from it.","IBM Plus Reality Plus HumanismSociology"]

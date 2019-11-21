@@ -1,0 +1,1 @@
+var author6919 = "Virginia Christine", quotes6919 = ["They consider me a friend, it shows in their faces, and I’m a sucker for that."]

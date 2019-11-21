@@ -1,0 +1,1 @@
+var author2673 = "Guity Novin", quotes2673 = ["Poetical spaces too can be painted like a vase."]

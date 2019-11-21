@@ -1,0 +1,1 @@
+var author4616 = "Michael Stevens", quotes4616 = ["Where are your fingers?"]

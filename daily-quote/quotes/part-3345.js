@@ -1,0 +1,1 @@
+var author3345 = "Jean de La Fontaine", quotes3345 = ["People must help one another; it is nature's law.","Everyone believes very easily whatever they fear or desire.","The fly of the coach.","No path of flowers leads to glory.","They are too green, he said, and only good for fools."]

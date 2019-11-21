@@ -1,0 +1,1 @@
+var author6029 = "Secessio plebis", quotes6029 = ["The poor were wise, who, by the rich oppressed,"]

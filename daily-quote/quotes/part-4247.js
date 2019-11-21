@@ -1,0 +1,1 @@
+var author4247 = "M. C. Escher", quotes4247 = ["I could fill an entire second life with working on my prints.","I don't grow up. In me is the small child of my early days.","The things I want to express are so beautiful and pure."]

@@ -1,0 +1,1 @@
+var author6452 = "Ted Nugent", quotes6452 = ["If it was up to me, if you uttered the word 'gun control,' we'd put you in jail.","Mr. Trump didn’t create this economic swan dive to the street. Our politicians did.","GOP, your very existence is on the line here. Show some honesty or you’re done."]

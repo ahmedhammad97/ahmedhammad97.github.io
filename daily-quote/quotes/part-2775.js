@@ -1,0 +1,1 @@
+var author2775 = "Harvey Mansfield", quotes2775 = ["Science, according to science, ought to be the most important attribute of human beings."]

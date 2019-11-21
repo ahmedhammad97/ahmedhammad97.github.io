@@ -1,0 +1,1 @@
+var author6877 = "Vasily Zaytsev", quotes6877 = ["There was no ground for us beyond [the] Volga."]

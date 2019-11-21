@@ -1,0 +1,1 @@
+var author778 = "Benoît Minisini", quotes778 = ["I am using many other languages, but I never forgot that I have learned and done a lot with Basic."]

@@ -1,0 +1,1 @@
+var author6841 = "Unspeakable Practices, Unnatural Acts", quotes6841 = ["chaos is tasty AND USEFUL TOO","See the moon? It hates us."]

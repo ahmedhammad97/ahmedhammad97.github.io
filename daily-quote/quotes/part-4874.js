@@ -1,0 +1,1 @@
+var author4874 = "Nguyễn Duy", quotes4874 = ["Whatever has happened, the land always lives within us... We are the people and we will endure.","In the end, in every war,whoever won, the people always lost."]

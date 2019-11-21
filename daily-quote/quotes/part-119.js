@@ -1,0 +1,1 @@
+var author119 = "Adrian Mitchell", quotes119 = ["Most people ignore most poetry because most poetry ignores most people.","I was run over by the truth one day.Ever since the accident I've walked this way","Lovers lie around in itI like that stuff","Here are some happy English soldiers.They are going to make the Irish happy."]

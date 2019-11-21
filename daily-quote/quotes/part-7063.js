@@ -1,0 +1,1 @@
+var author7063 = "Will Self", quotes7063 = ["So I was smacked up on the Prime Minister's jet – big deal.","The éminence cerise, the bolster behind the throne.","I have a healthy appetite for solitude. If you don't, you have no business being a writer."]

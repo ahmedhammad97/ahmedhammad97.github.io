@@ -1,0 +1,1 @@
+var author4906 = "Night Shift (book)", quotes4906 = ["I didn't like that machine. It seemed...almost to be mocking us.","It was very funny how George Stanner lost his arm in the mangler.","God bless the grass."]

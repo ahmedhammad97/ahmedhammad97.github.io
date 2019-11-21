@@ -1,0 +1,1 @@
+var author5674 = "Richard Wagner", quotes5674 = ["Certain things in Mozart will and can never be excelled."]

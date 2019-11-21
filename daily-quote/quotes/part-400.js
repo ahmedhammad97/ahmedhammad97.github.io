@@ -1,0 +1,1 @@
+var author400 = "Andrei Zhdanov", quotes400 = ["The only conflict that is possible in Soviet culture is the conflict between good and best."]

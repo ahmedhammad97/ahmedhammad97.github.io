@@ -1,0 +1,1 @@
+var author4389 = "Mark Lamarr", quotes4389 = ["I'll start the show any second now, I'm just warming myself up into a bundle of spite."]

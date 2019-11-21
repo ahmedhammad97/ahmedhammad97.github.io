@@ -1,0 +1,1 @@
+var author6182 = "Sociology", quotes6182 = ["The social sciences are granted eternal youth because findings must be revisited.","Myth does not set out to give lessons in natural science any more than in morals or sociology. ","Sociology is the science which has the most methods and the least results."]

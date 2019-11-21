@@ -1,0 +1,1 @@
+var author1096 = "Caution", quotes1096 = ["The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.","Whatever you do, be on your guard, for whoever does so keeps the commandments."]

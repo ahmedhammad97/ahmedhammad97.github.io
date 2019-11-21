@@ -1,0 +1,1 @@
+var author559 = "Aristide Maillol", quotes559 = ["I seek beauty, not character. For me portraiture and statuary are completely opposed to each other.","I make [figures] in which I try to give an impression of the whole.","A [figure] interests me when I can bring architecture out of it."]

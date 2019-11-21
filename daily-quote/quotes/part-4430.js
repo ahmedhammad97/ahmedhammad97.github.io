@@ -1,0 +1,1 @@
+var author4430 = "Martin Fowler", quotes4430 = ["Comprehensiveness is the enemy of comprehensibility"]

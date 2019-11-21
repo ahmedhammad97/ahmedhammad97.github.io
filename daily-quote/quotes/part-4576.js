@@ -1,0 +1,1 @@
+var author4576 = "Michael E. Gerber", quotes4576 = ["I see an entrepreneur as the chief designer of a business that works better than any other.","The greatest business people I've met are determined to get it right no matter what the cost."]

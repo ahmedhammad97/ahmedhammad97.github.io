@@ -1,0 +1,1 @@
+var author7325 = "Éamon de Valera", quotes7325 = ["A Dhomhnall, I have to tell you, you are abolished."]

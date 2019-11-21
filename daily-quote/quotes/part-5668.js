@@ -1,0 +1,1 @@
+var author5668 = "Richard Rumelt", quotes5668 = ["[In related businesses] common skill, market or resource applies to each.","The kernel of strategy contains three elements:"]

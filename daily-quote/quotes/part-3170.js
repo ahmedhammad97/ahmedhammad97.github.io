@@ -1,0 +1,1 @@
+var author3170 = "Jack Dempsey", quotes3170 = ["A champion is someone who gets up when he can't.","Honey, I just forgot to duck."]

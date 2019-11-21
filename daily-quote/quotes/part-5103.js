@@ -1,0 +1,1 @@
+var author5103 = "Parmenides", quotes5103 = ["For it is the same thing that can be thought and that can be.","It is indifferent to me where I am to begin, for there shall I return again."]

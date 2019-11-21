@@ -1,0 +1,1 @@
+var author7025 = "Wendell Willkie", quotes7025 = ["A good catchword can obscure analysis for fifty years."]

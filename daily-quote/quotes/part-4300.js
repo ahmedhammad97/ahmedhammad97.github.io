@@ -1,0 +1,1 @@
+var author4300 = "Mammon", quotes4300 = ["Mammon, n.: The god of the world's leading religion.","Who sees pale Mammon pine amidst his store,Sees but a backward steward for the poor.","We cannot serve God and Mammon.","What treasures here do Mammon's sons behold!Yet know that all that which glitters is not gold."]

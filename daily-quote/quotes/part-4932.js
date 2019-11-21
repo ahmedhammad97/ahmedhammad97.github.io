@@ -1,0 +1,1 @@
+var author4932 = "Norman Lamm", quotes4932 = ["Group action -- yes; group thinking -- no","Mutual commitment to ideals -- yes; the stifling of all dissenting notions -- no.","Judaism is an intellectually based religion, and the single most important theme is that of study."]

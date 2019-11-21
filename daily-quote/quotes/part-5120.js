@@ -1,0 +1,1 @@
+var author5120 = "Patricia A. McKillip", quotes5120 = ["Men see what they are most afraid of.","Wisdom never learned silence, and it is most annoying when least wanted.","Do you care for me at all? Or do you only need me?","I didn’t know anymore what love meant, or why we were not all better off without it.","Perhaps there had never been anything at all to see."]

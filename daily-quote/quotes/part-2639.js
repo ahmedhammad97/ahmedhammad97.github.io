@@ -1,0 +1,1 @@
+var author2639 = "Great Depression", quotes2639 = ["I outlived the bastards."]

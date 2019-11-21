@@ -1,0 +1,1 @@
+var author433 = "Angela Carter", quotes433 = ["Comedy is tragedy that happens to other people.","Cities have sexes: London is a man, Paris a woman, and New York a well-adjusted transsexual.","A book is simply the container of an idea—like a bottle; what is inside the book is what matters.","My work cuts like a steel blade at the base of a man's penis."]

@@ -1,0 +1,1 @@
+var author701 = "Background music", quotes701 = ["The barbarians are inside the gate. They're playing Muzak in Jenners."]

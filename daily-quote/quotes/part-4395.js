@@ -1,0 +1,1 @@
+var author4395 = "Mark Steyn", quotes4395 = ["Reverend Jesse Jackson, President-for-Life of the People’s Republic of Himself."]

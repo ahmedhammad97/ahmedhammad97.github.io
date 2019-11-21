@@ -1,0 +1,1 @@
+var author95 = "Adam Morrison", quotes95 = ["I've never said, 'I have diabetes, so I can’t bust my ass on this play.'"]

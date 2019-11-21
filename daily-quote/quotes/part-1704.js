@@ -1,0 +1,1 @@
+var author1704 = "Disgrace", quotes1704 = ["Come, Death, and snatch me from disgrace.","Could he with reason murmur at his case,Himself sole author of his own disgrace?"]

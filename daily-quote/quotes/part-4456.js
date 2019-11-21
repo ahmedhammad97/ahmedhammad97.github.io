@@ -1,0 +1,1 @@
+var author4456 = "Mary Robinette Kowal", quotes4456 = ["Without passion there is no art, only technique."]

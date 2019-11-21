@@ -1,0 +1,1 @@
+var author1485 = "Dan Throop Smith", quotes1485 = ["I'm a professor all right. But I was always violently anti-New Deal."]

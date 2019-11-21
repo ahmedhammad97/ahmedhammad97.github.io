@@ -1,0 +1,1 @@
+var author5686 = "Right and wrong", quotes5686 = ["To see what is right and not to do it is want of courage.","Nothing is politically right which is morally wrong.","Technology presumes there's just one right way to do things and there never is.","Aggressive fighting for the right is the noblest sport the world affords."]

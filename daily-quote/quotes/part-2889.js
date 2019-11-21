@@ -1,0 +1,1 @@
+var author2889 = "Hermann Ebbinghaus", quotes2889 = ["What is true is alas not new, the new not true.","Language is a system of conventional signs that can be voluntarily produced at any time. ","Mental events, it is said, are not passive happenings but the acts of a subject. ","The foreseeing of our attention is the will to give attention, is voluntary attention. "]

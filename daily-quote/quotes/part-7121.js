@@ -1,0 +1,1 @@
+var author7121 = "William H. McNeill", quotes7121 = ["Categories of understanding along with everything else alter as societies change.","Social science is itself part of the social experience it seeks to interpret and explain.","I do not insist that I am right: I merely think so."]

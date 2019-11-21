@@ -1,0 +1,1 @@
+var author2081 = "Ervin László", quotes2081 = ["Cultures are, in the final analysis, value-guided systems."]

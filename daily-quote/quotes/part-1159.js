@@ -1,0 +1,1 @@
+var author1159 = "Charles Plott", quotes1159 = ["preferences ⊕ institutions ⊕ physical possibilities outcomes"]

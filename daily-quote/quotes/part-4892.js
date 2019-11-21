@@ -1,0 +1,1 @@
+var author4892 = "Nicolas Boileau-Despréaux", quotes4892 = ["Let him now speak, or else hereafter for ever hold his peace."]

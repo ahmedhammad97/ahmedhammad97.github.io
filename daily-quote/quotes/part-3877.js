@@ -1,0 +1,1 @@
+var author3877 = "Katherine Mansfield", quotes3877 = ["To acknowledge the presence of fear is to give birth to failure.","I'm a writer first & a woman after.","The pleasure of all reading is doubled when one lives with another who shares the same books."]

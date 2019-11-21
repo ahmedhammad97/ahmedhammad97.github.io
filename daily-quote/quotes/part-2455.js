@@ -1,0 +1,1 @@
+var author2455 = "George Boole", quotes2455 = ["It is not of the essence of mathematics to be conversant with the ideas of number and quantity."]

@@ -1,0 +1,1 @@
+var author476 = "Anne of Great Britain", quotes476 = ["I know my own heart to be entirely English."]

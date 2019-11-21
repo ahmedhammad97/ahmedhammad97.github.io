@@ -1,0 +1,1 @@
+var author7297 = "Yves Saint-Laurent", quotes7297 = ["I don't really like knees."]

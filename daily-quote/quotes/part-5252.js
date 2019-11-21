@@ -1,0 +1,1 @@
+var author5252 = "Peter Tatchell", quotes5252 = ["The Bible is to gays what Mein Kampf is to Jews."]

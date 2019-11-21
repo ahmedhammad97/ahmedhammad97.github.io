@@ -1,0 +1,1 @@
+var author893 = "Bono", quotes893 = ["Rock n roll stops the traffic","My name is Bono and I am a rock star.","What are the ideas right now worth betraying? What are the lies we tell ourselves now?","I will try to keep my homily brief. But be warned — I'm Irish."]

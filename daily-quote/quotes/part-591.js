@@ -1,0 +1,1 @@
+var author591 = "Art criticism", quotes591 = ["The most useful criticism in any art [form] is new work done with the same tools [as previous art]."]

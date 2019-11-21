@@ -1,0 +1,1 @@
+var author2274 = "Francis Wayland Parker", quotes2274 = ["Form and size constitute the foundation of all search for truth."]

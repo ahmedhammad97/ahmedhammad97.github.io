@@ -1,0 +1,1 @@
+var author3796 = "Jules Sandeau", quotes3796 = ["Marriage is a diner that begins with dessert."]

@@ -1,0 +1,1 @@
+var author787 = "Bernard Hopkins", quotes787 = ["I am an old man, I just happen to be an old man that can fight.","I feel in an executioner mood, I am going to punish him and punish him slowly."]

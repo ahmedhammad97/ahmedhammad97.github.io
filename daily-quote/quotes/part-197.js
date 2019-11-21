@@ -1,0 +1,1 @@
+var author197 = "Alan MacEachren", quotes197 = ["Without categorization, maps would not be possible."]

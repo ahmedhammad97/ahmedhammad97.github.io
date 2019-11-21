@@ -1,0 +1,1 @@
+var author5724 = "Robert Crumb", quotes5724 = ["When I come up against the real world, I just vacillate.","I’m an outsider. I will always be an outsider."]

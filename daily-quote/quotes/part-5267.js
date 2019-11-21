@@ -1,0 +1,1 @@
+var author5267 = "Phil Donahue", quotes5267 = ["Suicide is a permanent solution to a temporary problem."]

@@ -1,0 +1,1 @@
+var author2549 = "Gerhard Richter", quotes2549 = ["My concern is never art, but always what art can be used for."]

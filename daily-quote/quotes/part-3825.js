@@ -1,0 +1,1 @@
+var author3825 = "Justina Robson", quotes3825 = ["“So, you’re saying you have no idea what this stuff is.” At last, something that sounded plausible.","Delirium, dream, death—Three-D. What was the fourth?","What’s the point of history, if it has nothing to say to the present?","On the other hand...why was there always an “other hand”?"]

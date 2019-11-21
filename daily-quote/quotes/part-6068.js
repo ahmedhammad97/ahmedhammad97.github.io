@@ -1,0 +1,1 @@
+var author6068 = "Servitude", quotes6068 = ["It is rare that individuals value their freedom more than the comfort that comes with servility."]

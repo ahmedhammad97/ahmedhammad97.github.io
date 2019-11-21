@@ -1,0 +1,1 @@
+var author6740 = "Tommy Douglas", quotes6740 = ["We believe that no nation can survive politically free but economically enslaved.","The greatest way to defend democracy is to make it work."]

@@ -1,0 +1,1 @@
+var author2976 = "Human, All Too Human", quotes2976 = ["In truth, [hope] is the most evil of evils because it prolongs man's torment."]

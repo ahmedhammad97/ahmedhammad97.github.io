@@ -1,0 +1,1 @@
+var author6473 = "Terrorism", quotes6473 = ["Atheism is the only real hope against terrorism.","No one can terrorize a whole nation, unless we are all his accomplices.","Terrorism is terrorism, violence is violence, and it has no place."]

@@ -1,0 +1,1 @@
+var author1479 = "Dan Greenburg", quotes1479 = ["I Could Never Have Sex With Any Man Who Has So Little Regard For My Husband."]

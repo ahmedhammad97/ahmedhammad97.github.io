@@ -1,0 +1,1 @@
+var author3268 = "James Monroe", quotes3268 = ["National honor is the national property of the highest value."]

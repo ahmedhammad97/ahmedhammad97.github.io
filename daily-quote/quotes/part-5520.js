@@ -1,0 +1,1 @@
+var author5520 = "Ralph Nader", quotes5520 = ["This administration is not sympathetic to corporations, it is indentured to corporations.","We must strive to become good ancestors.","The shortcomings of America's political leaders do not stop at our borders.","Half of democracy is about just showing up."]

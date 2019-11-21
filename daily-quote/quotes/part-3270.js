@@ -1,0 +1,1 @@
+var author3270 = "James Nasmyth", quotes3270 = ["Everything connected with war and warlike exploits is interesting to a boy.","We may fill our purses, but we pay a heavy price for it in the loss of picturesqueness and beauty."]

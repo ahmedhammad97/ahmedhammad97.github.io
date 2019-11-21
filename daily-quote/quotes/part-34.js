@@ -1,0 +1,1 @@
+var author34 = "A. R. Ammons", quotes34 = ["SMALL SONG and give the wind away","THEIR SEX LIFEtop of another","Trying to make a living from poetry is like putting chains on butterfly wings."]

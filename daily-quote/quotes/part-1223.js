@@ -1,0 +1,1 @@
+var author1223 = "Chris Shays", quotes1223 = ["We made a mistake lowering the voting age to 18. I think it happened basically out of guilt."]

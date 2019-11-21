@@ -1,0 +1,1 @@
+var author3473 = "John Ashbery", quotes3473 = ["These two guys in the front yard--Are they here to help?"]

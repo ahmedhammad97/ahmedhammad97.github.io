@@ -1,0 +1,1 @@
+var author751 = "Belgrade", quotes751 = ["Night falls in the capital of the former Yugoslavia, and music fills the air. Everywhere."]

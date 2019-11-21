@@ -1,0 +1,1 @@
+var author2815 = "Henri Fayol", quotes2815 = ["[Planning] means both to assess the future and make provision for it."]

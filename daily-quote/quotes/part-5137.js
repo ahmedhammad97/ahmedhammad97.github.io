@@ -1,0 +1,1 @@
+var author5137 = "Paul Bowles", quotes5137 = ["Africa was a big place and would offer its own suggestions","For God's sake, sit down. You look like a Calvinist rector telling his flock about Hell.","Every second, ten stars set behind the black water in the west."]

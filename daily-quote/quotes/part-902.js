@@ -1,0 +1,1 @@
+var author902 = "Book of Tobit", quotes902 = ["Those who act in accordance with truth will prosper."]

@@ -1,0 +1,1 @@
+var author1950 = "Eliezer Yudkowsky", quotes1950 = ["If cryonics were a scam it would have far better marketing and be far more popular.","Rationality is the master lifehack which distinguishes which other lifehacks to use."]

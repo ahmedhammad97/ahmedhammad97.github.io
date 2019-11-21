@@ -1,0 +1,1 @@
+var author5722 = "Robert Conquest", quotes5722 = ["Truth can thus only percolate in the form of hearsay.","On political matters basically the best, though not infallible, source is rumor …"]

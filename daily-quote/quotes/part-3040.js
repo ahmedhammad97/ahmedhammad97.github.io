@@ -1,0 +1,1 @@
+var author3040 = "Individualism", quotes3040 = ["Nothing is at last sacred but the integrity of your own mind.","The most important things about the individual are what he cannot or will not say.","One man with courage makes a majority."]

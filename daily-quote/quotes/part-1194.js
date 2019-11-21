@@ -1,0 +1,1 @@
+var author1194 = "Chernobyl disaster", quotes1194 = ["We were just not prepared for that sort of situation."]

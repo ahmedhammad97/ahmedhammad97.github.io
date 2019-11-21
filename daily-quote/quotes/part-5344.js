@@ -1,0 +1,1 @@
+var author5344 = "Plagiarism", quotes5344 = ["They lard their lean books with the fat of others' works.","With him most authors steal their works, or buy;Garth did not write his own Dispensary.","Who borrow much, then fairly make it known,And damn it with improvements of their own.","He that readeth good writers and pickes out their flowres for his own nose, is lyke a foole."]

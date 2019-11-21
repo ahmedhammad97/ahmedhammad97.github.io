@@ -1,0 +1,1 @@
+var author6582 = "Theodoros Kolokotronis", quotes6582 = ["Greeks, God has signed our Liberty and will not go back on his promise.","Fire and Axe to those who submit!","He was the God of War.","When we got our weapons, we first said for [Christian] Faith and then for the Nation."]

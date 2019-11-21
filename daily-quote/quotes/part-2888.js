@@ -1,0 +1,1 @@
+var author2888 = "Herman Wouk", quotes2888 = ["I regard the writing of humor as a supreme artistic challenge.","This is an excellent martini—sort of tastes like it isn’t there at all, just a cold cloud."]

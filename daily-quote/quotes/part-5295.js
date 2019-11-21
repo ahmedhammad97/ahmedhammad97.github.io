@@ -1,0 +1,1 @@
+var author5295 = "Phillip Guston", quotes5295 = ["[Painting is..] a kind of war between the moment and the pull of memory.(quote in 1959)","Sylvester: What about figuration in a more literal sense? "]

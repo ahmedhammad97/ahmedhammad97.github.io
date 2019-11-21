@@ -1,0 +1,1 @@
+var author5487 = "R. H. Tawney", quotes5487 = ["An erring colleague is not an Amalkite to be smitten hip and thigh.","Mankind may wring her secrets from nature, and use their knowledge to destroy themselves.","The certainties of one age are the problems of the next."]

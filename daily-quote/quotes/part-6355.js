@@ -1,0 +1,1 @@
+var author6355 = "Surendra Pratap Singh", quotes6355 = ["Parting hugs and kisses filled their eyes. But misgivings remained in many a heart."]

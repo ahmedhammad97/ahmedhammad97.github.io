@@ -1,0 +1,1 @@
+var author4463 = "Masha Gessen", quotes4463 = ["Lying is not a side effect of what RT does; it is the channel's heart."]

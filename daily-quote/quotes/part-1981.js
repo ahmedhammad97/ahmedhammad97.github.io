@@ -1,0 +1,1 @@
+var author1981 = "Emanuel Swedenborg", quotes1981 = ["Man knows that love is, but not what it is.","A life of kindness is the primary meaning of divine worship.","Angels never attack, as infernal spirits do. Angels only ward off and defend.","Angels from the Lord lead and protect us every moment and every moment of every moment."]

@@ -1,0 +1,1 @@
+var author7158 = "William Moulton Marston", quotes7158 = ["Tolerant people are the happiest, so why not get rid of prejudices that hold you back?","A woman character without allure would be like a Superman without muscle."]

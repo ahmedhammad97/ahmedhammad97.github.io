@@ -1,0 +1,1 @@
+var author1156 = "Charles Olson", quotes1156 = ["What does not change / is the will to change"]

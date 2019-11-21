@@ -1,0 +1,1 @@
+var author4309 = "Manav Gupta", quotes4309 = ["Let us stop a while, while doing what we are doing, and begin to change what we can change…","The change needs to be from within us otherwise the generations to come will suffer.","Light, for me is Hope. Colour, the Universe in which it exists."]

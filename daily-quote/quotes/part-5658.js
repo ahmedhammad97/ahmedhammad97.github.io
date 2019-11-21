@@ -1,0 +1,1 @@
+var author5658 = "Richard Morgan", quotes5658 = ["We are, after all, evolved to relate to the physical world.","The past is relevant only as data.","Money doesn’t automatically mean taste.","I’m stacked, backed up and I’m fifth danAnd I’m not afraid of the Patchwork Man","The essence of control is to remain hidden from view, is it not?"]

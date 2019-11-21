@@ -1,0 +1,1 @@
+var author3437 = "Joanna Baillie", quotes3437 = ["Words of affection, howsoe'er express'd,The latest spoken still are deem'd the best.","A willing heart adds feather to the heel,And makes the clown a winged Mercury.","The hushed winds wail with feeble moanLike infant charity.","But woman's grief is like a summer storm,Short as it violent is."]

@@ -1,0 +1,1 @@
+var author5113 = "Pat Murphy", quotes5113 = ["Metaphor is reality once removed.","“You’ve passed the first test of leadership. You’ve disagreed with me.”","“You may learn a few things,” she said. “And that’s always good.”","“Imaginary solutions work quite well, as long as you realize that problems are also imaginary.”","Every point is a turning point."]

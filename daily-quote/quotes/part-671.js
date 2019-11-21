@@ -1,0 +1,1 @@
+var author671 = "Aurora", quotes671 = ["With gentle hand, as seeming oft to pause,The purple curtains of the morn she draws.","Aurora had but newly chased the night,And purpled o'er the sky with blushing light.","But when Aurora, daughter of the dawn,With rosy lustre purpled o'er the lawn.","Zephyr, with Aurora playing,As he met her once a-Maying."]

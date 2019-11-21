@@ -1,0 +1,1 @@
+var author2117 = "Evelyn Beatrice Hall", quotes2117 = ["It is by character and not by intellect the world is won."]

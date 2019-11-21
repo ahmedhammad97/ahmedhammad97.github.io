@@ -1,0 +1,1 @@
+var author7168 = "William Pitt, 1st Earl of Chatham", quotes7168 = ["My Lord, I am sure I can save this country, and no one else can.","While we had France for an enemy, Germany was the scene to employ and baffle her arms."]

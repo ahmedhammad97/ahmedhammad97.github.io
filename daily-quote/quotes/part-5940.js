@@ -1,0 +1,1 @@
+var author5940 = "Same-sex marriage", quotes5940 = ["Defenders of marriage / Defending the institution against people who wanna get married"]

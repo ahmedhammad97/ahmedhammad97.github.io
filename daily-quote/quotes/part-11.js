@@ -1,0 +1,1 @@
+var author11 = "20th century", quotes11 = ["[The Soviet Union was] a vast multinational empire already sinking into irreversible decline.","Anyone desiring a quiet life has done badly to be born in the twentieth century."]

@@ -1,0 +1,1 @@
+var author1272 = "Civil disobedience", quotes1272 = ["We must obey God rather than men.","Men of the most renowned virtue have sometimes by transgressing most truly kept the law.","I died to the law so that I might live for God."]

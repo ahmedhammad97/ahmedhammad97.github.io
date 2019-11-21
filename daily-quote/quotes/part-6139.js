@@ -1,0 +1,1 @@
+var author6139 = "Singularity", quotes6139 = ["It may be that our role on this planet is not to worship God but to create him."]

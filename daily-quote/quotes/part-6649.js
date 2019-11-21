@@ -1,0 +1,1 @@
+var author6649 = "Thomas Moult", quotes6649 = ["Cricket is an ancient pastime; it ripened sweetly, it has endured noblt."]

@@ -1,0 +1,1 @@
+var author4569 = "Michael Badnarik", quotes4569 = ["If he were alive today I would assasinate that S.O.B myself (Speaking of Franklin D. Roosevelt)."]

@@ -1,0 +1,1 @@
+var author1935 = "Eldridge Cleaver", quotes1935 = ["We shall have our manhood. We shall have it or the earth will be leveled by our attempts to gain it.","The price of hating other human beings is loving oneself less.","All the gods are dead except the god of war."]

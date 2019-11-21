@@ -1,0 +1,1 @@
+var author4119 = "Lightning", quotes4119 = ["Did you know that I was struck by lightning seven times?","He seized the lightning from Heaven and the scepter from the Tyrants.","Thunder is good, thunder is impressive; but it is lightning that does all the work."]

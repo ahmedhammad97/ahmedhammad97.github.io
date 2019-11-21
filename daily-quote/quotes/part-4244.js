@@ -1,0 +1,1 @@
+var author4244 = "Lytton Strachey", quotes4244 = ["If this is dying, then I don't think much of it."]

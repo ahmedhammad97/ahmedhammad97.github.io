@@ -1,0 +1,1 @@
+var author3215 = "James Barr", quotes3215 = ["The problem here is not so much a historical one, more a terminological and philosophical one."]

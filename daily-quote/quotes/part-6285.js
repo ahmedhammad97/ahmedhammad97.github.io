@@ -1,0 +1,1 @@
+var author6285 = "Steve Irwin", quotes6285 = ["If something ever happens to me, people are gonna be like 'we knew a croc would get him!'","Born a wildlife warrior, die a wildlife warrior.","Crikey means gee whiz, wow!","I don't know, man; don't worry about it."]

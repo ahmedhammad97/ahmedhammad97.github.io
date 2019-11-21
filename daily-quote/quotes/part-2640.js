@@ -1,0 +1,1 @@
+var author2640 = "Greece", quotes2640 = ["Athens, the eye of Greece, mother of artsAnd eloquence.","Fair Greece! sad relic of departed worth!Immortal, though no more; though fallen great!","To Greece we give our shining blades."]

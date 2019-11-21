@@ -1,0 +1,1 @@
+var author2452 = "George Best", quotes2452 = ["I spent a lot of money on booze, birds and fast cars. The rest I just squandered.","I used to go missing a lot... Miss Canada, Miss United Kingdom, Miss World.","I've stopped drinking, but only while I'm asleep.","In 1969 I gave up women and alcohol - it was the worst 20 minutes of my life."]

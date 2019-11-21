@@ -1,0 +1,1 @@
+var author548 = "Archaeology", quotes548 = ["Archaeology is destruction.","History is too serious to be left to historians.","He that diggeth a pit, shall fall into it. ","Archaeology is the nearest history comes to shopping."]

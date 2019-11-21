@@ -1,0 +1,1 @@
+var author2574 = "Girard Desargues", quotes2574 = ["Parallel lines have a common end point at an infinite distance.","When no point of a line is at a finite distance, the line itself is at an infinite distance.","He who shall wish to disentangle this proposition will easily be able to compose a volume."]

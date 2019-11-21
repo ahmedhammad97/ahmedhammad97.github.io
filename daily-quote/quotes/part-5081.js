@@ -1,0 +1,1 @@
+var author5081 = "Panama Papers", quotes5081 = ["The cat's out of the bag... So now we have to deal with the aftermath."]

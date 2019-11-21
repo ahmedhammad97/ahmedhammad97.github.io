@@ -1,0 +1,1 @@
+var author2504 = "George Oppen", quotes2504 = ["things explain each other, Not themselves."]

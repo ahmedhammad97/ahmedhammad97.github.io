@@ -1,0 +1,1 @@
+var author4642 = "Mike + The Mechanics", quotes4642 = ["It must be hard won't set you free "]

@@ -1,0 +1,1 @@
+var author5698 = "Ritwik Ghatak", quotes5698 = ["I believe in committed cinema. I mean, commitment in the broadest sense of the term."]

@@ -1,0 +1,1 @@
+var author2668 = "Guglielmo Marconi", quotes2668 = ["So be it, let it be so.","This new form of communication could have some utility."]

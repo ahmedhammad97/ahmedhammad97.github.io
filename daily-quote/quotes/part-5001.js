@@ -1,0 +1,1 @@
+var author5001 = "Omar Mukhtar", quotes5001 = ["I never submitted to the Italian government: I only had conversations with it.","War is war.","I am not sorry for what I did because it was God's will.","From God we have come and to God we must return."]

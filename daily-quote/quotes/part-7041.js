@@ -1,0 +1,1 @@
+var author7041 = "Whitney Chadwick", quotes7041 = ["The word artist means man unless qualified by the category woman."]

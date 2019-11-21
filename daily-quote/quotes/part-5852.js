@@ -1,0 +1,1 @@
+var author5852 = "Ross Mintzer", quotes5852 = ["It’s easy, it’s powerful."]

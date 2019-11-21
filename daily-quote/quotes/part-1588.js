@@ -1,0 +1,1 @@
+var author1588 = "David Spade", quotes1588 = ["Oh my God! I was always wondering what it would be like to run over a dried up, stinky, dick licker."]

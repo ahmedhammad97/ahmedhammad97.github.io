@@ -1,0 +1,1 @@
+var author2277 = "Francisco Luís Gomes", quotes2277 = ["What use is equality in theory and in law, if it does not penetrate into our customs?","Gambling is the contraction of all vices into one.","The biography of a minister is bound to be a work of moral and political importance. "]

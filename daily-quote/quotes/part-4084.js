@@ -1,0 +1,1 @@
+var author4084 = "Leonard Mlodinow", quotes4084 = ["The theory of randomness is fundamentally a codification of common sense."]

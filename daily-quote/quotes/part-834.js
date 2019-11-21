@@ -1,0 +1,1 @@
+var author834 = "Bill Shankly", quotes834 = ["At a football club, there's a holy trinity – the players, the manager and the supporters."]

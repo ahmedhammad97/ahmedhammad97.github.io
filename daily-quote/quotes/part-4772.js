@@ -1,0 +1,1 @@
+var author4772 = "Murray Bookchin", quotes4772 = ["If we do not do the impossible, we shall be faced with the unthinkable."]

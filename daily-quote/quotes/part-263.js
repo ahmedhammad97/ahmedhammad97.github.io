@@ -1,0 +1,1 @@
+var author263 = "Alexander Cockburn", quotes263 = ["The travel writer seeks the world we have lost — the lost valleys of the imagination."]

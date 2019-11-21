@@ -1,0 +1,1 @@
+var author901 = "Book of Mormon", quotes901 = ["By small and simple things are great things brought to pass"]

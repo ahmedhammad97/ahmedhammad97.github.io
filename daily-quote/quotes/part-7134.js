@@ -1,0 +1,1 @@
+var author7134 = "William I of England", quotes7134 = ["See — I have taken England with both my hands."]

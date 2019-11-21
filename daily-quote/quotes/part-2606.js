@@ -1,0 +1,1 @@
+var author2606 = "Gordon Pask", quotes2606 = ["Man is always aiming to achieve some goal and he is always looking for new goals.","A [learning] style is a disposition to adopt one class of learning strategy."]

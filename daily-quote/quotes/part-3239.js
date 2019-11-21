@@ -1,0 +1,1 @@
+var author3239 = "James Frey", quotes3239 = ["What I know is that I can trust his eyes because what lives in them, lives in me.","Sometimes skulls are thick. Sometimes hearts are vacant. Sometimes words don't work."]

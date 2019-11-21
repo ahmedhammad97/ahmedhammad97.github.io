@@ -1,0 +1,1 @@
+var author5013 = "Opium of the people", quotes5013 = ["Alas! that everThe opiate of the mind !","Optimism is the opium of the people.","It is not religion but revolution which is the opium of the people."]

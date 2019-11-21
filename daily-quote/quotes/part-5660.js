@@ -1,0 +1,1 @@
+var author5660 = "Richard Overy", quotes5660 = ["Hitler was ‘an enemy of free-market economics’ and a ‘reluctant dirigiste.’","Nazi political hegemony in the end prevented German capitalists form acting as capitalists."]

@@ -1,0 +1,1 @@
+var author3337 = "Jean Kambanda", quotes3337 = ["Guns are not only for soldiers. Every person can own a gun. If they shoot, you shoot back."]

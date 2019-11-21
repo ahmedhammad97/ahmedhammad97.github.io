@@ -1,0 +1,1 @@
+var author2275 = "Francis X. Diebold", quotes2275 = ["As with anything else, there are good and bad ways to forecast."]

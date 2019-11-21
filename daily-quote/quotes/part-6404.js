@@ -1,0 +1,1 @@
+var author6404 = "T. E. Lawrence", quotes6404 = ["To have news value is to have a tin can tied to one’s tail.","The printing press is the greatest weapon in the armory of the modern commander...","the sword also means clean-ness + death","Rebels, especially successful rebels, were of necessity bad subjects and worse governors."]

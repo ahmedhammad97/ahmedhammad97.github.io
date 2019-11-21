@@ -1,0 +1,1 @@
+var author7031 = "Wernher von Braun", quotes7031 = ["The rocket worked perfectly, except for landing on the wrong planet.","We can lick gravity, but sometimes the paperwork is overwhelming.","I'm convinced that before the year 2000 is over, the first child will have been born on the moon. ","Basic research is what I am doing when I don't know what I am doing."]

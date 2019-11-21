@@ -1,0 +1,1 @@
+var author472 = "Anne Ridler", quotes472 = ["A certain ambiguity of rhythm is one of the beauties of a poem"]

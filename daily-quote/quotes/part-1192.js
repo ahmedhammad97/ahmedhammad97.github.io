@@ -1,0 +1,1 @@
+var author1192 = "Chen Shih-chung", quotes1192 = ["The control and prevention of diseases and epidemics should go beyond boundaries."]

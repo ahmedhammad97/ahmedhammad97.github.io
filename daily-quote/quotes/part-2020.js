@@ -1,0 +1,1 @@
+var author2020 = "Enterprise architecture", quotes2020 = ["Establishing an enterprise architecture is like reengineering an aircraft in flight.","An enterprise architecture framework","Architecture has two meanings depending upon its contextual usage:"]

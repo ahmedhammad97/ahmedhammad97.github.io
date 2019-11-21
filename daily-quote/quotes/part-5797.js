@@ -1,0 +1,1 @@
+var author5797 = "Robert W. Bly", quotes5797 = ["Quality improves with effort according to an exponential curve.","Productive people guard their time more heavily than the gold in Fort Knox.","Without a deadline, the motivation to do a task is small to nonexistent.","Many people boast of going years without a vacation. But this is a sign of trouble — not commitment."]

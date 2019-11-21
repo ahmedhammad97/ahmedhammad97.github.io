@@ -1,0 +1,1 @@
+var author2137 = "Extravagance", quotes2137 = ["The question is not put how far extends"]

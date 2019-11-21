@@ -1,0 +1,1 @@
+var author6093 = "Shel Silverstein", quotes6093 = ["There's a Polar BearHe likes it 'cause it's cold in there.","Once there was a tree, and she loved a little boy."]

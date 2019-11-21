@@ -1,0 +1,1 @@
+var author5335 = "Piper Laurie", quotes5335 = ["The act of writing the book was painful at times, but it was easier than talking to someone.","It was the most fun I ever had. I would just laugh between takes. It was fun to be so mean."]

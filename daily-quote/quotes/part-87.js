@@ -1,0 +1,1 @@
+var author87 = "Acts of the Apostles", quotes87 = ["As some of your own poets have said, ‘We are his offspring.’","“After I have been [to Jerusalem],” [Paul] said, “I must visit Rome also.”"]

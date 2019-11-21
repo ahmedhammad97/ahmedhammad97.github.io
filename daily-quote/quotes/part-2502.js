@@ -1,0 +1,1 @@
+var author2502 = "George Monck, 1st Duke of Albemarle", quotes2502 = ["What matters this or that reason? What we want is more of the trade which the Dutch now have."]

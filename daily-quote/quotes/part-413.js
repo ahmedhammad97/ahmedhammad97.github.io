@@ -1,0 +1,1 @@
+var author413 = "Andrew Taylor Still", quotes413 = ["The best osteopath is the best engineer; the best engineer is the best osteopath."]

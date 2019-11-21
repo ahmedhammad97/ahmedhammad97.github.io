@@ -1,0 +1,1 @@
+var author223 = "Albert Pike", quotes223 = ["Hypocrisy is the homage that vice and wrong pay to virtue and justice.","We seem never to know what any thing means or is worth until we have lost it. "]

@@ -1,0 +1,1 @@
+var author3421 = "Jimmy Savile", quotes3421 = ["Whatever is said after I’m gone is irrelevant."]

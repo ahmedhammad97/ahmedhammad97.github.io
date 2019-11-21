@@ -1,0 +1,1 @@
+var author4813 = "Nathaniel Cotton", quotes4813 = ["How great his theft, who robs himself!","'Tis the last act which crowns the play."]

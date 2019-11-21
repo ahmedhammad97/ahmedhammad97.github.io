@@ -1,0 +1,1 @@
+var author6477 = "Tex Atchison", quotes6477 = ["You're a little honey and you're quite a dish.Saturday night we're goin' fishin' to fish."]

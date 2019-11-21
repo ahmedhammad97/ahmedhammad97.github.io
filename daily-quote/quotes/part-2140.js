@@ -1,0 +1,1 @@
+var author2140 = "Ezra Koenig", quotes2140 = ["Every dollar countsUntil we live to work","that story is 93% true","#1000daysof1d congratulations. may you reign for 1000 years. your humble servant, ezra"]

@@ -1,0 +1,1 @@
+var author1101 = "Celia Thaxter", quotes1101 = ["Already the dandelionsAre changed into vanishing ghosts."]

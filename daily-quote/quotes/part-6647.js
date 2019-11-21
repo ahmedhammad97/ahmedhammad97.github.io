@@ -1,0 +1,1 @@
+var author6647 = "Thomas Morton (playwright)", quotes6647 = ["Approbation from Sir Hubert Stanley is praise indeed.","I eat well, and I drink well, and I sleep well&mdash;but that's all."]

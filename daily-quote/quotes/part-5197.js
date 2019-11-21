@@ -1,0 +1,1 @@
+var author5197 = "Penny Lernoux", quotes5197 = ["Opus Dei is an efficient machine run to achieve world power."]

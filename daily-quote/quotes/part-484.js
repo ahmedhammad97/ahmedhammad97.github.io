@@ -1,0 +1,1 @@
+var author484 = "Anonymity", quotes484 = ["Never answer an anonymous letter.","If I had remained invisible, the truth would have stayed hidden. I couldn't allow that.","I have many names, and none of them matter."]

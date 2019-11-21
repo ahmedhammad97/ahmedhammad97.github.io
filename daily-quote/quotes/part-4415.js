@@ -1,0 +1,1 @@
+var author4415 = "Marshall Goldsmith", quotes4415 = ["People who believe they can succeed see opportunities where others see threats."]

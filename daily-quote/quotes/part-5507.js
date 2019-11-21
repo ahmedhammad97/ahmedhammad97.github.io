@@ -1,0 +1,1 @@
+var author5507 = "Rahm Emanuel", quotes5507 = ["[Republicans] can go fuck themselves!","[Obama White House] rescued the economy from the worst recession. "]

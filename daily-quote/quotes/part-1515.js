@@ -1,0 +1,1 @@
+var author1515 = "Dannie Abse", quotes1515 = ["I know the colour rose, and it is lovely,But not when it ripens in a tumour.","And silence matched the silence under snow."]

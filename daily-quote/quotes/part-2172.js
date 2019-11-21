@@ -1,0 +1,1 @@
+var author2172 = "Fasting", quotes2172 = ["Fasting possesses great power. If practiced with the right intention, it makes one a friend of God."]

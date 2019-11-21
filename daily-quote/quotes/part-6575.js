@@ -1,0 +1,1 @@
+var author6575 = "Theodore Parker", quotes6575 = ["Truth stood on one side and Ease on the other; it has often been so.","Remorse is the pain of sin.","The books that help you the most are those which make you think the most."]

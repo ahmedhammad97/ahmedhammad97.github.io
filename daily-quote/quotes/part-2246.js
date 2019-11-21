@@ -1,0 +1,1 @@
+var author2246 = "Fortran", quotes2246 = ["The determined Real Programmer can write FORTRAN programs in any language.","FORTRAN was the language of choice for the same reason that three-legged races are popular."]

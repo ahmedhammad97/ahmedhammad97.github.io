@@ -1,0 +1,1 @@
+var author2227 = "Florence Becker Lennon", quotes2227 = ["Whether the queen caused the period, or the period creates the queen, she fitted her time perfectly."]

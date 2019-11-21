@@ -1,0 +1,1 @@
+var author5656 = "Richard Matheson", quotes5656 = ["I can get pissed off very easily. ","I thought what father said. Oh god he said. And only eight.","Life is a risk; so is writing. You have to love it."]

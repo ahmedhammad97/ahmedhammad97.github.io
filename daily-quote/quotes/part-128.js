@@ -1,0 +1,1 @@
+var author128 = "Aeronautics", quotes128 = ["He rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind."]

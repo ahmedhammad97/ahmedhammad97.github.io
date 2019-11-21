@@ -1,0 +1,1 @@
+var author264 = "Alexander Graham Bell", quotes264 = ["Mr. Watson — Come here — I want to see you.","Before anything else, preparation is the key to success.","If a man is not bound down, he is sure to succeed."]

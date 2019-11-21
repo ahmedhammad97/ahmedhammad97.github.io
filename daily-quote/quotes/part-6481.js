@@ -1,0 +1,1 @@
+var author6481 = "Thales", quotes6481 = ["Water is the first principle of everything."]

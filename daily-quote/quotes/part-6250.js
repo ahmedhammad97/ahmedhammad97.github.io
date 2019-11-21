@@ -1,0 +1,1 @@
+var author6250 = "Steel", quotes6250 = ["Men are like steel —\\xa0when they lose their temper, they lose their worth.","How cold steel is, and keen with hunger of blood [...]","I never saw any one like him. He is steel! He would go through you like a sword!"]

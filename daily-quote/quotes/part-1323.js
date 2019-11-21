@@ -1,0 +1,1 @@
+var author1323 = "Colette Dowling", quotes1323 = ["[Women] were not trained for freedom at all, but for its categorical opposite—dependency.","Males are educated for independence from the day they are born.","Female physical frailty is not a reality but a myth with an agenda."]

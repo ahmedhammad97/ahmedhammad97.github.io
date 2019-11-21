@@ -1,0 +1,1 @@
+var author4351 = "Margaret Wheatley", quotes4351 = ["To name is to make visible.","There is no power for change greater than a community discovering what it cares about."]

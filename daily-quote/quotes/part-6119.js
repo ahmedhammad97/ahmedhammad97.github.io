@@ -1,0 +1,1 @@
+var author6119 = "Sidney Lanier", quotes6119 = ["Sweet Sometime, fly fast for me.","Music means harmony, harmony means love. Love means God.","On Whitman - His poetry refreshed me like harsh salt spray."]

@@ -1,0 +1,1 @@
+var author4246 = "Léon Bloy", quotes4246 = ["Any Christian who is not a hero is a pig.","There is only one tragedy in the end, not to have been a saint.","Suffering passes, but the fact of having suffered never passes.","Whoever does not pray to God, prays to the devil.","My anger is the effervescence of my pity."]

@@ -1,0 +1,1 @@
+var author7256 = "X me no Xs", quotes7256 = ["But me no buts.","Cook me no cooks.","Fool me no fools.","Gift me no Gifts; I have none for thee.","Thank me no thanks, nor proud me no prouds.","Cody me no Codys about America."]

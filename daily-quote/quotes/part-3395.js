@@ -1,0 +1,1 @@
+var author3395 = "Jerzy Vetulani", quotes3395 = ["Creativity is an integral part of our personality.","Functioning brain is essential for expressing soul.","It's a great question about what is our mind. Undoubtedly a creation of our brain.","Life is an ulcer on the body of universe.","The worst thing happens when ideologists are trying to analyse scientific researches."]

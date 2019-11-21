@@ -1,0 +1,1 @@
+var author2685 = "Gustave de Molinari", quotes2685 = ["If there is one well-established truth in political economy, it is this: "]

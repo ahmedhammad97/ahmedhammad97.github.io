@@ -1,0 +1,1 @@
+var author601 = "Arthur Helps", quotes601 = ["Do not mistake energy for enthusiasm; the softest speakers are often the most enthusiastic of men. ","No man ever praised two persons equally – and pleased them both."]

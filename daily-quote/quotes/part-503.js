@@ -1,0 +1,1 @@
+var author503 = "Anthropology", quotes503 = ["Anthropology is not social work."]

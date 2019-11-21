@@ -1,0 +1,1 @@
+var author710 = "Barbara Bush", quotes710 = ["I can’t say it, but it rhymes with rich.","Avoid this crowd like the plague. And if they quote you, make damn sure they heard you."]

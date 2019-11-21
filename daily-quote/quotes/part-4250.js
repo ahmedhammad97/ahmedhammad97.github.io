@@ -1,0 +1,1 @@
+var author4250 = "M. S. Swaminathan", quotes4250 = ["The right to food has to become the right to good food","Eternal vigilance is the price of food security. "]

@@ -1,0 +1,1 @@
+var author1972 = "Elliott Smith", quotes1972 = ["I think the music business will eventually crush me, but I [smiles]... I'm ready.","I don't intend to write depressing songs and I'd probably rather write happy ones"]

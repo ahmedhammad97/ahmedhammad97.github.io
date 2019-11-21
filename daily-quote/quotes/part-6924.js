@@ -1,0 +1,1 @@
+var author6924 = "Visualization", quotes6924 = ["The medium of printed scientific text is first of all a visual one.","I think a picture is more like the real world when it is made out of the real world.","To name is to make visible."]

@@ -1,0 +1,1 @@
+var author268 = "Alexander Kronrod", quotes268 = ["Chess is the Drosophila of artificial intelligence.","An idea is nothing, its implementation everything."]

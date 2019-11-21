@@ -1,0 +1,1 @@
+var author3827 = "Jyrki Katainen", quotes3827 = ["We are not able to find out, what (funds) were gathered in these campaigns. "]

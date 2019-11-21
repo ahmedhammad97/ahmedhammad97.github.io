@@ -1,0 +1,1 @@
+var author3245 = "James H. Cone", quotes3245 = ["To be Christian is to be one of those whom God has chosen. God has chosen black people!"]

@@ -1,0 +1,1 @@
+var author1893 = "Edward Norris Kirk", quotes1893 = ["Your great employment is to bring the individual souls of men to Christ.","A refusal to believe that God loves us is the unbelief which destroys the soul."]

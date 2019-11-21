@@ -1,0 +1,1 @@
+var author6431 = "Tariq Ali", quotes6431 = ["We live, after all, in a world where illusions are sacred and truth profane.","Even if you reject everything, it is always better to know what it is you are rejecting."]

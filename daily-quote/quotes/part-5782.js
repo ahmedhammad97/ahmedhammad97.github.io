@@ -1,0 +1,1 @@
+var author5782 = "Robert Reich", quotes5782 = ["Government doesn’t intrude on the free market. It creates the market."]

@@ -1,0 +1,1 @@
+var author1381 = "Constantine P. Cavafy", quotes1381 = ["What are we waiting for, assembled in the forum?The barbarians are due here today.","The empire is delivered at last. reigns no longer.","If you are one of the truly elect, be careful how you attain your eminence.","From all I did and all I said let no one try to find out who I was."]

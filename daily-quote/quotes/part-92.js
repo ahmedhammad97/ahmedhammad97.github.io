@@ -1,0 +1,1 @@
+var author92 = "Adam Goldstein", quotes92 = ["Feed the soul, starve the ego."]

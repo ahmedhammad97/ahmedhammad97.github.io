@@ -1,0 +1,1 @@
+var author3932 = "Kinetic art", quotes3932 = ["How can art be realized?","THE ONLY STABLE THING IS MOVEMENT"]

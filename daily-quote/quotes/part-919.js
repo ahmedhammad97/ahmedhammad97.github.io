@@ -1,0 +1,1 @@
+var author919 = "Boy", quotes919 = ["Better build schoolrooms for the boyThan cells and gibbets for the man.","When boys go first to bed,They step into their voluntary graves.","When you can't do anything else to a boy, you can make him wash his face.","Make the boy interested in natural history if you can; it is better than games."]

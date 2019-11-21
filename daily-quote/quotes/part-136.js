@@ -1,0 +1,1 @@
+var author136 = "Afghanistan", quotes136 = ["We will never be a pawn in someone else's game. We will always be Afghanistan."]

@@ -1,0 +1,1 @@
+var author6569 = "Theodor Herzl", quotes6569 = ["From the Brook of Egypt to the Euphrates."]

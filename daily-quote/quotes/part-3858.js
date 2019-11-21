@@ -1,0 +1,1 @@
+var author3858 = "Karl Lagerfeld", quotes3858 = ["Fantasy is often better than reality. It’s much more inspiring not to go to places than to go."]

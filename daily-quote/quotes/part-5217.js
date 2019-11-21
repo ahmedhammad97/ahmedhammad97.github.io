@@ -1,0 +1,1 @@
+var author5217 = "Personality", quotes5217 = ["Personality is the knowledge that we are apart from the rest of the universe.","Methods are transient: personality is enduring.","Personality is more important than beauty, but imagination is more important than both of them.","The note of the perfect personality is not rebellion, but peace."]

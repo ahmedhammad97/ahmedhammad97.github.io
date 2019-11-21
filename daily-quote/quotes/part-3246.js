@@ -1,0 +1,1 @@
+var author3246 = "James Hogg", quotes3246 = ["Man mind yoursel is the first commandment."]

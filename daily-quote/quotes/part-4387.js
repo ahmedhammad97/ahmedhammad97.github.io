@@ -1,0 +1,1 @@
+var author4387 = "Mark Kac", quotes4387 = ["Where there is independence there must be the normal law."]

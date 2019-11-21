@@ -1,0 +1,1 @@
+var author1385 = "Constitutions", quotes1385 = ["A constitution is made of a spirit, institutions, and a practice.","Constitutions are intended to preserve practical and substantial rights, not to maintain theories.","A constitution should be short and obscure."]

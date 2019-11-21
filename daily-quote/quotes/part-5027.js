@@ -1,0 +1,1 @@
+var author5027 = "Organizational theory", quotes5027 = ["Today perhaps the most popular organizational theory is .","Organizational theory is based on a culture's answers to questions about the self. "]

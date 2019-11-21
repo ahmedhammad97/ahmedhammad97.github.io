@@ -1,0 +1,1 @@
+var author6627 = "Thomas Hesse", quotes6627 = ["Most people, I think, don’t even know what a rootkit is, so why should they care about it?"]

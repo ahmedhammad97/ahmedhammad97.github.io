@@ -1,0 +1,1 @@
+var author6698 = "Tim O'Brien (author)", quotes6698 = ["They were afraid of dying but even more afraid to show it.","I survived, but it's not a happy ending. I was a coward. I went to the war.","Did I choose this life of illusion? Don't be mad. My bed was made, I just lied in it. (p. 87)"]

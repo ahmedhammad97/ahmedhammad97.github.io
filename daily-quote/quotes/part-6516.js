@@ -1,0 +1,1 @@
+var author6516 = "The Jazz Singer", quotes6516 = ["My son was to stand at my side and sing tonight – but now I have no son.","Wait a minute, wait a minute. You ain't heard nothin' yet!","Do what is in your heart, Jakie—if you sing and God is not in your voice — your father will know."]

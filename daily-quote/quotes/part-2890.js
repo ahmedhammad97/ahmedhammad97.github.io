@@ -1,0 +1,1 @@
+var author2890 = "Hermann Friedrich Kohlbrügge", quotes2890 = ["They are separated from the mass, set apart that they may be a peculiar people to the Lord.","We reject the pharisaical sanctity, which is but a covering of shame, under which sin has free play.","Every thing that is around us strives to draw us away from the true faith."]

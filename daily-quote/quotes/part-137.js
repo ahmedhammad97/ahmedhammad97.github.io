@@ -1,0 +1,1 @@
+var author137 = "Africa", quotes137 = ["The African lions rush to attack bulls; they do not attack butterflies.","I am an African. And that makes me who I am.","China's investment in Africa of various kinds exceeds forty billion dollars."]

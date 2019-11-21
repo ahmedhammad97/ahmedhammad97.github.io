@@ -1,0 +1,1 @@
+var author3792 = "Juhani Aho", quotes3792 = ["WHEN father bought the lamp, or a little before that, he said to mother:","No music was made from grief, moulded from sorrow."]

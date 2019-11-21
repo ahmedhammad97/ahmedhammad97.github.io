@@ -1,0 +1,1 @@
+var author6855 = "V. Vale", quotes6855 = ["I try to bring out the subversive side of people. ","I have been in a war with outdated language. ","First technology, then culture. "]

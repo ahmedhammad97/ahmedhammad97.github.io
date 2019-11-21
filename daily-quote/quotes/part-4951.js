@@ -1,0 +1,1 @@
+var author4951 = "Novel", quotes4951 = ["Life must not be a novel that is given to us, but one that is made by us.","The novel belongs to the category of natural poetry - the allegory to that of the artificial. ","In every first novel the hero is the author as Christ or Faust"]

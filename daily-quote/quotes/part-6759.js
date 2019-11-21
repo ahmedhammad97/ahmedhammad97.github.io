@@ -1,0 +1,1 @@
+var author6759 = "Toronto", quotes6759 = ["York is just emerging from the woods, but bids fair to be a flourishing town.","Houses of ill-fame in Toronto? Certainly not. The whole city is an immense house of ill fame."]

@@ -1,0 +1,1 @@
+var author1102 = "Celibacy", quotes1102 = ["Celibacy is not merely unknown to Islam, it is unintelligible.","Marriage has many pains, but celibacy has no pleasures.","Marriage may often be a stormy lake, but celibacy is almost always a muddy horsepond."]

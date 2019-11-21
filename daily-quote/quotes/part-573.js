@@ -1,0 +1,1 @@
+var author573 = "Armen Alchian", quotes573 = ["Where foresight is uncertain, “profit maximization” is meaningless as a guide to specifiable action."]

@@ -1,0 +1,1 @@
+var author3594 = "John Lewis (politician)", quotes3594 = ["I believe in nonviolence as a way of life, as a way of living.","We may not have chosen the time, but the time has chosen us."]

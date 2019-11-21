@@ -1,0 +1,1 @@
+var author5976 = "Santiago Ramón y Cajal", quotes5976 = ["Any man could, if he were so inclined, be the sculptor of his own brain."]

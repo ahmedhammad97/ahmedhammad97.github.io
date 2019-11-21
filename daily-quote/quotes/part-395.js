@@ -1,0 +1,1 @@
+var author395 = "Andreas Karlstadt", quotes395 = ["How can you save lay persons when you ascribe to images the power which God gave to his word alone?"]

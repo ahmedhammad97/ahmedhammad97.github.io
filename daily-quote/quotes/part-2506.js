@@ -1,0 +1,1 @@
+var author2506 = "George Pólya", quotes2506 = ["The best of ideas is hurt by uncritical acceptance and thrives on critical examination.","Good approximations often lead to better ones."]

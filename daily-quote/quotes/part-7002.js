@@ -1,0 +1,1 @@
+var author7002 = "Warren Bennis", quotes7002 = ["The manager accepts the status quo; the leader challenges it.","Management is doing things right; leadership is doing the right things.","Leadership is the capacity to translate vision into reality.","Failing organizations are usually over-managed and under-led. "]

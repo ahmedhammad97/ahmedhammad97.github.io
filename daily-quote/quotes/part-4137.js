@@ -1,0 +1,1 @@
+var author4137 = "Linux", quotes4137 = ["Linux is only free if your time has no value.","Making Linux GPL'd was definitely the best thing I ever did."]

@@ -1,0 +1,1 @@
+var author4078 = "Leon Uris", quotes4078 = ["I was tough. I used everything to my advantage. I could be very ruthless."]

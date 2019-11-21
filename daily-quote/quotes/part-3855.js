@@ -1,0 +1,1 @@
+var author3855 = "Karl E. Weick", quotes3855 = ["Sensemaking tends to be swift, which means we are more likely to see products than processes.","Simply pushing harder within the old boundaries will not do."]

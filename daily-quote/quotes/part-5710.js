@@ -1,0 +1,1 @@
+var author5710 = "Robert Anderson (playwright)", quotes5710 = ["All you’re supposed to do is every once in a while give the boys a little tea and sympathy."]

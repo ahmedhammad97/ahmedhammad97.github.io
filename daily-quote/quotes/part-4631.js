@@ -1,0 +1,1 @@
+var author4631 = "Michio Kushi", quotes4631 = ["Memory is merely the process of tuning into vibrations that have been left behind in space and time.","See the person's eating and cooking, and then you can judge his or her spirituality."]

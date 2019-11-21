@@ -1,0 +1,1 @@
+var author3488 = "John Boyle O'Reilly", quotes3488 = ["The organized charity, scrimped and iced, In the name of a cautious, statistical Christ.","For the love that is purest and sweetestHas a kiss of desire on the lips."]

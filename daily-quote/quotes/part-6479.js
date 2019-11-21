@@ -1,0 +1,1 @@
+var author6479 = "Texe Marrs", quotes6479 = ["Is the NIV the Feminist Bible for the New Age? (August 1997)."]

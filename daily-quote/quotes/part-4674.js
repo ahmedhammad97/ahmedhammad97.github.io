@@ -1,0 +1,1 @@
+var author4674 = "Mirra Alfassa", quotes4674 = ["Yes, indeed, I do feel the weight of the world's miseries pressing upon me!","Will you shut up now?"]

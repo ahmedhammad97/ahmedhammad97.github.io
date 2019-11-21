@@ -1,0 +1,1 @@
+var author218 = "Albert Gleizes", quotes218 = ["The immobile had been changed to mobility."]

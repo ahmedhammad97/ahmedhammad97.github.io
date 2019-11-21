@@ -1,0 +1,1 @@
+var author1970 = "Ellie Goulding", quotes1970 = ["I had a heart then \\xa0But the queen has been overthrown"]

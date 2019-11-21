@@ -1,0 +1,1 @@
+var author6170 = "Social group", quotes6170 = ["The Constitution favors no racial group, no political or social group.","Every living thing loves its own kind,"]

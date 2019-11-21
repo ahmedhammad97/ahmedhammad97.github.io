@@ -1,0 +1,1 @@
+var author1986 = "Emilio De Bono", quotes1986 = ["If you know anything, deny, deny, deny. I want to save Fascism.","This was a great reward for us. We had not had the good fortune to meet the enemy in force.","We look on seriously, but serenely."]

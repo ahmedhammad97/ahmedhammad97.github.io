@@ -1,0 +1,1 @@
+var author1338 = "Common law", quotes1338 = ["It is difficult to struggle with the common law.","Common law is common usage, and where there is no law there can be no transgression.","I am not for stirring a single pebble of the common law.","The Court of Common Pleas is the lock and key of the common law.","Whatever is by the common law, can only be affected by statute."]

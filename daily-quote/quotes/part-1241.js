@@ -1,0 +1,1 @@
+var author1241 = "Christopher Columbus", quotes1241 = ["When there are such lands there should be profitable things without number."]

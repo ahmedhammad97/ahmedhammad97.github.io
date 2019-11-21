@@ -1,0 +1,1 @@
+var author1118 = "Charles Babbage", quotes1118 = ["The whole of arithmetic now appeared within the grasp of mechanism."]

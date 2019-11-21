@@ -1,0 +1,1 @@
+var author5869 = "Rudolf Virchow", quotes5869 = ["Between animal and human medicine, there is no dividing line—nor should there be.","The future is with the vegetarians."]

@@ -1,0 +1,1 @@
+var author688 = "Ayenbite of Inwyt", quotes688 = ["Zuo longe geþ þet pot to þe wetere: þet hit comþ to-broke hom."]

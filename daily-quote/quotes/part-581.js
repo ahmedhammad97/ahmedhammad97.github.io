@@ -1,0 +1,1 @@
+var author581 = "Arnold Schwarzenegger", quotes581 = ["I play the Terminator, but you guys are the true terminators.","Why not? With my way of thinking, you always shoot for the top. ","This guy is just fumbling around.","Just remember, you can't climb the ladder of success with your hands in your pockets."]

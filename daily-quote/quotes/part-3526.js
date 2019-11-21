@@ -1,0 +1,1 @@
+var author3526 = "John Dean", quotes3526 = ["We have a cancer within, close to the presidency, that's growing. "]

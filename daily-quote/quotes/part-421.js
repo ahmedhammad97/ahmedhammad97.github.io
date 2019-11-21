@@ -1,0 +1,1 @@
+var author421 = "Andrzej Sapkowski", quotes421 = ["The sword of destiny has two edges. You are one of them."]

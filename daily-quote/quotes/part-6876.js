@@ -1,0 +1,1 @@
+var author6876 = "Vasily Grossman", quotes6876 = ["It is impossible to publish your book, and it will not be published in the next 200 years.","No, we have not destroyed it. Let it sit. We cannot change its fate.","We should not underestimate the harm it would bring should it be published. "]

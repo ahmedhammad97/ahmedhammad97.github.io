@@ -1,0 +1,1 @@
+var author3461 = "Johann Georg Hamann", quotes3461 = ["Poetry is the mother-tongue of the human race.","Through a vicious circle of pure reason skepsis itself becomes dogma."]

@@ -1,0 +1,1 @@
+var author3311 = "Jargon", quotes3311 = ["Words of the jargon sound as if they said something higher than what they mean."]

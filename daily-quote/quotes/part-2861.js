@@ -1,0 +1,1 @@
+var author2861 = "Henry Summers", quotes2861 = ["My old cat is dead,Who would butt me with his head.","Four o’clock strikes,The children come."]

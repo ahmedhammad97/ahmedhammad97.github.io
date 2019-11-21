@@ -1,0 +1,1 @@
+var author2464 = "George Etherege", quotes2464 = ["Next to the coming to a good understanding with a new mistress, I love a quarrel with an old one.","I know all beyond High Park's a desert to you."]

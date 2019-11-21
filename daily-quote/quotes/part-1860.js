@@ -1,0 +1,1 @@
+var author1860 = "Edmund White", quotes1860 = ["All his leisure clothes were absurd — jokes, really — as though leisure itself had to be ridiculed."]

@@ -1,0 +1,1 @@
+var author7014 = "Watergate scandal", quotes7014 = ["Follow the money."]

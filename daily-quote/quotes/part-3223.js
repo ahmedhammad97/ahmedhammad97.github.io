@@ -1,0 +1,1 @@
+var author3223 = "James Cagney", quotes3223 = ["I never actually said Ooh, you dirty rat."]

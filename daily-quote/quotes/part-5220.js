@@ -1,0 +1,1 @@
+var author5220 = "Perversion", quotes5220 = ["In heavenly spirits could such perverseness dwell?"]

@@ -1,0 +1,1 @@
+var author5723 = "Robert Cormier", quotes5723 = ["They murdered him."]

@@ -1,0 +1,1 @@
+var author6939 = "Vomit", quotes6939 = ["Good painters imitate nature, bad ones vomit it."]

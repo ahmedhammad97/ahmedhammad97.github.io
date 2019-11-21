@@ -1,0 +1,1 @@
+var author386 = "Anaxagoras", quotes386 = ["The sun provides the moon with its brightness."]

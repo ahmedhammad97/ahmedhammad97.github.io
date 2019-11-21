@@ -1,0 +1,1 @@
+var author642 = "Associates", quotes642 = ["He that walketh with wise men shall be wise, but a companion of fools shall be destroyed.","Be not deceived: evil communications corrupt good manners."]

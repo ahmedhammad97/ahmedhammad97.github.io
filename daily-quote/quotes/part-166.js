@@ -1,0 +1,1 @@
+var author166 = "Akira Kurosawa", quotes166 = ["In a mad world, only the mad are sane!"]

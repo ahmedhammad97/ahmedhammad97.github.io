@@ -1,0 +1,1 @@
+var author2282 = "Frank Chodorov", quotes2282 = ["There cannot be a good tax nor a just one; every tax rests its case on compulsion.","Taxation is nothing but organized robbery, and there the subject should be dropped.","The freedoms won by Americans in 1776 were lost in the revolution of 1913.","[E]very soak-the-rich tax must become in time a soak-the-poor tax."]

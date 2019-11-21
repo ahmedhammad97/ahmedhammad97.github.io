@@ -1,0 +1,1 @@
+var author648 = "Ataol Behramoğlu", quotes648 = ["Death, one experiences alone Love is a two-person thing","The poet should be responsible to the poem.","A poem is a living organism.","Creativity is a hidden gem. Education is needed to uncover it."]

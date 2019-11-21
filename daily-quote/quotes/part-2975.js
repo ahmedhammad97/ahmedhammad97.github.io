@@ -1,0 +1,1 @@
+var author2975 = "Human resource management", quotes2975 = ["The ultimate measurement is effectiveness, not efficiency."]

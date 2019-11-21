@@ -1,0 +1,1 @@
+var author6771 = "Transport", quotes6771 = ["Public transport is functionality for people not engineers.","Like music my drawings transport us to the ambiguous world of the indeterminate."]

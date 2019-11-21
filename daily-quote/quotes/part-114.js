@@ -1,0 +1,1 @@
+var author114 = "Adolph Gottlieb", quotes114 = ["If we depart form tradition, it is out of knowledge, not innocence.","We are going to have perhaps a thousand years of non-representational painting.","My favourite symbols were those I did not understand."]

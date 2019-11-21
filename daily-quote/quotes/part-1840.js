@@ -1,0 +1,1 @@
+var author1840 = "Edgar Bronfman, Sr.", quotes1840 = ["To turn $100 into $110 is work. To turn $100 million into $110 million is inevitable."]

@@ -1,0 +1,1 @@
+var author6941 = "Vows", quotes6941 = ["Vow me no vows.","Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.","Ease would recantVows made in pain, as violent and void.","Let us embrace, and from this very momentVow an eternal misery together."]

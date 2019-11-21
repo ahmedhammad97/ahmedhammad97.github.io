@@ -1,0 +1,1 @@
+var author1459 = "Cyrus the Great", quotes1459 = ["Diversity in counsel, unity in command."]

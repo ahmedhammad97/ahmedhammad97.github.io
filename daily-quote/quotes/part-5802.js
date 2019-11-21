@@ -1,0 +1,1 @@
+var author5802 = "Roberto Mangabeira Unger", quotes5802 = ["In history obedience rarely pays; what pays is defiance.","Philosophy is a concentrated deployment of the transgressing facilities of the mind."]

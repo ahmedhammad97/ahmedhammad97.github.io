@@ -1,0 +1,1 @@
+var author2472 = "George Gaylord Simpson", quotes2472 = ["Man is the result of a purposeless and natural process that did not have him in mind."]

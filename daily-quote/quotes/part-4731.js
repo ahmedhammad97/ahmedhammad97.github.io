@@ -1,0 +1,1 @@
+var author4731 = "Mortimer Adler", quotes4731 = ["You can't be a philosopher and an activist. If you do, you get all mixed up.","The telephone book is full of facts, but it doesn't contain a single idea.","It is only by struggling with difficult books, books over one's head, that anyone learns to read."]

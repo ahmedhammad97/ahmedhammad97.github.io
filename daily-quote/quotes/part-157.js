@@ -1,0 +1,1 @@
+var author157 = "Ahmet Davutoğlu", quotes157 = ["We will always side with the wrongdoers.","There is a 360-degree difference between our understanding of Islam and that of IS."]

@@ -1,0 +1,1 @@
+var author3303 = "Janeane Garofalo", quotes3303 = ["Iraq is a manufactured conflict for the sake of geopolitical dominance in the area.","To me, there is no greater act of courage than being the one who kisses first.","All roads lead to my dogs, don't they?","There's nothing wrong with the word conspiracy. It just means 'to breathe together'."]

@@ -1,0 +1,1 @@
+var author5469 = "Qin Shi Huang", quotes5469 = ["I have collected all the writings of the Empire and burnt those which were of no use."]

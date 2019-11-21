@@ -1,0 +1,1 @@
+var author621 = "Arthur Wing Pinero", quotes621 = ["From forty till fifty a man is at heart either a stoic or a satyr."]

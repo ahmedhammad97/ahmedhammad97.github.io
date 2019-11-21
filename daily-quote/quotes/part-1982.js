@@ -1,0 +1,1 @@
+var author1982 = "Emil Cioran", quotes1982 = ["We are all secularised anarchists today.","He who has never envied the vegetable has missed the human drama."]

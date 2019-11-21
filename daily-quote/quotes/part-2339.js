@@ -1,0 +1,1 @@
+var author2339 = "Frederick York Powell", quotes2339 = ["It was a soufflé of a speech, light, pleasant, digestible, and nourishing also."]

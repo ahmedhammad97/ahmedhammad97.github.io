@@ -1,0 +1,1 @@
+var author4031 = "Lawrence A. Appley", quotes4031 = ["Management is the accomplishment of results through the efforts of other people.","The highest standard for each individual is that which his conscience tells him is best."]

@@ -1,0 +1,1 @@
+var author2990 = "I. F. Stone", quotes2990 = ["Every time we are confronted with a new revolution we take to the opium pipes of our own propaganda.","A certain moral imbecility marks all ethnocentric movements."]

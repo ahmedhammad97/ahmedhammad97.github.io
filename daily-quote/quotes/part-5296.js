@@ -1,0 +1,1 @@
+var author5296 = "Phillips Brooks", quotes5296 = ["Duty makes us do things well, but love makes us do them beautifully."]

@@ -1,0 +1,1 @@
+var author1147 = "Charles Kettering", quotes1147 = ["The whole fun of living is trying to make something better.","The key to economic prosperity is the organized creation of dissatisfaction. "]

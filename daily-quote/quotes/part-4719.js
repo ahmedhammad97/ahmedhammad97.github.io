@@ -1,0 +1,1 @@
+var author4719 = "Moral injury", quotes4719 = ["Moral injury is present when "]

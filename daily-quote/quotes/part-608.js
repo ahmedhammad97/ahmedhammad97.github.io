@@ -1,0 +1,1 @@
+var author608 = "Arthur Koestler", quotes608 = ["The more original a discovery the more obvious it seems afterwards.","God seems to have left the receiver off the hook, and time is running out."]

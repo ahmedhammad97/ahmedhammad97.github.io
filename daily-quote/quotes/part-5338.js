@@ -1,0 +1,1 @@
+var author5338 = "Pisces", quotes5338 = ["For quivering are the Fishes on the horizon,And the Wain wholly over Caurus lies.","Venus ow'd her Safety to their Shape.","Hence Syrians hate to eat that kind of fishes,nor is it fit to make their gods their dishes.","In Pisces, where Venus is exaltat,—"]

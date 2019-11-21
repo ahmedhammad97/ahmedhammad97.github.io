@@ -1,0 +1,1 @@
+var author1053 = "Carl Pomerance", quotes1053 = ["Maybe so, but something is going on with the primes."]

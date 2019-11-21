@@ -1,0 +1,1 @@
+var author4020 = "Laura Nyro", quotes4020 = ["He got his mean streak from the gutterGot his kindness from God","I saw a man take a needleful of hard drugAnd die slow"]

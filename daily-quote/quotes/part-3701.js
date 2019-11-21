@@ -1,0 +1,1 @@
+var author3701 = "Johnny Weir", quotes3701 = ["I’m not intimidated by anything, except maybe PETA standing outside with a bucket of blood.","Out of ugly, I think the most important thing to do in life is to make something beautiful.","I’d love to see a 6-foot-2-tall, skinny man doing a halfpipe on figure skates."]

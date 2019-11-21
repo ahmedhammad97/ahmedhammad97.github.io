@@ -1,0 +1,1 @@
+var author5617 = "Rich Lowry", quotes5617 = ["He wouldn’t drain the swamp, but merely feed different alligators."]

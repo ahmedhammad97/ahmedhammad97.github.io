@@ -1,0 +1,1 @@
+var author4229 = "Luke the Evangelist", quotes4229 = ["What people value highly is detestable in God’s sight.","We must obey God rather than men."]

@@ -1,0 +1,1 @@
+var author1511 = "Daniel Pipes", quotes1511 = ["Israelis must be encouraged to defeat the Palestinians. "]

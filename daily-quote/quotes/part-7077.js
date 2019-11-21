@@ -1,0 +1,1 @@
+var author7077 = "William Booth", quotes7077 = ["Go for souls and go for the worst."]

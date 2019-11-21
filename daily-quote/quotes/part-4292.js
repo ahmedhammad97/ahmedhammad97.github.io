@@ -1,0 +1,1 @@
+var author4292 = "Malcolm Forbes", quotes4292 = ["Being right half the time beats being half-right all the time."]

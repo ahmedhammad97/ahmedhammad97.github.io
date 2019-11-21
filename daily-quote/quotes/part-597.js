@@ -1,0 +1,1 @@
+var author597 = "Arthur Green", quotes597 = ["Vegetarianism: a kashrut for our age."]

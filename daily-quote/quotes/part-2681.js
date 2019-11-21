@@ -1,0 +1,1 @@
+var author2681 = "Gustav Holst", quotes2681 = ["Never compose anything unless the not composing of it becomes a positive nuisance to you.","Always ask for advice but never take it."]

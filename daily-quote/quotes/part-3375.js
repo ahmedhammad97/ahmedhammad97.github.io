@@ -1,0 +1,1 @@
+var author3375 = "Jennifer Beals", quotes3375 = ["Love is the most dangerous thing in the world.","The ways in which we are similar are far more numerous than the ways in which we are different."]

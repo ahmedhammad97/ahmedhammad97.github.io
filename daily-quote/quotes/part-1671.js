@@ -1,0 +1,1 @@
+var author1671 = "Dick Gregory", quotes1671 = ["I never learned hate at home, or shame. I had to go to school for that."]

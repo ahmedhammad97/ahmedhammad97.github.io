@@ -1,0 +1,1 @@
+var author768 = "Benjamin Harrison", quotes768 = ["We Americans have no commission from God to police the world. "]

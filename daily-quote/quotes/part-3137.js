@@ -1,0 +1,1 @@
+var author3137 = "Ivan Konev", quotes3137 = ["As for me, I had to know exactly what the situation was in Dukla Pass. Moscow had demanded it."]

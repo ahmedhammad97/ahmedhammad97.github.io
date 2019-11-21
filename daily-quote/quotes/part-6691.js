@@ -1,0 +1,1 @@
+var author6691 = "Tiger Woods", quotes6691 = ["I love to compete. That's the essence of who I am.","My goal is to remain healthy my entire career, and a healthy diet seems like a good start.","I don't want to be the best black golfer, I want to be the best golfer, period. "]

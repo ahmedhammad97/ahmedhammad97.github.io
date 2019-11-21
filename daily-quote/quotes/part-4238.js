@@ -1,0 +1,1 @@
+var author4238 = "Lydia Sigourney", quotes4238 = ["We speak of educating our children. Do we know that our children also educate us?","The glorified spirit of the infant is as a star to guide the mother to its own blissful clime."]

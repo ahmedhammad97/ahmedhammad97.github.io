@@ -1,0 +1,1 @@
+var author5960 = "Samuel Wilberforce", quotes5960 = ["Is it on your grandmother’s or grandfather’s side that you are descended from an ape?","A resolution to attend theatres or operas is an absolute disqualification for Holy Orders.","Shabby, word-eating, pocket-picketing, sacrilegious villains.","Modern liberalism: a heartless steam engine."]

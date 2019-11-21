@@ -1,0 +1,1 @@
+var author1967 = "Elizabeth Warren", quotes1967 = ["I was a Republican because I thought that those were the people who best supported markets."]

@@ -1,0 +1,1 @@
+var author4873 = "Nguyen Khanh", quotes4873 = ["I have a promise to keep; to return to a free and democratic Vietnam."]

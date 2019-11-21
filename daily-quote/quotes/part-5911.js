@@ -1,0 +1,1 @@
+var author5911 = "Saadi", quotes5911 = ["Whatever is produced in haste goes easily to waste."]

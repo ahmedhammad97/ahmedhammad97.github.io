@@ -1,0 +1,1 @@
+var author3031 = "Improvement", quotes3031 = ["Those who are striving to improve the lot of man may ground their hopes."]

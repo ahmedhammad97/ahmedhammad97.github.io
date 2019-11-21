@@ -1,0 +1,1 @@
+var author274 = "Alexander Osterwalder", quotes274 = ["Business models and value propositions expire like a yogurt in the fridge."]

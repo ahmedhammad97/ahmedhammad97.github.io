@@ -1,0 +1,1 @@
+var author2319 = "Fred E. Foldvary", quotes2319 = ["Prove to me that you have the right to exist!","All acts, and only those acts, that coercively harm others are evil. ","There is no moral authority for government other than to enforce the Universal Ethic.","Don’t ask from whom the economy hides; it hides from you!"]

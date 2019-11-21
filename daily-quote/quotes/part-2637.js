@@ -1,0 +1,1 @@
+var author2637 = "Gravitational wave", quotes2637 = ["Ladies and gentlemen, we have detected gravitational waves. We did it!"]

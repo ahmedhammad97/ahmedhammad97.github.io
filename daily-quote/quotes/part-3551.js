@@ -1,0 +1,1 @@
+var author3551 = "John Gall", quotes3551 = ["A system represents someone's solution to a problem. The system doesn't solve the problem.","A complex system can fail in an infinite number of ways","Loose systems last longer and function better."]

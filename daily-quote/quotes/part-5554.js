@@ -1,0 +1,1 @@
+var author5554 = "Rebecca West", quotes5554 = ["Motherhood is the strangest thing, it can be like being one’s own Trojan horse."]

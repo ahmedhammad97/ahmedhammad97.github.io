@@ -1,0 +1,1 @@
+var author6330 = "Stéphane Mallarmé", quotes6330 = ["It is in front of the the paper that the artist creates himself.","The sun as it's halted Resumes its descent Incandescent.","All alone I gave Myself for triumph the ideal sin of roses.","Inert, all burns in the fierce hour"]

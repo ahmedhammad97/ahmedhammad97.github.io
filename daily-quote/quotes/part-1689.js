@@ -1,0 +1,1 @@
+var author1689 = "Director (business)", quotes1689 = ["The office of director … a man ought not to fill without qualification."]

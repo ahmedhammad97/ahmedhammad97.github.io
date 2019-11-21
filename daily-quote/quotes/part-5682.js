@@ -1,0 +1,1 @@
+var author5682 = "Rick Santorum", quotes5682 = ["What we're doing is playing social experimentation with our military right now. And that's tragic."]

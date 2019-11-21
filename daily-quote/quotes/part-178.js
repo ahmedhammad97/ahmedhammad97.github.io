@@ -1,0 +1,1 @@
+var author178 = "Alan Alda", quotes178 = ["The good thing about being a hypocrite is that you get to keep your values.","My mother didn’t try to stab my father until I was six."]

@@ -1,0 +1,1 @@
+var author1807 = "E. T. A. Hoffmann", quotes1807 = ["The magic of music is so strong, getting stronger, it should break any shackle of another art."]

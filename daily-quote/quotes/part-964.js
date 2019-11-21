@@ -1,0 +1,1 @@
+var author964 = "Bruce Dickinson", quotes964 = ["Some days you're the pigeon, some days you're the statue."]

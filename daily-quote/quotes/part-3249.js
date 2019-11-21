@@ -1,0 +1,1 @@
+var author3249 = "James Huneker", quotes3249 = ["Great art is an instant arrested in eternity.","He dares to be a fool, and that is the first step in the direction of wisdom."]

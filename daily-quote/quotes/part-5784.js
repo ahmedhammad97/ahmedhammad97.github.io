@@ -1,0 +1,1 @@
+var author5784 = "Robert Sapolsky", quotes5784 = ["If a rat is a good model for your emotional life, you're in big trouble."]

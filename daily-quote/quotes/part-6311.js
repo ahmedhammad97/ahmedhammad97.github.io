@@ -1,0 +1,1 @@
+var author6311 = "Stonehenge", quotes6311 = ["Much of what has been written about Stonehenge is derivative, second-rate or plain wrong.","Hello, Stonehenge! Who takes the Pandorica, takes the universe!","Every age has the Stonehenge it deserves-or desires."]

@@ -1,0 +1,1 @@
+var author7271 = "Yevgeny Yevtushenko", quotes7271 = ["The hell with it. Who never knewthe price of happiness will not be happy.","A poet's autobiography is his poetry. Anything else can be only a footnote.","Time has a way of demonstratingThe most stubborn are the most intelligent."]

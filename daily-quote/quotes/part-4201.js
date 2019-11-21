@@ -1,0 +1,1 @@
+var author4201 = "Lucian", quotes4201 = ["The effort only shifted me from the frying-pan into the fire.","In history, nothing fabulous can be agreeable.","If the brave should fly, he who pursues must be braver.","The historian's one task is to tell the thing as it happened.","Ignorance is a dreadful thing and has caused no end of damage to the human race."]

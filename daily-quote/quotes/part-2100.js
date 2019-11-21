@@ -1,0 +1,1 @@
+var author2100 = "Eugene Fama", quotes2100 = ["The question is when is good? The answer is never."]

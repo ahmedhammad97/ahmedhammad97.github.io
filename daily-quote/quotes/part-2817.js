@@ -1,0 +1,1 @@
+var author2817 = "Henri Michaux", quotes2817 = ["You can love a woman. To admire her is hard. You are not dealing with something important.","It is preferable not to travel with a dead man."]

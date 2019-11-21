@@ -1,0 +1,1 @@
+var author4835 = "Need", quotes4835 = ["When we are in need we shall provide!","The Earth provides enough to satisfy every man's need but not for every man's greed."]

@@ -1,0 +1,1 @@
+var author4663 = "Milton S. Mayer", quotes4663 = ["National Socialism did not make men unfree; unfreedom make men National Socialists."]

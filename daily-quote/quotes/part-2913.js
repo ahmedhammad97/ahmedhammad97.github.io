@@ -1,0 +1,1 @@
+var author2913 = "Hira Ratan Manek", quotes2913 = ["If you train the part of the body you get that part trained","Negative get conversed in positive","You are full of confidence, peace is with you","you'll be free from mental disorder","mind can drag the body and body can never drag the mind","mind is full of energy, so health of the mind matters first"]

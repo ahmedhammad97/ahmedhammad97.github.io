@@ -1,0 +1,1 @@
+var author4382 = "Mark Hawthorne (author)", quotes4382 = ["Vegans tell corny jokes, not cheesy ones."]

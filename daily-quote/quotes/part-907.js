@@ -1,0 +1,1 @@
+var author907 = "Bores", quotes907 = ["Society is now one polished horde,Formed of two mighty tribes, the Bores and Bored.","…had that worst bump developed that can adorn the head of a bore—viz., long-story-tellativeness.","Got the ill name of augurs, because they were bores.","That old hereditary bore,The steward.","He says a thousand pleasant things,— But never says Adieu."]

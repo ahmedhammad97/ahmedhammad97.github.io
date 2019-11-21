@@ -1,0 +1,1 @@
+var author6324 = "Stuart Chase", quotes6324 = ["Political democracy can remain if it confines itself to all but economic matters."]

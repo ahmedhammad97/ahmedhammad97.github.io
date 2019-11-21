@@ -1,0 +1,1 @@
+var author30 = "A. M. Homes", quotes30 = ["That's the thing about L.A.- you can freeze to death under a rosebush, Richard says.","There is no VIP room in reality, and there is no reality in this city. You can't Google the answer."]

@@ -1,0 +1,1 @@
+var author6806 = "Two-party system", quotes6806 = ["The two-party system is breaking down into a race system."]

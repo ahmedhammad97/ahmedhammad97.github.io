@@ -1,0 +1,1 @@
+var author3891 = "Keith Waterhouse", quotes3891 = ["Lying in bed, I abandoned the facts again and was back in Ambrosia.","I turn over a new leaf every day, I said. But the blots show through.","Should not the Society of Indexers be known as Indexers, Society of, The?"]

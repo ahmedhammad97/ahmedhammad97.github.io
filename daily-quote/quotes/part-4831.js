@@ -1,0 +1,1 @@
+var author4831 = "Neal A. Maxwell", quotes4831 = ["The good life is the best preparation for bad times."]

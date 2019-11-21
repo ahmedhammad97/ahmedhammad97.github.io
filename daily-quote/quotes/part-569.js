@@ -1,0 +1,1 @@
+var author569 = "Arlen Specter", quotes569 = ["There is just no sensible, logical reason why we would not make use of stem cell research.","Resolutions are flying like snowflakes around here."]

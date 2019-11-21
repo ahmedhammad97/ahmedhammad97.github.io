@@ -1,0 +1,1 @@
+var author3586 = "John Knowles", quotes3586 = ["Nothing endures, not a tree, not love, not even a death by violence."]

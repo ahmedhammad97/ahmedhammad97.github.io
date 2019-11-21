@@ -1,0 +1,1 @@
+var author2886 = "Herman J. Mankiewicz", quotes2886 = ["There, but for the grace of God, goes God."]

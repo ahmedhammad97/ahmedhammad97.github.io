@@ -1,0 +1,1 @@
+var author2421 = "Geert Hofstede", quotes2421 = ["Values are a broad tendency to prefer certain states of affairs over others.","All societies are unequal, but some are more unequal than others."]

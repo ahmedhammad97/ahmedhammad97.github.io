@@ -1,0 +1,1 @@
+var author391 = "Anders Fogh Rasmussen", quotes391 = ["It could never happen in Denmark, Danish people are much more calm than those further south."]

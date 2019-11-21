@@ -1,0 +1,1 @@
+var author6826 = "Unitarian Universalism", quotes6826 = ["We uphold"]

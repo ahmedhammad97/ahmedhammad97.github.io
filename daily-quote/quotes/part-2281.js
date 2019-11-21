@@ -1,0 +1,1 @@
+var author2281 = "Frank Bunker Gilbreth, Sr.", quotes2281 = ["All human activity is a matter of motion and decision."]

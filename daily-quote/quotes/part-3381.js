@@ -1,0 +1,1 @@
+var author3381 = "Jeremy Bentham", quotes3381 = ["To what shall the character of utility be ascribed, if not to that which is a source of pleasure?"]

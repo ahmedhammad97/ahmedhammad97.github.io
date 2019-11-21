@@ -1,0 +1,1 @@
+var author1429 = "Creation", quotes1429 = ["Creation does not cease just because there is darkness!"]

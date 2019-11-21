@@ -1,0 +1,1 @@
+var author6275 = "Steppenwolf", quotes6275 = ["Solitude is independence. It had been my wish and with the years I had attained it. It was cold."]

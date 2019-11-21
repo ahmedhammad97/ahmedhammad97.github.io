@@ -1,0 +1,1 @@
+var author1441 = "Cryptonomicon", quotes1441 = ["People smell all kinds of ways before they have burned, but only one way afterwards."]

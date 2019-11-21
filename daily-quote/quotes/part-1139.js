@@ -1,0 +1,1 @@
+var author1139 = "Charles Henry Fowler", quotes1139 = ["The best teachers of humanity are the lives of great men."]

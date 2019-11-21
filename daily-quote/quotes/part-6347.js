@@ -1,0 +1,1 @@
+var author6347 = "Sunday school", quotes6347 = ["I teach Sunday School, motherfucker.","Sunday School: A prison in which children do penance for the evil conscience of their parents."]

@@ -1,0 +1,1 @@
+var author273 = "Alexander Nehamas", quotes273 = ["To study the art of living is to engage in one of its forms."]

@@ -1,0 +1,1 @@
+var author262 = "Alexander Calder", quotes262 = ["How can art be realized?"]

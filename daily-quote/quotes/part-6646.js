@@ -1,0 +1,1 @@
+var author6646 = "Thomas More", quotes6646 = ["See me safe up: for in my coming down, I can shift for myself.","I die the king's faithful servant, but God's first.","This hath not offended the king.","If honor were profitable, everybody would be honorable."]

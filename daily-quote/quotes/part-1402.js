@@ -1,0 +1,1 @@
+var author1402 = "Corey Feldman", quotes1402 = ["The No. 1 problem in Hollywood was, and is, and always will be pedophilia."]

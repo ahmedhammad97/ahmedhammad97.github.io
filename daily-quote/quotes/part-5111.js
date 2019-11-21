@@ -1,0 +1,1 @@
+var author5111 = "Pat Condell", quotes5111 = ["I don't respect your beliefs and I don't care if you're offended.","Sharia … is, of course, invalid because it's God's Law, and God doesn't exist.","'Faith' is merely fear dressed up as virtue.","Religion disapproves of original thought the way Dracula disapproves of sunlight."]

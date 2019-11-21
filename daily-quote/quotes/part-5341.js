@@ -1,0 +1,1 @@
+var author5341 = "Pittsburgh", quotes5341 = ["The Indispensable American city.",". . . they are my people and this is my town and it does my heart good just to be here.","Don't take long to spend all the time you want in Pittsburgh. (said in jest)","Come back here perfectly sober tomorrow. ","Pittsburgh is, consequently the great petroleum mart of the world."]

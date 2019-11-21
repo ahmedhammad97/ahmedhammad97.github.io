@@ -1,0 +1,1 @@
+var author3502 = "John Calvin", quotes3502 = ["God promised by the mouth of Isaiah that queens should be the nursing mothers of the church."]

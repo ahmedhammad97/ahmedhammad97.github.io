@@ -1,0 +1,1 @@
+var author2617 = "Gottlob Frege", quotes2617 = ["A judgment, for me is not the mere grasping of a thought, but the admission of its truth."]

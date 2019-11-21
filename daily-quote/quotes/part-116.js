@@ -1,0 +1,1 @@
+var author116 = "Adrian Hastings", quotes116 = ["A nation is a far more self-conscious community than an ethnicity."]

@@ -1,0 +1,1 @@
+var author3666 = "John Templeton", quotes3666 = ["Work at being a humble person.","Those who spend too much will eventually be owned by those who are thrifty."]

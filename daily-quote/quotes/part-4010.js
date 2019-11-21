@@ -1,0 +1,1 @@
+var author4010 = "Larry Winget", quotes4010 = ["Implement now, perfect later."]

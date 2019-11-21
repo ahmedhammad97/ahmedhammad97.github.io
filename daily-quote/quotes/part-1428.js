@@ -1,0 +1,1 @@
+var author1428 = "Crazy Horse", quotes1428 = ["Another white man's trick! Let me go! Let me die fighting!","My lands are where my dead lie buried.","One does not sell the earth upon which the people walk."]

@@ -1,0 +1,1 @@
+var author3944 = "Klaus Barbie", quotes3944 = ["If there were mistakes, there were mistakes. But a man has to have a line of work, no?","Don't worry. Your friends are dead and you are going to join them.","I admire you, but in the end everybody talks.","When I stand before the throne of God, I shall be judged innocent."]

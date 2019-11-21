@@ -1,0 +1,1 @@
+var author2032 = "Epistle to the Colossians", quotes2032 = ["He is the image of the invisible God, the firstborn over all creation."]

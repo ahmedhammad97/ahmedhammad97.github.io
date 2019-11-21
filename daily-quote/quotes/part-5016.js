@@ -1,0 +1,1 @@
+var author5016 = "Opposition research", quotes5016 = ["When oppo goes transparent, it might shrivel.","Being a nerd helps; if you hunger to work with people, look elsewhere.","Opposition research, if it's true, is probably 5 or 10 times more effective than paid media."]

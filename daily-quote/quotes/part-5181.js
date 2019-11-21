@@ -1,0 +1,1 @@
+var author5181 = "Pavel Grachev", quotes5181 = ["We shall respond to every Chechen shot with thousands of our own."]

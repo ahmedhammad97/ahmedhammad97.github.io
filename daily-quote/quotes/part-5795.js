@@ -1,0 +1,1 @@
+var author5795 = "Robert T. Averitt", quotes5795 = ["Given a choice between efficiency and employment, most economists favor efficiency."]

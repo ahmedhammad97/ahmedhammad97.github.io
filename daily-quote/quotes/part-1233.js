@@ -1,0 +1,1 @@
+var author1233 = "Christian Wolff", quotes1233 = ["Form is a theatrical event of a certain length, and the length itself may be unpredictable."]

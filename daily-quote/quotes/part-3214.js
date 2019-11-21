@@ -1,0 +1,1 @@
+var author3214 = "James Anthony Froude", quotes3214 = ["I cut a hole in my heart and wrote with the blood.","You cannot dream yourself into a character; you must hammer and forge yourself one.","We call heaven our home, as the best name we know to give it."]

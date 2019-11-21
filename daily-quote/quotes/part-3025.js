@@ -1,0 +1,1 @@
+var author3025 = "Impenitence", quotes3025 = ["It is not sin that kills the soul, but impenitence.","Time flies, death urges, knells call, heaven invites, hell threatens!"]

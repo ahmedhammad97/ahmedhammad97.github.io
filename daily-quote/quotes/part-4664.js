@@ -1,0 +1,1 @@
+var author4664 = "Milton Sapirstein", quotes4664 = ["Education, like neurosis, begins at home."]

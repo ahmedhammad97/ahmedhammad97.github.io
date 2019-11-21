@@ -1,0 +1,1 @@
+var author2536 = "Georges Lemaître", quotes2536 = ["The primaeval atom","There is no conflict between science and religion."]

@@ -1,0 +1,1 @@
+var author2603 = "Goran Višnjić", quotes2603 = ["I don't understand the word 'hunk.'","All I ever wanted to do was act.","Acting is my job.","I'm always trying to be a good ambassador for my country."]

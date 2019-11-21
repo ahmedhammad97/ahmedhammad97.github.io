@@ -1,0 +1,1 @@
+var author5171 = "Paul Tsongas", quotes5171 = ["The cold war is over; Japan won."]

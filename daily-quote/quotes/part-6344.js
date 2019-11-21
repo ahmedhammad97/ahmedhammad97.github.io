@@ -1,0 +1,1 @@
+var author6344 = "Sun Ra", quotes6344 = ["I think of myself as a complete mystery. To myself.","I see them as they are to is And not the seeming isness of the was.","Freedom of Speech is Freedom of Music.","Music is not material. Music is Spiritual.","The future is never Never is not ","It takes a motion to notion and it takes a notion to motion."]

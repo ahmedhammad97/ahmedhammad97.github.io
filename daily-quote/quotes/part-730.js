@@ -1,0 +1,1 @@
+var author730 = "Baseball", quotes730 = ["I love baseball. You know, it doesn't have to mean anything. It's just very beautiful to watch.","If you build it, he will come."]

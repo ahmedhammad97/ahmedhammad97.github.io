@@ -1,0 +1,1 @@
+var author5246 = "Peter Schiff", quotes5246 = ["The real bubble in China is in US Treasuries, in US dollars."]

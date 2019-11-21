@@ -1,0 +1,1 @@
+var author6583 = "Theodosius Dobzhansky", quotes6583 = ["The living world is not a single array .\\xa0.\\xa0. connected by unbroken series of intergrades.","Man is the only living being who has a developed self-awareness and death-awareness."]

@@ -1,0 +1,1 @@
+var author3952 = "Koenraad Elst", quotes3952 = ["Not Muslims but Islam is the problem."]

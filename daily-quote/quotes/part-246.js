@@ -1,0 +1,1 @@
+var author246 = "Aleksandr Solzhenitsyn", quotes246 = ["A state of war only serves as an excuse for domestic tyranny.","In our country the lie has become not just a moral category but a pillar of the State.","Can a man who's warm understand one who's freezing?","Call no day happy 'til it is done; call no man happy til he is dead."]

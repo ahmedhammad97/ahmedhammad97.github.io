@@ -1,0 +1,1 @@
+var author5740 = "Robert Grosseteste", quotes5740 = ["The head is borne towards the heavens and has two lights, as it were the sun and moon."]

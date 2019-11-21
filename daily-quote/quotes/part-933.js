@@ -1,0 +1,1 @@
+var author933 = "Brazil", quotes933 = ["What is black in the United States is not what's black in Brazil.","In Brazil we have a saying, 'You're married, but you're not dead'."]

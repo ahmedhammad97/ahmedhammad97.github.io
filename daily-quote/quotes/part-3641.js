@@ -1,0 +1,1 @@
+var author3641 = "John Rhys-Davies", quotes3641 = ["Western Christianised Europe has values and experience that is worth defending."]

@@ -1,0 +1,1 @@
+var author6567 = "Theocritus", quotes6567 = ["Faults are beauties, when survey'd by love.","Milk the ewe that thou hast, why pursue the thing that shuns thee?","The godly seed fares well: the wicked's is accurst."]

@@ -1,0 +1,1 @@
+var author5332 = "Pietro Badoglio", quotes5332 = ["The Germans will make a few scattered attacks, then go away. The Romans will enjoy a fine September."]

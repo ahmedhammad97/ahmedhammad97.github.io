@@ -1,0 +1,1 @@
+var author7072 = "William Alexander", quotes7072 = ["The weaker sex, to piety more prone"]

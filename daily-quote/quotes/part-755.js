@@ -1,0 +1,1 @@
+var author755 = "Ben Dirs", quotes755 = ["Monty went beserk, like a toddler who's just been told he can't have a Happy Meal.","Just two from the over, Anderson tighter than Andy Fordham's watch strap."]

@@ -1,0 +1,1 @@
+var author3758 = "Joshua Jackson", quotes3758 = ["What defies my imagination is that there would be nothing out there that would defy my imagination."]

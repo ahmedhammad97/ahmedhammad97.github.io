@@ -1,0 +1,1 @@
+var author2540 = "Georgics", quotes2540 = ["ApertosBacchus amat collis.","Ingentes animos angusto in pectore versant."]

@@ -1,0 +1,1 @@
+var author3687 = "John Wilson (Scottish writer)", quotes3687 = ["Music is the universal language of mankind."]

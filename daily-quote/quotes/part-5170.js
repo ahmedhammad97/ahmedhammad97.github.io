@@ -1,0 +1,1 @@
+var author5170 = "Paul Tillich", quotes5170 = ["Knowledge of that which concerns us infinitely is possible only in an attitude of infinite concern.","There is no truth without the form of truth, namely justice.","Without the eros toward truth, theology would not exist."]

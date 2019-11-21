@@ -1,0 +1,1 @@
+var author5865 = "Rudolf Carnap", quotes5865 = ["In science there are no 'depths'; there is surface everywhere."]

@@ -1,0 +1,1 @@
+var author6546 = "The Sacred Exchange between Saint Francis and Lady Poverty", quotes6546 = ["Holy poverty … is the foundation and guardian of all virtues."]

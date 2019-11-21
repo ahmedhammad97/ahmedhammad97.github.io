@@ -1,0 +1,1 @@
+var author997 = "Butterflies", quotes997 = ["I'd be a butterfly, born in a bower,Where roses and lilies and violets meet.","And many an ante-natal tombWhere butterflies dream of the life to come."]

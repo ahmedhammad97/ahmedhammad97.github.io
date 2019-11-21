@@ -1,0 +1,1 @@
+var author1326 = "Colin McGinn", quotes1326 = ["My first thesis is that identity is unitary."]

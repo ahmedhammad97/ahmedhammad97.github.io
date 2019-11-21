@@ -1,0 +1,1 @@
+var author979 = "Buddhist vegetarianism", quotes979 = ["If, Mahāmati, meat is not eaten by anybody for any reason, there will be no destroyer of life."]

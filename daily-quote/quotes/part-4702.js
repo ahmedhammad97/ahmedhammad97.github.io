@@ -1,0 +1,1 @@
+var author4702 = "Mohan Bhagwat", quotes4702 = ["Many things are said about the RSS without even attempting to understand it. "]

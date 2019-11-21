@@ -1,0 +1,1 @@
+var author7164 = "William Paley", quotes7164 = ["Wanton, and, what is worse, studied cruelty to brutes, is certainly wrong."]

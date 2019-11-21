@@ -1,0 +1,1 @@
+var author4483 = "Matter and Motion", quotes4483 = ["The first part of physical science relates to the relative position and motion of bodies."]

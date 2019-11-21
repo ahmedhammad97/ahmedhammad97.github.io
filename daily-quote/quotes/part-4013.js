@@ -1,0 +1,1 @@
+var author4013 = "Las Vegas", quotes4013 = ["Shoot, a fellow could have a pretty good weekend in Vegas with all that stuff."]

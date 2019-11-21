@@ -1,0 +1,1 @@
+var author1044 = "Cargill Gilston Knott", quotes1044 = ["Scientific theory and its application to the growing needs of mankind advance hand in hand.","What may appear as a towering peak to one may seem but an ordinary eminence to another."]

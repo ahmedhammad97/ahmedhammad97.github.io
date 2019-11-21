@@ -1,0 +1,1 @@
+var author6681 = "Throne", quotes6681 = ["Solomon sat on the throne of the LORD as king.","may the LORD... make his throne greater than the throne of my lord king David.","That feminine fancy, a will of your own,Is a luxury wholly denied to a throne ;"]

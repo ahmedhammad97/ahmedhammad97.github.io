@@ -1,0 +1,1 @@
+var author4063 = "Leigh Hunt", quotes4063 = ["The two divinest things this world has got,A lovely woman in a rural spot!","That there is pain and evil, is no ruleThat I should make it greater, like a fool."]

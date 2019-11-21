@@ -1,0 +1,1 @@
+var author5196 = "Penn Jillette", quotes5196 = ["I've always wanted to make the world a more rational place. I'm still working on it.","Freedom means the right to be stupid.","Atheism is the only real hope against terrorism."]

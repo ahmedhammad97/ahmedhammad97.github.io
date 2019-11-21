@@ -1,0 +1,1 @@
+var author1698 = "Discourse on the Method", quotes1698 = ["Divide each difficulty into as many parts as is feasible and necessary to resolve it.","Each problem that I solved became a rule, which served afterwards to solve other problems."]

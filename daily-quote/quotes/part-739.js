@@ -1,0 +1,1 @@
+var author739 = "Bears", quotes739 = ["Make ye no truce with Adam-zad—the Bear that walks like a man.","Some days you get the bear. Some days the bear gets you."]

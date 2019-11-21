@@ -1,0 +1,1 @@
+var author2369 = "Fritz von Uhde", quotes2369 = ["Before commencing this work I had begun to realize how children follow the Spirit."]

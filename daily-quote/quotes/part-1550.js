@@ -1,0 +1,1 @@
+var author1550 = "David Fincher", quotes1550 = ["You know, I don't think I've ever listened to someone's commentary. Ever.","I tend to over-intellectualize things, to come at them from a structural point."]

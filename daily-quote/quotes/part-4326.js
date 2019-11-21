@@ -1,0 +1,1 @@
+var author4326 = "Marc Connelly", quotes4326 = ["I always knew children were anti-social. But the children of the West Side - they're savage."]

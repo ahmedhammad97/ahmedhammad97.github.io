@@ -1,0 +1,1 @@
+var author708 = "Bankruptcy", quotes708 = ["Taking out a commission of bankruptcy is a well-known mode of recovering a debt.","He who desireth to sleep soundly, let him buy the bed of a bankrupt.","'How did you go bankrupt?' Bill asked. 'Two ways,' Mike said. 'Gradually and then suddenly.'"]

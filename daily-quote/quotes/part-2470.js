@@ -1,0 +1,1 @@
+var author2470 = "George Galloway", quotes2470 = ["They intend, if they can, to have an Iraq Americana, but the Iraqi people have decided otherwise.","Mr Hitchens's policy has succeeded in making 10,000 new Bin Ladens.","Poor me, poor me, pour me another.","I had three goals and all of them were met.","Only a fool has no regrets and I'm not a fool.","Tramp dirt down"]

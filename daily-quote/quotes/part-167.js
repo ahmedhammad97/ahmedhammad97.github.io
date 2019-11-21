@@ -1,0 +1,1 @@
+var author167 = "Al Alvarez", quotes167 = ["His face was blue, on his fingersI thought."]

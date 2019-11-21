@@ -1,0 +1,1 @@
+var author6595 = "Thermodynamics", quotes6595 = ["It’s the Second Law of Thermodynamics: Sooner or later everything turns to shit.","In this house, we obey the laws of thermodynamics!","Murphy's Law about Thermodynamics: Things get worse under pressure.","If you think things are in a mess now, JUST WAIT!","Old Chemists never die: they reach thermodynamic equilibrium"]

@@ -1,0 +1,1 @@
+var author6067 = "Services marketing", quotes6067 = ["Service(s) mean,","Services are going to move in this decade to being the front edge of the industry."]

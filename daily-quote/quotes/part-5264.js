@@ -1,0 +1,1 @@
+var author5264 = "Petula Clark", quotes5264 = ["I am not really a reminiscing type person. I am not nostalgic at all."]

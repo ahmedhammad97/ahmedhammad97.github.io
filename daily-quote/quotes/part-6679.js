@@ -1,0 +1,1 @@
+var author6679 = "Thrasymachus", quotes6679 = ["Listen, then. I say justice is nothing other than what is advantageous for the stronger. "]

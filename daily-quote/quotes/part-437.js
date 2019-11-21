@@ -1,0 +1,1 @@
+var author437 = "Angus King", quotes437 = ["Frankly, I think I might scare [the parties], and that would be a good thing."]

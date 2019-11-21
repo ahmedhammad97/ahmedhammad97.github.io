@@ -1,0 +1,1 @@
+var author4909 = "Niklaus Wirth", quotes4909 = ["Software gets slower faster than hardware gets faster.","Go To statement considered harmful.","In our profession, precision and perfection are not a dispensable luxury, but a simple necessity.","Reliable and transparent programs are usually not in the interest of the designer.","Programming is usually taught by examples."]

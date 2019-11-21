@@ -1,0 +1,1 @@
+var author2061 = "Ernest Flagg", quotes2061 = ["Style... the very hall-mark of great art... there is little use in trying to define style."]

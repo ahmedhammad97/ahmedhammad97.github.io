@@ -1,0 +1,1 @@
+var author3110 = "Isa Genzken", quotes3110 = ["'Everyone Needs at Least One Window'","I always wanted to have the courage to do totally crazy, impossible, and also wrong things."]

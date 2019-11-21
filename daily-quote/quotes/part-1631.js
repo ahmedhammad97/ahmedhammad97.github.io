@@ -1,0 +1,1 @@
+var author1631 = "Democratization", quotes1631 = ["Liberalization and democratization are in essence counter-revolution."]

@@ -1,0 +1,1 @@
+var author4861 = "Neville Chamberlain", quotes4861 = ["Peace for our time ","As you know I have always been more afraid of a peace offer than of an air raid."]

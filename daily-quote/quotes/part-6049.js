@@ -1,0 +1,1 @@
+var author6049 = "Seneca the Younger", quotes6049 = ["Mens impudicam facere, non casus, solet.","Not lost, but gone before.","That man lives badly who does not know how to die well."]

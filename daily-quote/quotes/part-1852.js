@@ -1,0 +1,1 @@
+var author1852 = "Edmund Charles Blunden", quotes1852 = ["Cricket to us, like you, was more than play,It was a worship in the summer sun."]

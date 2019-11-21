@@ -1,0 +1,1 @@
+var author821 = "Bill Cosby", quotes821 = ["If at first you don't succeed, you're about average.","The weatherman is always right, It's his timing that's off.","The only thing that you can get into without a lot of trouble is a lot of trouble."]

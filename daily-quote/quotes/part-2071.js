@@ -1,0 +1,1 @@
+var author2071 = "Ernst Chain", quotes2071 = ["The future of medicine is safe in your hands."]

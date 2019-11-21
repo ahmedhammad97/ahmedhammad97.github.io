@@ -1,0 +1,1 @@
+var author6785 = "Trojan horse", quotes6785 = ["I put it to you, Minister, that you are looking a Trojan horse in the mouth.","Politics: a Trojan horse race.","Motherhood is the strangest thing, it can be like being one’s own Trojan horse."]

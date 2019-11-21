@@ -1,0 +1,1 @@
+var author6207 = "Space exploration", quotes6207 = ["Houston, Tranquility Base here. The Eagle has landed.","That's one small step for (a) man, one giant leap for mankind.","I'm convinced that before the year 2000 is over, the first child will have been born on the moon. "]

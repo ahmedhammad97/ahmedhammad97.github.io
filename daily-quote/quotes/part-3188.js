@@ -1,0 +1,1 @@
+var author3188 = "Jacob Bernoulli", quotes3188 = ["Eadem mutata resurgo [Changed and yet the same, I rise again]"]

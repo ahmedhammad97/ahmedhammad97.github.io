@@ -1,0 +1,1 @@
+var author5580 = "Rem Koolhaas", quotes5580 = ["Architecture is a dangerous mixture of power and impotence.","Find optimism in the inevitable.","The city is no longer. We can leave the theatre now.","Bigness is no longer part of any urban tissue. (...) Its subtext is fuck context."]

@@ -1,0 +1,1 @@
+var author1312 = "Cockfight", quotes1312 = ["Cock-fighting must be considered a barbarous diversion."]

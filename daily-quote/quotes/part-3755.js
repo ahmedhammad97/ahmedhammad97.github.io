@@ -1,0 +1,1 @@
+var author3755 = "Josette Sheeran", quotes3755 = ["A silent tsunami which knows no borders is sweeping the world."]

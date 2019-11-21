@@ -1,0 +1,1 @@
+var author3252 = "James I of England", quotes3252 = ["I will make them conform themselves, or else I will harry them out of the land, or else do worse."]

@@ -1,0 +1,1 @@
+var author143 = "Agathon", quotes143 = ["It is a part of probability that many improbable things will happen."]

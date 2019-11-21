@@ -1,0 +1,1 @@
+var author5783 = "Robert S. Kaplan", quotes5783 = ["What does it mean to be “successful”? How do you achieve your dreams?"]

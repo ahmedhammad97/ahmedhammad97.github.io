@@ -1,0 +1,1 @@
+var author6084 = "Sharing", quotes6084 = ["In a shared fish, there are no bones.","Shared pain is lessened; shared joy, increased — thus do we refute entropy."]

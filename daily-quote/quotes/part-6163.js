@@ -1,0 +1,1 @@
+var author6163 = "Smriti Irani", quotes6163 = ["If the BSP leader is not satisfied, I am ready to behead myself and lay my head at your feet. "]

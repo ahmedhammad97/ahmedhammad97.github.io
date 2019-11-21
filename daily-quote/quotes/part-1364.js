@@ -1,0 +1,1 @@
+var author1364 = "Confusion", quotes1364 = ["Men tighten the knot of confusion"]

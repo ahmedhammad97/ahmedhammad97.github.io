@@ -1,0 +1,1 @@
+var author2972 = "Hulbert Footner", quotes2972 = ["Rafe turned up looking like the glass of fashion and the mold of form."]

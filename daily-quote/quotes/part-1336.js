@@ -1,0 +1,1 @@
+var author1336 = "Comfort", quotes1336 = ["It's grand, and you canna expect to be baith grand and comfortable.","A scholar who loves comfort is not worthy of the name.","Is there no balm in Gilead?","Miserable comforters are ye all.","Thy rod and thy staff they comfort me."]

@@ -1,0 +1,1 @@
+var author4965 = "O.B. Hardison Jr.", quotes4965 = ["Logic is a carpet laid over an abyss."]

@@ -1,0 +1,1 @@
+var author5888 = "Rupert Murdoch", quotes5888 = ["Fuck Dacre. Publish.","After all, we are in the entertainment business."]

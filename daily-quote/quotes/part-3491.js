@@ -1,0 +1,1 @@
+var author3491 = "John Bright", quotes3491 = ["Force is no remedy."]

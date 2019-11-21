@@ -1,0 +1,1 @@
+var author5029 = "Origin of life", quotes5029 = ["It is as though a puzzle could be put together simply by shaking its pieces."]

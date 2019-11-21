@@ -1,0 +1,1 @@
+var author4526 = "Mechanics", quotes4526 = ["I think I can safely say that nobody understands quantum mechanics.","In the beginning was mechanics."]

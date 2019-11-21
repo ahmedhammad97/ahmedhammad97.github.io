@@ -1,0 +1,1 @@
+var author6643 = "Thomas Merton", quotes6643 = ["The biggest human temptation is … to settle for too little."]

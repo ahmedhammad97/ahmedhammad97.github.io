@@ -1,0 +1,1 @@
+var author6475 = "Terry Jones", quotes6475 = ["A Horse, a Bucket and a Spoon.","Saying We will destroy terrorism is about as meaningful as saying: We shall annihilate mockery."]

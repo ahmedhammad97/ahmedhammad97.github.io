@@ -1,0 +1,1 @@
+var author185 = "Alan Dershowitz", quotes185 = ["Judges are the weakest link in our system of justice and they are also the most protected.","All sides in a trial want to hide at least some of the truth. "]

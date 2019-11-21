@@ -1,0 +1,1 @@
+var author2338 = "Frederick Winslow Taylor", quotes2338 = ["I think no book is more stimulating than the history of a devoted and successful life.","This paper has been written:","These new duties are grouped under four heads: "]

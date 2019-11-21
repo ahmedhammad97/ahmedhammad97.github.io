@@ -1,0 +1,1 @@
+var author2389 = "Gabriel Fauré", quotes2389 = ["But Lortat, I'm not in the habit of attracting crowds.","To know an art really well, one must know everything about it, both its origins and its development.","Imagining is trying to formulate all one would wish to be better, all that surpasses reality."]

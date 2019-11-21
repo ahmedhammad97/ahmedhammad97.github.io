@@ -1,0 +1,1 @@
+var author2106 = "Eugene O'Neill", quotes2106 = ["Irish as a Paddy's pig.","Man is born broken. He lives by mending. The grace of God is glue!","We have electrocuted your God. Don't be a fool.","Don't cry. The damned don't cry.","I'm as drunk as a fiddler's bitch.","Yes, I remember. I fell in love with James Tyrone and was so happy for a time"]

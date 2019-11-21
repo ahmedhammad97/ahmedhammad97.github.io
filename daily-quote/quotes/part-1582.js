@@ -1,0 +1,1 @@
+var author1582 = "David Packard", quotes1582 = ["Marketing is far too important to be left only to the marketing department!.","Set out to build a company and make a contribution, not an empire and a fortune."]

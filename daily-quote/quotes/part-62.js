@@ -1,0 +1,1 @@
+var author62 = "Abortion (pre-Reformation)", quotes62 = ["You shall not kill either the fetus by abortion or the new born."]

@@ -1,0 +1,1 @@
+var author1811 = "Earl Warren", quotes1811 = ["Liberty, not communism, is the most contagious force in the world.","The censor's sword pierces deeply into the heart of free expression.","In civilized life, law floats in a sea of ethics.","We may not know the whole story in our lifetime.","Everything I did in my life that was worthwhile, I caught hell for."]

@@ -1,0 +1,1 @@
+var author1384 = "Constitution of May 3, 1791", quotes1384 = ["[The] President seems a bad edition of a Polish King.","… the last will and testament of the expiring Fatherland."]

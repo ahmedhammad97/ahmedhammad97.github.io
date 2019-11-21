@@ -1,0 +1,1 @@
+var author4941 = "Northern Calloway", quotes4941 = ["Help! I'm David of Sesame Street, and they're trying to kill me!"]

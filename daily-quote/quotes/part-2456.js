@@ -1,0 +1,1 @@
+var author2456 = "George Borrow", quotes2456 = ["Translation is at best an echo.","There's the wind on the heath, brother; if I could only feel that, I would gladly live for ever.","He is not deserving of the name of Englishman who speaketh against ale, that is, good ale."]

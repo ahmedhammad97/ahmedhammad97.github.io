@@ -1,0 +1,1 @@
+var author243 = "Alejandro Jodorowsky", quotes243 = ["Birds born in a cage think flying is an illness.","For art to be art it has to cure.","We only have problems we really want to have.","That is the marvel of true art, that no one has yet found a way to commercialize it.","No one fulfills himself fully. What is fulfilling oneself? Advancing as one can."]

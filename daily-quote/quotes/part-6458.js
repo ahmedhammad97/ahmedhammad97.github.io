@@ -1,0 +1,1 @@
+var author6458 = "Temper", quotes6458 = ["Men are like steel —\\xa0when they lose their temper, they lose their worth.","The happiness and misery of men depend no less on temper than fortune.","A man of knowledge uses words with restraint, and a man of understanding is even-tempered."]

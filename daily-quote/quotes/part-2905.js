@@ -1,0 +1,1 @@
+var author2905 = "Hijab", quotes2905 = ["A fatwa, written by Muhammed Salih Al-Munajjid on the Saudi Arabian website Islam QA, states:"]

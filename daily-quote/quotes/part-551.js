@@ -1,0 +1,1 @@
+var author551 = "Archibald Primrose, 5th Earl of Rosebery", quotes551 = ["[The British Empire is] the greatest secular agency for good now known to mankind.","It is beginning to be hinted that we are a nation of amateurs."]

@@ -1,0 +1,1 @@
+var author1473 = "Damien Hirst", quotes1473 = ["The best spot painting you can have by me is one painted by Rachel.","I started taking cocaine and drink ... I turned into a babbling fucking wreck."]

@@ -1,0 +1,1 @@
+var author6035 = "Seishirō Itagaki", quotes6035 = ["We hope the peace will last for twenty years. Then we will be here again.","I am convinced of the necessity to take an effective measure of self defense."]

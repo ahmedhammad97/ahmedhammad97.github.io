@@ -1,0 +1,1 @@
+var author4806 = "Natasha Lyonne", quotes4806 = ["Sometimes the things that come out of my mouth are mortifying.","I’m a movie star. Can I talk to my entertainment lawyer?"]

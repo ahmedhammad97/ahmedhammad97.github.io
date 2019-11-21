@@ -1,0 +1,1 @@
+var author4022 = "Laura Penny", quotes4022 = ["Who teh heLL R u 2 tELL me what 2 reed or how 2 spel?"]

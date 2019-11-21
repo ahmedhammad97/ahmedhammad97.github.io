@@ -1,0 +1,1 @@
+var author7187 = "William Somervile", quotes7187 = ["He taught them how to live and how to die.","The birdThat glads the night had cheer'd the listening groves with sweet complainings."]

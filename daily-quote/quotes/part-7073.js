@@ -1,0 +1,1 @@
+var author7073 = "William Beebe", quotes7073 = ["To be a Naturalist is better than to be a King."]

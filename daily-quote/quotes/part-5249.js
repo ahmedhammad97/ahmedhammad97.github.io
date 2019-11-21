@@ -1,0 +1,1 @@
+var author5249 = "Peter Sloterdijk", quotes5249 = ["… undermined by the need for seriousness ...","Every active deed is etched in the matrix of passivity."]

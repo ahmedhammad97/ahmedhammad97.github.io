@@ -1,0 +1,1 @@
+var author5004 = "On Liberty", quotes5004 = ["The usefulness of an opinion is itself matter of opinion. (p. 30)","Originality is the one thing which unoriginal minds cannot feel the use of."]

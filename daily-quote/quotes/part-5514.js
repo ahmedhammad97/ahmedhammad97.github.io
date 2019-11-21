@@ -1,0 +1,1 @@
+var author5514 = "Rajendra K. Pachauri", quotes5514 = ["Nobody on this planet is going to be untouched by the impacts of climate change."]

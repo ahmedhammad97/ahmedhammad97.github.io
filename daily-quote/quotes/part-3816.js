@@ -1,0 +1,1 @@
+var author3816 = "July", quotes3816 = ["The English winter — ending in July, To recommence in August.","Hot July brings cooling showers, Apricots and gillyflowers.","The Summer looks out from her brazen tower, Through the flashing bars of July.","In July the Sun is hot.Is it shining? No, it's not!"]

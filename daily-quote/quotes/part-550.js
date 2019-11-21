@@ -1,0 +1,1 @@
+var author550 = "Archibald MacLeish", quotes550 = ["A poem should not meanBut be.","What is more important in a library than anything else — is the fact that it exists.","If God is God, he is not good. If God is good, he is not God."]

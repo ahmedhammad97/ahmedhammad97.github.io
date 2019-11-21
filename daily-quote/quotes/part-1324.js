@@ -1,0 +1,1 @@
+var author1324 = "Colin Blackburn, Baron Blackburn", quotes1324 = ["Judges could by their resolution alter the practice, but never the law."]

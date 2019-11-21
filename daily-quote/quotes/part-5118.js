@@ -1,0 +1,1 @@
+var author5118 = "Patent", quotes5118 = ["There is no patent. Could you patent the sun?"]

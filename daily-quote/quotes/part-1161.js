@@ -1,0 +1,1 @@
+var author1161 = "Charles Pratt, 1st Earl Camden", quotes1161 = ["A good corroborating chain, if they fail in the last link, the whole will fall to the ground."]

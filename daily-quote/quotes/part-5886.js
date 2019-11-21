@@ -1,0 +1,1 @@
+var author5886 = "Rupert Brooke", quotes5886 = ["And in my flower-beds, I think,Smile the carnation and the pink.","Stands the Church clock at ten to three?And is there honey still for tea?"]

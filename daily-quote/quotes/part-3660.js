@@ -1,0 +1,1 @@
+var author3660 = "John Stuart Mill", quotes3660 = ["A bureaucracy always tends to become a pedantocracy.","A pupil from whom nothing is ever demanded which he cannot do never does all he can.","Ask yourself whether you are happy, and you cease to be so."]

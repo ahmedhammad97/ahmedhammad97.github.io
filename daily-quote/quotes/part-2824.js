@@ -1,0 +1,1 @@
+var author2824 = "Henry Austin Dobson", quotes2824 = ["Time goes, you say? Ah, no!Alas, Time stays, we go."]

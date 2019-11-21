@@ -1,0 +1,1 @@
+var author2386 = "Gabe Newell", quotes2386 = ["C'mon, people, you can't show the player a really big bomb and not let them blow it up.","Piracy is almost always a service problem and not a pricing problem. ","The programmers of tomorrow are the wizards of the future.","This isn't working.","James is an ass, and we won't be working with him again."]

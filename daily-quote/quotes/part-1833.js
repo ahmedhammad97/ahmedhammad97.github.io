@@ -1,0 +1,1 @@
+var author1833 = "Ed Miliband", quotes1833 = ["I may be new to this game, but I think I ask the questions.","Even Dick Turpin had the decency to wear a mask when he robbed people."]

@@ -1,0 +1,1 @@
+var author3256 = "James Jeffrey Roche", quotes3256 = ["All loved Art in a seemly wayWith an earnest soul and a capital A."]

@@ -1,0 +1,1 @@
+var author6590 = "Theory of the Earth", quotes6590 = ["Heat is an agent competent for the consolidation of strata which water alone is not.","Siliceous matter, physically speaking, is not soluble in water..."]

@@ -1,0 +1,1 @@
+var author3613 = "John McPhee", quotes3613 = ["In making war with nature, there was risk of loss in winning."]

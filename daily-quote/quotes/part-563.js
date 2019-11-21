@@ -1,0 +1,1 @@
+var author563 = "Aristophanes", quotes563 = ["Old age is second childhood."]

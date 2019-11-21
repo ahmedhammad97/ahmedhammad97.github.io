@@ -1,0 +1,1 @@
+var author6030 = "Seclusion", quotes6030 = ["Once again"]

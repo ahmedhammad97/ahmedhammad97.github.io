@@ -1,0 +1,1 @@
+var author4065 = "Len Deighton", quotes4065 = ["Capitalism is the exploitation of man by man. Yes? Well socialism is exactly the reverse.","Progress is man’s indifference to the lessons of history.","When old men decided to barter young men for pride and profit, the transaction was called war."]

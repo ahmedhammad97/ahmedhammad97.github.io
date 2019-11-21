@@ -1,0 +1,1 @@
+var author2721 = "Hanif Kureishi", quotes2721 = ["They gave us the language but it is only we who know how to use it"]

@@ -1,0 +1,1 @@
+var author6544 = "The Road to Serfdom", quotes6544 = ["From the saintly and single-minded idealist to the fanatic is often but a step.","The more the state plans the more difficult planning becomes for the individual.","We shall all be the gainers if we can create a world fit for small states to live in."]

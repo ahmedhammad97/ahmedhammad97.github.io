@@ -1,0 +1,1 @@
+var author5938 = "Sam Nunn", quotes5938 = ["The only politician to be a rising star in three decades. "]

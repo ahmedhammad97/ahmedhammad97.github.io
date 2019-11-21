@@ -1,0 +1,1 @@
+var author746 = "Beginnings", quotes746 = ["End, begin, all the same. Big change. Sometimes good, sometimes bad.","Et redit in nihilum quod fuit ante nihil.","All beginnings are very troublesome things. ","Things bad begun make strong themselves by ill.","The true beginning of our end."]

@@ -1,0 +1,1 @@
+var author2310 = "François de Malherbe", quotes2310 = ["Our days and nightsHave sorrows woven with delights.","To will what God doth will, that is the only scienceThat gives us any rest."]

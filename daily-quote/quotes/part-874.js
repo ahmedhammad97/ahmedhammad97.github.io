@@ -1,0 +1,1 @@
+var author874 = "Bob Black", quotes874 = ["A libertarian is just a Republican who takes drugs. "]

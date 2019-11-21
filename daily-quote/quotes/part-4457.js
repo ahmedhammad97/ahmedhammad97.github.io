@@ -1,0 +1,1 @@
+var author4457 = "Mary Schmich", quotes4457 = ["Reading is a discount ticket to everywhere."]

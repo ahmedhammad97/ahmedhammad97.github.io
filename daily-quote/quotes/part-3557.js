@@ -1,0 +1,1 @@
+var author3557 = "John Godfrey Saxe", quotes3557 = ["What Lowely meant she didn't knowFor she always avoided everything low,"]

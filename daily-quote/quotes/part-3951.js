@@ -1,0 +1,1 @@
+var author3951 = "Kodo Sawaki", quotes3951 = ["Religion means living your own life, completely fresh and new, without being taken in by anyone.","Hey! What are you looking at? Don’t you see that it’s about you?"]

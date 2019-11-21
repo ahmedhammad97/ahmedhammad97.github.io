@@ -1,0 +1,1 @@
+var author5557 = "Recklessness", quotes5557 = ["I tell thee, be not rash; a golden bridgeIs for a flying enemy.","Who falls from all he knows of bliss,Cares little into what abyss.","You better check yo self before you wreck yo self."]

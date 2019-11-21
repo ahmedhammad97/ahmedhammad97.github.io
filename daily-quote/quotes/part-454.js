@@ -1,0 +1,1 @@
+var author454 = "Anna Akhmatova", quotes454 = ["All has been looted, betrayed, sold; black death's wing flashed ahead.","You lived aloof, maintaining to the end your magnificent disdain.","Already madness lifts its wing to cover half my soul."]

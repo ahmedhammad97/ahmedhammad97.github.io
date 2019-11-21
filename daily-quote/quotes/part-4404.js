@@ -1,0 +1,1 @@
+var author4404 = "Marko Miljanov", quotes4404 = ["Bravery is to defend yourself from another, and the humanity is to defend the other from yourself."]

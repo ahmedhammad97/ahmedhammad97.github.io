@@ -1,0 +1,1 @@
+var author3565 = "John Hall (Presbyterian pastor)", quotes3565 = ["Give according to your means, or God will make your means according to your giving."]

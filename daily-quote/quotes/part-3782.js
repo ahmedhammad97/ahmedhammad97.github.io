@@ -1,0 +1,1 @@
+var author3782 = "Judas Iscariot", quotes3782 = ["Why was not this ointment sold for three hundred pence, and given to the poor?","Master, is it I?","Whomsoever I shall kiss, that same is he.","I have sinned in that I have betrayed the innocent blood."]

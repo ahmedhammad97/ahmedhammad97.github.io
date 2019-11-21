@@ -1,0 +1,1 @@
+var author3833 = "KMFDM", quotes3833 = ["Rip the system.","Think for yourself and don't believe the bullshit."]

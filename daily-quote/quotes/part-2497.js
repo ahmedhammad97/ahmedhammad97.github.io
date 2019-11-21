@@ -1,0 +1,1 @@
+var author2497 = "George Mason", quotes2497 = ["We came equals into this world, and equals shall we go out of it.","Slavery discourages arts and manufactures.","The poor despise labor when performed by slaves."]

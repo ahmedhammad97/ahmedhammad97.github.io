@@ -1,0 +1,1 @@
+var author6963 = "Walker Percy", quotes6963 = ["The enduring is something which must be accounted for. One cannot simply shrug it off.","Beauty is a whore.","The search is what anyone would undertake if he were not sunk in the everydayness of his own life."]

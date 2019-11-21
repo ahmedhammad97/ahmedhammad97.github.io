@@ -1,0 +1,1 @@
+var author5314 = "Piero Manzoni", quotes5314 = ["I would like to draw a white line covering the complete Greenwich meridian."]

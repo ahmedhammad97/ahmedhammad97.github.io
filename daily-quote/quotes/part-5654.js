@@ -1,0 +1,1 @@
+var author5654 = "Richard Lovelace", quotes5654 = ["When flowing cups pass swiftly roundWith no allaying Thames.","Fishes that tipple in the deep,Know no such liberty."]

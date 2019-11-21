@@ -1,0 +1,1 @@
+var author161 = "Aiysha Saagar", quotes161 = ["My tattoos symbolise something to me, after all they will remain with me forever."]

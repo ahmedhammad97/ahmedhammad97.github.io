@@ -1,0 +1,1 @@
+var author556 = "Arianna Huffington", quotes556 = ["The economic game is not supposed to be rigged like some shady ring toss on a carnival midway.","When your house is burning down, you don't worry about the remodeling."]

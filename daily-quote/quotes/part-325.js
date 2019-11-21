@@ -1,0 +1,1 @@
+var author325 = "Alice Evans", quotes325 = ["I love going out and it is a bit sad when the photographers stop asking you for your picture.","I'd rather have Prada shoes than eat.","I went brunette for a film called Fascination and I loved it.","It must be hard just to be someone's girlfriend.","But he will have his memories, Lance - long after we've forgotten him."]

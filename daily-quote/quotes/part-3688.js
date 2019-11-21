@@ -1,0 +1,1 @@
+var author3688 = "John Wolcot", quotes3688 = ["People may have too much of a good thing:Full as an egg of wisdom thus I sing."]

@@ -1,0 +1,1 @@
+var author5127 = "Patrick O'Brian", quotes5127 = ["And pray, what in sea language is meant by a ship?","Jack,you have debauched my sloth.","“Other people's marriages are a perpetual source of amazement.” "]

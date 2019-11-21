@@ -1,0 +1,1 @@
+var author6687 = "Thérèse of Lisieux", quotes6687 = ["Since the age of three I have refused God nothing."]

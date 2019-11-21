@@ -1,0 +1,1 @@
+var author7001 = "Ward McAllister", quotes7001 = ["There are only about four hundred people in New York society."]

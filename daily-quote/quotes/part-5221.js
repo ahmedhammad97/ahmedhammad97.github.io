@@ -1,0 +1,1 @@
+var author5221 = "Petar Mitrikeski", quotes5221 = ["Faith is accepted by free will, not by reason."]

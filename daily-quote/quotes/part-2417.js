@@ -1,0 +1,1 @@
+var author2417 = "Gavin Douglas", quotes2417 = ["Ryveris ran reid on spait with watir broune,And burnys hurlys all thar bankis doune.","And al smail fowlys syngis on the spray:Welcum the lord of lycht, and lamp of day.","As to the text accordyng never a deill,Mair than langis to the cart the fift quheill."]

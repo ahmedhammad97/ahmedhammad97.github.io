@@ -1,0 +1,1 @@
+var author4980 = "Ode: Intimations of Immortality", quotes4980 = ["Whither is fled the visionary gleam?Where is it now, the glory and the dream?","As if his whole vocationWere endless imitation."]

@@ -1,0 +1,1 @@
+var author783 = "Berlin Wall", quotes783 = ["Walls in the mind often stand longer than those built of concrete.","Mr.\\xa0Gorbachev, open this gate. Mr.\\xa0Gorbachev, tear down this Wall.","I am not the one trying to speed things up. We are being driven.","Forget not the tyranny of this wall...nor the love of freedom that made it fall..."]

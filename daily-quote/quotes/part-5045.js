@@ -1,0 +1,1 @@
+var author5045 = "Oscar Zeta Acosta", quotes5045 = ["The truth of the matter is that death is a mystery to me. I have no opinion on the subject."]

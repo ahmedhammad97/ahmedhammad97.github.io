@@ -1,0 +1,1 @@
+var author7170 = "William Powell (author)", quotes7170 = ["Treat any and all drugs with respect, for most of the time they are stronger than you are.","A government creates its own revolution. There can be no revolt without it."]

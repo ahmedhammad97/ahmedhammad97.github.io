@@ -1,0 +1,1 @@
+var author7035 = "What Does It All Mean?", quotes7035 = ["If you think about it, the inside of your own mind is the only thing you can be sure of.","Words are mostly used in talking and writing, rather than just as labels."]

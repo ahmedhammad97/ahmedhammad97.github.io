@@ -1,0 +1,1 @@
+var author2607 = "Gordon R. Dickson", quotes2607 = ["Why should there be some sort of virtue always attributed to a frank admission of vice?","“Exaggeration of confidence,” he said, “is a fault in people who don’t know their business.”"]

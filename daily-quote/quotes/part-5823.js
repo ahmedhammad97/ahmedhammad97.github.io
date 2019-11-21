@@ -1,0 +1,1 @@
+var author5823 = "Role", quotes5823 = ["Fundamental ideas play the most essential role in forming a physical theory."]

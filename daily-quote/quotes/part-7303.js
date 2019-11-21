@@ -1,0 +1,1 @@
+var author7303 = "Zaha Hadid", quotes7303 = ["Having a period of - well, austerity, shall we say - certainly humbles you."]

@@ -1,0 +1,1 @@
+var author3793 = "Jules Bianchi", quotes3793 = ["It has been easy to settle in.","I honesty thought it was over."]

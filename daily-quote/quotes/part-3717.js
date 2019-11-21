@@ -1,0 +1,1 @@
+var author3717 = "Jonathan Sacks", quotes3717 = ["We have no idea where the world is going, except that it's going there very fast.","Marriage, sanctified by the bond of fidelity, is the nearest life gets to a work of art.","The twenty-first century is, and will remain, the Age of Insecurity."]

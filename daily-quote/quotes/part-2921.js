@@ -1,0 +1,1 @@
+var author2921 = "History of optics", quotes2921 = ["The Angles of Refexion and Refraction, lie in one and the same Plane with the Angle of Incidence.","The Angle of Reflexion is equal to the Angle of Incidence."]

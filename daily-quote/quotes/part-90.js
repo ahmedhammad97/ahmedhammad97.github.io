@@ -1,0 +1,1 @@
+var author90 = "Adam", quotes90 = ["Lord of the world, must I and my ass eat at one crib?"]

@@ -1,0 +1,1 @@
+var author4741 = "Mother Goose", quotes4741 = ["Old Mother Goose,"]

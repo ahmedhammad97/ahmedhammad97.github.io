@@ -1,0 +1,1 @@
+var author3642 = "John Robert Seeley", quotes3642 = ["... Property can exit only under the guardianship of the State."]

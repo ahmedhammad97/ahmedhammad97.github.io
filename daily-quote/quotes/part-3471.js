@@ -1,0 +1,1 @@
+var author3471 = "John Arbuthnot", quotes3471 = ["All political parties die at last of swallowing their own lies."]

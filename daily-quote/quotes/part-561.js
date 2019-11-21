@@ -1,0 +1,1 @@
+var author561 = "Aristo of Chios", quotes561 = ["Virtue is the health of the soul."]

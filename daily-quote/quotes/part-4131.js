@@ -1,0 +1,1 @@
+var author4131 = "Linda Smith", quotes4131 = ["If God wanted us to believe in him, he'd exist.","Gordon Jackson! (throughout)"]

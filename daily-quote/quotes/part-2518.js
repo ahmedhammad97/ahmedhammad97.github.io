@@ -1,0 +1,1 @@
+var author2518 = "George Tenet", quotes2518 = ["As if he needed me to say Slam Dunk to go to war with Iraq.","We don't torture people. Let me say that again to you. We don't torture people, OK."]

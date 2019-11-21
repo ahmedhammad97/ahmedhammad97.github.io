@@ -1,0 +1,1 @@
+var author3439 = "Job: A Comedy of Justice", quotes3439 = ["Hypotheses:","If he's a saint, I'm a pink monkey —"]

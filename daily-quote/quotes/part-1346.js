@@ -1,0 +1,1 @@
+var author1346 = "Complacency", quotes1346 = ["Complacency is the deadly enemy of spiritual progress. The contented soul is the stagnant soul."]

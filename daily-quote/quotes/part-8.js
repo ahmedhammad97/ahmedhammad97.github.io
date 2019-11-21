@@ -1,0 +1,1 @@
+var author8 = "19th century", quotes8 = ["The wisdom of the wise and the experience of ages may be preserved by quotation."]

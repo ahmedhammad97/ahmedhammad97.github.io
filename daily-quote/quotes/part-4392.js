@@ -1,0 +1,1 @@
+var author4392 = "Mark Penn", quotes4392 = ["Being human is overrated."]

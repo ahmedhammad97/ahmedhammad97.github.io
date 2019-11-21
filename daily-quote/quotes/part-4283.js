@@ -1,0 +1,1 @@
+var author4283 = "Mahāprajña", quotes4283 = ["Conversations cease when we learn to discover the joys of internalization."]

@@ -1,0 +1,1 @@
+var author4823 = "Nattawut Saikua", quotes4823 = ["We are here to announce class warfare, in peace and for democracy.","They have never felt pain … We don’t have their connections, but we’re ready to die."]

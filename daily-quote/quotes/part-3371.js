@@ -1,0 +1,1 @@
+var author3371 = "Jeffrey Tucker", quotes3371 = ["Free markets are the real people's revolution.","Freedom is the foundation for all wonderful things in life."]

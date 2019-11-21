@@ -1,0 +1,1 @@
+var author3009 = "Idiot", quotes3009 = ["Never confuse an idiot.","All right! I confess, I confess. I confess to your being a bigger idiot than I thought."]

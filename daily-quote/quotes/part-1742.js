@@ -1,0 +1,1 @@
+var author1742 = "Donald Tusk", quotes1742 = ["'I'm Incapable of Getting Angry with Angela Merkel.'"]

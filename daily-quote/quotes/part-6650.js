@@ -1,0 +1,1 @@
+var author6650 = "Thomas Müntzer", quotes6650 = ["The people will be free and God alone will be their Lord."]

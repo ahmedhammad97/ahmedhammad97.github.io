@@ -1,0 +1,1 @@
+var author2826 = "Henry Cavendish", quotes2826 = ["Young people must break machines to learn how to use them; get another made!"]

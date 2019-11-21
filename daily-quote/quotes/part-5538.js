@@ -1,0 +1,1 @@
+var author5538 = "Ratko Mladić", quotes5538 = ["When I guarantee something, it's the same as the word of the Almighty."]

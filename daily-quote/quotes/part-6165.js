@@ -1,0 +1,1 @@
+var author6165 = "Snob", quotes6165 = ["He who meanly admires mean things is a Snob.","It is impossible, in our condition of Society, not to be sometimes a Snob."]

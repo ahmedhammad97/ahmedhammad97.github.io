@@ -1,0 +1,1 @@
+var author2584 = "Glenn Negley", quotes2584 = ["What can properly be called a utopia? "]

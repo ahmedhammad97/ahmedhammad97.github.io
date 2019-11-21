@@ -1,0 +1,1 @@
+var author438 = "Angus Wilson", quotes438 = ["The impulse to write a novel comes from a momentary unified vision of life."]

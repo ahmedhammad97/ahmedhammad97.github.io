@@ -1,0 +1,1 @@
+var author4804 = "Natalie Portman", quotes4804 = ["You know, I get much more Jewish in Israel because I like the way that religion is done there.","I’d like it if people thought I was Jewish-looking."]

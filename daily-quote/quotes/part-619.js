@@ -1,0 +1,1 @@
+var author619 = "Arthur Waley", quotes619 = ["I would rather be dead.","A team of horses cannot overtake a word that has left the mouth."]

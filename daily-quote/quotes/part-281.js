@@ -1,0 +1,1 @@
+var author281 = "Alexander Woollcott", quotes281 = ["The two oldest professions in the world — ruined by amateurs.","All the things I really like to do are either illegal, immoral, or fattening.","[You look like] a dishonest Abe Lincoln."]

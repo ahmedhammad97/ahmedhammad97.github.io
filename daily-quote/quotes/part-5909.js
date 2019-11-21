@@ -1,0 +1,1 @@
+var author5909 = "S. M. Stirling", quotes5909 = ["Bad writers have influences. Good writers steal."]

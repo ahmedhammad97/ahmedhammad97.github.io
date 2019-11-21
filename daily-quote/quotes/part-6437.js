@@ -1,0 +1,1 @@
+var author6437 = "Tathagata Satpathy", quotes6437 = ["We have never said that Bengal should not be given funds but Odisha should be treated equally.","Let's be totally intolerant towards intolerance. "]

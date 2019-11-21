@@ -1,0 +1,1 @@
+var author6270 = "Stephen R. L. Clark", quotes6270 = ["Those who still eat flesh when they could do otherwise have no claim to be serious moralists."]

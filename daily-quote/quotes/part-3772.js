@@ -1,0 +1,1 @@
+var author3772 = "Joxe Azurmendi", quotes3772 = ["The price of freedom is to decide moral and political issues.","The Basques are Argonauts with very fragile ships."]

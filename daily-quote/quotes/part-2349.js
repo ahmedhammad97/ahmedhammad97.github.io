@@ -1,0 +1,1 @@
+var author2349 = "Freya Stark", quotes2349 = ["To awaken quite alone in a strange town, is one of the pleasantest sensations in the world."]

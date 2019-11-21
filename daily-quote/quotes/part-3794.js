@@ -1,0 +1,1 @@
+var author3794 = "Jules Feiffer", quotes3794 = ["It is not size or age or childishness that separates children from adults. It is responsibility."]

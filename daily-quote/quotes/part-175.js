@@ -1,0 +1,1 @@
+var author175 = "Al-Shabaab", quotes175 = ["We will continue to hunt other MPs if they do not leave the apostate organisation [parliament]."]

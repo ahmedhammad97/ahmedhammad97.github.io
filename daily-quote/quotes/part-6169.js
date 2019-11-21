@@ -1,0 +1,1 @@
+var author6169 = "Social Gospel", quotes6169 = ["What would Jesus do?"]

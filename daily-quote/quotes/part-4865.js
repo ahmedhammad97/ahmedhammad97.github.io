@@ -1,0 +1,1 @@
+var author4865 = "New Hampshire", quotes4865 = ["New Hampshire is a drug-infested den."]

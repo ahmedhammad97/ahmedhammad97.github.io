@@ -1,0 +1,1 @@
+var author2345 = "Freedom of assembly", quotes2345 = ["Everyone has the right to freedom of peaceful assembly and association."]

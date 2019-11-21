@@ -1,0 +1,1 @@
+var author3460 = "Johann Gaudenz von Salis-Seewis", quotes3460 = ["Into the silent land!Ah, who shall lead us thither?","Who in life’s battle firm doth standInto the silent land!"]

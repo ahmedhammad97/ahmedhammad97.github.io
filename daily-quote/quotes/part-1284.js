@@ -1,0 +1,1 @@
+var author1284 = "Claud Cockburn", quotes1284 = ["There is nothing quite so terrifying as a mad sheep.","A newspaper is always a weapon in somebody's hands."]

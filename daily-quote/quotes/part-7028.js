@@ -1,0 +1,1 @@
+var author7028 = "Werner Erhard", quotes7028 = ["At all times and under all circumstances, we have the power to transform the quality of our lives.","Love for a person is acceptance of him or her the way he is and the way he is not."]

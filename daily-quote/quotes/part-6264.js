@@ -1,0 +1,1 @@
+var author6264 = "Stephen Johnson Field", quotes6264 = ["The Constitution deals with substance, not shadows.","When judges shall be obliged to go armed, it will be time for the courts to be closed."]

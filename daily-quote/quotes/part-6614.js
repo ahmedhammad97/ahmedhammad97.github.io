@@ -1,0 +1,1 @@
+var author6614 = "Thomas Cooper (U.S. politician)", quotes6614 = ["Fraud and falsehood only dread examination. Truth invites it."]

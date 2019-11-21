@@ -1,0 +1,1 @@
+var author4036 = "Lawrence Kudlow", quotes4036 = ["If stocks are optimistic, then so am I.","Free market capitalism is the best path to prosperity!"]

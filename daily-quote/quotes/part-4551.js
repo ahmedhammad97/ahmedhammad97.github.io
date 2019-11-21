@@ -1,0 +1,1 @@
+var author4551 = "Merchandise", quotes4551 = ["I couldn’t face making a merchandise of my mind."]

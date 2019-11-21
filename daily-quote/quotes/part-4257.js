@@ -1,0 +1,1 @@
+var author4257 = "Mad (magazine)", quotes4257 = ["What, Me Worry?"]

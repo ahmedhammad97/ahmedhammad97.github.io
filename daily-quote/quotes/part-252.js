@@ -1,0 +1,1 @@
+var author252 = "Alex Haley", quotes252 = ["In my writing, as much as I could, I tried to find the good, and praise it.","Anytime you see a turtle up on top of a fence post, you know he had some help.","If I had been taking hashish, I could not have dreamed of this."]

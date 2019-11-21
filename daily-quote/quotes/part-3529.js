@@ -1,0 +1,1 @@
+var author3529 = "John Desmond Bernal", quotes3529 = ["If science were communism, was it also not possible that communism could itself become a science?","Hogben's Science for the Citizen would be an admirable text-book for such teaching. "]

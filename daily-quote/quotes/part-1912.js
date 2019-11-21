@@ -1,0 +1,1 @@
+var author1912 = "Edwin Howard Armstrong", quotes1912 = ["Men substitute words for reality and then argue about the words."]

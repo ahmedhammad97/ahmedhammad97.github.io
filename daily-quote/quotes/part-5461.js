@@ -1,0 +1,1 @@
+var author5461 = "Puritanism", quotes5461 = ["Puritanism is the haunting fear that someone, somewhere, may be happy."]

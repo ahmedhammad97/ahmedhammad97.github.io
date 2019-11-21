@@ -1,0 +1,1 @@
+var author1522 = "Darrell Hammond", quotes1522 = ["I am more creative when I don't have sex."]

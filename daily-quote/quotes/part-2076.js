@@ -1,0 +1,1 @@
+var author2076 = "Ernst Meister", quotes2076 = ["What's there"]

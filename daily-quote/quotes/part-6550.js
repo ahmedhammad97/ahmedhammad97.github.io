@@ -1,0 +1,1 @@
+var author6550 = "The Shadow", quotes6550 = ["Who knows what evil lurks in the hearts of men? The Shadow knows...","I saved your life, Roy Tam. It now belongs to me.","The weed of crime bears bitter fruit."]

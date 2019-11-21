@@ -1,0 +1,1 @@
+var author4856 = "Netherlands", quotes4856 = ["The Dutch example shows that when people overcome their fear, David can defeat Goliath."]

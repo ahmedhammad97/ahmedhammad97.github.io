@@ -1,0 +1,1 @@
+var author31 = "A. M. Klein", quotes31 = ["This is a grassy ghetto, and no home."]

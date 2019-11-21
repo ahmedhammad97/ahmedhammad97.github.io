@@ -1,0 +1,1 @@
+var author4841 = "Neil Cavuto", quotes4841 = ["Now may I suggest you take your column and shove it?"]

@@ -1,0 +1,1 @@
+var author6131 = "Simon Soloveychik", quotes6131 = ["A son is not a judge of his father, but the conscience of the father is in his son."]

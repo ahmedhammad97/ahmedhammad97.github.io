@@ -1,0 +1,1 @@
+var author2577 = "Girolamo Savonarola", quotes2577 = ["Elegance of language must give way before simplicity in preaching sound doctrine.","I am the hailstorm that shall break the heads of those who do not take shelter."]

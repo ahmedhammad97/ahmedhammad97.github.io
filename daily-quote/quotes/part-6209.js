@@ -1,0 +1,1 @@
+var author6209 = "Spain", quotes6209 = ["Wee may say of him, as of the Spaniard, Hee is a bad Servant, but a worse Maister.","The French are wiser than they seem, and the Spaniards seem wiser than they are.","Cervantes smil'd Spain's chivalry away."]

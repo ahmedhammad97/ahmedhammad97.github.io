@@ -1,0 +1,1 @@
+var author1861 = "Edmund Wilson", quotes1861 = ["Education, the last hope of the liberal in all periods.","It may be that there is nothing more demoralizing than a small but adequate income.","Marxism is the opium of the intellectuals."]

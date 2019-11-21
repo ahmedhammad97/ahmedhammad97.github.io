@@ -1,0 +1,1 @@
+var author4833 = "Ned Kelly", quotes4833 = ["I wish to acquaint you with some of the occurrences of the present past and future.","Oh, what a pretty garden.","Such is life."]

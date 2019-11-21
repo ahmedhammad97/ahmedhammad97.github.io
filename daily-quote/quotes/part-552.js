@@ -1,0 +1,1 @@
+var author552 = "Archilochus", quotes552 = ["I have a high art: I hurt with cruelty those who wound me.","I know how to love thoseWho love me, how to hate."]

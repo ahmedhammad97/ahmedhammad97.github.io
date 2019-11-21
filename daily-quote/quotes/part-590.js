@@ -1,0 +1,1 @@
+var author590 = "Art Spiegelman", quotes590 = ["I became a philosophy major literally to understand why I should put up with this shit.","Comics seem to be cooking these days. It's like being a rock star."]

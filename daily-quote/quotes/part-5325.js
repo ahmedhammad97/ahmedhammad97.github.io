@@ -1,0 +1,1 @@
+var author5325 = "Pierre de Coubertin", quotes5325 = ["Winning medals wasn’t the point of the Olympics. It’s the participating that counts.","A better world could be brought about only by better individuals."]

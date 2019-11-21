@@ -1,0 +1,1 @@
+var author5080 = "Pamela Geller", quotes5080 = ["I will say that the Muslim terrorists were practicing pure Islam, original Islam.","Islam is the most antisemitic, genocidal ideology in the world.","Never, ever retract. The smell of weakness is like blood to sharks."]

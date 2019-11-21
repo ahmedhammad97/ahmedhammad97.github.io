@@ -1,0 +1,1 @@
+var author687 = "Ayaan Hirsi Ali", quotes687 = ["Drinking wine and wearing trousers were nothing compared to reading the history of ideas.","I would like to be judged on the validity of my arguments, not as a victim."]

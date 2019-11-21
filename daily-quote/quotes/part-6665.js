@@ -1,0 +1,1 @@
+var author6665 = "Thomas Warton", quotes6665 = ["O! what's a table richly spreadWithout a woman at its head!","Nor rough, nor barren, are the winding waysOf hoar antiquity, but strown with flowers.","All human race, from China to Peru, Pleasure, howe’er disguis’d by art, pursue."]

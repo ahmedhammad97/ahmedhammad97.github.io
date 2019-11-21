@@ -1,0 +1,1 @@
+var author4554 = "Mercy (Vertigo)", quotes4554 = ["No pattern to it, no plan! Yet, somehow all pattern, all plan! It defies logic!","Mercy gestures — and the gesture speaks: Help yourself. "]

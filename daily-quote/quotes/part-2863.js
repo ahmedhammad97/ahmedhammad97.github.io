@@ -1,0 +1,1 @@
+var author2863 = "Henry Temple, 3rd Viscount Palmerston", quotes2863 = ["I will not talk of non-intervention, for it is not an English word."]

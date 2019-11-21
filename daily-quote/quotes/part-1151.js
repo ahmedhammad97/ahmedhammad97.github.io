@@ -1,0 +1,1 @@
+var author1151 = "Charles M. Schulz", quotes1151 = ["I just draw what I think is funny, and I hope other people think it is funny, too.","The only thing I really ever wanted to be was a cartoonist. That's my life. Drawing."]

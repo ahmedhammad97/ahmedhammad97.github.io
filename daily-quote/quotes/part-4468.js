@@ -1,0 +1,1 @@
+var author4468 = "Mass media", quotes4468 = ["The media are slavishly subservient to the entertainment desires of their audience."]

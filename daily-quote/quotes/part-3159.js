@@ -1,0 +1,1 @@
+var author3159 = "J. Michael Straczynski", quotes3159 = ["Even Zathras say, Braves suck.","Your assumption, and the truth, dine at totally separate tables."]

@@ -1,0 +1,1 @@
+var author3141 = "Ivar Jacobson", quotes3141 = ["A is a complete course of events in the system, seen from a user’s perspective."]

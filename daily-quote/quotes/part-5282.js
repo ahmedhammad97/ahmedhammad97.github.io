@@ -1,0 +1,1 @@
+var author5282 = "Philip Oakey", quotes5282 = ["The Human League, Someday all music will be made like this! — and it is!"]

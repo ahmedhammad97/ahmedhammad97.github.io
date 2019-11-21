@@ -1,0 +1,1 @@
+var author5755 = "Robert L. May", quotes5755 = ["Rudolph the Red-Nosed Reindeer"]

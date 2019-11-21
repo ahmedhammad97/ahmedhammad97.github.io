@@ -1,0 +1,1 @@
+var author2967 = "Hugh Laurie", quotes2967 = ["This was the tricky bit. The really tricky bit, trickiness cubed."]

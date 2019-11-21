@@ -1,0 +1,1 @@
+var author6835 = "Universalism", quotes6835 = ["In reality there are as many religions as there are individuals."]

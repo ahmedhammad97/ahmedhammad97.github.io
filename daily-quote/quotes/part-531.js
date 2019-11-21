@@ -1,0 +1,1 @@
+var author531 = "Apisai Tora", quotes531 = ["(The Constitution is) nothing less than a fraud on the Fijian people."]

@@ -1,0 +1,1 @@
+var author1969 = "Ellen Terry", quotes1969 = ["How Henry would have loved it."]

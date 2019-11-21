@@ -1,0 +1,1 @@
+var author2040 = "Eric Chu", quotes2040 = ["We should harbor a positive mentality to any cross-strait development and exchange."]

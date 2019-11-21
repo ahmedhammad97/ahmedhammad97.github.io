@@ -1,0 +1,1 @@
+var author7095 = "William Cowper, 1st Earl Cowper", quotes7095 = ["God forbid that Judges upon their oath should make resolutions to enlarge jurisdiction."]

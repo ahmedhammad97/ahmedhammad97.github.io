@@ -1,0 +1,1 @@
+var author3605 = "John Mason", quotes3605 = ["He who does not improve his temper together with his understanding, is not much the better for it."]

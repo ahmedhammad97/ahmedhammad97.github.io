@@ -1,0 +1,1 @@
+var author3823 = "Justin Cronin", quotes3823 = ["It happened fast. Thirty-two minutes for one world to die, another to be born."]

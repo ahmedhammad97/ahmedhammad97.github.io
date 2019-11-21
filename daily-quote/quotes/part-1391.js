@@ -1,0 +1,1 @@
+var author1391 = "Controversy", quotes1391 = ["Controversy equalizes fools and wise men — and the fools know it.","When men differ in any matter of belief, let them meet each other manfully.","No great advance has ever been made in science, politics, or religion, without controversy."]

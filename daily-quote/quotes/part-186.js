@@ -1,0 +1,1 @@
+var author186 = "Alan Dzagoev", quotes186 = ["CSKA is one big family. Honestly, I'm very lucky being in that club.","When you want to stick to the highest level, there is no time for fun."]

@@ -1,0 +1,1 @@
+var author2501 = "George Monbiot", quotes2501 = ["Nobody ever rioted for austerity.","No political challenge can be met by shopping."]

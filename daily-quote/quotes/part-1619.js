@@ -1,0 +1,1 @@
+var author1619 = "Defense of freedom", quotes1619 = ["A nation which makes the final sacrifice for life and freedom does not get beaten.","No man is entitled to the blessings of freedom unless he be vigilant in its preservation."]

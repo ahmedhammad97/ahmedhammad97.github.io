@@ -1,0 +1,1 @@
+var author6868 = "Vangelis", quotes6868 = ["I function as a channel through which music emerges from the chaos of noise.","The number of interviews I've ever given could be counted on the fingers of my hands.","The New Age music: gave the opportunity for untalented people to make very boring music."]

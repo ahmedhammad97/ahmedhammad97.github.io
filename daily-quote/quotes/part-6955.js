@@ -1,0 +1,1 @@
+var author6955 = "W. Ross Ashby", quotes6955 = ["When a constraint exists advantage can usually be taken of it.","The concept of variety [is] inseparable from that of information.","Variety can destroy variety."]

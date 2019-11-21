@@ -1,0 +1,1 @@
+var author962 = "Bruce Bennett", quotes962 = ["There was only a single sharpshooter up in the trees to keep the croc away from me.","I wish I would have had more to do in the film. I hated to get killed so soon."]

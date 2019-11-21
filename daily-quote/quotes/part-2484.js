@@ -1,0 +1,1 @@
+var author2484 = "George II of Great Britain", quotes2484 = ["I hate bainting, and boetry too! Neither the one nor the other ever did any good.","If he is mad, so much the better; and if he is mad, I hope to God he’ll bite some of my generals."]

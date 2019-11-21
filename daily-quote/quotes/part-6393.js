@@ -1,0 +1,1 @@
+var author6393 = "Symbols", quotes6393 = ["Science sees signs; Poetry the thing signified."]

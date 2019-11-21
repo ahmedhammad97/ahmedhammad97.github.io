@@ -1,0 +1,1 @@
+var author5791 = "Robert South", quotes5791 = ["No man's religion ever survives his morals.","The covetous person lives as if the world were made altogether for him, and not he for the world.","A man's life is an appendix to his heart.","There never was any heart truly great and generous that was not also tender and compassionate."]

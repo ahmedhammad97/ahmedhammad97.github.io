@@ -1,0 +1,1 @@
+var author5051 = "Otto Rank", quotes5051 = ["The neurotic ... is not the voluntary happy seeker of truth, but the forced, unhappy finder of it."]

@@ -1,0 +1,1 @@
+var author4612 = "Michael Savage", quotes4612 = ["Liberalism is a mental disorder.","Islamists are breeding and Americans are bleeding.","The search to find God is the finding itself."]

@@ -1,0 +1,1 @@
+var author7333 = "Ödön von Horváth", quotes7333 = ["Translation: Nothing conveys the feeling of infinity as much as stupidity does."]

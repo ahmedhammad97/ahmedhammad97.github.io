@@ -1,0 +1,1 @@
+var author4991 = "Oliver P. Smith", quotes4991 = ["Retreat Hell! We're just attacking in another direction."]

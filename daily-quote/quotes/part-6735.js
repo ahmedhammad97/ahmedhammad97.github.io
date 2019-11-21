@@ -1,0 +1,1 @@
+var author6735 = "Tom Selleck", quotes6735 = ["Blow me a raspberry.","All I see is people out there who are hungry for more."]

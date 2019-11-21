@@ -1,0 +1,1 @@
+var author1555 = "David G. Haskell", quotes1555 = ["The skin is impossibly wet, a cloud condensed into animate matter."]

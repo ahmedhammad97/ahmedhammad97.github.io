@@ -1,0 +1,1 @@
+var author1533 = "David Attenborough", quotes1533 = ["If we [humans] disappeared overnight, the world would probably be better off.","I don’t like rats but there’s not much else I don’t like."]

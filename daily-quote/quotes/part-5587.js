@@ -1,0 +1,1 @@
+var author5587 = "René Guénon", quotes5587 = ["The “end of a world” never is and never can be anything but the end of an illusion.","If an idea is true, it belongs equally to all who are capable of understanding it."]

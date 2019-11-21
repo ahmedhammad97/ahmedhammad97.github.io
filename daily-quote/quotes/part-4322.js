@@ -1,0 +1,1 @@
+var author4322 = "Manuel L. Quezon", quotes4322 = ["My loyalty to my party ends where my loyalty to my country begins."]

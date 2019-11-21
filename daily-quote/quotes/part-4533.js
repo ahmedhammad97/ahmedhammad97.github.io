@@ -1,0 +1,1 @@
+var author4533 = "Megyn Kelly", quotes4533 = ["The-the-the criticism people have of your position, Reverend, is— you want God out of everything!","Is this just math that you do as a Republican to make yourself feel better. or is this real?"]

@@ -1,0 +1,1 @@
+var author2233 = "Flower A. Newhouse", quotes2233 = ["Mysticism is the search for and recovery of our oneness with God.","Christ's entire ministry can be summarized in just two words, live love."]

@@ -1,0 +1,1 @@
+var author6313 = "Stoning", quotes6313 = ["He that is without sin among you, let him cast the first stone at her.","The faithful live at second hand exclusively and stone the prophets in their turn.","Let twenty pass, and stone the twenty-first, Loving not, hating not, just choosing so."]

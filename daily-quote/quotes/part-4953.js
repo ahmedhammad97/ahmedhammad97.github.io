@@ -1,0 +1,1 @@
+var author4953 = "November", quotes4953 = ["November's night is dark and drear,The dullest month of all the year."]

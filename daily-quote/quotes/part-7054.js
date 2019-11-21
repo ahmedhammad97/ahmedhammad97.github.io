@@ -1,0 +1,1 @@
+var author7054 = "Wilhelm Keitel", quotes7054 = ["Death by hanging. That, at least, I thought I would be spared."]

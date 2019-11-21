@@ -1,0 +1,1 @@
+var author1546 = "David Davis", quotes1546 = ["If a democracy cannot change its mind, it ceases to be a democracy.","There will be no downside to Brexit, only a considerable upside."]

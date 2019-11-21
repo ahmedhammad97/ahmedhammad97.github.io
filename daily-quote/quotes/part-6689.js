@@ -1,0 +1,1 @@
+var author6689 = "Tibet", quotes6689 = ["In Tibet, where they say there are no limits to the past and future secrets [...]. "]

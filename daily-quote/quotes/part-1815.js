@@ -1,0 +1,1 @@
+var author1815 = "East/Central Europe", quotes1815 = ["I'm delighted to be here in Eastern, I mean Central Europe.","Eastern Europe is now east-central Europe.","Tell me where Central Europe is, and I can tell who you are."]

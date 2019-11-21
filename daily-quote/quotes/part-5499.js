@@ -1,0 +1,1 @@
+var author5499 = "Radical center (politics)", quotes5499 = ["How can we give ourselves more choices in life?","How can we give everyone a fair start in life?","How can we maximize our potential as human beings?","How can we be of use to the developing world? "]

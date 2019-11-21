@@ -1,0 +1,1 @@
+var author3251 = "James Hutton (Moravian)", quotes3251 = ["In this matter, I am a woman, and so I wish ever to remain.","Discontent, although human, is at all times wrong, and oftentimes becomes sin."]

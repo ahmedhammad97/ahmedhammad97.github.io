@@ -1,0 +1,1 @@
+var author5625 = "Richard Bethell, 1st Baron Westbury", quotes5625 = ["Then, sir, you will turn it over once more in what you are pleased to call your mind."]

@@ -1,0 +1,1 @@
+var author5447 = "Ptolemy", quotes5447 = ["The length of life takes the leading place among inquiries about events following birth."]

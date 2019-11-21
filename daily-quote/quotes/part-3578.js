@@ -1,0 +1,1 @@
+var author3578 = "John Howard Yoder", quotes3578 = ["A minority may do for a society what the conscience does for an individual."]

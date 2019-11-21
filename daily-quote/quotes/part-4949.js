@@ -1,0 +1,1 @@
+var author4949 = "Nouriel Roubini", quotes4949 = ["Our biggest financiers are China, Russia and the gulf states. These are rivals, not allies."]

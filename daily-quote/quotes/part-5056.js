@@ -1,0 +1,1 @@
+var author5056 = "Ovadia Yosef", quotes5056 = ["Saving a life overrides territories."]

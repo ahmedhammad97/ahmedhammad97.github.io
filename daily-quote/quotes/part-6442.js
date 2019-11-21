@@ -1,0 +1,1 @@
+var author6442 = "Taylor Caldwell", quotes6442 = ["The world is a terrible place, but it’s very interesting."]

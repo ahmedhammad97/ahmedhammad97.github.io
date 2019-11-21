@@ -1,0 +1,1 @@
+var author1166 = "Charles Spurgeon", quotes1166 = ["Mind your till, and till your mind.","It needs more skill than I can tellTo play the second fiddle well.","Holiness is the architectural plan upon which God buildeth up His living temple.","Jesus was a great worker, and His disciples must not be afraid of hard work."]

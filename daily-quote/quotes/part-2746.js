@@ -1,0 +1,1 @@
+var author2746 = "Harold Koontz", quotes2746 = ["[ Management can be defined as] the function of getting things done through others.","The Current Approaches to Management Theory and Science "]

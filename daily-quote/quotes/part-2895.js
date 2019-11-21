@@ -1,0 +1,1 @@
+var author2895 = "Hermione Gingold", quotes2895 = ["Contrary to popular belief, English women do not wear tweed nightgowns."]

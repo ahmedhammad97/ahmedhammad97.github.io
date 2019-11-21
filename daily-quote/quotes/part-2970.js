@@ -1,0 +1,1 @@
+var author2970 = "Hugo Diemer", quotes2970 = ["The regulative principles of management along scientific lines include four important elements: "]

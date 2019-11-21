@@ -1,0 +1,1 @@
+var author7306 = "Zebras", quotes7306 = ["Alex, do not interrupt me when I'm daydreaming. If a zebra's in the zone, leave him alone.","Behold the Zebra on the plains,And shudder at his mighty manes!","When you hear hoofbeats, think of horses not zebras."]

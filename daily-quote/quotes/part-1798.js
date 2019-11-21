@@ -1,0 +1,1 @@
+var author1798 = "Déjà vu", quotes1798 = ["Madness is the déjà-vu of death."]

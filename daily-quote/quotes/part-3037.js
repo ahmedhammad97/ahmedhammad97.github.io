@@ -1,0 +1,1 @@
+var author3037 = "Indignation", quotes3037 = ["If you tremble with indignation at every injustice, then you are a comrade of mine.","Many of the noisiest are more interested in their indignation than in the injustice."]

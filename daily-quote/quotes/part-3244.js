@@ -1,0 +1,1 @@
+var author3244 = "James Gould Cozzens", quotes3244 = ["I have no thesis except that people get a very raw deal from life."]

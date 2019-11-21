@@ -1,0 +1,1 @@
+var author403 = "Andrew Carnegie", quotes403 = ["Three generations from shirtsleeves to shirtsleeves.","Watch the costs and the profits take care of themselves.","The man who dies thus rich dies disgraced.","No, Your Majesty, I do not like kings, but I do like a man be\\xadhind a king when I find him."]

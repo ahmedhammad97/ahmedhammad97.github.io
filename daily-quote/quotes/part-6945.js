@@ -1,0 +1,1 @@
+var author6945 = "Väinö Linna", quotes6945 = ["In the beginning there were the swamp, the hoe – and Jussi. [Opening words.]","Once Koskela saw that the guns were ready to go, he called out, 'Shoot for their nuts!'","'Koskela the Finn. Eats iron and shits chains.' [Koskela introducing himself while intoxicated.]","Rather dear, those boys. [Closing words.]"]

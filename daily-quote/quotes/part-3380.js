@@ -1,0 +1,1 @@
+var author3380 = "Jens Stoltenberg", quotes3380 = ["Evil can kill a person, but never conquer a nation."]

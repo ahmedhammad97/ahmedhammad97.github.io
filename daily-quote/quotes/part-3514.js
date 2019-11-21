@@ -1,0 +1,1 @@
+var author3514 = "John Coltrane", quotes3514 = ["Keep a thing happenin' all throughout.","Rushin' Lullaby."]

@@ -1,0 +1,1 @@
+var author776 = "Benny Hill", quotes776 = ["That's what show business is--sincere insincerity."]

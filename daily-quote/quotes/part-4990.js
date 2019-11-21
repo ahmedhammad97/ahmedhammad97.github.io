@@ -1,0 +1,1 @@
+var author4990 = "Oliver North", quotes4990 = ["I'm trusting in the Lord and a good lawyer.","I was authorized to do everything that I did."]

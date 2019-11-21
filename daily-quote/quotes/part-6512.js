@@ -1,0 +1,1 @@
+var author6512 = "The Great Instauration", quotes6512 = ["This history I call Primary History, or the Mother History.","Never cite an author except in a matter of doubtful credit.","Never introduce a controversy unless in a matter of great moment.","It is a history of Generations, Pretergenerations, and Arts.","It would not be amiss to intersperse observations occasionally."]

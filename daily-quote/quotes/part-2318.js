@@ -1,0 +1,1 @@
+var author2318 = "Fred Brooks", quotes2318 = ["The bearing of a child takes nine months, no matter how many women are assigned.","Brooks's Law: Adding manpower to a late software project makes it later.","An ancient adage warns, Never go to sea with two chronometers; take one or three.","How does a project get to be a year late? &hellip; One day at a time."]

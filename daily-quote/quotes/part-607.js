@@ -1,0 +1,1 @@
+var author607 = "Arthur Kenney", quotes607 = ["It is the best thing for a stricken heart to be helping others."]

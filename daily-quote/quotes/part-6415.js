@@ -1,0 +1,1 @@
+var author6415 = "Takuboku Ishikawa", quotes6415 = ["Like to a stone I have come to this day."]

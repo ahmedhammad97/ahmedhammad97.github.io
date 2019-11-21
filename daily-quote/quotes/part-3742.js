@@ -1,0 +1,1 @@
+var author3742 = "Joseph Gurney Cannon", quotes3742 = ["Nearly all legislation is the result of compromise.","In the last analysis sound judgment will prevail.","Not one cent for scenery.","In legislation we all do a lot of swapping tobacco across the lines."]

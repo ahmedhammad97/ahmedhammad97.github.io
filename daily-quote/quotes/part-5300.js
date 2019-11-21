@@ -1,0 +1,1 @@
+var author5300 = "Philolaus", quotes5300 = ["[Number is] the commanding and self-begotten container of the eternal duration of mundane concerns."]

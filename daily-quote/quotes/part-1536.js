@@ -1,0 +1,1 @@
+var author1536 = "David Bomberg", quotes1536 = ["Style is ephemeral – Form is eternal"]

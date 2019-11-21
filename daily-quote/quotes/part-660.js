@@ -1,0 +1,1 @@
+var author660 = "Audrey Niffenegger", quotes660 = ["My family isn’t posh; they’re musicians.","That’s what I love you for: your inability to perceive all my hideous flaws.","But as usual there’s no answer to this. As usual, that’s just how it is."]

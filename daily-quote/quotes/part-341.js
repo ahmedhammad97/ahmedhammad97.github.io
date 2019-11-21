@@ -1,0 +1,1 @@
+var author341 = "Alp Arslan", quotes341 = ["My punishment is far heavier, I forgive you, and set you free."]

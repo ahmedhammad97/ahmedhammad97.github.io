@@ -1,0 +1,1 @@
+var author3595 = "John Lothrop Motley", quotes3595 = ["Local self-government…is the life-blood of liberty.","Give us the luxuries of life, and we will dispense with its necessaries."]

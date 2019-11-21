@@ -1,0 +1,1 @@
+var author1878 = "Edward Everett Hale", quotes1878 = ["He loved his country as no other man has loved her; but no man deserved less at her hands.","Look up and not down, look forward and not back, look out and not in, and lend a hand!"]

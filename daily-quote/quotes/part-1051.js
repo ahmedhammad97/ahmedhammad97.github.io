@@ -1,0 +1,1 @@
+var author1051 = "Carl Linnaeus", quotes1051 = ["If the names are unknown knowledge of the things also perishes.","Great is our God, and great is His power, and his strength is immeasurable","From my youth you have taught me, O God, and now I would like to proclaim Your Wonders"]

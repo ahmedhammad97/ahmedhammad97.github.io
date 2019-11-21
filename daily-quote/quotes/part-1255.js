@@ -1,0 +1,1 @@
+var author1255 = "Christopher Tilley", quotes1255 = ["To be human is to think through metaphors.","Metaphors are thus the very medium and outcome of our analysis."]

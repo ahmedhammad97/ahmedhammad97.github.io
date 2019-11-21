@@ -1,0 +1,1 @@
+var author1788 = "Dunce", quotes1788 = ["Wit, who never once Forgave a brother, shall forgive a dunce.","Fool beckons fool, and dunce awakens dunce.","How much a dunce that has been sent to roamExcels a dunce that has been kept at home!","The defects of great men are the consolation of the dunces.","A wit with dunces, and a dunce with wits."]

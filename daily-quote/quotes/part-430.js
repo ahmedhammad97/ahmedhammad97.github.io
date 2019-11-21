@@ -1,0 +1,1 @@
+var author430 = "Andy Warhol", quotes430 = ["In the future everyone will be world-famous for 15 minutes.","I've never met a person I couldn't call a beauty.","They always say that time changes things, but you actually have to change them yourself."]

@@ -1,0 +1,1 @@
+var author5757 = "Robert Leighton (bishop)", quotes5757 = ["How shall I do to love? Believe. How shall I do to believe? Love."]

@@ -1,0 +1,1 @@
+var author1872 = "Edward Bouverie Pusey", quotes1872 = ["In all adversity, what God takes away He may give us back with increase."]

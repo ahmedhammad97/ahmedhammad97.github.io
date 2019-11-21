@@ -1,0 +1,1 @@
+var author1692 = "Disarmament", quotes1692 = ["Disarmament without checks is but a shadow--and a community without law is but a shell."]

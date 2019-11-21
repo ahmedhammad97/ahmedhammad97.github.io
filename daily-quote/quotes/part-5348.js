@@ -1,0 +1,1 @@
+var author5348 = "Playing card", quotes5348 = ["He's a sure card.","The pictures placed for ornament and use,The twelve good rules, the royal game of goose.","Cards were at first for benefits designed,Sent to amuse, not to enslave the mind.","A clear fire, a clean hearth, and the rigour of the game."]

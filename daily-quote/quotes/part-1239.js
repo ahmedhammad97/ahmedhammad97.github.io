@@ -1,0 +1,1 @@
+var author1239 = "Christine O'Donnell", quotes1239 = ["We think that it legitimizes the homosexual lifestyle.","The school system should be used purely for academia and not for social experiments.","I am not a witch. I'm nothing you've heard. I'm you."]

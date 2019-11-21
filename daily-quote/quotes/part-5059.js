@@ -1,0 +1,1 @@
+var author5059 = "Owen Wister", quotes5059 = ["When you call me that, smile!","When yu’ can’t have what you choose, yu’ just choose what you have.","An aristocrat in morals as in mind."]

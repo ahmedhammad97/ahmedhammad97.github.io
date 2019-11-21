@@ -1,0 +1,1 @@
+var author6500 = "The Dresden Dolls", quotes6500 = ["All of my blind ambition left me deaf with perfect vision.","I guess it's just my stupid luck That all of Boston drives the same black fucking truck","Behold the world's worst accident I am the girl anachronism!","Fuck, I'll pay you anything if you could end this hell"]

@@ -1,0 +1,1 @@
+var author4543 = "Melissa Farley", quotes4543 = ["We feminists think that women deserve the right NOT to prostitute.","For many women, the experience of prostitution stems from the historical trauma of colonization."]

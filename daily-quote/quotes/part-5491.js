@@ -1,0 +1,1 @@
+var author5491 = "R. W. K. Paterson", quotes5491 = ["Our ridicule and disgust are in the end aimed at some unavowed part of our own selves.","(describing the two aspects of resoluteness), p. 11.","The version of reality a man adopts will depend largely on his values.","… the plebeian tendency to become engrossed with the means and to avert one’s eyes from the end"]

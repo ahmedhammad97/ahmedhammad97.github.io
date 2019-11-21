@@ -1,0 +1,1 @@
+var author5260 = "Petero Mataca", quotes5260 = ["Reconciliation and unity cannot be achieved through a politically motivated Bill."]

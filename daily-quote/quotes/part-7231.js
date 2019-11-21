@@ -1,0 +1,1 @@
+var author7231 = "Wolfgang Amadeus Mozart", quotes7231 = ["My fatherland has always the first claim on me."]

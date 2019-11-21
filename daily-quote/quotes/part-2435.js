@@ -1,0 +1,1 @@
+var author2435 = "Genetic engineering", quotes2435 = ["Genetic engineering is to traditional crossbreeding what the nuclear bomb was to the sword."]

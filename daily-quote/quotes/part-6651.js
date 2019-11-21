@@ -1,0 +1,1 @@
+var author6651 = "Thomas Nashe", quotes6651 = ["Evermore mayst thou be canonized as the Nonparreille of impious epistlers.","Blest is that government where no art thrives.","Beauty is but a flowerWhich wrinkles will devour.","From winter, plague, & pestilence, good Lord, deliver us."]

@@ -1,0 +1,1 @@
+var author3003 = "Ian Wilson (conceptual artist)", quotes3003 = ["O: Why did you leave sculpture for pure reflection? I mean thoughts, language and speech."]

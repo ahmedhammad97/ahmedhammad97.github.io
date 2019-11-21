@@ -1,0 +1,1 @@
+var author5748 = "Robert J. Sawyer", quotes5748 = ["Learning to ignore things is one of the great paths to inner peace.","Not wanting to die was another universal constant, it seemed.","You can't choose the ways in which you'll be tested."]

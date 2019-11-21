@@ -1,0 +1,1 @@
+var author4956 = "Ntozake Shange", quotes4956 = ["i found god in myself& i loved her/i loved her fiercely"]

@@ -1,0 +1,1 @@
+var author2496 = "George Marshall", quotes2496 = ["The only way human beings can win a war is to prevent it.","The hardest thing I ever did was keep my temper at that time.","Don’t fight the problem, decide it.","Military power wins battles, but spiritual power wins wars.","When a thing is done, it's done. Don't look back. Look forward to your next objective."]

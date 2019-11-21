@@ -1,0 +1,1 @@
+var author5424 = "Privilege", quotes5424 = ["A people that values its privileges above its principles soon loses both."]

@@ -1,0 +1,1 @@
+var author7155 = "William Morley Punshon", quotes7155 = ["Labor is the true alchemist that beats out in patient transmutation the baser metals into gold."]

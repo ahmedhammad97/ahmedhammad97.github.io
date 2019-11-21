@@ -1,0 +1,1 @@
+var author782 = "Berlin Codex", quotes782 = ["Sister we know that the Savior loved you more than the rest of women.","What is hidden from you I will proclaim to you."]

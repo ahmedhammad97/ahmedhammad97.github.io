@@ -1,0 +1,1 @@
+var author3844 = "Kanō Jigorō", quotes3844 = ["If there is effort, there is always accomplishment."]

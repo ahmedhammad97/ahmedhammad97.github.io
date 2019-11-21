@@ -1,0 +1,1 @@
+var author6370 = "Sustainability", quotes6370 = ["The key to understanding the future is one word: sustainability."]

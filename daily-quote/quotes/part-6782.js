@@ -1,0 +1,1 @@
+var author6782 = "Trinity", quotes6782 = ["The mind itself, its love of itself and its knowledge of itself are a kind of trinity."]

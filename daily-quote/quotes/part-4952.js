@@ -1,0 +1,1 @@
+var author4952 = "Novelty", quotes4952 = ["Spick and span new.","There is nothing new except what is forgotten.","There is no new thing under the sun.","What is valuable is not new, and what is new is not valuable."]

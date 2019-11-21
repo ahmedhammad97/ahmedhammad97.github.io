@@ -1,0 +1,1 @@
+var author1913 = "Edwin Hubbell Chapin", quotes1913 = ["Christianity has made martyrdom sublime, and sorrow triumphant.","Pride is the master sin of the devil."]

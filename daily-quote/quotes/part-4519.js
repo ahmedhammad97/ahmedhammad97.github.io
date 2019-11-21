@@ -1,0 +1,1 @@
+var author4519 = "Meaning", quotes4519 = ["Everything has a meaning, if only we could read it."]

@@ -1,0 +1,1 @@
+var author2590 = "Go (game)", quotes2590 = ["Go is hard.","I had the first move, I should have won...","I learned to play go in college ... It's a very complicated game ... non-linear.","Becoming one stone stronger is the supreme enjoyment.","Go is to Western chess what philosophy is to double-entry accounting.","All you are is the Go you play."]

@@ -1,0 +1,1 @@
+var author2453 = "George Bird Evans", quotes2453 = ["Much of the pleasure of shooting is what accompanies it and sharing it all with a good friend.","Be worthy of your game","Ruffed grouse dogs are bred, not born, and once born they are developed, not made.","A grouse deserves better than to be shot on the ground."]

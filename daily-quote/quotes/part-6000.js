@@ -1,0 +1,1 @@
+var author6000 = "Sathya Sai Baba", quotes6000 = ["My construction will cover the entire Universe.","My power is immeasurable; My truth inexplicable, unfathomable.","There was no one to understand Me until I created the whole world","Sai holds the universe in his hand","Leadership is Idealism in Action."]

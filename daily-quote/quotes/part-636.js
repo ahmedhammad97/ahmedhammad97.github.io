@@ -1,0 +1,1 @@
+var author636 = "Asif Ali Zardari", quotes636 = ["Journalists are bigger terrorists than terrorists themselves."]

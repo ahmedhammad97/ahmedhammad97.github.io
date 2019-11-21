@@ -1,0 +1,1 @@
+var author7085 = "William C. Davis (historian)", quotes7085 = ["Confederates were terrified of what was happening to slavery."]

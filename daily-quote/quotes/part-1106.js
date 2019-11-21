@@ -1,0 +1,1 @@
+var author1106 = "Cesar Chavez", quotes1106 = ["We shall unite. We have learned the meaning of Unity."]

@@ -1,0 +1,1 @@
+var author4970 = "Obscenity", quotes4970 = ["Obscenity is whatever happens to shock some elderly and ignorant magistrate."]

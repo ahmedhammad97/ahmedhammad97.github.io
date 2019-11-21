@@ -1,0 +1,1 @@
+var author6903 = "Viggo Mortensen", quotes6903 = ["You have a moral obligation to finish the job you said you would do.","Adapt and overcome.","A lot of people can forget about you in Los Angeles.","Just because you are lucky does not mean you make good choices."]

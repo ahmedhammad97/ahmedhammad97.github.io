@@ -1,0 +1,1 @@
+var author4566 = "Mia Farrow", quotes4566 = ["You learn by going where you have to go.","Rage and grief are savage companions, but despair is the final undoing."]

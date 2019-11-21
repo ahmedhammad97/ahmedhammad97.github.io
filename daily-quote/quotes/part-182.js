@@ -1,0 +1,1 @@
+var author182 = "Alan Clark", quotes182 = ["You cannot come here because you are not white.","I am not a fascist. Fascists are shopkeepers, I am a Nazi."]

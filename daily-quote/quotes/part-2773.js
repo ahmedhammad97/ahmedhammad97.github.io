@@ -1,0 +1,1 @@
+var author2773 = "Harvard University", quotes2773 = ["Harvard has ruined more niggers than bad liquor."]

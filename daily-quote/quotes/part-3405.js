@@ -1,0 +1,1 @@
+var author3405 = "Jiang Yi-huah", quotes3405 = ["A democratic country has zero tolerance for all illegal monitoring operations.","Where there is the will, we can make it."]

@@ -1,0 +1,1 @@
+var author4254 = "Mabinogion", quotes4254 = ["He who is chief, let him be a bridge."]

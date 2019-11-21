@@ -1,0 +1,1 @@
+var author5804 = "Robin Lane Fox", quotes5804 = ["Alexander was not the first Greek to be honoured as a god for political favour...","Alexander was recognized as a son of Zeus after his visit.","It was the Delphi of the Greek East and as a Hellene, not as Pharaoh, Alexander would be curious...","Supported the belief that he was the Greek gos Zeus's son."]

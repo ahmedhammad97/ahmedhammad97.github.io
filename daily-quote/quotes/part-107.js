@@ -1,0 +1,1 @@
+var author107 = "Admiralty law", quotes107 = ["A man shall not sue in the Admiralty, only because it is a ship.","I for one will not re-open the floodgates of Admiralty jurisdiction upon the people of this country."]

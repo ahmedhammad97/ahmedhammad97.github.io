@@ -1,0 +1,1 @@
+var author83 = "Achille Starace", quotes83 = ["He is a God."]

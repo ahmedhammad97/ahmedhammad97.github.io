@@ -1,0 +1,1 @@
+var author847 = "Birth", quotes847 = ["He is born naked, and falls a whining at the first.","Esaw selleth his byrthright for a messe of potage.","The dew of thy birth is of the womb of the morning."]

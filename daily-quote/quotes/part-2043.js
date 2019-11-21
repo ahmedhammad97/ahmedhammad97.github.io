@@ -1,0 +1,1 @@
+var author2043 = "Eric Foner", quotes2043 = ["The Confederate government increasingly molded its policies in the interest of the planter class.","I admire Lincoln very much.","South Carolina led the southern walk-out from the 1948 Democratic National Convention."]

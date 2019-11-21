@@ -1,0 +1,1 @@
+var author6297 = "Steven Novella", quotes6297 = ["I think the Internet is the biggest classroom we have.","There's a host of scams that are evolving all the time.","I think science is best taught as a puzzle to be solved.","Isn't the future necessarily going to be dominated by machine life?"]

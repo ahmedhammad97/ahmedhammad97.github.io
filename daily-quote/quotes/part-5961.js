@@ -1,0 +1,1 @@
+var author5961 = "Samuel Youd", quotes5961 = ["We had been friends. We could not become strangers. It left only one thing: we must be enemies."]

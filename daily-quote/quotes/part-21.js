@@ -1,0 +1,1 @@
+var author21 = "A. A. Attanasio", quotes21 = ["The stars baked my bones; The oceans culled my blood, And the forests shaped my lungs. Who am I? ","Yet every hair on the body is numbered. And in truth, every day is the beautiful day, the last day."]

@@ -1,0 +1,1 @@
+var author2340 = "Frederik Pohl", quotes2340 = ["There is no greater dark than the dark between the stars.","Specialization is the goal of civilization.","Scientists are an agnostic lot, of course—well, most educated people are, aren’t they?","Oh, it was work and no fooling. I enjoyed it very much, because I didn’t have to do it."]

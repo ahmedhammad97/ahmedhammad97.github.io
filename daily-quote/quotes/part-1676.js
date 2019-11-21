@@ -1,0 +1,1 @@
+var author1676 = "Diet", quotes1676 = ["Things sweet to taste prove in digestion sour."]

@@ -1,0 +1,1 @@
+var author7145 = "William Lever, 1st Viscount Leverhulme", quotes7145 = ["Half my advertising is wasted but I do not know which half.","Aye, nay, we won't argue: you're wrong."]

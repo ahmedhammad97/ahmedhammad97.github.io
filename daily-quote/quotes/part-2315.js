@@ -1,0 +1,1 @@
+var author2315 = "Fraternities and sororities", quotes2315 = ["College students have always shown a more or less marked tendency to form themselves into societies."]

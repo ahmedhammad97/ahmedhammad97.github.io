@@ -1,0 +1,1 @@
+var author1087 = "Caterina Davinio", quotes1087 = ["Language completes the existence of the world and makes it usable for humans."]

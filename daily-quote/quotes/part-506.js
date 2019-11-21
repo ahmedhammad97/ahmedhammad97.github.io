@@ -1,0 +1,1 @@
+var author506 = "Anticipation", quotes506 = ["What we anticipate seldom occurs; what we least expected generally happens.","Successful investing is anticipating the anticipations of others.","Far off his coming shone.","To anticipate & prevent disastrous contingencies would be the part of wisdom & patriotism."]

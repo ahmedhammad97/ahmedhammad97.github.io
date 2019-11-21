@@ -1,0 +1,1 @@
+var author1925 = "Eggs", quotes1925 = ["Going as if he trod upon eggs.","A hen is only an egg's way of making another egg.","A box without hinges, key or lid, Yet golden treasure inside is hid.","Better an egg today than a hen tomorrow.","Don't put all your eggs in one basket.","Eggs and oaths are soon broken.","You can't have an omelette unless you break the egg."]

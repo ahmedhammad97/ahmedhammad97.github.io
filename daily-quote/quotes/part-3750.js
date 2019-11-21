@@ -1,0 +1,1 @@
+var author3750 = "Joseph Roux", quotes3750 = ["It is a very rare thing for a man of talent to succeed by his talent.","The happiness which is lacking makes one think even the happiness one has unbearable."]

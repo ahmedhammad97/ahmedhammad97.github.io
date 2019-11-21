@@ -1,0 +1,1 @@
+var author6153 = "Six Sigma", quotes6153 = ["Six Sigma is really a cultural thing—a way of behavior."]

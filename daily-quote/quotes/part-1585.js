@@ -1,0 +1,1 @@
+var author1585 = "David Riesman", quotes1585 = ["Those who are excluded from meaningful work are, by and large, excluded from meaningful play."]

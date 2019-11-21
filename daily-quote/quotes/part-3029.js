@@ -1,0 +1,1 @@
+var author3029 = "Impossibility", quotes3029 = ["Hope not for impossibilities.","You cannot make a crab walk straight.","And what's impossible, can't be,And never, never comes to pass.","Few things are impossible to diligence and skill.","Certainly nothing is unnatural that is not physically impossible.","You cannot make, my Lord, I fear, a velvet purse of a sow's ear."]

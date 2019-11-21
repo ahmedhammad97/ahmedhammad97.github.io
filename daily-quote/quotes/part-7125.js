@@ -1,0 +1,1 @@
+var author7125 = "William Harvey", quotes7125 = ["I avow myself the partisan of truth alone.","I appeal to your own eyes as my witness and judge."]

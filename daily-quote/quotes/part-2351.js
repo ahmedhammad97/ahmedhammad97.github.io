@@ -1,0 +1,1 @@
+var author2351 = "Fridtjof Nansen", quotes2351 = ["The difficult is what takes a little time; the impossible is what takes a little longer."]

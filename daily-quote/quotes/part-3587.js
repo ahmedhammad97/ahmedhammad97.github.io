@@ -1,0 +1,1 @@
+var author3587 = "John Kotter", quotes3587 = ["The heart of change is in the emotions."]

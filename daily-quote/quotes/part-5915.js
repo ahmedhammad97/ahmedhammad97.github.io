@@ -1,0 +1,1 @@
+var author5915 = "Sacredness", quotes5915 = ["Nothing is at last sacred but the integrity of your own mind.","In every well-governed state, wealth is a sacred thing; in democracies it is the only sacred thing."]

@@ -1,0 +1,1 @@
+var author915 = "Bounded rationality", quotes915 = ["The term “bounded rationality” was coined in the 1950s by Herbert A. Simon."]

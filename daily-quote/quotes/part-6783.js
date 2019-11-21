@@ -1,0 +1,1 @@
+var author6783 = "Trip Hawkins", quotes6783 = ["[PlayStation 2] is a new canvas for humanity that takes us back to our nature."]

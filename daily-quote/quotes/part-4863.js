@@ -1,0 +1,1 @@
+var author4863 = "New Delhi", quotes4863 = ["If the government does not pass the Jan Lokpal Bill, I will begin my fast unto death at New Delhi.","Chief Minister Sheila Dikshit has betrayed the people of Delhi.","The soil and climate in Delhi are also not favourable for anthrax."]

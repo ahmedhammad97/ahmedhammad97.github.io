@@ -1,0 +1,1 @@
+var author6897 = "Victor Klemperer", quotes6897 = ["But there is no vox populi, only voci populi."]

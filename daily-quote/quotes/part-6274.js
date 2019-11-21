@@ -1,0 +1,1 @@
+var author6274 = "Stephen Wolfram", quotes6274 = ["I think Computation is destined to be the defining idea of our future."]

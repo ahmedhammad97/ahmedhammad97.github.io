@@ -1,0 +1,1 @@
+var author3235 = "James Fenimore Cooper", quotes3235 = ["'Tis grand! 'tis solemn! 'tis an education of itself to look upon!","Those families, you know, are our upper crust—not upper ten thousand.","Chapter XXX, conclusion of the novel"]

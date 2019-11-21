@@ -1,0 +1,1 @@
+var author6144 = "Sir Frederick Pollock, 1st Baronet", quotes6144 = ["The Crown cannot ever be prejudiced by the misconduct or negligence of any of its officers.","You need not cite cases that are familiar.","Judges are philologists of the highest order.","Circumstantial evidence only raises a probability."]

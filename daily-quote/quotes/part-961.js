@@ -1,0 +1,1 @@
+var author961 = "Brother 2", quotes961 = ["Think less, use your brains.","American dream would take you."]

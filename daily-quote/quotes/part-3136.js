@@ -1,0 +1,1 @@
+var author3136 = "Ivan Boesky", quotes3136 = ["What good is the moon if you can't buy or sell it?","I think immoral is probably the wrong word to use...I prefer the word unethical."]

@@ -1,0 +1,1 @@
+var author3108 = "Irving Layton", quotes3108 = ["My neighbourhe wants to be envied."]

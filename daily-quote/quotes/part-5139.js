@@ -1,0 +1,1 @@
+var author5139 = "Paul Celan", quotes5139 = ["Aspen tree, your leaves glance white into the dark."]

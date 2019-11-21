@@ -1,0 +1,1 @@
+var author3752 = "Joseph Stiglitz", quotes3752 = ["The reason that the invisible hand often seems invisible is that it is often not there.","My teachers helped guide and motivate me; but the responsibility of learning was left with me.","Economists often like startling theorems, results which seem to run counter to conventional wisdom."]

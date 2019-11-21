@@ -1,0 +1,1 @@
+var author5564 = "Regeneration (theology)", quotes5564 = ["Embrace in one act the two truths — thine own sin, and God's infinite mercy in Jesus Christ."]

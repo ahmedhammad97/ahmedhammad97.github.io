@@ -1,0 +1,1 @@
+var author6810 = "Uganda", quotes6810 = ["The pearl of Africa."]

@@ -1,0 +1,1 @@
+var author1399 = "Corbin Bleu", quotes1399 = ["The Internet isn't my thing. I so much rather talk on the phone.","If I'm in a bad mood, my thing is I go clean! That's what relaxes me! I go and clean everything."]

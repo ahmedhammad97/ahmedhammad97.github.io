@@ -1,0 +1,1 @@
+var author5050 = "Otto Ohlendorf", quotes5050 = ["In the child, we see the grown-up. I see the problem differently.","There was no distinction made between Gypsies and Jews, the same order applied to both."]

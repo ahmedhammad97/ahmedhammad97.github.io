@@ -1,0 +1,1 @@
+var author5705 = "Rob Pike", quotes5705 = ["Object-oriented design is the roman numerals of computing.","Those days are dead and gone and the eulogy was delivered by Perl."]

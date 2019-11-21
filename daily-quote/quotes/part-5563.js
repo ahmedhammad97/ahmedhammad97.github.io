@@ -1,0 +1,1 @@
+var author5563 = "Refugee", quotes5563 = ["Since refugees are a global problem, the search for solutions must also be global.","Your enemy is not the refugee. Your enemy is the one who made him a refugee."]

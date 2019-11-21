@@ -1,0 +1,1 @@
+var author2664 = "Gu Cheng", quotes2664 = ["Even with these dark eyes, a gift of the dark nightI go to seek the shining light."]

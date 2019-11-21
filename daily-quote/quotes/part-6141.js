@@ -1,0 +1,1 @@
+var author6141 = "Siobhan Fahey", quotes6141 = ["I love digging out old records … Fashion goes round in circles."]

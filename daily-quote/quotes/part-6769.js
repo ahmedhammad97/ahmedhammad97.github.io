@@ -1,0 +1,1 @@
+var author6769 = "Transhumanism", quotes6769 = ["To be what you want to be: isn't this the essence of being human?","It may be that our role on this planet is not to worship God - but to create him.","I not only think that we will tamper with Mother Nature, I think Mother wants us to."]

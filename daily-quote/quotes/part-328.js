@@ -1,0 +1,1 @@
+var author328 = "Alice Miller (psychologist)", quotes328 = ["Parents are indeed capable of routinely torturing their children without anyone interceding."]

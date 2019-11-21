@@ -1,0 +1,1 @@
+var author4501 = "Max Boot", quotes4501 = ["Trump is a fascist. And that’s not a term I use loosely or often. But he’s earned it."]

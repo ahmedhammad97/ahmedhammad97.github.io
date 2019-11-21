@@ -1,0 +1,1 @@
+var author5943 = "Samuel Adams", quotes5943 = ["The truth is, all might be free if they valued freedom, and defended it as they ought.","What a glorious morning is this!","How strangely will the Tools of a Tyrant pervert the plain Meaning of Words!","I firmly believe that the benevolent Creator designed the republican Form of Government for Man."]

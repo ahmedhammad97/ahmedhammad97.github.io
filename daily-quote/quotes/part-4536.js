@@ -1,0 +1,1 @@
+var author4536 = "Mehmed Talat", quotes4536 = ["What on earth do you want? The question is settled. There are no more Armenians. "]

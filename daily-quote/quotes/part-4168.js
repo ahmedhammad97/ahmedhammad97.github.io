@@ -1,0 +1,1 @@
+var author4168 = "Lord Charles Beresford", quotes4168 = ["Very sorry can't come. Lie follows by post."]

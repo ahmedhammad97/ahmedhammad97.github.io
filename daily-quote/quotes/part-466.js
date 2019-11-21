@@ -1,0 +1,1 @@
+var author466 = "Anne Hathaway", quotes466 = ["My entire film career's been dependent on my ability to look unattractive."]

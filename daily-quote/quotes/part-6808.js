@@ -1,0 +1,1 @@
+var author6808 = "Tyrannicide", quotes6808 = ["One who liberates his country by killing a tyrant is to be praised and rewarded."]

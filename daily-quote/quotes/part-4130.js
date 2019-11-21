@@ -1,0 +1,1 @@
+var author4130 = "Linda Evangelista", quotes4130 = ["We have this expression, Christy and I: We don't wake up for less than $10,000 a day."]

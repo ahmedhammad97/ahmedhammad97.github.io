@@ -1,0 +1,1 @@
+var author3729 = "Jose Cecilio del Valle", quotes3729 = ["But to reach...the pinnacle of power, it will be necessary, to climb rugged heights.","Law. Law. That is what saves nations from the most imminent dangers.","How can one govern without taxes, without strength, without authority?","Politically, America is the same as it is physically: the land of the earthquakes."]

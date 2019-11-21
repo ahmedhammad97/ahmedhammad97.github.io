@@ -1,0 +1,1 @@
+var author769 = "Benjamin J. Davis Jr.", quotes769 = ["In fact, the drive against the Communists is aimed, above all, against the labor movement."]

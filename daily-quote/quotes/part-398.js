@@ -1,0 +1,1 @@
+var author398 = "Andrei Gromyko", quotes398 = ["[The world may end up] under a Sword of Damocles … on a tightrope over the abyss."]

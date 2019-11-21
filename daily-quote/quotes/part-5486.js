@@ -1,0 +1,1 @@
+var author5486 = "R. G. Collingwood", quotes5486 = ["The ideal and the real are not mutually exclusive. A thing may be ideal and also real."]

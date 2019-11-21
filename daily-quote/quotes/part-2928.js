@@ -1,0 +1,1 @@
+var author2928 = "Holidays", quotes2928 = ["For now I am in a holiday humour.","If all the year were playing holidays,To sport would be as tedious as to work.","Being holiday, the beggars shop is shut.","Time for work,—yet takeMuch holiday for arts and friendships sake."]

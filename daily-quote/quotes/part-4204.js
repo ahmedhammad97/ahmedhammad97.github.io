@@ -1,0 +1,1 @@
+var author4204 = "Luciano Pavarotti", quotes4204 = ["Nothing that has happened has made me feel gloomy or remain depressed. I love my life."]

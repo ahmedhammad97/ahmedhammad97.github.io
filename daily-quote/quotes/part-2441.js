@@ -1,0 +1,1 @@
+var author2441 = "Geography", quotes2441 = ["Geography is just physics slowed down, with a couple of trees stuck in it."]

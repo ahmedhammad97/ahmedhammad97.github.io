@@ -1,0 +1,1 @@
+var author3685 = "John Wesley", quotes3685 = ["Every one, though born of God in an instant, yet undoubtedly grows by slow degrees.","Lord, let me not live to be useless!","Though I am always in haste, I am never in a hurry.","The best of it all is, God is with us.","I am always in haste, but never in a hurry.","I value all things only by the price they shall gain in eternity."]

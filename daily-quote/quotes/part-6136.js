@@ -1,0 +1,1 @@
+var author6136 = "Simón Bolívar", quotes6136 = ["Damn it, how will I ever get out of this labyrinth?","All who have served the Revolution have plowed the sea.","{{Citation"]

@@ -1,0 +1,1 @@
+var author4208 = "Lucius Shepard", quotes4208 = ["“An attic’s the afterlife of a house,” said Otille, opening the door. “Or so my mother used to say.”"]

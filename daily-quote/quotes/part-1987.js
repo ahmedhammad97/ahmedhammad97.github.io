@@ -1,0 +1,1 @@
+var author1987 = "Emilio Insolera", quotes1987 = ["Italian language is not just sonore. It is also a visual one."]

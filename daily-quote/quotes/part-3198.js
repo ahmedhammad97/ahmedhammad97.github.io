@@ -1,0 +1,1 @@
+var author3198 = "Jacques Derrida", quotes3198 = ["Circumcision, that’s all I’ve ever talked about. "]

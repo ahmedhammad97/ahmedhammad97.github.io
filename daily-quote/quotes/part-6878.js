@@ -1,0 +1,1 @@
+var author6878 = "Vasyl Slipak", quotes6878 = ["Listen to anyone in the street and he’ll tell you what to do. Our people are wise."]

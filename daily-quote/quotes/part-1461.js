@@ -1,0 +1,1 @@
+var author1461 = "D. T. Suzuki", quotes1461 = ["Enlightenment is like everyday consciousness but two inches above the ground."]

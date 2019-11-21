@@ -1,0 +1,1 @@
+var author2391 = "Gabriel Marcel", quotes2391 = ["We are living in a world which seems to be founded on the refusal to reflect."]

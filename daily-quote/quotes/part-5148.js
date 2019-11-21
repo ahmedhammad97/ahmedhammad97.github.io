@@ -1,0 +1,1 @@
+var author5148 = "Paul Goodman", quotes5148 = ["Not to teach the whole curriculum is to give up on the whole man.","When the sciences are supreme, average people lose their feeling of causality.","Few great men could pass personnel."]

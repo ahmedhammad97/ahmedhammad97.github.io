@@ -1,0 +1,1 @@
+var author801 = "Beryl Bainbridge", quotes801 = ["Everything else you grow out of, but you never recover from childhood."]

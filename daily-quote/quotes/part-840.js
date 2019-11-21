@@ -1,0 +1,1 @@
+var author840 = "Billy Martin", quotes840 = ["To keep the five guys who hate you away from the other five guys who are undecided."]

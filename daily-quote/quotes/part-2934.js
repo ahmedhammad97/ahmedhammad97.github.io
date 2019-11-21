@@ -1,0 +1,1 @@
+var author2934 = "Holy Grail", quotes2934 = ["Only the worthy can find the Grail, Leigh. You told me that.","The Holy Grail! — The phantom of a cup that comes and goes?"]

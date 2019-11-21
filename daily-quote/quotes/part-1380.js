@@ -1,0 +1,1 @@
+var author1380 = "Constantin Brâncuși", quotes1380 = ["Work like a slave; command like a king; create like a god.","All my life l have sought the essence of flight. Flight — what bliss.","When we are no longer young we are already dead","Don't look for mysteries. I give you pure joy.","Like everything else I've ever done, there was a furious struggle to rise heavenward."]

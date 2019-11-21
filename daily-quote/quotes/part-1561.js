@@ -1,0 +1,1 @@
+var author1561 = "David Helvarg", quotes1561 = ["Actually, any time I get to blow bubbles pretty much lights me up."]

@@ -1,0 +1,1 @@
+var author2621 = "Government spending", quotes2621 = ["A billion here, a billion there, and pretty soon you're talking about real money.","That most delicious of all privileges—spending other people's money."]

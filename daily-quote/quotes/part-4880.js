@@ -1,0 +1,1 @@
+var author4880 = "Nicholas Rowe", quotes4880 = ["Your bounty is beyond my speaking;But though my mouth be dumb, my heart shall thank you."]

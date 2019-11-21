@@ -1,0 +1,1 @@
+var author2089 = "Eternal rest", quotes2089 = ["Rest is not quittingOf self to its sphere.","Thou hast made us for Thyself, and the heart never resteth till it findeth rest in Thee.","Go where ye will, your soul shall not sleep sound but in Christ's bosom."]

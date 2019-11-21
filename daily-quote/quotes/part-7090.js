@@ -1,0 +1,1 @@
+var author7090 = "William Clark (explorer)", quotes7090 = ["Ocian in view! O! the joy"]

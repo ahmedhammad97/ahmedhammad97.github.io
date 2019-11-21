@@ -1,0 +1,1 @@
+var author3399 = "Jesse Ventura", quotes3399 = ["If I could be reincarnated as a fabric, I would come back as a 38 double-D bra.","Develop high expectations.","They're Crips and Bloods in Brooks Brothers suits.","It's panhandling. . . That's the system we have, though. It's based on bribery.","Some felt I'm not academically qualified, and they're right."]

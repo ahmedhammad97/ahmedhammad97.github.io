@@ -1,0 +1,1 @@
+var author2021 = "Entertainment", quotes2021 = ["Turn my eyes away from gazing at worthless things, and revive me by your ways.","What man needs is silence and warmth; what he is given is an icy pandemonium."]

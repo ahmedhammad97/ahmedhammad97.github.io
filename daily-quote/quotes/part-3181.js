@@ -1,0 +1,1 @@
+var author3181 = "Jack Woodford", quotes3181 = ["Characterization is an accident that flows out of action and dialogue."]

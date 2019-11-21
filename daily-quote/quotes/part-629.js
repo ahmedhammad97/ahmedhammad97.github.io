@@ -1,0 +1,1 @@
+var author629 = "As'ad AbuKhalil", quotes629 = ["Paris Hilton gets more coverage than Congo, Darfur, Palestine, and Nahr Al-Barid combined."]

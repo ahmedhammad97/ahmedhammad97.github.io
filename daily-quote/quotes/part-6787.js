@@ -1,0 +1,1 @@
+var author6787 = "Tropic of Cancer", quotes6787 = ["I have no money, no resources, no hopes. I am the happiest man alive.","When you decide to give up the ghost, Everything else follows even in midst of wildest chaos."]

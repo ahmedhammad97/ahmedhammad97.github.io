@@ -1,0 +1,1 @@
+var author1768 = "Douglas William Jerrold", quotes1768 = ["God said, Let us make man in our image. Man said, 'Let us make God in our image."]

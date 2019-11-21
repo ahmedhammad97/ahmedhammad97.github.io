@@ -1,0 +1,1 @@
+var author2946 = "Horatius Bonar", quotes2946 = ["In the day of prosperity we have many refuges to resort to; in the day of adversity, only one."]

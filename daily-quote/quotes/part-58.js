@@ -1,0 +1,1 @@
+var author58 = "Abhay Bang", quotes58 = ["We decided to listen to our patients."]

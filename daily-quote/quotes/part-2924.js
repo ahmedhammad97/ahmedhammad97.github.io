@@ -1,0 +1,1 @@
+var author2924 = "Ho Chi Minh", quotes2924 = ["Nothing is more precious than Independence and Liberty."]

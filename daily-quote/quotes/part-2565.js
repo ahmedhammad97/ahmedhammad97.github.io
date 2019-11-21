@@ -1,0 +1,1 @@
+var author2565 = "Gilbert Parker", quotes2565 = ["That which is loved may pass, but love hath no end."]

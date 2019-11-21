@@ -1,0 +1,1 @@
+var author5209 = "Periodization", quotes5209 = ["Regard not then if Wit be old or new,But blame the false, and value still the true."]

@@ -1,0 +1,1 @@
+var author6381 = "Swarm intelligence", quotes6381 = ["Dumb parts, properly connected into a swarm, yield smart results."]

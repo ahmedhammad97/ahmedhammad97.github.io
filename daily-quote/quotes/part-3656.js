@@ -1,0 +1,1 @@
+var author3656 = "John Sparrow Thompson", quotes3656 = ["These Yankee politicians are the lowest race of thieves in existence."]

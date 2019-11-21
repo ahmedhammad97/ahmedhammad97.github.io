@@ -1,0 +1,1 @@
+var author5075 = "Pahlaj Nihalani", quotes5075 = ["Normal civilized people don’t abuse the way we see in films."]

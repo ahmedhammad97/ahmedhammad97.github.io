@@ -1,0 +1,1 @@
+var author3116 = "Isaac Newton", quotes3116 = ["I have studied these things — you have not.","Oh, Diamond! Diamond! thou little knowest what mischief thou hast done!","God created everything by number, weight and measure.","Hypotheses non fingo."]

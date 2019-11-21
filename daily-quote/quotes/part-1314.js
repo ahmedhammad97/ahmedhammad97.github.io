@@ -1,0 +1,1 @@
+var author1314 = "Code of conduct", quotes1314 = ["Respect is the foundation of a stable way of life and the basis of a code of conduct."]

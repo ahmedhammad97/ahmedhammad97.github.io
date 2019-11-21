@@ -1,0 +1,1 @@
+var author4955 = "Noël Coward", quotes4955 = ["Television is for appearing on, not looking at.","Your motivation is your pay packet on Friday. Now get on with it.","I'll see you again,Whenever spring breaks through again.","Elyot: Certain women should be struck regularly, like gongs.","Amanda: Extraordinary how potent cheap music is."]

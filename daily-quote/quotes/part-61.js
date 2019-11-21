@@ -1,0 +1,1 @@
+var author61 = "Abortion (1500-1900)", quotes61 = ["The rights of children as individuals begin while yet they remain the foetus."]

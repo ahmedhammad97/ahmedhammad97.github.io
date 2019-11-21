@@ -1,0 +1,1 @@
+var author7184 = "William Shatner", quotes7184 = ["You know who I am?! I'm William Tiberius Shatner!"]

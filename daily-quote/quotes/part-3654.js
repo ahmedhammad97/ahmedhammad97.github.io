@@ -1,0 +1,1 @@
+var author3654 = "John Singer Sargent", quotes3654 = ["Every time I paint a portrait I lose a friend."]

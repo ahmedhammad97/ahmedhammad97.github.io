@@ -1,0 +1,1 @@
+var author3507 = "John Chrysostom", quotes3507 = ["Where dance is, there is the devil."]

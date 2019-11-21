@@ -1,0 +1,1 @@
+var author1414 = "Cotton Mather", quotes1414 = ["Religion brought forth Prosperity, and the daughter destroyed the mother."]

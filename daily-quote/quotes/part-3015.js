@@ -1,0 +1,1 @@
+var author3015 = "Igor Stravinsky", quotes3015 = ["My music is best understood by children and animals.","One has a nose. The nose scents and it chooses. An artist is simply a kind of pig snouting truffles.","Music's exclusive function is to structure the flow of time and keep order in it.","Composers combine notes, that's all."]

@@ -1,0 +1,1 @@
+var author1771 = "Dr. Dre", quotes1771 = ["You are now about to witness the strength of street knowledge."]

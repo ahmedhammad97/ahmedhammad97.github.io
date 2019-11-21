@@ -1,0 +1,1 @@
+var author2127 = "Excess", quotes2127 = ["Refuse all excess, except in youthful enthusiasm."]

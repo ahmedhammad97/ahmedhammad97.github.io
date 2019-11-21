@@ -1,0 +1,1 @@
+var author5608 = "Revolt", quotes5608 = ["Revolt is the certainty of a crushing fate, without the resignation that ought to accompany it."]

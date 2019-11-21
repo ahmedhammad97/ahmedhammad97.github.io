@@ -1,0 +1,1 @@
+var author6767 = "Tradition", quotes6767 = ["A tradition without intelligence is not worth having.","You do not understand your own tradition if you do not see it in relation to others."]

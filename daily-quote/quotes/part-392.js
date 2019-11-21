@@ -1,0 +1,1 @@
+var author392 = "Anderson Cooper", quotes392 = ["I've been overseas more than you have in your whole little life."]

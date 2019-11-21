@@ -1,0 +1,1 @@
+var author1140 = "Charles Henry Webb", quotes1140 = ["Of Christian souls more have been wrecked on shoreThan ever were lost at sea."]

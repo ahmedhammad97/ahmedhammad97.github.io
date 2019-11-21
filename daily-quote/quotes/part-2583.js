@@ -1,0 +1,1 @@
+var author2583 = "Glenn Gould", quotes2583 = ["Never be clever for the sake of being cleverFor the sake of showing off."]

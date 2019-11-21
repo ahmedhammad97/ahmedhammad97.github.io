@@ -1,0 +1,1 @@
+var author2998 = "Ian Hacking", quotes2998 = ["Opinion is the companion of probability within the medieval epistemology.","Statistics began as the systematic study of quantitative facts about the state.","Probability fractions arise from our knowledge and from our ignorance."]

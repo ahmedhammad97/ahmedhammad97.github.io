@@ -1,0 +1,1 @@
+var author5574 = "Relevance", quotes5574 = ["It's much harder to be relevant than it is to be successful.","I am glad of all details, remarked my friend, whether they seem to you to be relevant or not.","I began to look at all events and all things as relevant, an opportunity to take or avoid."]

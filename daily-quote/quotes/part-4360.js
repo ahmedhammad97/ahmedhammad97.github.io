@@ -1,0 +1,1 @@
+var author4360 = "Maria Callas", quotes4360 = ["What a lovely voice, but who cares?","Don't talk to me about rules, dear. Wherever I stay I make the goddamn rules.","I would not kill my enemies, but I will make them get down on their knees. I will, I can, I must."]

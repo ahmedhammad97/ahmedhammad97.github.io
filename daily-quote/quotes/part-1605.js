@@ -1,0 +1,1 @@
+var author1605 = "Debbie Reynolds", quotes1605 = ["I miss her so much, I want to be with Carrie."]

@@ -1,0 +1,1 @@
+var author4712 = "Monique Wittig", quotes4712 = ["Lesbians are not women."]

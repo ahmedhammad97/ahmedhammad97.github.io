@@ -1,0 +1,1 @@
+var author4645 = "Mike Pence", quotes4645 = ["Honesty is the axis on which leadership spins."]

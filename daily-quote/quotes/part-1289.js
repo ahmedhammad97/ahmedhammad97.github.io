@@ -1,0 +1,1 @@
+var author1289 = "Claude Lévi-Strauss", quotes1289 = ["Natural man did not precede society, nor is he outside it."]

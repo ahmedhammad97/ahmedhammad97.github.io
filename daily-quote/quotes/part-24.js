@@ -1,0 +1,1 @@
+var author24 = "A. E. van Vogt", quotes24 = ["The right to buy weapons is the right to be free.","Give me a title and we'll start from there."]

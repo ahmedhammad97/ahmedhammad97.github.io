@@ -1,0 +1,1 @@
+var author3060 = "Injury", quotes3060 = ["An injury is much sooner forgotten than an insult.","Wit's an unruly engine, wildly strikingSometimes a friend, sometimes the engineer.","For 'tis the sport to have the engineerHoist with his own petar."]

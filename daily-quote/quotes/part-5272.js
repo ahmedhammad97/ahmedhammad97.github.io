@@ -1,0 +1,1 @@
+var author5272 = "Philip Berrigan", quotes5272 = ["The church is a major bureaucracy, and major bureaucracies are disobedient to the gospel."]

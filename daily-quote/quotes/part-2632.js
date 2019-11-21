@@ -1,0 +1,1 @@
+var author2632 = "Grant Cardone", quotes2632 = ["Success is your duty, obligation, and responsibility.","This is the energy it takes."]

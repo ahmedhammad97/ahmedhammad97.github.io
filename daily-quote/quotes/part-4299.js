@@ -1,0 +1,1 @@
+var author4299 = "Mamie Van Doren", quotes4299 = ["I’ve never acted my age and I never will. It’s just the way I’ve always been."]

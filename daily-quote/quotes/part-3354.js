@@ -1,0 +1,1 @@
+var author3354 = "Jeanne Birdsall", quotes3354 = ["Maybe it's fate that Hound ate the map. Maybe we'll discover something wonderful while we're lost."]

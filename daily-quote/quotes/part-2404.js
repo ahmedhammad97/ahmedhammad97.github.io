@@ -1,0 +1,1 @@
+var author2404 = "Garrett Hardin", quotes2404 = ["Continuity is at the heart of conservatism : ecology serves that heart."]

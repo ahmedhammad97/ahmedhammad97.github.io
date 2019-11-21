@@ -1,0 +1,1 @@
+var author7 = "1984 anti-Sikh riots", quotes7 = ["When a big tree falls, the earth shakes."]

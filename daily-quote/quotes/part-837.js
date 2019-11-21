@@ -1,0 +1,1 @@
+var author837 = "Billy Graham", quotes837 = ["Commitment to great causes makes great men."]

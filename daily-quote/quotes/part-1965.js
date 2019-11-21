@@ -1,0 +1,1 @@
+var author1965 = "Elizabeth Stuart Phelps Ward", quotes1965 = ["to fashion silence into words"]

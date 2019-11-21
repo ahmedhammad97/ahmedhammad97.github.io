@@ -1,0 +1,1 @@
+var author6054 = "Separation of powers", quotes6054 = ["One must give one power a ballast, so to speak, to put it in a position to resist another."]

@@ -1,0 +1,1 @@
+var author693 = "B-17 Flying Fortress", quotes693 = ["The mightiest ever built"]

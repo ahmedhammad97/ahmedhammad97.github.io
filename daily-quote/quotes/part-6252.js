@@ -1,0 +1,1 @@
+var author6252 = "Stella Gibbons", quotes6252 = ["The life of a journalist is poor, nasty, brutish and short. So is his style."]

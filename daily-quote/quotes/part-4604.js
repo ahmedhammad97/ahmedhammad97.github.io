@@ -1,0 +1,1 @@
+var author4604 = "Michael Nutter", quotes4604 = ["Take your patience pill ...You can be joyous, but you can't be a jackass.","[...] the only folks who kill black folks any more are black folks.","[...] black folks kill more black folks than the KKK ever did."]

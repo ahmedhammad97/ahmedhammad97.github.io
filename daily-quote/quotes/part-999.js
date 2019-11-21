@@ -1,0 +1,1 @@
+var author999 = "Byzantine Iconoclasm", quotes999 = ["God is spirit, and they that worship him must worship him in spirit and in truth."]

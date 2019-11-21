@@ -1,0 +1,1 @@
+var author2146 = "F. Lee Bailey", quotes2146 = ["I use the rules to frustrate the law. But I didn’t set up the ground rules."]

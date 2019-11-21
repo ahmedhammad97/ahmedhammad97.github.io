@@ -1,0 +1,1 @@
+var author4680 = "Misfits (band)", quotes4680 = ["All I wanted to say and all I gotta do Hey, me or you?"]

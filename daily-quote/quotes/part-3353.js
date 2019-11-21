@@ -1,0 +1,1 @@
+var author3353 = "Jeane Kirkpatrick", quotes3353 = ["Americans need to face the truth about themselves, no matter how pleasant it is."]

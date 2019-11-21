@@ -1,0 +1,1 @@
+var author6103 = "Shipwreck", quotes6103 = ["Or shipwrecked, kindles on the coastFalse fires, that others may be lost."]

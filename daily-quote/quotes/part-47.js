@@ -1,0 +1,1 @@
+var author47 = "Aaron Hill (writer)", quotes47 = ["But me no buts.","Joys, which we do not know, we do not wish."]

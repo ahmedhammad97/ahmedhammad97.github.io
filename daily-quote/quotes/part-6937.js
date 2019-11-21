@@ -1,0 +1,1 @@
+var author6937 = "Voltaire", quotes6937 = ["A false science makes atheists, a true science prostrates men before the Deity","The king [Frederic] has sent me some of his dirty linen to wash; I will wash yours another time."]

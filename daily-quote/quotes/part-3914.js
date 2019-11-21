@@ -1,0 +1,1 @@
+var author3914 = "Kevin James", quotes3914 = ["I'm not a gay man, but I will say this: I get it now. I know what all the hype is about."]

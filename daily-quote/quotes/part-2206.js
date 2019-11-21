@@ -1,0 +1,1 @@
+var author2206 = "Fighting", quotes2206 = ["You did not break me I'm still fighting for peace","One doesn't fight only when one is optimistic. One fights because it is the right thing to do.","Every struggle is like mud - there are always some lotus seeds waiting to sprout.","Aggressive fighting for the right is the noblest sport the world affords."]

@@ -1,0 +1,1 @@
+var author1783 = "Du Fu", quotes1783 = ["The nation is ruined, but mountains and rivers remain.","I'm empty, here at the edge of the sky."]

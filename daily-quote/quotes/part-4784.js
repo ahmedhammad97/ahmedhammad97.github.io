@@ -1,0 +1,1 @@
+var author4784 = "NASA", quotes4784 = ["For the benefit of all.","To improve life here. To extend life to there. To find life beyond.","Shaping the Future: Launching New Endeavors to Inspire the Next Generation of Explorers."]

@@ -1,0 +1,1 @@
+var author1145 = "Charles James Napier", quotes1145 = ["The human mind is never better disposed to gratitude and attachment than when softened by fear."]

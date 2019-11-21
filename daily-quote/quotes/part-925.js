@@ -1,0 +1,1 @@
+var author925 = "Bradley Denton", quotes925 = ["Death is meaningless unless it happens to someone you know."]

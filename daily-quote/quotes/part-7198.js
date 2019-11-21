@@ -1,0 +1,1 @@
+var author7198 = "William Winwood Reade", quotes7198 = ["Doubt is the offspring of knowledge: the savage never doubts at all.","Men prefer to believe that they are degenerated angels, rather than elevated apes."]

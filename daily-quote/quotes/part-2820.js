@@ -1,0 +1,1 @@
+var author2820 = "Henri-Frédéric Amiel", quotes2820 = ["To repel one's cross is to make it heavier."]

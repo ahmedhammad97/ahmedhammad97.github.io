@@ -1,0 +1,1 @@
+var author3424 = "Jin Shengtan", quotes3424 = ["To find accidently a handwritten letter of some old friend in a trunk. Ah, is this not happiness?","To open the window and let a wasp out of the room. Ah, is this not happiness?","To have just finished repaying all one's debts. Ah, is this not happiness?"]

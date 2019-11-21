@@ -1,0 +1,1 @@
+var author7214 = "Winnipeg", quotes7214 = ["I could, remember when we were in Winnipeg? Six hours, I couldn’t go."]

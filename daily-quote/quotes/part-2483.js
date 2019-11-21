@@ -1,0 +1,1 @@
+var author2483 = "George Horne", quotes2483 = ["Adversity borrows its sharpest sting from our impatience.","Talk often, but not long. The talent of haranguing in private company is insupportable."]

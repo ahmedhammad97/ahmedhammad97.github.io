@@ -1,0 +1,1 @@
+var author6713 = "Tina Connolly", quotes6713 = ["Anything that lives forever gets bored."]

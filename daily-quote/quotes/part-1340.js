@@ -1,0 +1,1 @@
+var author1340 = "Companies", quotes1340 = ["Good companies will meet needs; great companies will create markets.","A company is perfectly responsible in every sense.","The office of director … a man ought not to fill without qualification."]

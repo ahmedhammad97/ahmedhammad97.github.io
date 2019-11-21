@@ -1,0 +1,1 @@
+var author5834 = "Ronald Coase", quotes5834 = ["If you torture the data enough, nature will always confess."]

@@ -1,0 +1,1 @@
+var author2548 = "Gerd von Rundstedt", quotes2548 = ["The vast-ness of Russia devours us.","We should have known better after the first war. ","Make peace, you fools!","It is a pity that this faithful youth is sacrificed in a hopeless situation."]

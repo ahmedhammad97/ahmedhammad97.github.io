@@ -1,0 +1,1 @@
+var author913 = "Borscht", quotes913 = ["The men were given vodka; and all took their seat,"]

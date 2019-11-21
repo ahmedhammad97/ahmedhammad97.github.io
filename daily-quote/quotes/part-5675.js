@@ -1,0 +1,1 @@
+var author5675 = "Richard Weaver", quotes5675 = ["The complete man, then, is the “lover” added to the scientist; the rhetorician to the dialectician.","Neuter discourse is a false idol.","Poetry offers the fairest hope of restoring our lost unity of mind.","Man … feels lost without the direction-finder provide by progress."]

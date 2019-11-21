@@ -1,0 +1,1 @@
+var author1544 = "David Cronenberg", quotes1544 = ["The desire to be loved is really death when it comes to art.","I know that many artists feel that they are frauds - that's part of the pleasure of creativity.","Censors tend to do what only psychotics do: they confuse reality with illusion."]

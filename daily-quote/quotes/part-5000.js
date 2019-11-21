@@ -1,0 +1,1 @@
+var author5000 = "Omar Bradley", quotes5000 = ["We are dealing with [veterans], not procedures; with their problems, not ours."]

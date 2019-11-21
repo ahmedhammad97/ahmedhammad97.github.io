@@ -1,0 +1,1 @@
+var author1243 = "Christopher Fry", quotes1243 = ["Coffee in England is just toasted milk. "]

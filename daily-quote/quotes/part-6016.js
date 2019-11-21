@@ -1,0 +1,1 @@
+var author6016 = "Scott Joplin", quotes6016 = ["Never play ragtime fast at any time.","Panic in Wall Street, brokers feeling melancholy. ","Good times coming. Good times have come. ","Listening to the strains of genuine negro ragtime, brokers forget their cares."]

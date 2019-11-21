@@ -1,0 +1,1 @@
+var author3254 = "James Irwin", quotes3254 = ["I felt the power of God as I'd never felt it before."]

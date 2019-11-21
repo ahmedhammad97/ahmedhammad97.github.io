@@ -1,0 +1,1 @@
+var author5994 = "Sarajevo", quotes5994 = ["When you go to Sarajevo what you experience... is life."]

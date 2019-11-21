@@ -1,0 +1,1 @@
+var author6981 = "Walter Raleigh (professor)", quotes6981 = ["God's most candid critics are those of his children whom he has made poets."]

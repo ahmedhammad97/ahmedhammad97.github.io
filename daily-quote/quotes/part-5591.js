@@ -1,0 +1,1 @@
+var author5591 = "Republic", quotes5591 = ["Well, Doctor, what have we got—a Republic or a Monarchy?A Republic, if you can keep it."]

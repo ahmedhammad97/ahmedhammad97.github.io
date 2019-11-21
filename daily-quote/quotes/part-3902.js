@@ -1,0 +1,1 @@
+var author3902 = "Kenneth Burke", quotes3902 = ["When finding that people held the same views as I, I persuaded myself that I held them differently."]

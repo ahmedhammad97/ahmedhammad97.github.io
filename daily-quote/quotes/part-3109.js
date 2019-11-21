@@ -1,0 +1,1 @@
+var author3109 = "Irwin Stelzer", quotes3109 = ["I started delivering flowers for 25 cents a shot so don't tell me about the shop floor."]

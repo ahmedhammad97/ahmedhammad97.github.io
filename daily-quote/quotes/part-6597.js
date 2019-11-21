@@ -1,0 +1,1 @@
+var author6597 = "Thich Nhat Tu", quotes6597 = ["Purpose of Life: The purpose of life is to live the life joyously, mindfully, peacefully and wisely."]

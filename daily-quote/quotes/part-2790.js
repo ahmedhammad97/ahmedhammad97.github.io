@@ -1,0 +1,1 @@
+var author2790 = "Hedy Lamarr", quotes2790 = ["Any girl can be glamorous. All you have to do is stand still and look stupid.","I was the highest-priced and most important star in Hollywood, but I was difficult."]

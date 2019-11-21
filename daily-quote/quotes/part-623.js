@@ -1,0 +1,1 @@
+var author623 = "Artificial intelligence", quotes623 = ["It may be that our role on this planet is not to worship God but to create him.","A year spent in artificial intelligence is enough to make one believe in God.","My son was one of a kind. You are the first of a kind. David?"]

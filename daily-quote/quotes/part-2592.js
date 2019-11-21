@@ -1,0 +1,1 @@
+var author2592 = "Goat", quotes2592 = ["It don't take a genius to spot a goat in a flock of sheep.","The lust of the goat is the bounty of God"]

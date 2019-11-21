@@ -1,0 +1,1 @@
+var author1275 = "Clair Cameron Patterson", quotes1275 = ["I would get up and explain how things really work. That was my job."]

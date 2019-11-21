@@ -1,0 +1,1 @@
+var author4140 = "Lionel Trilling", quotes4140 = ["It is now life and not art that requires the willing suspension of disbelief. ","We have all in some degree become anarchistic.","We are all ill; but even a universal sickness implies an idea of health."]

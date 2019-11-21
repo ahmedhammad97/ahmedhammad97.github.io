@@ -1,0 +1,1 @@
+var author4005 = "Larry David", quotes4005 = ["If every student was like me in college, we'd still be in Vietnam.","Pretty...pretty...pretty......pretty.....pretty good. (Curb Your Enthusiasm, passim)"]

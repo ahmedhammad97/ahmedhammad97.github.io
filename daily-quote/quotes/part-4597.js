@@ -1,0 +1,1 @@
+var author4597 = "Michael Kinsley", quotes4597 = ["A gaffe is when a politician tells the truth - some obvious truth he isn't supposed to say.","I have a saying: the scandal isn't what's illegal, the scandal is what's legal.","Ambition can never be naked in a political campaign, it must be clothed in deceit."]

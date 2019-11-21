@@ -1,0 +1,1 @@
+var author6954 = "W. Mark Felt", quotes6954 = ["Follow the money.","I'm the guy they used to call Deep Throat.","I guess people used to think Deep Throat was a criminal, but now they think he's a hero."]

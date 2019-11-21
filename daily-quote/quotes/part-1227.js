@@ -1,0 +1,1 @@
+var author1227 = "Christiaan Barnard", quotes1227 = ["This mountain, I thought, was like education: The higher you climbed, the farther you could see.","Suffering isn't ennobling, recovery is."]

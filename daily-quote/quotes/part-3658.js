@@ -1,0 +1,1 @@
+var author3658 = "John Stockwell", quotes3658 = ["A strongly antiagency ambassador can make problems for the CIA chief of station."]

@@ -1,0 +1,1 @@
+var author3402 = "Jessica Simpson", quotes3402 = ["A little bit is not that much to ask to make things right."]

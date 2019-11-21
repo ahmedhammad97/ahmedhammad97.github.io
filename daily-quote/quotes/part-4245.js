@@ -1,0 +1,1 @@
+var author4245 = "László Moholy-Nagy", quotes4245 = ["The experience of space is not a privilege of the gifted few, but a biological function.","Designing is not a profession but an attitude."]

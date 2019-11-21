@@ -1,0 +1,1 @@
+var author1952 = "Elijah Wood", quotes1952 = ["In the absence of love, there is nothing worth fighting for."]

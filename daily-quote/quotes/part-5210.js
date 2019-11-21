@@ -1,0 +1,1 @@
+var author5210 = "Periyar E. V. Ramasamy", quotes5210 = ["Money lending is a horrible profession. If we are to call it otherwise it is lawful plundering.","It is absurd to quote religion or God or religious doctrines to render the people as lowest castes."]

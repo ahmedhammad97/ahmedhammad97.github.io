@@ -1,0 +1,1 @@
+var author6671 = "Thomas Young (scientist)", quotes6671 = ["When I was a boy, I thought myself a man. Now that I am a man, I find myself a boy."]

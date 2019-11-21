@@ -1,0 +1,1 @@
+var author5825 = "Romain Gary", quotes5825 = ["When a war is won, it's the losers, not the winners, who are liberated.","There is more to Jewish history than Auschwitz.","During the war he was an airman and slaughtered civilians from on high."]

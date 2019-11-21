@@ -1,0 +1,1 @@
+var author4750 = "Mouths", quotes4750 = ["Lips are no part of the head, only made for a double-leaf door for the mouth.","Set a watch, O L, before my mouth; keep the door of my lips.","Divers philosophers hold that the lips is parcel of the mouth.","As a pomegranate, cut in twain,White-seeded is her crimson mouth."]

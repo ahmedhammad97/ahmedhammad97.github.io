@@ -1,0 +1,1 @@
+var author6375 = "Svetlana Alexievich", quotes6375 = ["What can art accomplish? The purpose of art is to accumulate the human within the human being.","Is there anything more frightening than people?"]

@@ -1,0 +1,1 @@
+var author5331 = "Pietro Aretino", quotes5331 = ["Yes, let us love winter, for it is the spring of genius."]

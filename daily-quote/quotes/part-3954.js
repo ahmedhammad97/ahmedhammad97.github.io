@@ -1,0 +1,1 @@
+var author3954 = "Konrad Adenauer", quotes3954 = ["I wish that an English statesman might once have spoken of us as Western Europeans. ","I reserve the right to be smarter today than I was yesterday.","One does not throw out dirty water as long as one doesn't have any clean water.","What do I care about my chitchat from yesterday?"]

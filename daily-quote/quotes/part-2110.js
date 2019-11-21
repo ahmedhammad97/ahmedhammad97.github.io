@@ -1,0 +1,1 @@
+var author2110 = "Euler's identity", quotes2110 = ["-1 e^iπ, proves that Euler was a sly guy."]

@@ -1,0 +1,1 @@
+var author1269 = "Circus", quotes1269 = ["If we wanted applause, we would have joined the circus."]

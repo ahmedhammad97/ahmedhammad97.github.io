@@ -1,0 +1,1 @@
+var author5876 = "Ruhollah Khomeini", quotes5876 = ["In the Islamic Republic the rights of the religious minorities are respectfully regarded.","In the Islamic government all people have complete freedom to have any kind of opinion."]

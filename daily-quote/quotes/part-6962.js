@@ -1,0 +1,1 @@
+var author6962 = "Walker Evans", quotes6962 = ["It is the way to educate your eyes, and more. Stare, pry, listen, eavesdrop."]

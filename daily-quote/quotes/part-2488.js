@@ -1,0 +1,1 @@
+var author2488 = "George Jessel (jurist)", quotes2488 = ["Professional advice in England is confined to legal advice."]

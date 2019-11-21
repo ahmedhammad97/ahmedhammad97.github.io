@@ -1,0 +1,1 @@
+var author5418 = "Principles of management", quotes5418 = ["The regulative principles of management along scientific lines include four important elements: "]

@@ -1,0 +1,1 @@
+var author4793 = "Nancy Reagan", quotes4793 = ["I must say that acting was good training for the political life that lay ahead of us.","I don't intend for this to take on a political tone. I'm just here for the drugs."]

@@ -1,0 +1,1 @@
+var author5299 = "Philo Farnsworth", quotes5299 = ["This has made it all worthwhile. (The live televised first step by Neil Armstrong on the moon.)","The damned thing works! (telegram, on the first successful television broadcast)"]

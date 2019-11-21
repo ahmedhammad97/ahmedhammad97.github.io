@@ -1,0 +1,1 @@
+var author6758 = "Tornado", quotes6758 = ["When you told me you used to chase tornados I always thought it was a metaphor!"]

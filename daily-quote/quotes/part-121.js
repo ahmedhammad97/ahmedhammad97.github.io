@@ -1,0 +1,1 @@
+var author121 = "Adrienne Rich", quotes121 = ["A thinking woman sleeps with monsters.","No woman is really an insider in the institutions fathered by masculine consciousness."]

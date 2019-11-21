@@ -1,0 +1,1 @@
+var author1926 = "Egotism", quotes1926 = ["Egoist: a person of low taste, more interested in himself than me.","It is never permissible to say, I say."]

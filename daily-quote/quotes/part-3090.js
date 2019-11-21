@@ -1,0 +1,1 @@
+var author3090 = "Iraq", quotes3090 = ["We came to power on a CIA train.","We have not witnessed the reduction in violence one would have hoped for in a perfect world.","As we act, let us not become the evil we deplore.","Al-Qaeda is still the biggest threat for Iraq and the region.","I do not want to criticize while my soldiers are still bleeding and dying in Iraq."]

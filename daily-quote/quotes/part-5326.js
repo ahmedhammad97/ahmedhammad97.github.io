@@ -1,0 +1,1 @@
+var author5326 = "Pierre-Joseph Proudhon", quotes5326 = ["All parties without exception, when they seek for power, are varieties of absolutism.","Property is impossible.","The elements of justice are identical with those of algebra.","As man seeks justice in equality, so society seeks order in anarchy."]

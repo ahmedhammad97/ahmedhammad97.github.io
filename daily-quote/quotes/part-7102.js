@@ -1,0 +1,1 @@
+var author7102 = "William Ellery Channing", quotes7102 = ["All noble enthusiasms pass through a feverish stage, and grow wiser and more serene."]

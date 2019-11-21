@@ -1,0 +1,1 @@
+var author5913 = "Sacha Baron Cohen", quotes5913 = ["Thank you to every American who has not sued me so far."]

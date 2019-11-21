@@ -1,0 +1,1 @@
+var author2320 = "Fred Hoyle", quotes2320 = ["There is a coherent plan to the universe, though I don't know what it's a plan for."]

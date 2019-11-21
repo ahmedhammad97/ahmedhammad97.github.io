@@ -1,0 +1,1 @@
+var author3679 = "John W. Gardner", quotes3679 = ["Life is the art of drawing without an eraser.","History never looks like history when you are living through it."]

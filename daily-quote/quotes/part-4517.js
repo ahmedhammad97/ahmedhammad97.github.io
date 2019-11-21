@@ -1,0 +1,1 @@
+var author4517 = "Mazovia", quotes4517 = ["Just from the capital of Masovia."]

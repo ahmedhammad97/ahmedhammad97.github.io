@@ -1,0 +1,1 @@
+var author4106 = "Lewis Padgett", quotes4106 = ["We are dealing with madness. … All children are mad, from an adult viewpoint.","One can no more think like a baby than one can think like a bee."]

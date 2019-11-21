@@ -1,0 +1,1 @@
+var author6635 = "Thomas Kuhn", quotes6635 = ["Only when they must choose between competing theories do scientists behave like philosophers.","By now it may be clear that the position I'm developing is a sort of post-Darwinian Kantianism."]

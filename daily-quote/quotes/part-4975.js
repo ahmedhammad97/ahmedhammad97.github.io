@@ -1,0 +1,1 @@
+var author4975 = "Occultism", quotes4975 = ["Occultism is the metaphysics of dunces."]

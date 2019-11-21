@@ -1,0 +1,1 @@
+var author2535 = "Georges Guynemer", quotes2535 = ["For remember that until one has given all, one has given nothing."]

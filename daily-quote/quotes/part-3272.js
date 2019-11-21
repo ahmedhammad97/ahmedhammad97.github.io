@@ -1,0 +1,1 @@
+var author3272 = "James Northcote", quotes3272 = ["Fashion is gentility running away from vulgarity, and afraid of being overtaken by it."]

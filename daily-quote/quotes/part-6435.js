@@ -1,0 +1,1 @@
+var author6435 = "Taslima Nasrin", quotes6435 = ["I was born in a Muslim family and Muslim women suffer under Islam."]

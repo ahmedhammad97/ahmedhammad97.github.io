@@ -1,0 +1,1 @@
+var author6833 = "Universal priesthood", quotes6833 = ["You will be for me a kingdom of priests and a holy nation."]

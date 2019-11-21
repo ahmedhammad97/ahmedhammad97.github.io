@@ -1,0 +1,1 @@
+var author4284 = "Maid", quotes4284 = ["Prudence is a rich ugly old maid courted by Incapacity.","Maid of Athens, ere we part, Give, oh give me back my heart!","If you can kiss the mistress, never kiss the maid."]

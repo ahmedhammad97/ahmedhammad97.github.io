@@ -1,0 +1,1 @@
+var author5369 = "Pompey", quotes5369 = ["Stop quoting laws, we carry weapons!","More people worship the rising than the setting sun.","To navigate is necessary, to live is not."]

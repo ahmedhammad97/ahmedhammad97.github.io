@@ -1,0 +1,1 @@
+var author779 = "Benzene", quotes779 = ["I would trade all my experimental works for the single idea of the benzene theory."]

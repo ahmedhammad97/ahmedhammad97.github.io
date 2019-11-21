@@ -1,0 +1,1 @@
+var author4030 = "Laurette Taylor", quotes4030 = ["Personality is more important than beauty, but imagination is more important than both of them.","Instinct is the direct connection with truth."]

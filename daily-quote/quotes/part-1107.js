@@ -1,0 +1,1 @@
+var author1107 = "Cesare Borgia", quotes1107 = ["Your brother, Cesar de Borgia, Elect of Valencia","[I] had not forgotten the way to reconquer it [Urbino].","The constellations this year seem unfavourable to rebels.","Without any sign of alteration.","Ah! Falso ribaldo!"]

@@ -1,0 +1,1 @@
+var author4668 = "Minnie Evans", quotes4668 = ["God has sent me pictures of the angel that stands by me and directs me what to do.","I have no imagination. I never plan a drawing, they just happen."]

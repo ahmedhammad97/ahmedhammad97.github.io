@@ -1,0 +1,1 @@
+var author785 = "Bernard Berenson", quotes785 = ["Consistency requires you to be as ignorant today as you were a year ago.","Taste begins when appetite is satisfied."]

@@ -1,0 +1,1 @@
+var author1889 = "Edward Lucie-Smith", quotes1889 = ["A poet of my kindSkates on the thinnest ice."]

@@ -1,0 +1,1 @@
+var author6715 = "Tip O'Neill", quotes6715 = ["All politics is local."]

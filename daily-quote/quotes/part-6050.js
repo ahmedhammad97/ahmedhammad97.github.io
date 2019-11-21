@@ -1,0 +1,1 @@
+var author6050 = "Sennacherib", quotes6050 = ["(Hezekiah) himself, like a caged bird, I shut up in Jerusalem, his royal city."]

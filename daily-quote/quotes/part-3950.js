@@ -1,0 +1,1 @@
+var author3950 = "Ko Un", quotes3950 = ["That flowerI couldn't see it"]

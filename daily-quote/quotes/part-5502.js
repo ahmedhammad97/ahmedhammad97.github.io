@@ -1,0 +1,1 @@
+var author5502 = "Rafael Benítez", quotes5502 = ["We were good friends until Liverpool started winning, then he [Mourinho] started changing his mind."]

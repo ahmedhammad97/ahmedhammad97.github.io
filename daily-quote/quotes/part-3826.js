@@ -1,0 +1,1 @@
+var author3826 = "Juvenal", quotes3826 = ["What's Rome to me, what business have I there?","The question is not put how far extends"]

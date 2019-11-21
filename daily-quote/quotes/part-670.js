@@ -1,0 +1,1 @@
+var author670 = "Aung San Suu Kyi", quotes670 = ["The good ruler sublimates his needs as an individual to the service of the nation.","Where there is no justice there can be no secure peace.","I thank you"]

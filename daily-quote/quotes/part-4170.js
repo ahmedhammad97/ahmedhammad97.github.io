@@ -1,0 +1,1 @@
+var author4170 = "Lorenz Hart", quotes4170 = ["Blue Moon,Without a love of my own."]

@@ -1,0 +1,1 @@
+var author1133 = "Charles Evans Hughes", quotes1133 = ["A man has to live with himself, and he should see to it that he always has good company.","When we lose the right to be different, we lose the privilege to be free.","[Dissents are] appeals to the brooding spirit of the law, to the intelligence of another day."]

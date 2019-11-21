@@ -1,0 +1,1 @@
+var author1202 = "Chickenshit outfits", quotes1202 = ["I can't wait to get out of this chickenshit outfit.","Mr. Grey: Some Girl Scout chickenshit outfit I'm in here."]

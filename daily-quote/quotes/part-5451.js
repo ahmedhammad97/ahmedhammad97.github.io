@@ -1,0 +1,1 @@
+var author5451 = "Publicity", quotes5451 = ["There's no bad publicity except an obituary.","The price of justice is eternal publicity.","Without publicity there can be no public spirit, and without public spirit every nation must decay.","There's no such thing as bad publicity."]

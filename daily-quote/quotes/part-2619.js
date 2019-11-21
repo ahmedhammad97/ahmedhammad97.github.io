@@ -1,0 +1,1 @@
+var author2619 = "Government by the people", quotes2619 = ["Here, sir, the people govern; here they act by their immediate representatives.","The only legitimate right to govern is an express grant of power from the governed.","The people who own the country ought to govern it."]

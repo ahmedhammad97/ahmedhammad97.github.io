@@ -1,0 +1,1 @@
+var author759 = "Ben Stein", quotes759 = ["God bless the devout Christians of this country. They are Israel's best friends on the earth."]

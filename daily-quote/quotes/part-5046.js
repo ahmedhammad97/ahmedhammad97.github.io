@@ -1,0 +1,1 @@
+var author5046 = "Osip Mandelstam", quotes5046 = ["We live, but we do not feel the land beneath us, Ten steps away and our words cannot be heard."]

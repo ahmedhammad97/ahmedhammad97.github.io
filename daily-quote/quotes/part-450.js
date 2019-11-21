@@ -1,0 +1,1 @@
+var author450 = "Ann Leckie", quotes450 = ["I don’t confuse abstract philosophical concepts with reality.","Her respectful tone sounded almost sincere.","What, after all, was the point of civilization if not the well-being of citizens?","We have a saying where I come from: Power requires neither permission nor forgiveness."]

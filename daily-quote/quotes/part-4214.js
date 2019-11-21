@@ -1,0 +1,1 @@
+var author4214 = "Ludwig Boltzmann", quotes4214 = ["In my view all salvation for philosophy may be expected to come from Darwin's theory"]

@@ -1,0 +1,1 @@
+var author761 = "Benazir Bhutto", quotes761 = ["Democracy is the best revenge.","I know death comes. I’ve seen too much death, young death."]

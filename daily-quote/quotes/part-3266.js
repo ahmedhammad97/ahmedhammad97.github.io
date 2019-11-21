@@ -1,0 +1,1 @@
+var author3266 = "James Martin (author)", quotes3266 = ["A new type of professional is emerging – the enterprise engineer"]

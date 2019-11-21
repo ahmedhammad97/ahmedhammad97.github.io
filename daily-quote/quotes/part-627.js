@@ -1,0 +1,1 @@
+var author627 = "Arundhati Roy", quotes627 = ["Humbling was a nice word, Rahel thought. Humbling along without a care in the world.","Thirty-one.But a viable die-able age.","There is only one dream worth having...to live while you are alive, and die only when you are dead.","Literature is the opposite of a nuclear bomb."]

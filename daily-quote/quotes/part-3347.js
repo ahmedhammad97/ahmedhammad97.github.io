@@ -1,0 +1,1 @@
+var author3347 = "Jean-Claude Juncker", quotes3347 = ["We all know what to do, we just don’t know how to get re-elected after we’ve done it.","I don't think Spain will need any kind of external support.","Borders are the worst invention ever made by politicians."]

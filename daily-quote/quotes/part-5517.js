@@ -1,0 +1,1 @@
+var author5517 = "Ralph Ellison", quotes5517 = ["The truth is the light and light is the truth.","Had the price of looking been blindness, I would have looked.","Who knows but that, on the lower frequencies, I speak for you?","When I discover who I am, I'll be free."]

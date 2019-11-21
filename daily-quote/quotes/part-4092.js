@@ -1,0 +1,1 @@
+var author4092 = "Leopold II of Belgium", quotes4092 = ["I do not want to miss a good chance of getting us a slice of this magnificent African cake."]

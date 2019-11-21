@@ -1,0 +1,1 @@
+var author7152 = "William Mason (poet)", quotes7152 = ["The fattest hog in Epicurus' sty."]

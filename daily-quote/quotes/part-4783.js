@@ -1,0 +1,1 @@
+var author4783 = "N.T. Wright", quotes4783 = ["[Arguments about God are] like pointing a flashlight toward the sky to see if the sun is shining."]

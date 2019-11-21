@@ -1,0 +1,1 @@
+var author5228 = "Peter Benenson", quotes5228 = ["Pressure of opinion a hundred years ago brought about the emancipation of the slaves'. "]

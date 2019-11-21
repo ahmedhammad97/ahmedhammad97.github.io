@@ -1,0 +1,1 @@
+var author4193 = "Louise Burfitt-Dons", quotes4193 = ["If you want to be in with a gang then you have to go along with hiding people's things.","The style of kindness has changed.","Global warming causing climate change may be the ultimate issue that unites us all. ","Tribalism has become trendy.","There is equality in the office but not on the street"]

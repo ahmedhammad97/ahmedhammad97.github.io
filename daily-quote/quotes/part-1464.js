@@ -1,0 +1,1 @@
+var author1464 = "Dada Vaswani", quotes1464 = ["I don't believe so much in religion as I do in spirituality. "]

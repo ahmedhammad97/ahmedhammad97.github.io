@@ -1,0 +1,1 @@
+var author6322 = "Strife", quotes6322 = ["Where good and ill together blent,Wage an undying strife.","Better is a dry morsel, and quietness therewith, Than a house full of feasting with strife.","Strife and love. Are they the workings of one mind? The features of the same face?","There is no advance without strife."]

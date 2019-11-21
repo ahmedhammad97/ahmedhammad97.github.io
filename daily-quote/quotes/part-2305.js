@@ -1,0 +1,1 @@
+var author2305 = "Franz Werfel", quotes2305 = ["Magnify the divine mystery and the holiness of mankind.","Happiness is … the grace of being permitted to unfold … all the spiritual powers planted within us."]

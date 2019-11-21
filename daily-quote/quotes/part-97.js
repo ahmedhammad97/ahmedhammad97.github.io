@@ -1,0 +1,1 @@
+var author97 = "Adam Sandler", quotes97 = ["Fucking shit!"]

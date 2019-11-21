@@ -1,0 +1,1 @@
+var author669 = "Augustus De Morgan", quotes669 = ["The moving power of mathematical invention is not reasoning, but imagination.","I did not hear what you said, but I absolutely disagree with you.","The lowest steps of the ladder are as useful as the highest.","A large quantity of examples is indispensable."]

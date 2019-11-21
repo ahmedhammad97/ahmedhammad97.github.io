@@ -1,0 +1,1 @@
+var author6006 = "Saul Leiter", quotes6006 = ["I don’t plan things. As a rule I prefer to see what happens."]

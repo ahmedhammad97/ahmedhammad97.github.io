@@ -1,0 +1,1 @@
+var author2392 = "Gabriel Rockhill", quotes2392 = ["The precarization of academic labor contributes to the demolition of radical leftism. "]

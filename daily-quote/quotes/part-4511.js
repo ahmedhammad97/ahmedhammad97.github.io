@@ -1,0 +1,1 @@
+var author4511 = "Max Wertheimer", quotes4511 = ["I stand at the window and see a house, trees, sky.","Often, in great discovery the most important thing is that a certain question is found.","I am not sure whether there can be a way of re ally understanding the miracle of thinking."]

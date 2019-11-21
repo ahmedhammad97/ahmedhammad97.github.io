@@ -1,0 +1,1 @@
+var author5786 = "Robert Schumann", quotes5786 = ["To send light into the depths of the human heart -- this is the artist's calling!","The talent works, the genius creates.","In order to compose, all you need to do is remember a tune that nobody else has thought of."]

@@ -1,0 +1,1 @@
+var author7222 = "Witi Ihimaera", quotes7222 = ["Alas, being a New Zealander is such an exquisite dilemma.","We bow only to the highest mountain."]

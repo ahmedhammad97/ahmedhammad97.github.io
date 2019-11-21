@@ -1,0 +1,1 @@
+var author3987 = "Lajos Kossuth", quotes3987 = ["History is the revelation of providence."]

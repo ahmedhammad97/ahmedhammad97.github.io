@@ -1,0 +1,1 @@
+var author4253 = "Ma Anliang", quotes4253 = ["Disown me as a Muslim if I deceive you."]

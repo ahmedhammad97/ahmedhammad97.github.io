@@ -1,0 +1,1 @@
+var author1348 = "Complexity", quotes1348 = ["The art of simplicity is a puzzle of complexity.","Religion leaves no room for human complexity."]

@@ -1,0 +1,1 @@
+var author2859 = "Henry St John, 1st Viscount Bolingbroke", quotes2859 = ["Truth lies within a little and certain compass, but error is immense.","Nations, like men, have their infancy.","They (Thucydides and Xenophon) maintained the dignity of history."]

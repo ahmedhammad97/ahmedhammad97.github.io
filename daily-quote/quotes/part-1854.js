@@ -1,0 +1,1 @@
+var author1854 = "Edmund Clerihew Bentley", quotes1854 = ["Is it a cosmic law, d'you think, that conceited men's hats are always too small?","[S]he had a singular spaciousness of mind in which nothing little or mean could live."]

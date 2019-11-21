@@ -1,0 +1,1 @@
+var author1144 = "Charles James Fox", quotes1144 = ["Kings govern by means of popular assemblies only when they cannot do without them.","The worst of revolutions is a restoration."]

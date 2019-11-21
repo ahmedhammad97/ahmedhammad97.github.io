@@ -1,0 +1,1 @@
+var author6487 = "The American Democrat", quotes6487 = ["The principal advantage of a democracy, is a general elevation in the character of the people."]

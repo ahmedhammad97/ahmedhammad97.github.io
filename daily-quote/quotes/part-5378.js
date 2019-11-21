@@ -1,0 +1,1 @@
+var author5378 = "Pope Pius XII", quotes5378 = ["All men are brothered in Jesus Christ."]

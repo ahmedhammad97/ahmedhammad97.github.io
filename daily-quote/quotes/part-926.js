@@ -1,0 +1,1 @@
+var author926 = "Brahman", quotes926 = ["Great indeed are the devas who have sprung out of Brahman."]

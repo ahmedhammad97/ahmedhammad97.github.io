@@ -1,0 +1,1 @@
+var author1329 = "Colleen McCullough", quotes1329 = ["I hate being on my best behavior. It brings out the absolute worst in me.","The lovely thing about being forty is that you can appreciate twenty-five-year-old men more."]

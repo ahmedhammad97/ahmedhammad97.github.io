@@ -1,0 +1,1 @@
+var author205 = "Alan Turing", quotes205 = ["Machines take me by surprise with great frequency."]

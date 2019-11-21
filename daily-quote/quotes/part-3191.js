@@ -1,0 +1,1 @@
+var author3191 = "Jacob Jacoby", quotes3191 = ["Chaos in Research-land: the sorry status of brand loyalty measurement. ","Before one could speak of brand loyal, one must have the opportunity of being disloyal."]

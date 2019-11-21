@@ -1,0 +1,1 @@
+var author2771 = "Hartley Shawcross, Baron Shawcross", quotes2771 = ["We are the masters at the moment and shall be for some considerable time.","Let us not foist this humbug on the world.","I feel that I've had a happy life, not a very useful life, but a happy one."]

@@ -1,0 +1,1 @@
+var author3035 = "Increase Mather", quotes3035 = ["Drink is in itself a good creature of God, but the abuse of drink is from Satan."]

@@ -1,0 +1,1 @@
+var author2 = "Polish death camp controversy", quotes2 = ["Poles outraged by Obama’s reference to ‘Polish death camp’."]

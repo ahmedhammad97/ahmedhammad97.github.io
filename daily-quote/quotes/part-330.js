@@ -1,0 +1,1 @@
+var author330 = "Alice Munro", quotes330 = ["You cannot let your parents anywhere near your real humiliations."]

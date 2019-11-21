@@ -1,0 +1,1 @@
+var author6157 = "Skye Sweetnam", quotes6157 = ["I like being very loud and noisy, as the title of my album says. ","Was Ashlee Simpson nice to me? Yes. She said hi very clearly in a nice voice!"]

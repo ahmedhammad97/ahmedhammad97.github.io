@@ -1,0 +1,1 @@
+var author6812 = "Ulric Neisser", quotes6812 = ["Cognitive processes surely exist, so it can hardly be unscientific to study them. "]

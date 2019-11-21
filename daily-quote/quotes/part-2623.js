@@ -1,0 +1,1 @@
+var author2623 = "Grace (prayer)", quotes2623 = ["Ecumenical. God is great, God is good. Let us thank Him for our food. Amen."]

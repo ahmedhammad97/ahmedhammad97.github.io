@@ -1,0 +1,1 @@
+var author922 = "Boyle Roche", quotes922 = ["...it is impossible I could have been in two places at once, unless I were a bird.","The best way to avoid danger is to meet it plump.","[...I] answer boldly in the affirmative with an emphatic No!"]

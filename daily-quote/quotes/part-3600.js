@@ -1,0 +1,1 @@
+var author3600 = "John M. Mason", quotes3600 = ["They that deny themselves for Christ shall enjoy themselves in Christ."]

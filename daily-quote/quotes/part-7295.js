@@ -1,0 +1,1 @@
+var author7295 = "Yuri Gagarin", quotes7295 = ["I am a friend, comrades, a friend!","If all those people are getting wet to welcome me, surely the least I can do is get wet too!"]

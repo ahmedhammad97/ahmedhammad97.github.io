@@ -1,0 +1,1 @@
+var author412 = "Andrew Sullivan", quotes412 = ["If religion is about truth, why is it so afraid of error?"]

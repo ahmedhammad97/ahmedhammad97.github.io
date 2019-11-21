@@ -1,0 +1,1 @@
+var author1737 = "Donald Norman", quotes1737 = ["People Propose, Science Studies, Technology Conforms.","Academics get paid for being clever, not for being right."]

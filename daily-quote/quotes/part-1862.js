@@ -1,0 +1,1 @@
+var author1862 = "Edna O'Brien", quotes1862 = ["The vote, I thought, means nothing to women, we should be armed.","Writers really live in the mind and in hotels of the soul."]

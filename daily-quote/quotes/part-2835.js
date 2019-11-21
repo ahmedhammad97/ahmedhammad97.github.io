@@ -1,0 +1,1 @@
+var author2835 = "Henry Ford", quotes2835 = ["Thinking is the hardest work there is, which is probably the reason why so few engage in it.","What we need is some financial engineers.","Any customer can have a car painted any color that he wants so long as it is black."]

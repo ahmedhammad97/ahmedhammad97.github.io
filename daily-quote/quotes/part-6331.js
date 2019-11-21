@@ -1,0 +1,1 @@
+var author6331 = "Su Shi", quotes6331 = ["Life is like a spring dream which vanishes without a trace."]

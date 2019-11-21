@@ -1,0 +1,1 @@
+var author5493 = "Rabbits", quotes5493 = ["If carrots got you drunk, rabbits would be fucked up."]

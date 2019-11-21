@@ -1,0 +1,1 @@
+var author4111 = "Leymah Gbowee", quotes4111 = ["Women are the ones that bear the greatest burden. We are also the ones who nurture societies.","If any changes were to be made in society it had to be by the mothers."]

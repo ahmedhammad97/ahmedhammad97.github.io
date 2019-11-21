@@ -1,0 +1,1 @@
+var author4113 = "Li Yundi", quotes4113 = ["My fans really love me, so they want to understand classical music and I want to help them.","My emotions are expressed through the piano.","It’s easier to speak through the keys than through words.","I’m very happy that so many children are learning the piano because of me."]

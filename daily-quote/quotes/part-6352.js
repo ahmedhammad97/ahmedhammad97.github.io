@@ -1,0 +1,1 @@
+var author6352 = "Superficiality", quotes6352 = ["I was no longer superficial—I had stopped thinking.","Among the superficial, if you are not one of them, one of them has to lead you by the hand."]

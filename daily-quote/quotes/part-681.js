@@ -1,0 +1,1 @@
+var author681 = "Averroes", quotes681 = ["Knowledge is the conformity of the object and the intellect."]

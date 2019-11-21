@@ -1,0 +1,1 @@
+var author849 = "Birthday", quotes849 = ["Is that a birthday? 'tis, alas! too clear;'Tis but the funeral of the former year."]

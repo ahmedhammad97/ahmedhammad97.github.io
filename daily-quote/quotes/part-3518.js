@@ -1,0 +1,1 @@
+var author3518 = "John Cowper Powys", quotes3518 = ["Ambition is the grand enemy of all peace."]

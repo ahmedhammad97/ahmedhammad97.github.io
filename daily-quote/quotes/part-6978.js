@@ -1,0 +1,1 @@
+var author6978 = "Walter Model", quotes6978 = ["He who leads troops has no right to think about himself.","Mein Führer, who commands The Ninth Army, you or I?"]

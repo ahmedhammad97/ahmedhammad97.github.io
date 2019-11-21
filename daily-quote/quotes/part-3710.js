@@ -1,0 +1,1 @@
+var author3710 = "Jonathan Franzen", quotes3710 = ["An ink bottle, which now seems impossibly quaint, was still thinkable as a symbol in 1970.","Today's Baudelaires are hip-hop artists."]

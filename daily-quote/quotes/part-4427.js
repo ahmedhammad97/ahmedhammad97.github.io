@@ -1,0 +1,1 @@
+var author4427 = "Martin Dempsey", quotes4427 = ["Israel went to extraordinary lengths to limit collateral damage and civilian casualties."]

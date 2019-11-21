@@ -1,0 +1,1 @@
+var author2612 = "Gospel of Luke", quotes2612 = ["He that is not with me is against me: and he that gathereth not with me scattereth.","Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.","Verily I say unto thee, Today shalt thou be with me in paradise."]

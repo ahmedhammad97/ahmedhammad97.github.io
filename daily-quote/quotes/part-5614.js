@@ -1,0 +1,1 @@
+var author5614 = "Rhine", quotes5614 = ["The Rhine! the Rhine! a blessing on the Rhine!","Beneath me flows the Rhine, and, like the stream of Time, it flows amid the ruins of the Past."]

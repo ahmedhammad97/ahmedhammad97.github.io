@@ -1,0 +1,1 @@
+var author7292 = "Yukio Mishima", quotes7292 = ["I want to make a poem of my life.","As he saw it, there was only one choice — to be strong and upright, or to commit suicide.","Is there not a sort of remorse that precedes sin? Was it remorse at the very fact that I existed?","I had no taste for defeat — much less victory — without a fight."]

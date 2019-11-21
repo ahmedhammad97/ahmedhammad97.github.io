@@ -1,0 +1,1 @@
+var author1739 = "Donald Schön", quotes1739 = ["Old questions are not answered—they only go out of fashion."]

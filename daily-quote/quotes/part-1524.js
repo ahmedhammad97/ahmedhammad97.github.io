@@ -1,0 +1,1 @@
+var author1524 = "Darts", quotes1524 = ["We couldn't have more excitement if Elvis walked in and asked for a chip sandwich. "]

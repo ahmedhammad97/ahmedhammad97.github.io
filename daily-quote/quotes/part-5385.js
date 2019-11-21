@@ -1,0 +1,1 @@
+var author5385 = "Portia de Rossi", quotes5385 = ["I’m vegan. It’s really changed, like, my eyes, my, you know, everything."]

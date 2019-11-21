@@ -1,0 +1,1 @@
+var author7160 = "William Murray, 1st Earl of Mansfield", quotes7160 = ["An estimated value is a precarious measure of justice, compared with the specific thing.","Anciently, the Courts of justice did sit on Sundays.","A man wants no protection when his conduct is strictly right."]

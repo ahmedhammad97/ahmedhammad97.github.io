@@ -1,0 +1,1 @@
+var author1743 = "Dong Fuxiang", quotes1743 = ["Where have they gone?","I shall send people to urge them to return home."]

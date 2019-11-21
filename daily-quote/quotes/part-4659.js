@@ -1,0 +1,1 @@
+var author4659 = "Milkha Singh", quotes4659 = ["You can achieve anything in life. It just depends on how desperate you are to achieve it."]

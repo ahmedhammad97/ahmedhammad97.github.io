@@ -1,0 +1,1 @@
+var author3576 = "John Horgan (journalist)", quotes3576 = ["One of the things that makes Gell-Mann so insufferable is that he is almost always right."]

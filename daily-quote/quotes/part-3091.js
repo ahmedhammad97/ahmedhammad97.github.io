@@ -1,0 +1,1 @@
+var author3091 = "Iraq War", quotes3091 = ["They're not going to like this downtown.","Cronyism and corruption are major factors in Iraq's downward spiral."]

@@ -1,0 +1,1 @@
+var author3602 = "John Marshall Harlan II", quotes3602 = ["The Due Process Clause of the Fourteenth Amendment stands, in my opinion, on its own bottom.","One man's vulgarity is another's lyric."]

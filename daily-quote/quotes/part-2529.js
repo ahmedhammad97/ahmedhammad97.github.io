@@ -1,0 +1,1 @@
+var author2529 = "George Woodcock", quotes2529 = ["When I die from the sky."]

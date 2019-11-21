@@ -1,0 +1,1 @@
+var author7027 = "Wentworth Dillon, 4th Earl of Roscommon", quotes7027 = ["My God, my Father, and my Friend,Do not forsake me at my end.","Remember Milo's end,Wedged in that timber which he strove to rend.","Immodest words admit of no defence,For want of decency is want of sense.","The multitude is always in the wrong."]

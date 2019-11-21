@@ -1,0 +1,1 @@
+var author367 = "Amity-enmity complex", quotes367 = ["Men like fighting and women like men who are prepared to fight on their behalf."]

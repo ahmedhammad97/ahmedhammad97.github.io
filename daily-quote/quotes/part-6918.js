@@ -1,0 +1,1 @@
+var author6918 = "Virgil", quotes6918 = ["Latet anguis in herba.","Sed fugit interea, fugit irreparabile tempus.","Arrectis auribus adsto.","Fidus Achates.","Vendidit hic auro patriam."]

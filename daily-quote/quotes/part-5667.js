@@ -1,0 +1,1 @@
+var author5667 = "Richard Roth, Jr.", quotes5667 = ["Unfortunately, buildings are not like drawings. You can't just erase them. (p.275)","Architecture reflects society, and this is not a great age. (p.276)"]

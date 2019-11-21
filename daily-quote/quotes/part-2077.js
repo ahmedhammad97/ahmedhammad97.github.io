@@ -1,0 +1,1 @@
+var author2077 = "Ernst Röhm", quotes2077 = ["I am still today a soldier and only a soldier. (Ich bin noch heute Soldat und nur Soldat)","All revolutions devour their own children. ","If I am to be killed, let Adolf do it himself!"]

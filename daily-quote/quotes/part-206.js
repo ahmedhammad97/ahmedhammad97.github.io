@@ -1,0 +1,1 @@
+var author206 = "Alan Watts", quotes206 = ["Trying to define yourself is like trying to bite your own teeth.","Religion is always falling apart.","If Christianity is wine and Islam coffee, Buddhism is most certainly tea."]

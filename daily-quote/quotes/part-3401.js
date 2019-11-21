@@ -1,0 +1,1 @@
+var author3401 = "Jessica Lynch", quotes3401 = ["I'm not about to take credit for something I didn't do.","I had a story tell, a story that needed to be told so that people would know the truth."]

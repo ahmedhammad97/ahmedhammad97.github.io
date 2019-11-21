@@ -1,0 +1,1 @@
+var author6132 = "Simon Stevin", quotes6132 = ["Diophantus is modern.","The second Definition. Number is that which expresseth the quantitie of each thing.","The sixt Definition. A Whole number is either a unitie, or a compounded multitude of unities."]

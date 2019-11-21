@@ -1,0 +1,1 @@
+var author6171 = "Social inequality", quotes6171 = ["Of all the forms of inequality, injustice in healthcare is the most shocking and inhumane."]

@@ -1,0 +1,1 @@
+var author4116 = "Life of Earth", quotes4116 = ["To live on land, organisms needed vastly greater amounts of complexity.","Ancient bacteria had almost all the kinds of metabolism that we find on Earth today.","The meager food web of the Earth became a vibrant one, based on the sugar produced by cyanobacteria."]

@@ -1,0 +1,1 @@
+var author4138 = "Lionel Bart", quotes4138 = ["Food, Glorious Food","You've Got To Pick A Pocket Or Two","When Your Number's Up You Go"]

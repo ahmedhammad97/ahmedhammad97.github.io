@@ -1,0 +1,1 @@
+var author6563 = "Thelonious Monk", quotes6563 = ["All musicians are subconsciously mathematicians."]

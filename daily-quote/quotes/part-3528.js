@@ -1,0 +1,1 @@
+var author3528 = "John Derbyshire", quotes3528 = ["Ninety percent of paid work is time-wasting crap. The world gets by on the other ten."]

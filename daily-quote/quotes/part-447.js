@@ -1,0 +1,1 @@
+var author447 = "Anita Sarkeesian", quotes447 = ["Princess Peach is in many ways the quintessential stock-character version of the damsel in distress.","[On the GamerGate Controversy]: Ethics in journalism is not what's happening, in any way.","Well maybe the princess shouldn't be a damsel and she could save herself."]

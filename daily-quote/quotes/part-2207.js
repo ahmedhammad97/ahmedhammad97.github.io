@@ -1,0 +1,1 @@
+var author2207 = "Filipe Nyusi", quotes2207 = ["I am the bee that will make honey for all."]

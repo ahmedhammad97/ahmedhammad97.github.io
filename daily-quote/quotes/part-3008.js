@@ -1,0 +1,1 @@
+var author3008 = "Idi Amin", quotes3008 = ["Politics is like boxing — you try to knock out your opponents."]

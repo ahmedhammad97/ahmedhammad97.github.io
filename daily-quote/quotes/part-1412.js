@@ -1,0 +1,1 @@
+var author1412 = "Cosmology", quotes1412 = ["Why are the heavens not filled with light? Why is the universe plunged into darkness?","Cosmology is a science which has only a few observable facts to work with."]

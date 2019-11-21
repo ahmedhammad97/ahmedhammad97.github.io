@@ -1,0 +1,1 @@
+var author3631 = "John Philip Kemble", quotes3631 = ["When you read the sacred Scriptures, or any other book, never think how you read, but what you read."]

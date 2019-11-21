@@ -1,0 +1,1 @@
+var author2031 = "Epistle of Jude", quotes2031 = ["But you, dear friends, build yourselves up in the most holy faith and pray in the Holy Spirit. "]

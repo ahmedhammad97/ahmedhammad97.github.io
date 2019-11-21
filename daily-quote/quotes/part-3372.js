@@ -1,0 +1,1 @@
+var author3372 = "Jehovah", quotes3372 = ["My name is Jehovah, and I know the end from the beginning.","I, Jehovah, am searching the heart,"]

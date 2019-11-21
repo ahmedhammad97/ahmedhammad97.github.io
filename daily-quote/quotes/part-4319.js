@@ -1,0 +1,1 @@
+var author4319 = "Mantra", quotes4319 = ["There are only two mantras … yum and yuk. Mine is yum."]

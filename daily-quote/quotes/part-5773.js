@@ -1,0 +1,1 @@
+var author5773 = "Robert Nozick", quotes5773 = ["A distribution is just if it arises from another just distribution by legitimate means.","Whatever arises from a just situation by just steps is itself just.","From each as they choose, to each as they are chosen.","No state more extensive than the minimal state can be justified."]

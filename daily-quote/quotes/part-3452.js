@@ -1,0 +1,1 @@
+var author3452 = "Joe Orton", quotes3452 = ["Fay: The Ten Commandments. She was a great believer in some of them.","Hal: God is a gentleman. He prefers blondes.","Truscott: How dare you involve me in a situation for which no memo has been issued.","With insanity, as with vomit, it is the passerby who receives the inconvenience."]

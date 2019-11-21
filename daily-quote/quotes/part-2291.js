@@ -1,0 +1,1 @@
+var author2291 = "Frank Sinatra", quotes2291 = ["What I do with my life is of my own doing. I live it the best way I can.","Fear is the enemy of logic.","The big lesson in life, baby, is never be scared of anyone or anything."]

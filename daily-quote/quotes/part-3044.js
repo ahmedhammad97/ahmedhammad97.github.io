@@ -1,0 +1,1 @@
+var author3044 = "Industrial and organizational psychology", quotes3044 = ["Luck is the residue of design.","Edgar H. Schein is considered one of the founders of the field of organizational psychology."]

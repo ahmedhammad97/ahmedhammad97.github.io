@@ -1,0 +1,1 @@
+var author340 = "Alon Mizrahi", quotes340 = ["I know it was a writer.","I want to play in Europe and I said it in the media and on television.","It amazes me that all teams in the eighth-final are European.","I want to play either in Europe or in Spain."]

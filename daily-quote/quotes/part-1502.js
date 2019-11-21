@@ -1,0 +1,1 @@
+var author1502 = "Daniel Fatiaki", quotes1502 = ["It goes without saying that the most valuable asset of any profession is its collective reputation."]

@@ -1,0 +1,1 @@
+var author4568 = "Michael A. Jackson", quotes4568 = ["We follow two rules in the matter of optimization:"]

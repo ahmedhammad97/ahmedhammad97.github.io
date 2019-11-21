@@ -1,0 +1,1 @@
+var author4058 = "Legal proceedings", quotes4058 = ["The general rule is an excellent one, that legal proceedings should be in public."]

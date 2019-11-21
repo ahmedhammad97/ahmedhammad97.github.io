@@ -1,0 +1,1 @@
+var author109 = "Adnan Oktar", quotes109 = ["Turkey is a country that takes love as a basis and that refrains from hatred.","It is very astonishing that man, being a mortal, can still develop feelings of haughtiness.","Muslims turn fire into light, wrath into mercy.","All Mahdi movements serve the real Mahdi (pbuh) whether they like it or not."]

@@ -1,0 +1,1 @@
+var author4767 = "Muqtada Sadr", quotes4767 = ["Saddam is a war criminal and there are no two people who can argue over this."]

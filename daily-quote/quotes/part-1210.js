@@ -1,0 +1,1 @@
+var author1210 = "Chinmayananda Saraswati", quotes1210 = ["To love and to be loved is the greatest happiness.","Do the best and leave the rest."]

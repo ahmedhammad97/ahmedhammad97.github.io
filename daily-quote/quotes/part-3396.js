@@ -1,0 +1,1 @@
+var author3396 = "Jessamyn West (writer)", quotes3396 = ["We can love an honest rogue, but what is more offensive than a false saint?"]

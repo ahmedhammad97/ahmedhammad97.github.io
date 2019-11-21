@@ -1,0 +1,1 @@
+var author4476 = "Mathematics and mysticism", quotes4476 = ["An equation for me has no meaning unless it expresses a thought of God."]

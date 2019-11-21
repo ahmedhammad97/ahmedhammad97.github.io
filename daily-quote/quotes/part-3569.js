@@ -1,0 +1,1 @@
+var author3569 = "John Henry Hobart", quotes3569 = ["My banner is Evangelical Truth, Apostolic Order."]

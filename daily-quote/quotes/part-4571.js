@@ -1,0 +1,1 @@
+var author4571 = "Michael C. Jensen", quotes4571 = ["We define agency costs as the sum of:"]

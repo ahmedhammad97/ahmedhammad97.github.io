@@ -1,0 +1,1 @@
+var author2767 = "Harry Secombe", quotes2767 = ["We are with you sir!"]

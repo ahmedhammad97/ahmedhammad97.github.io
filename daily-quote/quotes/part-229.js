@@ -1,0 +1,1 @@
+var author229 = "Alberto Gonzales", quotes229 = ["I consider myself a casualty, one of the many casualties of the war on terror."]

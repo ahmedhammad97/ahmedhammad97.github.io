@@ -1,0 +1,1 @@
+var author4028 = "Laurence Olivier", quotes4028 = ["Never. The shot is too big for the cannon.","I think that bloody old National nearly killed me.","Like coming for a living."]

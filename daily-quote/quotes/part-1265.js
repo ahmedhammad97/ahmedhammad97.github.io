@@ -1,0 +1,1 @@
+var author1265 = "Cindy Sheehan", quotes1265 = ["I'm finished crying for Casey. I'm crying for all the other mothers.","How many more of our loved ones need to die in this senseless war?","This is George Bush’s accountability moment.","Anyone who knows me, knows that I am not afraid of anything.","I don't speak for anyone but Cindy. (Chico CA May 2007)"]

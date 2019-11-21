@@ -1,0 +1,1 @@
+var author3171 = "Jack Handey", quotes3171 = ["It takes a big man to cry, but it takes a bigger man to laugh at that man."]

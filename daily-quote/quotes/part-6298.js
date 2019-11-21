@@ -1,0 +1,1 @@
+var author6298 = "Steven Pinker", quotes6298 = ["I predict it will come to be seen as a turning point in the history of psychology."]

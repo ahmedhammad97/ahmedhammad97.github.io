@@ -1,0 +1,1 @@
+var author5969 = "Sandy Hook Elementary School shooting", quotes5969 = ["We are in a state of disbelief and trying to find whatever answers we can. We, too, are asking why."]

@@ -1,0 +1,1 @@
+var author4961 = "Number", quotes4961 = ["[Number is] the commanding and self-begotten container of the eternal duration of mundane concerns.","Number is the ruler of forms and ideas, and the cause of gods and daemons.","Number rules the universe."]

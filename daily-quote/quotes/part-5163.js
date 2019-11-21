@@ -1,0 +1,1 @@
+var author5163 = "Paul Reubens", quotes5163 = ["There were just things in Disney movies that probably were too scary for kids."]

@@ -1,0 +1,1 @@
+var author1335 = "Comet", quotes1335 = ["By being seldom seen, I could not stir But like a comet I was wonder'd at."]

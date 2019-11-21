@@ -1,0 +1,1 @@
+var author1389 = "Contingency theory", quotes1389 = ["There is no one best way to organize... Any way of organizing is not equally effective."]

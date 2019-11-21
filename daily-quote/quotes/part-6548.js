@@ -1,0 +1,1 @@
+var author6548 = "The Scientific Papers of James Clerk Maxwell", quotes6548 = ["We must not suppose that the inner history of our planet is ended."]

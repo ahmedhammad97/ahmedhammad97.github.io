@@ -1,0 +1,1 @@
+var author7257 = "X. J. Kennedy", quotes7257 = ["I am one of the endangered species: people who still write in meter and rime."]

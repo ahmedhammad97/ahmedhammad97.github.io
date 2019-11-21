@@ -1,0 +1,1 @@
+var author112 = "Adolf Galland", quotes112 = ["They attracted Hurricanes and Spitfires as honey attracts flies.","The fighter must seek battle in the air."]

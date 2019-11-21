@@ -1,0 +1,1 @@
+var author7106 = "William F. Buckley, Jr.", quotes7106 = ["Demand a recount.","Idealism is fine, but as it approaches reality, the costs become prohibitive.","The best defense against usurpatory government is an assertive citizenry.","Everything I do and say and the way I do and say it annoys me."]

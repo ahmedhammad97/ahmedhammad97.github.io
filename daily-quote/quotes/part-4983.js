@@ -1,0 +1,1 @@
+var author4983 = "Og Mandino", quotes4983 = ["Each day will be triumphant only when your smiles bring forth smiles from others.","Today I will multiply my value a hundredfold.","A field of clay touched by the genius of man becomes a castle."]

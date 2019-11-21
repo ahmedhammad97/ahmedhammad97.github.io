@@ -1,0 +1,1 @@
+var author3983 = "Labyrinth", quotes3983 = ["You are in a maze of twisty passages, all alike.","Damn it, how will I ever get out of this labyrinth?","A labyrinth of symbols… An invisible labyrinth of time.","There's no need to build a labyrinth when the entire universe is one.","The minotaur more than justifies the existence of the labyrinth."]

@@ -1,0 +1,1 @@
+var author2848 = "Henry Melvill", quotes2848 = ["Indifference, if let alone, will produce obduracy; and obduracy, if let alone, will produce torment."]

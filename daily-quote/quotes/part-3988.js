@@ -1,0 +1,1 @@
+var author3988 = "Lakshmi", quotes3988 = ["Every woman is an emanation of you."]

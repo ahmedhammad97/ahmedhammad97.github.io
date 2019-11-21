@@ -1,0 +1,1 @@
+var author7070 = "William A. Henry III", quotes7070 = ["The dominant mood of contemporary American culture is the self-celebration of the peasantry.","In my mind, partial failure is always better than delusory success."]

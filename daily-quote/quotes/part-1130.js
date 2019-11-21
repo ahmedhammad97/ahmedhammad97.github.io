@@ -1,0 +1,1 @@
+var author1130 = "Charles E. Sorensen", quotes1130 = ["Ed Martin, who was plant superintendent, and I practically lived at the Rouge."]

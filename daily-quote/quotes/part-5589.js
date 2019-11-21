@@ -1,0 +1,1 @@
+var author5589 = "Repose", quotes5589 = ["But quiet to quick bosoms is a hell.","To husband out life's taper at the close,And keep the flames from wasting by repose.","What sweet delight a quiet life affords.","The toils of honour dignify repose.","Study to be quiet."]

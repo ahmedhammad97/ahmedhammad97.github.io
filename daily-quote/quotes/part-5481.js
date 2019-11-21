@@ -1,0 +1,1 @@
+var author5481 = "Question", quotes5481 = ["There are as many types of questions as components in the information.","One mind can think only of its own questions; it rarely surprises itself.","The only stupid question is the one that is not asked.","I heard the Prophet saying, Allah has hated for you three things:","Old questions are not answered—they only go out of fashion."]

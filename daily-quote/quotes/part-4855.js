@@ -1,0 +1,1 @@
+var author4855 = "Nerdcore hip hop", quotes4855 = ["Nerdcore hip hop, other rappers run in fear...","Nerdcore could rise up, it could get elevated; we consider the possibleness of this not overstated.","For punk MCs who playa-hate, we got one word: EXTERMINATE!"]

@@ -1,0 +1,1 @@
+var author4923 = "Norbert Elias", quotes4923 = ["I wish you all the pleasurable excitement one can have without hurting others and one's own dignity."]

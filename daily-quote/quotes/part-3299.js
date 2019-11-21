@@ -1,0 +1,1 @@
+var author3299 = "Jane Jacobs", quotes3299 = ["I did have an inkling that I was going to be a writer. That was my intention.","A region is an area safely larger than the last one to whose problems we found no solution.","In wretched outcomes, the devil is in the details.","Redundancy is expensive but indispensable."]

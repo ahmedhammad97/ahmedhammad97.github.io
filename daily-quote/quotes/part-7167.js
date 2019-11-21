@@ -1,0 +1,1 @@
+var author7167 = "William Pitt the Younger", quotes7167 = ["Most accursed, wicked, barbarous, cruel, unnatural, unjust and diabolical.","Prostrate the beauteous ruin lies; and allThat shared its shelter perish in its fall.","Oh my country! How I love my country!","I think I could eat one of Bellamy's mutton pies."]

@@ -1,0 +1,1 @@
+var author6318 = "Strategic management", quotes6318 = ["Business strategy is the battleplan for a better future. ","Strategy is about stretching limited resources to fit ambitious aspirations."]

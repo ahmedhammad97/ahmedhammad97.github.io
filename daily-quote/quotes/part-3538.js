@@ -1,0 +1,1 @@
+var author3538 = "John Ensign", quotes3538 = ["He has no credibility left."]

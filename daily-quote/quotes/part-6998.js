@@ -1,0 +1,1 @@
+var author6998 = "War on Terrorism", quotes6998 = ["In the war on terror we did everything wrong that we could have done. ","Wanton killing of innocent civilians is terrorism, not a war against terrorism.","You cannot win a War on Terrorism. It's like having a war on jealousy."]

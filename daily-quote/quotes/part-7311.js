@@ -1,0 +1,1 @@
+var author7311 = "Zhang Zhijun", quotes7311 = ["At the end of the road of Taiwan independence lies unification."]

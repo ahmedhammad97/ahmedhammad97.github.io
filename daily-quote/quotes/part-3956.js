@@ -1,0 +1,1 @@
+var author3956 = "Konstantin Tsiolkovsky", quotes3956 = ["Translation: All the Universe is full of the life of perfect creatures."]

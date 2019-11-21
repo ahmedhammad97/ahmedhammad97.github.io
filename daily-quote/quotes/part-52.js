@@ -1,0 +1,1 @@
+var author52 = "Abd al-Karim Qasim", quotes52 = ["Death to the imperialist! Return Kuwait to its homeland!","The freedom of an individual merges in the freedom of all and serves the freedom of all."]

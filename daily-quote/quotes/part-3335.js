@@ -1,0 +1,1 @@
+var author3335 = "Jean Ingelow", quotes3335 = ["Reign, and keep life in this our deep desire Our only greatness is that we aspire.","But two are walking apart forever And wave their hands for a mute farewell.","A sweeter woman ne'er drew breathThan my sonne's wife, Elizabeth.","How short our happy days appear! How long the sorrowful!"]

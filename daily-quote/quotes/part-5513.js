@@ -1,0 +1,1 @@
+var author5513 = "Rainier III, Prince of Monaco", quotes5513 = ["I am like the head of a company. ","Monaco will always be prosperous so long as there are 3,000 rich men in the world."]

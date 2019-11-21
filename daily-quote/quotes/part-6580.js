@@ -1,0 +1,1 @@
+var author6580 = "Theodore Winthrop", quotes6580 = ["Civilization without its appliances is weaker than barbarism."]

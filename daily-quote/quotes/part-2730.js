@@ -1,0 +1,1 @@
+var author2730 = "Hans Freudenthal", quotes2730 = ["Educational technique needs a philosophy, which is a matter of faith rather than of science.","Angles are measured by arcs, such that 360° and 2π correspond to each other.","Horizontal mathematising leads from the world of life to the world of symbols."]

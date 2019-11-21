@@ -1,0 +1,1 @@
+var author5645 = "Richard Harris Barham", quotes5645 = ["The jackdaw sat on the Cardinal’s chair!","He smiled and said, 'Sir, does your mother know that you are out?'"]

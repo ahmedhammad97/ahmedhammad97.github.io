@@ -1,0 +1,1 @@
+var author3924 = "Khalid A. Al-Falih", quotes3924 = ["It is common that once presidents start governing then a lot more substance comes out."]

@@ -1,0 +1,1 @@
+var author3004 = "Ibn Saud", quotes3004 = ["God cursed the Jews, therefore they don't deserve a country."]

@@ -1,0 +1,1 @@
+var author924 = "Bradley Burston", quotes924 = ["And we, all of us, the Jews, helped them get there."]

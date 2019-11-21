@@ -1,0 +1,1 @@
+var author4916 = "Nisargadatta Maharaj", quotes4916 = ["¨Everything yields to earnestness.¨ ","(…) Salvation is to see things as they are. (…) ","(...) A spark of truth can burn up a mountain of lies. (...)"]

@@ -1,0 +1,1 @@
+var author2465 = "George F. Kennan", quotes2465 = ["A guest of one's time and not a member of its household.","Fig leaves of democratic procedure to hide the nakedness of Stalinist dictatorship.","Although the Georgian nationalists do not like Stalin, they have every reason to be thankful to him."]

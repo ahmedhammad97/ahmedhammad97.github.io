@@ -1,0 +1,1 @@
+var author4707 = "Molecule", quotes4707 = ["A diatomic molecule is a molecule with one atom too many. "]

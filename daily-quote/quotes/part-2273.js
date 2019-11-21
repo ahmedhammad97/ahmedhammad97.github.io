@@ -1,0 +1,1 @@
+var author2273 = "Francis Wayland", quotes2273 = ["It was Homer who gave laws to the artist.","It was Homer who inspired the poet.","When men differ in any matter of belief, let them meet each other manfully."]

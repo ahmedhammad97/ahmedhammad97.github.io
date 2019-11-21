@@ -1,0 +1,1 @@
+var author1234 = "Christian atheism", quotes1234 = ["There are two atheisms of which one is a purification of the notion of God."]

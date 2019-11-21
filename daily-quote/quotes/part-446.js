@@ -1,0 +1,1 @@
+var author446 = "Anita Pallenberg", quotes446 = ["Fate, I respect a lot. I never regret anything."]

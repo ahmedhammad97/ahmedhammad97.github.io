@@ -1,0 +1,1 @@
+var author742 = "Becky Stark", quotes742 = ["Emptiness is a conductor A conductor of Anything.","Open your heart. Tear it apart."]

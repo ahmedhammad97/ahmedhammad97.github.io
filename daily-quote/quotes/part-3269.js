@@ -1,0 +1,1 @@
+var author3269 = "James Montgomery", quotes3269 = ["Nature's prime favourites were the Pelicans;High-fed, long-lived, and sociable and free."]

@@ -1,0 +1,1 @@
+var author1041 = "Car Talk", quotes1041 = ["In my vast (or at least half-vast) experience with...","If you don't know where you're going, any road will take you there.","The overhead projector has done more to destroy learning than any other thing I can think of."]

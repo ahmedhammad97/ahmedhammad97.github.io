@@ -1,0 +1,1 @@
+var author2085 = "Esperanza Aguirre", quotes2085 = ["When socialism comes through the door, employment jumps out the window.","When governments are austere, societies are prosperous.","Socialism fails when it run out of money of others.","On my list there are people who are charged with nonsense."]

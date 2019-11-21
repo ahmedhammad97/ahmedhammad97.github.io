@@ -1,0 +1,1 @@
+var author3139 = "Ivanka Trump", quotes3139 = ["As a citizen, I love what he’s doing. As a daughter, it’s obviously more complicated."]

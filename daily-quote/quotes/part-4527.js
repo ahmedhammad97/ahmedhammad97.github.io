@@ -1,0 +1,1 @@
+var author4527 = "Mechanization", quotes4527 = ["Developments towards mechanization originated from the periodical press and newspapers. ","Besides black art, there is only automation and mechanization. ","Advertising tends to make mechanized barbarians of us all.","The Mechanisation of Industry.","Mediocrity serves it best because mechanization best serves the mediocre."]

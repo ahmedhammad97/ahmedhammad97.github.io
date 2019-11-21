@@ -1,0 +1,1 @@
+var author238 = "Alec Douglas-Home", quotes238 = ["No, because I do my sums with matchsticks.","I suppose, when you come to think of it, he is the fourteenth Mr Wilson.","Now you can see me in the flesh, and I don't really look as I'm made to look on television."]

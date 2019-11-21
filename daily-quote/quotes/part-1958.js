@@ -1,0 +1,1 @@
+var author1958 = "Elizabeth Bowes-Lyon", quotes1958 = ["Never trust them, never trust them. They can't be trusted.","We'd have to go self-service.","We loved him.","Was this yours? Oh, could you take it?","Dear Edwina, she always liked to make a splash. ","I wouldn't if I were you, Noël; they count them before they put them out. ","I'll polish it off myself."]

@@ -1,0 +1,1 @@
+var author3167 = "J. William Fulbright", quotes3167 = ["The citizen who criticizes his country is paying it an implied tribute.","The price of empire is America's soul, and that price is too high.","Power confuses itself with virtue and tends also to take itself for omnipotence. "]

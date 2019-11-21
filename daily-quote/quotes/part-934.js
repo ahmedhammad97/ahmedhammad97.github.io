@@ -1,0 +1,1 @@
+var author934 = "Bra–ket notation", quotes934 = ["Admire the power of the Dirac notation!","I do not use Dirac’s bra-ket notation, because for some purposes it is awkward […]"]

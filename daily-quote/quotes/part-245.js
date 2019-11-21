@@ -1,0 +1,1 @@
+var author245 = "Aleksandr Pushkin", quotes245 = ["The illusion which exalts us is dearer to us than ten thousand truths.","Upon the brink of the wild stream He stood, and dreamt a mighty dream.","Always contented with his life,and with his dinner, and his wife.","Habit is Heaven's own redress:it takes the place of happiness.","Ah! heavy art thou, crown of Monomakh!"]

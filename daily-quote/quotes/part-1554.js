@@ -1,0 +1,1 @@
+var author1554 = "David Frost", quotes1554 = ["Hello, good evening and welcome.","Seriously, though, he's doing a grand job!","Having one child makes you a parent; having two makes you a referee."]

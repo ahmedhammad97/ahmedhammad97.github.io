@@ -1,0 +1,1 @@
+var author4236 = "Luís María Peralta", quotes4236 = ["Plant your lands and reap; these be your best gold fields, for all must eat while they live."]

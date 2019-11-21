@@ -1,0 +1,1 @@
+var author4919 = "No Gun Ri Massacre", quotes4919 = ["The American soldiers played with our lives like boys playing with flies."]

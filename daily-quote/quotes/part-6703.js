@@ -1,0 +1,1 @@
+var author6703 = "Time management", quotes6703 = ["Do not say: When I am free, I will study; perhaps you will never be free.","An artisan busies himself with his work for three hours each day and spends nine hours in study."]

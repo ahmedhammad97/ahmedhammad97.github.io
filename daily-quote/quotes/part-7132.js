@@ -1,0 +1,1 @@
+var author7132 = "William Hope Hodgson", quotes7132 = ["And, as doth be human, I brake my rule straightway in the beginning.","And lo! the creature did work slow in the brain."]

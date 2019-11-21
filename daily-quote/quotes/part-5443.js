@@ -1,0 +1,1 @@
+var author5443 = "Psychological manipulation", quotes5443 = ["Never have so many been manipulated so much by so few."]

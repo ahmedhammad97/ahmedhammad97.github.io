@@ -1,0 +1,1 @@
+var author4825 = "Naum Gabo", quotes4825 = ["The shapes we are creating are not abstract, they are absolute."]

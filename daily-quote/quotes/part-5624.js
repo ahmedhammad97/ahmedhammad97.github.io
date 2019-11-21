@@ -1,0 +1,1 @@
+var author5624 = "Richard Bergland", quotes5624 = ["Whatever the cerebellum is doing, it’s doing a lot of it.","Neurosurgery can be learned... neurosurgery cannot be taught.","Every organ is a hormone-producing gland.","Miracles of inner healing are everyday occurrences.","The brain is a gland of unity: the brain is one with the body."]

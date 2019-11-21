@@ -1,0 +1,1 @@
+var author5671 = "Richard Stanyhurst", quotes5671 = ["A wind fane changabil huf puffeAlways is a woomman."]

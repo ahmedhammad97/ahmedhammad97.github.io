@@ -1,0 +1,1 @@
+var author1295 = "Cleanliness", quotes1295 = ["I'll purge and leave sack and live cleanly.","He that toucheth pitch shall be defiled therewith.","God loveth the clean.","If dirt was trumps, what hands you would hold!","Certainly this is a duty, not a sin. Cleanliness is indeed next to godliness."]

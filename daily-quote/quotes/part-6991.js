@@ -1,0 +1,1 @@
+var author6991 = "Walter W. Powell", quotes6991 = ["Powerfully positioned middlemen extract value by interrupting or distorting information. "]

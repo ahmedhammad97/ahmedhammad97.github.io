@@ -1,0 +1,1 @@
+var author2666 = "Guessing", quotes2666 = ["The golden guessIs morning-star to the full round of truth."]

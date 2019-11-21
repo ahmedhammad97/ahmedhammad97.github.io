@@ -1,0 +1,1 @@
+var author2901 = "Hiding", quotes2901 = ["The tale is there, not to hide, but to show.","What is hidden from you I will proclaim to you.","At whose sight all the starsHide their diminish'd heads."]

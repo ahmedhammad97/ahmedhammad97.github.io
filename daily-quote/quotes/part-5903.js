@@ -1,0 +1,1 @@
+var author5903 = "Ryan C. Gordon", quotes5903 = ["The real threat to Linux adoption is Apple, not Microsoft. If you didn’t know, now you know."]

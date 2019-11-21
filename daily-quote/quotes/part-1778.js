@@ -1,0 +1,1 @@
+var author1778 = "Drew Carey", quotes1778 = ["It should be up to each bar owner and patron to decide if they want to smoke or not."]

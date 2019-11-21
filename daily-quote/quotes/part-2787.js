@@ -1,0 +1,1 @@
+var author2787 = "Hebe de Bonafini", quotes2787 = ["Uribe is a shit and a bastard","Macri is worse than a dictator, because he came to power through voting."]

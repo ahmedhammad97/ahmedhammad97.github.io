@@ -1,0 +1,1 @@
+var author5083 = "Panic", quotes5083 = ["Wee, sleekit, cow'rin, tim'rous beastie, O, what a panic's in thy breastie!","To sound the alarm is not to panic but to seek action from an aroused public.","In the East men know panic, but they do not know what fright is.","When in danger, Scream and shout!"]

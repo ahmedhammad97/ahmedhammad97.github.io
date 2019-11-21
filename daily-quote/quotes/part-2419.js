@@ -1,0 +1,1 @@
+var author2419 = "Gazelles", quotes2419 = ["The gazelles so gentle and clever Skip lightly in frolicsome mood."]

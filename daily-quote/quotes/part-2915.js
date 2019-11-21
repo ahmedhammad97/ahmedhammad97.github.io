@@ -1,0 +1,1 @@
+var author2915 = "Hiroo Onoda", quotes2915 = ["Some dreams are best not to wake up from.","People cannot live completely by themselves.","One must always be civic-minded.","Without a huge shock, the sleepy-head, ignorant Japanese will never wake up.","Men should never give up. I never do. I would hate to lose. ","Never complain.","Life is not fair and people are not equal."]

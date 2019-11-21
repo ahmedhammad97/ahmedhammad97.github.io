@@ -1,0 +1,1 @@
+var author1055 = "Carl Rowan", quotes1055 = ["probably 95 percent of ‘white’ Americans have some ‘Negroid blood.’"]

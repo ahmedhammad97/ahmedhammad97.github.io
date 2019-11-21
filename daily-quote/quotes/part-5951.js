@@ -1,0 +1,1 @@
+var author5951 = "Samuel Laman Blanchard", quotes5951 = ["What if two negatives make an affirmative ...does it follow that two nobodies shall be some body?","Man will take anything you like, except warning.","Everybody's word is worth Nobody's taking.","Credulity lives next door to Gossip.","Rumors confirm themselves when duly circulated."]

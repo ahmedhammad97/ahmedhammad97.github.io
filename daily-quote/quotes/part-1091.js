@@ -1,0 +1,1 @@
+var author1091 = "Catherine Rowett", quotes1091 = ["Philosophy asks for a reason, not just a scientific fact."]

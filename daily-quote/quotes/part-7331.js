@@ -1,0 +1,1 @@
+var author7331 = "Étienne Bonnot de Condillac", quotes7331 = ["The art of reasoning is nothing more than a language well arranged.","The tone in which an Englishman expresses anger would, in Italy, be only a mark of surprise.","Our ideas are transformed sensations."]

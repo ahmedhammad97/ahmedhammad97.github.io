@@ -1,0 +1,1 @@
+var author4816 = "Nathaniel Lee", quotes4816 = ["Man, false man, smiling, destructive man!","They called me mad, and I called them mad, and damn them, they outvoted me.","Then he will talk—good gods! how he will talk!","When Greeks joined Greeks, then was the tug of war."]

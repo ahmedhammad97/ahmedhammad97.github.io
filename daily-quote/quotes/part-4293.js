@@ -1,0 +1,1 @@
+var author4293 = "Malcolm Gladwell", quotes4293 = ["It's those who lie outside ordinary experience who have the most to teach us."]

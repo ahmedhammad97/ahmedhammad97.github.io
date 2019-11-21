@@ -1,0 +1,1 @@
+var author5094 = "Paramahansa Yogananda", quotes5094 = ["Thou art I, I am Thou,Knowing, Knower, Known, as One!","Love is the song of the soul, singing to God.","Away, the partial loveHer Maker!"]

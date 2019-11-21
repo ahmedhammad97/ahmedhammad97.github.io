@@ -1,0 +1,1 @@
+var author538 = "Apple Inc.", quotes538 = ["Everyone wants a MacBook Pro because they are so bitchin'.","Well, looks like you've got lots of stuff to do, before you do any stuff","'It Just Works' Apple WWDC (2011)"]

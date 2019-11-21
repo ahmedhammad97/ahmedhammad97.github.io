@@ -1,0 +1,1 @@
+var author3207 = "Jacques-Louis Ménétra", quotes3207 = ["The French breathed blood. They were like cannibals. "]

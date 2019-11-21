@@ -1,0 +1,1 @@
+var author326 = "Alice James", quotes326 = ["What sense of superiority it gives one to escape reading some book which every one else is reading.","Truly nothing is to be expected but the unexpected."]

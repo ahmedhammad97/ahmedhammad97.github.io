@@ -1,0 +1,1 @@
+var author4035 = "Lawrence Klein", quotes4035 = ["At the beginning of a decade it is tempting to look ahead for the next ten years."]

@@ -1,0 +1,1 @@
+var author316 = "Algis Budrys", quotes316 = ["There are various uses for time, and I have better ones than this.","Amnesia was the price of immortality.","It isn’t given to very many men to have their dreams come true in their lifetimes.","The universe has resources of death which we have barely begun to pick at."]

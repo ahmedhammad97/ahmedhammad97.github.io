@@ -1,0 +1,1 @@
+var author2957 = "Howard Phillips (politician)", quotes2957 = ["What if there is a ruling that, uh, you cannot apply civil penalties to, uh, practicing sodomites?"]

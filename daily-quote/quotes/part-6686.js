@@ -1,0 +1,1 @@
+var author6686 = "Thus Spoke Zarathustra", quotes6686 = ["We have invented happiness -say the last men and blink","Man is for woman a means; the end is always the child."]

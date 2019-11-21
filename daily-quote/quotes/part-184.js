@@ -1,0 +1,1 @@
+var author184 = "Alan Cox", quotes184 = ["A Computer is a state machine. Threads are for people who can't program state machines."]

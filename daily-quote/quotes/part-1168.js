@@ -1,0 +1,1 @@
+var author1168 = "Charles Stross", quotes1168 = ["Lawyers do not mix with diplomacy.","Well then. Will the naysayers please leave the universe?","If I forget, then it might as well never have happened. Memory is liberty.","I killed you! And you didn’t even notice!","Had enough of my poetry yet? That’s why they pay me to fight demons instead."]

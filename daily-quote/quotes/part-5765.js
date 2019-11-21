@@ -1,0 +1,1 @@
+var author5765 = "Robert McNamara", quotes5765 = ["I would rather have a wrong decision made than no decision at all."]

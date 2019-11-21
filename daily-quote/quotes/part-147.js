@@ -1,0 +1,1 @@
+var author147 = "Agis IV", quotes147 = ["Weep not for me: suffering, as I do, unjustly, I am in a happier case than my murderers."]

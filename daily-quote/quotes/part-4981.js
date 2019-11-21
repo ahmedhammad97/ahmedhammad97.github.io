@@ -1,0 +1,1 @@
+var author4981 = "Odilo Globocnik", quotes4981 = ["Thank God that sow's gone to the butcher."]

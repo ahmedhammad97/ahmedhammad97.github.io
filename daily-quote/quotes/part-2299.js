@@ -1,0 +1,1 @@
+var author2299 = "Franklin Pierce Adams", quotes2299 = ["Christmas is over and Business is Business."]

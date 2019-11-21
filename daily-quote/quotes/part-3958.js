@@ -1,0 +1,1 @@
+var author3958 = "Kosovo", quotes3958 = ["Kosovo is now the biggest problem confronting Yugoslavia."]

@@ -1,0 +1,1 @@
+var author1065 = "Carly Fiorina", quotes1065 = ["I have to say that after chemotherapy, Barbara Boxer just isn't that scary anymore.","Leadership is all about unlocking the potential in others."]

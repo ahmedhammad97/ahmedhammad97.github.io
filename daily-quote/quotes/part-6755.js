@@ -1,0 +1,1 @@
+var author6755 = "Topology", quotes6755 = ["If geometry is dressed in a suit coat, topology dons jeans and a T-shirt."]

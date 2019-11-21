@@ -1,0 +1,1 @@
+var author2286 = "Frank Gillette", quotes2286 = ["Howard Wise is one of the people who is responsible for the idea of an alternative television."]

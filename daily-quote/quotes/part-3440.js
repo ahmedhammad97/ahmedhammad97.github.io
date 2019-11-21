@@ -1,0 +1,1 @@
+var author3440 = "Jocelyn Bell Burnell", quotes3440 = ["By the end of my PhD I could swing a sledgehammer.","If we assume we've arrived: we stop searching, we stop developing."]

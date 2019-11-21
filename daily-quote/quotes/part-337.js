@@ -1,0 +1,1 @@
+var author337 = "Allan Sherman", quotes337 = ["The difference between reality and unreality is that reality has so little to recommend it."]

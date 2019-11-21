@@ -1,0 +1,1 @@
+var author1078 = "Casey Stengel", quotes1078 = ["The new park sure holds the heat. The heat took the press right out of my pants.","Without losers, where would the winners be?"]

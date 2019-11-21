@@ -1,0 +1,1 @@
+var author5897 = "Russell Lynes", quotes5897 = ["A lady is a woman who makes a man behave like a gentleman."]

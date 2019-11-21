@@ -1,0 +1,1 @@
+var author3637 = "John R. P. French", quotes3637 = ["A majority of all grievances presented at Harwood have always stemmed from a change situation.","The processes of power are pervasive, complex, and often disguised in our society. "]

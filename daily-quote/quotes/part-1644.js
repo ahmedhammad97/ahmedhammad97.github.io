@@ -1,0 +1,1 @@
+var author1644 = "Dennis Skinner", quotes1644 = ["She has been let off because she is a Tory."]

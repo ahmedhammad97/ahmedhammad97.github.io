@@ -1,0 +1,1 @@
+var author2791 = "Heidi Hautala", quotes2791 = ["There is always the risk in parliament that political opinions might be expressed."]

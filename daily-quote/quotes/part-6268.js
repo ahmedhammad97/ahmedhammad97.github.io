@@ -1,0 +1,1 @@
+var author6268 = "Stephen Potter", quotes6268 = ["The theory and practice of gamesmanship; or, The art of winning games without actually cheating.","How to be one up - how to make the other man feel that something has gone wrong, however slightly.","A good general rule is to state that the bouquet is better than the taste, and vice versa."]

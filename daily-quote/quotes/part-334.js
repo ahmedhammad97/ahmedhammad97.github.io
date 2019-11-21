@@ -1,0 +1,1 @@
+var author334 = "Aliko Dangote", quotes334 = ["In whatever you do, strive to be the best at it."]

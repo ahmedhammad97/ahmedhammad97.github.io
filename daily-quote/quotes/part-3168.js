@@ -1,0 +1,1 @@
+var author3168 = "J.E. Gordon", quotes3168 = ["It is is confidence which causes accidents and worry which prevents them."]

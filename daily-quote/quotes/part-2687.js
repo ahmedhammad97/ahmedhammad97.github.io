@@ -1,0 +1,1 @@
+var author2687 = "Guy Debord", quotes2687 = ["Boredom is always counter-revolutionary. Always.","Quotations are useful in periods of ignorance or obscurantist beliefs."]

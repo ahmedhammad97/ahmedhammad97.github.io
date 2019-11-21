@@ -1,0 +1,1 @@
+var author3824 = "Justin Trudeau", quotes3824 = ["Honour killings shouldn't be called barbaric ","You're not going to hotbox my office, no way!","A Canadian is a Canadian is a Canadian","Sunny ways my friends, sunny ways. This is what positive politics can do.","Because it's 2015.","Canada is an opening and welcoming society, but let me be clear. We are also a country of laws."]

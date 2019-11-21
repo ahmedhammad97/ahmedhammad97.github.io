@@ -1,0 +1,1 @@
+var author2355 = "Friedrich Gottlieb Klopstock", quotes2355 = ["He who has an opinion of his own, but depends upon the opinion and taste of others, is a slave."]

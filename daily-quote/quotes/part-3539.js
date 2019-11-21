@@ -1,0 +1,1 @@
+var author3539 = "John F. Kelly", quotes3539 = ["Hell these are Marines. Men like them held Guadalcanal and took Iwo Jima. Baghdad ain't shit."]

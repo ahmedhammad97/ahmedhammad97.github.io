@@ -1,0 +1,1 @@
+var author99 = "Adam Thorpe", quotes99 = ["Oh Walter en't been the same man, you know...slow, very slow since he came back.","Did you not think of burying them? Walter snorted in a quite ordinary way. "]

@@ -1,0 +1,1 @@
+var author4203 = "Luciano Berio", quotes4203 = ["Music is everything that one listens to with the intention of listening to music."]

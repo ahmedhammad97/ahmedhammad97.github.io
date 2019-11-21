@@ -1,0 +1,1 @@
+var author6789 = "Troy Perry", quotes6789 = ["Jesus died for our sins, not our sexuality."]

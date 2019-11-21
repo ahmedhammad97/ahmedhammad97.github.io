@@ -1,0 +1,1 @@
+var author2757 = "Harriett Woods", quotes2757 = ["You can stand tall without standing on someone. You can be a victor without having victims."]

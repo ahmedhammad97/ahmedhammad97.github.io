@@ -1,0 +1,1 @@
+var author6184 = "Software engineering", quotes6184 = ["Adding manpower to a late software project makes it later.","Far too often, software engineering is neither engineering nor about software. "]

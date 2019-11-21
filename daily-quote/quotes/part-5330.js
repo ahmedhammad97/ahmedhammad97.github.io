@@ -1,0 +1,1 @@
+var author5330 = "Pieter-Dirk Uys", quotes5330 = ["I'm just the dumb blonde with the jewelery!"]

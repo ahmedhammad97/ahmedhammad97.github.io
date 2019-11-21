@@ -1,0 +1,1 @@
+var author4736 = "Moscow", quotes4736 = ["Best view of Moscow is from the belly of the bomber."]

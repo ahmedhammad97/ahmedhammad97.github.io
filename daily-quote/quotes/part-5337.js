@@ -1,0 +1,1 @@
+var author5337 = "Pirkei Avot", quotes5337 = ["In a place where there are no men, strive to be a man.","Be a tail to lions rather than a head to jackals."]

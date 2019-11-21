@@ -1,0 +1,1 @@
+var author2733 = "Hans Urs von Balthasar", quotes2733 = ["The inner reality of love can be recognized only by love."]

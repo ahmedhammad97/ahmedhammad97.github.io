@@ -1,0 +1,1 @@
+var author2761 = "Harry Chapin", quotes2761 = ["I spent a week there one afternoon.","I never really drove a cab, but I do have a hack license in case of emergencies – like no money."]

@@ -1,0 +1,1 @@
+var author4802 = "Nat King Cole", quotes4802 = ["Madison Avenue is afraid of the dark.","Critics don't buy records. They get 'em free."]

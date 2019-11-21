@@ -1,0 +1,1 @@
+var author3456 = "Joel Barnett, Baron Barnett", quotes3456 = ["Your arguments are overwhelming. You’re obviously right — and the answer is No."]

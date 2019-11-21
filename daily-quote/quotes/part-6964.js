@@ -1,0 +1,1 @@
+var author6964 = "Wall Street", quotes6964 = ["Mutual funds are an overrated investment heavily promoted by Wall Street."]

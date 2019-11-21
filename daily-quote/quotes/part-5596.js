@@ -1,0 +1,1 @@
+var author5596 = "Resignation", quotes5596 = ["Give what thou canst, without thee we are poor;And with thee rich, take what thou wilt away.","That's bestWhich God sends. 'Twas His will: it is mine.","Thus ready for the way of life or death,I wait the sharpest blow.","To will what God doth will, that is the only science That gives us any rest."]

@@ -1,0 +1,1 @@
+var author6044 = "Self-pity", quotes6044 = ["Self-pity is our worst enemy and if we yield to it, we can never do anything wise in this world."]

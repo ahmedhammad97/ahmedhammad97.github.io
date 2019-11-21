@@ -1,0 +1,1 @@
+var author1509 = "Daniel Lyons", quotes1509 = ["Despite all its bluster about innovation, Apple has become a copycat, and not even a good one."]

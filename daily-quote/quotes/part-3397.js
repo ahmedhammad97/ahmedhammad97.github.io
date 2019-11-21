@@ -1,0 +1,1 @@
+var author3397 = "Jesse Owens", quotes3397 = ["I'm old now. It's all right.","Another old friend gone!","It all goes so fast, and character makes the difference when it's close.","It's like having a pet dog for a long time. You get attached to it, and when it dies you miss it."]

@@ -1,0 +1,1 @@
+var author1716 = "Dmitri Mendeleev", quotes1716 = ["I have no need of proof. The laws of nature, unlike the laws of grammar, admit of no exception."]

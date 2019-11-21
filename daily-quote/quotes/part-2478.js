@@ -1,0 +1,1 @@
+var author2478 = "George Harrison", quotes2478 = ["I felt in love, not with anything or anybody in particular but with everything.","That's what the whole Sixties Flower-Power thing was about: Go away, you bunch of boring people."]

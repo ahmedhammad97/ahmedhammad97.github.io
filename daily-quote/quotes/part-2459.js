@@ -1,0 +1,1 @@
+var author2459 = "George Canning", quotes2459 = ["I called the New World into existence to redress the balance of the Old.","I can prove anything by statistics except the truth."]

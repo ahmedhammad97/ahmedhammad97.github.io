@@ -1,0 +1,1 @@
+var author3147 = "J. B. S. Haldane", quotes3147 = ["An inordinate fondness for beetles.","An ounce of algebra is worth a ton of verbal argument.","No, but I would to save two brothers or eight cousins."]

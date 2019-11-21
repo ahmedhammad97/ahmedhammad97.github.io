@@ -1,0 +1,1 @@
+var author4808 = "Nathalia Crane", quotes4808 = ["He found the harem filled with rocking maids Surrendered to the orgies of the sob. "]

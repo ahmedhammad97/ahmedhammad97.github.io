@@ -1,0 +1,1 @@
+var author942 = "Brevity", quotes942 = ["Brevity is the soul of wit.","Few sinners are saved after the first twenty minutes of a sermon."]

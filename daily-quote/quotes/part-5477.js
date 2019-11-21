@@ -1,0 +1,1 @@
+var author5477 = "Queen Mathilde of Belgium", quotes5477 = ["The homework is obviously in Dutch. I adapt myself accordingly. The kids just think in Dutch."]

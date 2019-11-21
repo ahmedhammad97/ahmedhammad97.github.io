@@ -1,0 +1,1 @@
+var author5781 = "Robert Rauschenberg", quotes5781 = ["It is completely irrelevant that I am making them. 'Today' is their creator. ","I think a picture is more like the real world when it is made out of the real world.","Work is my joy.. .Work is my therapy, I don't know anybody who loves work as much as I do."]

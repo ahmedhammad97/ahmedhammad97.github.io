@@ -1,0 +1,1 @@
+var author292 = "Alfred (opera)", quotes292 = ["Who has not known ill fortune, never knewHimself, or his own virtue.","What proves the hero truly great,Is never, never to despair.","Rule Britannia, rule the waves:Britons never will be slaves."]

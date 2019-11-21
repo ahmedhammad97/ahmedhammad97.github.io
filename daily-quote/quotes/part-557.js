@@ -1,0 +1,1 @@
+var author557 = "Ariel Sharon", quotes557 = ["Arabs may have the oil, but we have the matches."]

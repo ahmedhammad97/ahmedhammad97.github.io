@@ -1,0 +1,1 @@
+var author6798 = "Tulips", quotes6798 = ["Like tulip-beds of different shape and dyes,Bending beneath the invisible west-wind's sighs.","The tulip is a courtly quean,Whom, therefore, I will shun.","Dutch tulips from their bedsFlaunted their stately heads.","The tulip's petals shine in dew,All beautiful, but none alike."]

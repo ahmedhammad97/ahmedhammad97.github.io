@@ -1,0 +1,1 @@
+var author3623 = "John Newton", quotes3623 = ["Whether men are pleased or not, we will, we must, worship the Lamb that was slain."]

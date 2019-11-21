@@ -1,0 +1,1 @@
+var author2838 = "Henry Hawkins, 1st Baron Brampton", quotes2838 = ["Legality and oppression are not unknown to run hand in hand.","Every man ought to have the fullest opportunity of establishing his innocence if he can."]

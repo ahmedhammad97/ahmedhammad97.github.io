@@ -1,0 +1,1 @@
+var author5370 = "Pop art", quotes5370 = ["Pop art is the inedible raised to the unspeakable.","Pop Art is not painting because painting must have content and emotion."]

@@ -1,0 +1,1 @@
+var author5967 = "Sandra Bullock", quotes5967 = ["Sandra Bullock on 'Gravity' Oscar Nom: 'I've Just Gotten Better at Not Picking Crap'"]

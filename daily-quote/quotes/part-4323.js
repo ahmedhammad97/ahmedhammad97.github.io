@@ -1,0 +1,1 @@
+var author4323 = "Mao Zedong", quotes4323 = ["Strategically we should despise all our enemies, while tactically we should take them all seriously."]

@@ -1,0 +1,1 @@
+var author86 = "Activism", quotes86 = ["Activism is the rent I pay for living on the planet."]

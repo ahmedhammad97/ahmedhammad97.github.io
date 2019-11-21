@@ -1,0 +1,1 @@
+var author2932 = "Hollywood Boulevard", quotes2932 = ["You can see all the stars as you walk down Hollywood Boulevard"]

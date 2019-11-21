@@ -1,0 +1,1 @@
+var author5152 = "Paul Hogan", quotes5152 = ["I only work every couple of years. I go into retirement between films. "]

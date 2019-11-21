@@ -1,0 +1,1 @@
+var author2526 = "George Will", quotes2526 = ["This is an age in which one cannot find common sense without a search warrant.","A decrease in the quantity of legislation generally means an increase in the quality of life.","For conservatives, seeing is believing; for liberals, believing is seeing.","The people do not decide issues, they decide who shall decide."]

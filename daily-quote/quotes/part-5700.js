@@ -1,0 +1,1 @@
+var author5700 = "Rivers", quotes5700 = ["The fountains of sacred rivers flow upwards, (i.e. everything is turned topsy turvy).","By shallow rivers, to whose fallsMelodious birds sing madrigals.","Remote, unfriended, melancholy, slow,Or by the lazy Scheld or wandering Po!","Serene yet strong, majestic yet sedate,Swift without violence, without terror great."]

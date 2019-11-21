@@ -1,0 +1,1 @@
+var author1891 = "Edward McKendree Bounds", quotes1891 = ["Apostolic preaching cannot be carried on unless there be apostolic prayer.","God shapes the world by prayer.","In prayerful sympathy and love. Hold to the old truth -- double distilled."]

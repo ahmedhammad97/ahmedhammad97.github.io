@@ -1,0 +1,1 @@
+var author3873 = "Katherine Anne Porter", quotes3873 = ["I finished the thing; but I think I sprained my soul.","I'm not afraid of life and I'm not afraid of death: Dying's the bore."]

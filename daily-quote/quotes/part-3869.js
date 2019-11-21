@@ -1,0 +1,1 @@
+var author3869 = "Kate Winslet", quotes3869 = ["You know why I fear people’s judgment? Because I know they’re judging. I know they are.","I’m not classically trained. I didn’t come from the fancy home, no.","Everyone can commit to 20 minutes, especially if there’s a glass of Chardonnay afterwards.","I don't look like that and I don't desire to look like that."]

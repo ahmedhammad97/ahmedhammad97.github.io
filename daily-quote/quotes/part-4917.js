@@ -1,0 +1,1 @@
+var author4917 = "Nishapur", quotes4917 = ["Nishapur ,is the best cities of the Great Khorasan. "]

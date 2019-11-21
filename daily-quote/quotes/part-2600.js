@@ -1,0 +1,1 @@
+var author2600 = "Goldenrods", quotes2600 = ["Still the Goldenrod of the roadside clod Is of all, the best!","I know the lands are litWith all the autumn blaze of Goldenrod.","The hollows are heavy and dank With the steam of the Goldenrods."]

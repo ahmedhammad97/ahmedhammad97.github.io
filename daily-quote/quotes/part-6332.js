@@ -1,0 +1,1 @@
+var author6332 = "Su Tseng-chang", quotes6332 = ["Democracy and security do not fall from heaven — they come with a cost.","If Taiwan can establish a democracy, so can you (Mainland China)."]

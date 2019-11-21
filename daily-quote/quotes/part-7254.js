@@ -1,0 +1,1 @@
+var author7254 = "Wu Po-hsiung", quotes7254 = ["There should be no civil war among the Chinese people and no friction across the Taiwan Strait.","It is not a country-to-country relation between the two sides of the Strait.","Cross-strait relations are not nation-to-nation based. These are special relations."]

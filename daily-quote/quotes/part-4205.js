@@ -1,0 +1,1 @@
+var author4205 = "Lucille Ball", quotes4205 = ["You see much more of your children once they leave home."]

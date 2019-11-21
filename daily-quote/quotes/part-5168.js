@@ -1,0 +1,1 @@
+var author5168 = "Paul Simon", quotes5168 = ["This is near enough true bliss."]

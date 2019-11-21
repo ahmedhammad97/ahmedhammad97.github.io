@@ -1,0 +1,1 @@
+var author6670 = "Thomas Yalden", quotes6670 = ["For malice will with joy the lie receive,Report, and what it wishes true, believe."]

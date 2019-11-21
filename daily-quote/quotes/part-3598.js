@@ -1,0 +1,1 @@
+var author3598 = "John Lydon", quotes3598 = ["Ever get the feeling you've been cheated? Good night!","Turn the other cheek too often and you get a razor through it."]

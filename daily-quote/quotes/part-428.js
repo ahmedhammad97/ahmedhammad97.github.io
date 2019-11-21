@@ -1,0 +1,1 @@
+var author428 = "Andy Muschietti", quotes428 = ["Stay true to what scares you. If you don’t respect that, you can’t scare anyone."]

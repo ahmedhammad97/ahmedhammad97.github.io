@@ -1,0 +1,1 @@
+var author4715 = "Monotone", quotes4715 = ["The distinct feature of everything extant is its monotony."]

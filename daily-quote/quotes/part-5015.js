@@ -1,0 +1,1 @@
+var author5015 = "Opposition", quotes5015 = ["The Duty of an Opposition is to oppose.","No government can be long secure without a formidable opposition."]

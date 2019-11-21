@@ -1,0 +1,1 @@
+var author6881 = "Veikko Vennamo", quotes6881 = ["There is even racial hatred against us.","The people does know!"]

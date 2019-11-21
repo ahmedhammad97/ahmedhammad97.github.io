@@ -1,0 +1,1 @@
+var author2831 = "Henry Dunant", quotes2831 = ["By Thy power, let there be peace, O God!"]

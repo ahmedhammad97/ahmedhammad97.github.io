@@ -1,0 +1,1 @@
+var author2097 = "Euclid’s Elements", quotes2097 = ["The whole is greater than the part."]

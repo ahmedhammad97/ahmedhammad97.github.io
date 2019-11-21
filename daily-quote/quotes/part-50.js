@@ -1,0 +1,1 @@
+var author50 = "Abba Eban", quotes50 = ["The Arabs never miss an opportunity to miss an opportunity."]

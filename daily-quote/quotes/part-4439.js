@@ -1,0 +1,1 @@
+var author4439 = "Martina Hingis", quotes4439 = ["She's here with her girlfriend. She's half a man."]

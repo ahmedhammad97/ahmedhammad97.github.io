@@ -1,0 +1,1 @@
+var author1407 = "Cornel West", quotes1407 = ["To be an intellectual really means to speak a truth that allows suffering to speak."]

@@ -1,0 +1,1 @@
+var author7172 = "William Ralph Inge", quotes7172 = ["The fruit of the tree of knowledge, always drives man from some paradise or other.","Civilization is a disease which is almost invariably fatal."]

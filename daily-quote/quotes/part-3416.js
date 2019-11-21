@@ -1,0 +1,1 @@
+var author3416 = "Jimi Hendrix", quotes3416 = ["Blues is easy to play, but hard to feel.","Start with a shovel, wind up with a spoon","I try to get up every day."]

@@ -1,0 +1,1 @@
+var author6078 = "Shaka", quotes6078 = ["Up! children of Zulu, your day has come. Up! And destroy them all.","Women that bear children must exist in Zululand only."]

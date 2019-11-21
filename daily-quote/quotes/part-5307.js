@@ -1,0 +1,1 @@
+var author5307 = "Physician", quotes5307 = ["Honour the physician so long as you do not require his skill."]

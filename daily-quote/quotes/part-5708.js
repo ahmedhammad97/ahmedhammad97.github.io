@@ -1,0 +1,1 @@
+var author5708 = "Robert A. Hall", quotes5708 = ["The poverty pimps have to keep changing the definition of poor to keep the dollars flowing."]

@@ -1,0 +1,1 @@
+var author1979 = "Elton Mayo", quotes1979 = ["Defeat takes the form of ultimate disillusion — a disgust with the futility of endless pursuit."]

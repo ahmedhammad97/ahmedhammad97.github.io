@@ -1,0 +1,1 @@
+var author4866 = "New Revised Standard Version", quotes4866 = ["When you stretch out your hands,","I am about to create a new heavens and a new earth;","They shall build houses and inhabit them;"]

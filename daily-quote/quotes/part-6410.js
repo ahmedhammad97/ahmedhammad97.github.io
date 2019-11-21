@@ -1,0 +1,1 @@
+var author6410 = "Tadamichi Kuribayashi", quotes6410 = ["All officers of Chichi Jima, goodbye from Iwo","Do not plan for my return...","The US is the last country in the world we should fight."]

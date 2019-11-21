@@ -1,0 +1,1 @@
+var author5213 = "Perry Anderson", quotes5213 = ["Polemical zeal can produce an fixation on the other side, or sides, of purely hostile intent."]

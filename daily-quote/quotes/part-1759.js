@@ -1,0 +1,1 @@
+var author1759 = "Douglas Bader", quotes1759 = ["Rules are for the guidance of wise men and the obedience of fools.","If you come out of the sun the german will never see you coming."]

@@ -1,0 +1,1 @@
+var author1991 = "Emily Prager", quotes1991 = ["The only way to escape one's fate is to enjoy it."]

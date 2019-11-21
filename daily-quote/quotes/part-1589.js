@@ -1,0 +1,1 @@
+var author1589 = "David Starr Jordan", quotes1589 = ["Wisdom is knowing what to do next. Virtue is doing it.","There is no real excellence in all this world which can be separated from right living.","The world stands aside to let anyone pass who knows where he is going."]

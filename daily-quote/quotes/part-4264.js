@@ -1,0 +1,1 @@
+var author4264 = "Madeleine Stowe", quotes4264 = ["After you have a kid you're just so happy to be alive!","They have a tendency to get beaten up or thrown off a cliff, I know. Why does that happen with me?","I feel like everything I tried to do is in there."]

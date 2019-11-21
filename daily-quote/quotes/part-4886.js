@@ -1,0 +1,1 @@
+var author4886 = "Nick Griffin", quotes4886 = ["I do not just believe I am right, I know I am right."]

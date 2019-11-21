@@ -1,0 +1,1 @@
+var author4514 = "Maxwell D. Taylor", quotes4514 = ["Give me three days and three nights of hard fighting, and you will be relieved."]

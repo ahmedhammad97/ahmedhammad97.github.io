@@ -1,0 +1,1 @@
+var author6069 = "Serzh Sargsyan", quotes6069 = ["This is not a promise, this is a duty which I have to carry out."]

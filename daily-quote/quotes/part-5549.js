@@ -1,0 +1,1 @@
+var author5549 = "Raymond Cattell", quotes5549 = ["[ Personality is]... that which tells what a man will do when placed in a given situation.","Overt anxiety... that part of anxiety of which the individual is aware and ready to speak.","Dominance... is shown in assertive, independent, confident and stubborn behaviour."]

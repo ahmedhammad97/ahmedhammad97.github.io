@@ -1,0 +1,1 @@
+var author940 = "Bret Harte", quotes940 = ["Well, no offense:In gittin' riled.","And he says that the mountains are fairerFor once being held in your thought;","There is peace in the swamp, though the quiet is Death,","Each lost day has its patron saint!","Virtue always meets reward,But quicker when it wears a sword;"]

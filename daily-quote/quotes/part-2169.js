@@ -1,0 +1,1 @@
+var author2169 = "Fantasy", quotes2169 = ["All fantasy should have a solid base in reality.","Fantasies are things that can't happen, and science fiction is about things that can happen."]

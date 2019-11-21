@@ -1,0 +1,1 @@
+var author4274 = "Mahabharata", quotes4274 = ["Discontent is the root of fortune.","Do not do to another what is disagreeable to yourself: this is the summary Law.","Once war has been undertaken, no peace is made by pretending there is no war."]

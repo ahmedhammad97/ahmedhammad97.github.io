@@ -1,0 +1,1 @@
+var author6366 = "Susan Stebbing", quotes6366 = ["There are many ways of being wrong, but only one way of being right.","A mind in blinkers is a mind that is unfree."]

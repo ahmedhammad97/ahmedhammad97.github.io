@@ -1,0 +1,1 @@
+var author4500 = "Max Boisot", quotes4500 = ["Failure to properly conceptualize the nature of knowledge assets condemns firms.","[Knowledge assets are] stocks of knowledge through which different value added services flow.","Information establishes a relation between things and agents.","Knowledge is a property of agents predisposing them to act in particular circumstances."]

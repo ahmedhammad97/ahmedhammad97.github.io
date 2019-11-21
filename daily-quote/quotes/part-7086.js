@@ -1,0 +1,1 @@
+var author7086 = "William Carey (missionary)", quotes7086 = ["Expect great things from God; attempt great things for God."]

@@ -1,0 +1,1 @@
+var author3365 = "Jeff Koons", quotes3365 = ["I try to be a truthful artist and I try to show a level of courage. I enjoy that. I’m a messenger."]

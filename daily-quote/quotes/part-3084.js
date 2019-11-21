@@ -1,0 +1,1 @@
+var author3084 = "Investment", quotes3084 = ["Investment is most intelligent when it is most businesslike.","It is the rate of investment which governs the rate of saving, and not vice versa.","Mutual funds are an overrated investment heavily promoted by Wall Street.","What fools call “wasting time” is most often the best investment."]

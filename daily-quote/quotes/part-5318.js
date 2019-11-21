@@ -1,0 +1,1 @@
+var author5318 = "Pierre Charron", quotes5318 = ["The true science and study of man is man."]

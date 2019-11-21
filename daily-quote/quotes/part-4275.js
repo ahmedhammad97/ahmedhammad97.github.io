@@ -1,0 +1,1 @@
+var author4275 = "Maharishi Mahesh Yogi", quotes4275 = ["I lack only $1 billion to make the world a better world.","I am closing my performance."]

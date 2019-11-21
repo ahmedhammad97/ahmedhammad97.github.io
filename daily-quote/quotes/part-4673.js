@@ -1,0 +1,1 @@
+var author4673 = "Mirkka Rekola", quotes4673 = ["The nights are no longer warm,","Without moving anything / I want to see / the way this autumn / makes the birds move.","Up down / on summer's lake / the flying ant / finds a wall in the air","Two there on the beach / as close together as nostrils. / Calm sea day."]

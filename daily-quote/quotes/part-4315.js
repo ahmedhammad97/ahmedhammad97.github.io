@@ -1,0 +1,1 @@
+var author4315 = "Manmohan Acharya", quotes4315 = ["The slippers of the mortal Earth, Now touched the chest of the Moon. Oh, It is shameful that"]

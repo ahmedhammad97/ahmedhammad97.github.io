@@ -1,0 +1,1 @@
+var author2313 = "François-René de Chateaubriand", quotes2313 = ["Every institution goes through three stages — utility, privilege, and abuse.","One does not learn how to die by killing others."]

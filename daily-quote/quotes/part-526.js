@@ -1,0 +1,1 @@
+var author526 = "Anything Goes", quotes526 = ["You're the smile On the Mona Lisa."]

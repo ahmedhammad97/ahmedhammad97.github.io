@@ -1,0 +1,1 @@
+var author690 = "Ayrton Senna", quotes690 = ["If you take away Eau Rouge, you take away the reason why I do this.","There are no small accidents here."]

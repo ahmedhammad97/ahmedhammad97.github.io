@@ -1,0 +1,1 @@
+var author6829 = "United States Congress", quotes6829 = ["To my mind Judas Iscariot was nothing but a low, mean, premature Congressman.","Suppose you were a member of Congress. And suppose you were an idiot. But I repeat myself.","Since pro means the opposite of con, can you give me an illustration? Progress and Congress."]

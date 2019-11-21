@@ -1,0 +1,1 @@
+var author4582 = "Michael Foot", quotes4582 = ["Think of it! A second Chamber selected by the Whips. A seraglio of eunuchs."]

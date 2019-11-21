@@ -1,0 +1,1 @@
+var author1 = "1914", quotes1 = ["Since 1914 the world has had a new character: a character of international anarchy."]

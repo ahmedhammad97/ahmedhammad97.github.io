@@ -1,0 +1,1 @@
+var author35 = "A. R. Rahman", quotes35 = ["I wanted to produce film songs that go beyond language or culture."]

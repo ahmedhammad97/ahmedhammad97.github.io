@@ -1,0 +1,1 @@
+var author1453 = "Cycling", quotes1453 = ["Life is like riding a bicycle. To keep your balance you must keep moving. ","Get a bicycle. You will not regret it, if you live."]

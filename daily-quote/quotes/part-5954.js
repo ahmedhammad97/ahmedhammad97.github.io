@@ -1,0 +1,1 @@
+var author5954 = "Samuel Paterson", quotes5954 = ["Books, like friends, should be few and well chosen."]

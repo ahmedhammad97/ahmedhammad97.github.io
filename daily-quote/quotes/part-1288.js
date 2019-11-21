@@ -1,0 +1,1 @@
+var author1288 = "Claude Fayette Bragdon", quotes1288 = ["Architecture is the concrete presentment in space of the soul of a people."]

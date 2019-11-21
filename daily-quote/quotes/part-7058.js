@@ -1,0 +1,1 @@
+var author7058 = "Wilkie Collins", quotes7058 = ["Men ruin themselves headlong for unworthy women.","I am nothing but a bundle of nerves dressed up to look like a man.","My hour for tea is half-past five, and my buttered toast waits for nobody."]

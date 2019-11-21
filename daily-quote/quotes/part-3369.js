@@ -1,0 +1,1 @@
+var author3369 = "Jeffrey David Sachs", quotes3369 = ["...History is written by the rich, and so the poor get blamed for everything."]

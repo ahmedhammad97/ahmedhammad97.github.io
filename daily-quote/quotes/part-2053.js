@@ -1,0 +1,1 @@
+var author2053 = "Erich Maria Remarque", quotes2053 = ["A hospital alone shows what war is."]

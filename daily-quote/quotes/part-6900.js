@@ -1,0 +1,1 @@
+var author6900 = "Video", quotes6900 = ["People want to watch whatever video they want to watch whenever they want to watch.","When you see yourself on video, do you like what you see? I've yet to meet someone who says yes.","Video killed the radio star."]

@@ -1,0 +1,1 @@
+var author1355 = "Conceptual model", quotes1355 = ["A conceptual model is a collection of concepts that together form a 'web of meaning'","A conceptual model is a model of the projected system that is independent of implementation details"]

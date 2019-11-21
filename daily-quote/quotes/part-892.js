@@ -1,0 +1,1 @@
+var author892 = "Bonnie Wright", quotes892 = ["I think everyone sometimes feels intimidated by themselves when they see themselves on the screen."]

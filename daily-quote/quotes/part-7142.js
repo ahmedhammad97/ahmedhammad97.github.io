@@ -1,0 +1,1 @@
+var author7142 = "William Jones (philologist)", quotes7142 = ["Than all Bocara's vaunted gold,Than all the gems of Samarcand.","Seven hours to law, to soothing slumber seven,Ten to the world allot, and all to heaven."]

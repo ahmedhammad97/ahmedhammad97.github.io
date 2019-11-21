@@ -1,0 +1,1 @@
+var author7270 = "Yeshayahu Leibowitz", quotes7270 = ["Our security has been diminished rather than enhanced as a result of the conquests in this war.","Most characteristic of the Halakhah is its lack of pathos.","The religion of halakhic practice is the religion of life itself.","Emancipation from the bondage of nature can only be brought about by the religion of Mitzvoth"]

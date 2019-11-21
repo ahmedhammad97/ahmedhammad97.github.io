@@ -1,0 +1,1 @@
+var author1062 = "Carlos Fuentes", quotes1062 = ["What the United States does best is to understand itself. What it does worst is understand others.","Don't classify me, read me. I'm a writer, not a genre.","No government functions without the grease of corruption."]

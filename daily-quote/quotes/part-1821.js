@@ -1,0 +1,1 @@
+var author1821 = "Ecclesiology", quotes1821 = ["A decorous simplicity is the characteristic of the Church of England.","The bishop is in the nature of an ecclesiastical sheriff."]

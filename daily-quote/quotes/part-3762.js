@@ -1,0 +1,1 @@
+var author3762 = "Josip Broz Tito", quotes3762 = ["It will do for the moment.","Those Chetniks up there who are now firing on us will have joined us within a year.","Kosovo is now the biggest problem confronting Yugoslavia"]

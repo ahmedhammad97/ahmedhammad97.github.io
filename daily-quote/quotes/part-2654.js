@@ -1,0 +1,1 @@
+var author2654 = "Grigori Rasputin", quotes2654 = ["God has seen your tears and heard your prayers. Fear not, the child will not die."]

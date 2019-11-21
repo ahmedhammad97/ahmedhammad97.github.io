@@ -1,0 +1,1 @@
+var author4562 = "Metaphysics", quotes4562 = ["The only way to avoid becoming a metaphysician is to say nothing.","The only way to avoid metaphysics is to avoid thinking.","All metaphysical theories are inconclusively vulnerable to positivist attack.","Mathematics is the only true metaphysics."]

@@ -1,0 +1,1 @@
+var author2054 = "Erich Raeder", quotes2054 = ["All wars will be settled by sea power."]

@@ -1,0 +1,1 @@
+var author6720 = "Tobias Smollett", quotes6720 = ["Facts are stubborn things.","Writing is all a lottery -- I have been a loser by the works of the greatest men of the age.","Thy fatal shafts unerring move,I bow before thine altar, Love! "]

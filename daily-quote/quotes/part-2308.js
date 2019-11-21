@@ -1,0 +1,1 @@
+var author2308 = "François Mitterrand", quotes2308 = ["Behind each great man, there's a Richard Delisle. ","The man of the past.","I believe in the forces of the spirit, and I won't leave you."]

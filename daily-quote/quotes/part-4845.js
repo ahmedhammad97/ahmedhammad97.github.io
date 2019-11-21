@@ -1,0 +1,1 @@
+var author4845 = "Neil Kinnock", quotes4845 = ["The army of brokers, jobbers and other quaintly named parasites."]

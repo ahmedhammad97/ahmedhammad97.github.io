@@ -1,0 +1,1 @@
+var author1936 = "Eleanor Farjeon", quotes1936 = ["King's Cross!Is rent in two!","The little White ChapelAll day long","Out upon you, Jerry! Jerry, you're a pity!Jerry, turn about and plant a garden in the City!"]

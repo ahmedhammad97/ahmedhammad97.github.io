@@ -1,0 +1,1 @@
+var author4075 = "Leon M. Lederman", quotes4075 = ["Science is not about status quo. It’s about revolution."]

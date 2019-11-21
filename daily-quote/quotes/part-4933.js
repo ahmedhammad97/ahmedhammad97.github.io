@@ -1,0 +1,1 @@
+var author4933 = "Norman Maclean", quotes4933 = ["The brain gives up a lot less easily than the body.","A mystery of the universe is how it has managed to survive with so much volunteer help."]

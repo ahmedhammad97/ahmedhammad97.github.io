@@ -1,0 +1,1 @@
+var author2591 = "Goa", quotes2591 = ["Hospitality is not just a word here -- it's a tradition."]

@@ -1,0 +1,1 @@
+var author2372 = "Frédéric Bastiat", quotes2372 = ["By virtue of exchange, one man's prosperity is beneficial to all others.","The profit of the one is the profit of the other.","Competition is merely the absence of oppression."]

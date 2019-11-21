@@ -1,0 +1,1 @@
+var author3432 = "Joan Fuster", quotes3432 = ["Every policy that we don't do, will be done against us.","There are Catalanists because there are Spanishers."]

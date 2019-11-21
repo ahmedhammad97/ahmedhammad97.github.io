@@ -1,0 +1,1 @@
+var author1058 = "Carl Schmitt", quotes1058 = ["Sovereign is he who decides on the exception.","The concept of the state presupposes the concept of the political.","That the state is an entity and in fact the decisive entity rests upon its political character.","All genuine political theories presuppose man to be evil."]

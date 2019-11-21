@@ -1,0 +1,1 @@
+var author4332 = "Marcia Cross", quotes4332 = ["Sorry. I'd much rather be gay than sleep with you just to prove I wasn't."]

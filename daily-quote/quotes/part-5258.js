@@ -1,0 +1,1 @@
+var author5258 = "Peter Wentz", quotes5258 = ["Whenever you say that homophobia is stupid, you just get called gay. "]

@@ -1,0 +1,1 @@
+var author3180 = "Jack Vidgen", quotes3180 = ["You are like a star in my nightYes I am","I don't sing a song without it meaning something to me, or adding my own interpretation to them."]

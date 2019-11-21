@@ -1,0 +1,1 @@
+var author43 = "Aaro Hellaakoski", quotes43 = ["When the early morning sun ","From his hole so wet and drenching "]

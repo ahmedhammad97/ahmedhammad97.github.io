@@ -1,0 +1,1 @@
+var author2065 = "Ernest J. Gaines", quotes2065 = ["All writers write about the past, and I try to make it come alive so you can see what happened."]

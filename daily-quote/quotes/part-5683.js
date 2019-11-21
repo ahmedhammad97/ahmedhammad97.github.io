@@ -1,0 +1,1 @@
+var author5683 = "Rick Warren", quotes5683 = ["It's not about you."]

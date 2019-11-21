@@ -1,0 +1,1 @@
+var author4703 = "Mohini", quotes4703 = ["O Lord I only want your blessings. There is no other purpose behind my devotion to you."]

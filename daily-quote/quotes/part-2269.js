@@ -1,0 +1,1 @@
+var author2269 = "Francis Parkman", quotes2269 = ["Versailles was a gulf into which the labor of France poured its earnings; and it was never full."]

@@ -1,0 +1,1 @@
+var author3753 = "Joseph Story", quotes3753 = ["He who seeks equity must do equity."]

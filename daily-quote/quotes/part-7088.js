@@ -1,0 +1,1 @@
+var author7088 = "William Caxton", quotes7088 = ["He that wil wynne he muste laboure and aventure."]

@@ -1,0 +1,1 @@
+var author2168 = "Fanny Kemble", quotes2168 = ["I want to do everything in the world that can be done.","Simplicity is a great element of good breeding."]

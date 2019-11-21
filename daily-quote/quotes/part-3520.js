@@ -1,0 +1,1 @@
+var author3520 = "John D. Barrow", quotes3520 = ["There is a good deal more to nothing than meets the eye."]

@@ -1,0 +1,1 @@
+var author4807 = "Nate Diaz", quotes4807 = ["You know what’s the real fight, the real money fight. It’s me"]

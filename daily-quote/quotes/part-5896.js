@@ -1,0 +1,1 @@
+var author5896 = "Russell L. Ackoff", quotes5896 = ["Over time, every way of thinking generates important problems that it cannot solve.","When a business is bought, it is bought for its potential—for its future, not its past.","Managers cannot learn from doing things right, only from doing them wrong"]

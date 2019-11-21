@@ -1,0 +1,1 @@
+var author7229 = "Wole Soyinka", quotes7229 = ["The man dies in all who keep silent in the face of tyranny."]

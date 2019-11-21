@@ -1,0 +1,1 @@
+var author3625 = "John O'Hara", quotes3625 = ["I have work to do, and I am afraid not to do it."]

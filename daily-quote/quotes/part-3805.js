@@ -1,0 +1,1 @@
+var author3805 = "Julian Assange", quotes3805 = ["Capable, generous men do not create victims, they nurture them."]

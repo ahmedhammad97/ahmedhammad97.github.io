@@ -1,0 +1,1 @@
+var author5146 = "Paul Fussell", quotes5146 = ["To those on both sides who suffered."]

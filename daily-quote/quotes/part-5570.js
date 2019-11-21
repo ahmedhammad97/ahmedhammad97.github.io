@@ -1,0 +1,1 @@
+var author5570 = "Regulation", quotes5570 = ["It is hardly lack of due process for the Government to regulate that which it subsidizes."]

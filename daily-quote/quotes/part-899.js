@@ -1,0 +1,1 @@
+var author899 = "Book of Lamentations", quotes899 = ["The Lord is good to those who wait for him, to the soul who seeks him."]

@@ -1,0 +1,1 @@
+var author2262 = "Frances Moore Lappé", quotes2262 = ["I've grown certain that the root of all fear is that we've been forced to deny who we are."]

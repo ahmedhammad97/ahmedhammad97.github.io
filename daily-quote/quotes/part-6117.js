@@ -1,0 +1,1 @@
+var author6117 = "Sibylline Oracles", quotes6117 = ["O MEN, why do ye vainly think on thingsToo lofty, as if ye immortal were?"]

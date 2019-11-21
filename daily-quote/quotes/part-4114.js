@@ -1,0 +1,1 @@
+var author4114 = "Liberation theology", quotes4114 = ["They shall build houses and inhabit them;"]

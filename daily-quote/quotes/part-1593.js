@@ -1,0 +1,1 @@
+var author1593 = "David Weinberger", quotes1593 = ["The cure to information overload is more information.","To a collector of curios, the dust is metadata.","Metadata liberates us, liberates knowledge."]

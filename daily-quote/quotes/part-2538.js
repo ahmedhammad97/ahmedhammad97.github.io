@@ -1,0 +1,1 @@
+var author2538 = "Georges Sorel", quotes2538 = ["All the future of socialism resides in the autonomous development of workers’ ."]

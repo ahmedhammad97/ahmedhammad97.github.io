@@ -1,0 +1,1 @@
+var author249 = "Alessandro Pavolini", quotes249 = ["He will be immediately avenged!"]

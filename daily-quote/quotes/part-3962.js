@@ -1,0 +1,1 @@
+var author3962 = "Kurt Gödel", quotes3962 = ["I like Islam, it is a consistent idea of religion and open-minded."]

@@ -1,0 +1,1 @@
+var author2067 = "Ernest Renan", quotes2067 = ["I can die when I wish to: that is my elixir of life."]

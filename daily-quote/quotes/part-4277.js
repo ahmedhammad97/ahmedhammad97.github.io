@@ -1,0 +1,1 @@
+var author4277 = "Mahavira", quotes4277 = ["Desistance from sin makes one entirely happy.","Kill not, cause no pain. Nonviolence is the greatest religion."]

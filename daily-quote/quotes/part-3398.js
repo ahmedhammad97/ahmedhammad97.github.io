@@ -1,0 +1,1 @@
+var author3398 = "Jesse Stuart", quotes3398 = ["I am a farmer singing at the plow"]

@@ -1,0 +1,1 @@
+var author1011 = "C. P. Scott", quotes1011 = ["Television? The word is half Latin and half Greek. No good can come of it."]

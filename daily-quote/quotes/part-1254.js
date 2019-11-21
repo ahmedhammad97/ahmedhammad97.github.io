@@ -1,0 +1,1 @@
+var author1254 = "Christopher Smart", quotes1254 = ["Too hard for any frog's digestion,To have his froghood call'd in question!"]

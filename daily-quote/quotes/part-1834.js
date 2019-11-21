@@ -1,0 +1,1 @@
+var author1834 = "Ed Wynn", quotes1834 = ["A comedian is not a man who opens a funny door. He opens a door funny."]

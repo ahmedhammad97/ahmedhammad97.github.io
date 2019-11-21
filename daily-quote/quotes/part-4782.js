@@ -1,0 +1,1 @@
+var author4782 = "N. R. Narayana Murthy", quotes4782 = ["Move from apathy to action. Aim at becoming better than me. Luck will favour those who are prepared","Respect, recognition, and reward flows out of performance. "]

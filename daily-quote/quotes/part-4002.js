@@ -1,0 +1,1 @@
+var author4002 = "Larisa Alexandrovna", quotes4002 = ["I think the Internet is to MSM what TV was to yellow journalism.","I say we pardon the turkeys, but not our elected officials."]

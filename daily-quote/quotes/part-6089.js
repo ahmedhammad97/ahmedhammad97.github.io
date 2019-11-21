@@ -1,0 +1,1 @@
+var author6089 = "Shearwater", quotes6089 = ["People got no respect for the dead; they roll new plans out neatly."]

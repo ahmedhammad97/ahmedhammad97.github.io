@@ -1,0 +1,1 @@
+var author5579 = "Religious police", quotes5579 = ["A member of the religious police cannot be judged.","[The religious police] have taken on the role of the policeman, judge and jury."]

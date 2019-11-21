@@ -1,0 +1,1 @@
+var author2718 = "Han Fei", quotes2718 = ["The way is the beginning of all beings and the measure of right and wrong.","To govern the state by law is to praise the right and blame the wrong.","Remote fountains are of little help to nearby fires."]

@@ -1,0 +1,1 @@
+var author7074 = "William Beveridge", quotes7074 = ["Scratch a pessimist and you find often a defender of privilege."]

@@ -1,0 +1,1 @@
+var author6816 = "Umar", quotes6816 = ["Take account of yourselves before your are brought to account.","Avoidance of sin is much better than the pain of remorse."]

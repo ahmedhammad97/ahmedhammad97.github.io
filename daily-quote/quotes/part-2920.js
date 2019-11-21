@@ -1,0 +1,1 @@
+var author2920 = "History of mathematics", quotes2920 = ["There are no absolutes... in mathematics or in its history.","In mathematics the art of asking questions is more valuable than solving problems.","I would rather discover a single [geometrical] demonstration than become king of the Persians.","Mathematics as an Element in the History of Thought."]

@@ -1,0 +1,1 @@
+var author3963 = "Kurt Hahn", quotes3963 = ["The passion of rescue reveals the highest dynamic of the human soul."]

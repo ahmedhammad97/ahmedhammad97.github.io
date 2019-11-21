@@ -1,0 +1,1 @@
+var author2331 = "Frederick E. Morgan", quotes2331 = ["Sound opinion is not the exclusive prerogative of those who are paid to give it."]

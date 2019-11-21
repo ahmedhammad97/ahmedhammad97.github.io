@@ -1,0 +1,1 @@
+var author3204 = "Jacques Parizeau", quotes3204 = ["Can you imagine feds saying we don't like your answers.","Well, in a case like this, what do we do? We spit in our hands and we start over!"]

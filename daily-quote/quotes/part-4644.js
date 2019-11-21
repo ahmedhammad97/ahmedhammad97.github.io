@@ -1,0 +1,1 @@
+var author4644 = "Mike Milbury", quotes4644 = ["Screw the Rangers. Screw the Devils.","I'm so disappointed that they came with their Eurotrash game."]

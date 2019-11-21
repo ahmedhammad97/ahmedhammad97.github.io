@@ -1,0 +1,1 @@
+var author7044 = "Why the lucky stiff", quotes7044 = ["And so, reaching futilely for answers, they blame the trees!","This was incredibly foolish. To live just to die. And to die so easily."]

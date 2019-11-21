@@ -1,0 +1,1 @@
+var author1677 = "Dietrich Bonhoeffer", quotes1677 = ["By our enemies Jesus means those who are quite intractable and utterly unresponsive to our love.","To everyone God is the kind of God he believes in."]

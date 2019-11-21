@@ -1,0 +1,1 @@
+var author4157 = "Lloyd Kaufman", quotes4157 = ["Our violence is, as you know, cartoon violence.","(We are) the herpes of American cinema (because) we aren't going anywhere..."]

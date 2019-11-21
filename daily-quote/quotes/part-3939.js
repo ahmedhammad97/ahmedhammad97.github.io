@@ -1,0 +1,1 @@
+var author3939 = "Kirsten Gillibrand", quotes3939 = ["She seems like me — serious and policy-focused.","My mother is a great hunter — she usually shoots our Thanksgiving turkey."]

@@ -1,0 +1,1 @@
+var author2323 = "Fred Polak", quotes2323 = ["My own philosophical position, if I may put it that way, is very briefly as follows:"]

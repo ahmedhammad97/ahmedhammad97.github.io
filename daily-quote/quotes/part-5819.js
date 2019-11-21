@@ -1,0 +1,1 @@
+var author5819 = "Roger Wolcott Sperry", quotes5819 = ["The upward thrust of evolution as part of the design becomes something to preserve and revere."]

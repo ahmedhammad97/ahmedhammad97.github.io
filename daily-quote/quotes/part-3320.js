@@ -1,0 +1,1 @@
+var author3320 = "Jay Leiderman", quotes3320 = ["This type of thing opens up the doors for Big Brother to come flying in...","Tin foil as reality.","He is a good person. He did a bad thing. ","Being quiet should be the default [when being questioned by the police]."]

@@ -1,0 +1,1 @@
+var author302 = "Alfred Jules Ayer", quotes302 = ["No moral system can rest solely on authority."]

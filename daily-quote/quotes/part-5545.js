@@ -1,0 +1,1 @@
+var author5545 = "Ray Kroc", quotes5545 = ["If you've got time to lean, you've got time to clean.","I suffer with you. I've never seen such stupid ballplaying in all my life!"]

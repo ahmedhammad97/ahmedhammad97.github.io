@@ -1,0 +1,1 @@
+var author2568 = "Gilles Deleuze", quotes2568 = ["Evaluations, in essence, are… ways of being, modes of existence of those who judge and evaluate."]

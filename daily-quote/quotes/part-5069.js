@@ -1,0 +1,1 @@
+var author5069 = "P. T. Barnum", quotes5069 = ["I am a showman by profession...and all the gilding shall make nothing else of me.","Politeness and civility are the best capital ever invested in business.","The best kind of charity is to help those who are willing to help themselves.","In fact, as a general thing, money-getters are the benefactors of our race."]

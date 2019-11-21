@@ -1,0 +1,1 @@
+var author2189 = "Felicia Hemans", quotes2189 = ["Alas for love, if thou wert all,And naught beyond, O Earth!","I had a hat. It was not all a hat,—Yet still I wore it on."]

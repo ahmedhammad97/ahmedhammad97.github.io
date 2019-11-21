@@ -1,0 +1,1 @@
+var author4095 = "Lesley Bricusse", quotes4095 = ["What kind of fool am I?I never fell in love.","The Candy Man can","In my heart she's my kind of girl."]

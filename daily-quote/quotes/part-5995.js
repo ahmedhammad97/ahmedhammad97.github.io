@@ -1,0 +1,1 @@
+var author5995 = "Sarcasm", quotes5995 = ["Sarcasm is the refuge of losers.","Sarcasm and compassion are two of the qualities that make life on earth tolerable.","Sarcasm: the last defense of the truly witless."]

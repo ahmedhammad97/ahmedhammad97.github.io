@@ -1,0 +1,1 @@
+var author1651 = "Desert", quotes1651 = ["Polish comes from the cities; wisdom from the desert.","What makes the desert beautiful is that it hides, somewhere, a well.","They make a desert and call it peace."]

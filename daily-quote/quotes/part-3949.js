@@ -1,0 +1,1 @@
+var author3949 = "Knowability of God", quotes3949 = ["If you comprehend, it is not God.","Great is the Lord, and greatly to be praised; his greatness is unsearchable."]

@@ -1,0 +1,1 @@
+var author3296 = "Jan Zwicky", quotes3296 = ["In the moment of creating I am aware neither of myself nor of others.","Lyric poetry is a kind of poetry that's literally musical.","When I write I am attempting to do justice to something I have glimpsed about the world."]

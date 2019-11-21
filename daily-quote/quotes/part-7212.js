@@ -1,0 +1,1 @@
+var author7212 = "Winfield Scott", quotes7212 = ["Say to the seceded States, Wayward sisters, depart in peace.","Lee is the greatest military genius in America, myself not excepted.","Peace won by compromise is usually a short lived achievement."]

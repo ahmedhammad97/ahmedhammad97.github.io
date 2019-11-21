@@ -1,0 +1,1 @@
+var author390 = "Anders Behring Breivik", quotes390 = ["To send a political activist to an asylum is more sadistic and evil than killing him."]

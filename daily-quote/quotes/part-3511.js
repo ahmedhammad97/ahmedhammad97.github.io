@@ -1,0 +1,1 @@
+var author3511 = "John Cleland", quotes3511 = ["All my foundation in virtue was no other than a total ignorance of vice."]

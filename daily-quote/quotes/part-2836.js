@@ -1,0 +1,1 @@
+var author2836 = "Henry George Liddell", quotes2836 = ["A good, square, stone house, placed on an eminence, facing the Bishop's Palace at Auckland.","A good, very good, not to say admirable schoolmaster, but then he is only a schoolmaster."]

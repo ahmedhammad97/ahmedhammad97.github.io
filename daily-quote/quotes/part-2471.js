@@ -1,0 +1,1 @@
+var author2471 = "George Gamow", quotes2471 = ["I feel that matter has properties which physics tells you.","So I am just sitting and waiting, listening, and if something exciting comes, I just jump in."]

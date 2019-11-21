@@ -1,0 +1,1 @@
+var author1143 = "Charles Ives", quotes1143 = ["Music is one of the ways that God has of beating in on man.","Stand up and take your dissonance like a man."]

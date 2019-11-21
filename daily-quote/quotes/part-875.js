@@ -1,0 +1,1 @@
+var author875 = "Bob Costas", quotes875 = ["Into left-center field and deep, THIS IS A TIE BALLGAME!","Grissom on the run... The team of the '90s has its World Championship!","Costas: But look who gets it next!Enberg: The Greatest! Oh my!","The men of teal are for real.","Back from the brink of elimination to the brink of the NBA Finals!"]

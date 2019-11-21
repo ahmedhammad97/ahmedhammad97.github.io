@@ -1,0 +1,1 @@
+var author678 = "Automation", quotes678 = ["Anything that can be automatically done for you can be automatically done to you."]

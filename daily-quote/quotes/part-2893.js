@@ -1,0 +1,1 @@
+var author2893 = "Hermann Minkowski", quotes2893 = ["Oh, that Einstein, always cutting lectures... I really would not believe him capable of it."]

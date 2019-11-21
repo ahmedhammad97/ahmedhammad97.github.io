@@ -1,0 +1,1 @@
+var author1761 = "Douglas Crockford", quotes1761 = ["The good thing about reinventing the wheel is that you can get a round one.","Don't worry about anything. Just do what you can and be the best you can be."]

@@ -1,0 +1,1 @@
+var author6617 = "Thomas Denison", quotes6617 = ["A serjeant is a soldier with a halbert, and a drummer is a soldier with a drum.","In case of private jurisdictions, the Court has inclined not to intermeddle.","None shall be disseised of his freehold (Magna Charta).","The custom of the city of London is a matter of fact."]

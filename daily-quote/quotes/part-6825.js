@@ -1,0 +1,1 @@
+var author6825 = "Union (United States)", quotes6825 = ["Our Union: It must be preserved.","If people see the Capitol going on, it is a sign we intend the Union shall go on.","The Union forever! Hurrah, boys! Hurrah! Down with the traitor, and up with the star!"]

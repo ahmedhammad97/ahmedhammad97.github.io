@@ -1,0 +1,1 @@
+var author6092 = "Sheikh Hasina", quotes6092 = ["We want to come out of the vicious circle of unhealthy politics.","World leaders should keep their word, particularly the developed countries."]

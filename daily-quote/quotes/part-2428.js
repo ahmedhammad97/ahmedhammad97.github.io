@@ -1,0 +1,1 @@
+var author2428 = "Gene Kelly", quotes2428 = ["Fred Astaire represented the aristocracy, I represented the proletariat."]

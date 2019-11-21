@@ -1,0 +1,1 @@
+var author6339 = "Sukanto Tanoto", quotes6339 = ["You Americans bring your accountants and lawyers. We are like Nike -- we just do it.","It doesn't makes sense. Why should we import (plywood)? Why not produce ourselves?"]

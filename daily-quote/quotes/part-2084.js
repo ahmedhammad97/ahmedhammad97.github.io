@@ -1,0 +1,1 @@
+var author2084 = "Eschatology", quotes2084 = ["His disciples said to Him, When will the Kingdom come?"]

@@ -1,0 +1,1 @@
+var author1710 = "Divinity", quotes1710 = ["What moments divine, what rapture serene.","Consider lost all the time in which you do not think of divinity."]

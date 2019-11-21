@@ -1,0 +1,1 @@
+var author409 = "Andrew Marr", quotes409 = ["Business never rests.","In history, the arrival of a small man in a big hat is rarely good news."]

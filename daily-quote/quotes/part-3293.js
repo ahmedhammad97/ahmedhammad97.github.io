@@ -1,0 +1,1 @@
+var author3293 = "Jan Smuts", quotes3293 = ["... the Jameson Raid was the real declaration of war.","History writes the word 'Reconciliation' over all her quarrels."]

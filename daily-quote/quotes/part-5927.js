@@ -1,0 +1,1 @@
+var author5927 = "Salil Shetty", quotes5927 = ["The question of the right to privacy must be one of the defining issues of our time."]

@@ -1,0 +1,1 @@
+var author3341 = "Jean Piaget", quotes3341 = ["If mutual respect does derive from unilateral respect, it does so by opposition."]

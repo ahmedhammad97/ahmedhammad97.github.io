@@ -1,0 +1,1 @@
+var author4184 = "Louis Hémon", quotes4184 = ["The door opened, and the men of the congregation began to come out of the church at Peribonka.","Love must give warmth and unfading color to every day of the dullest life."]

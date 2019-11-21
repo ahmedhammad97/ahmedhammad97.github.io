@@ -1,0 +1,1 @@
+var author4467 = "Mass culture", quotes4467 = ["In a public, as we may understand the term,"]

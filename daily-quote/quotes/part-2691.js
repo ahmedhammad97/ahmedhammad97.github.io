@@ -1,0 +1,1 @@
+var author2691 = "Gwyneth Paltrow", quotes2691 = ["You can’t be prejudiced just because it’s big budget.","Today, the power of women rings a bit differently and you can feel the shift."]

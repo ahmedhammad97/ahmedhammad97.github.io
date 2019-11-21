@@ -1,0 +1,1 @@
+var author1649 = "Derek Parfit", quotes1649 = ["We are paternalists when we make someone act in his own interests."]

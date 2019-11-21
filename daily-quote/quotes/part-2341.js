@@ -1,0 +1,1 @@
+var author2341 = "Free Speech Movement", quotes2341 = ["We have a saying in the movement that we don’t trust anybody over 30."]

@@ -1,0 +1,1 @@
+var author3237 = "James Franck", quotes3237 = ["In no other type of warfare does the advantage lie so heavily with the aggressor."]

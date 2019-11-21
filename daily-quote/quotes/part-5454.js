@@ -1,0 +1,1 @@
+var author5454 = "Publius Flavius Vegetius Renatus", quotes5454 = ["What can a soldier do who charges when out of breath?","Paucos uiros fortes natura procreat; bona institutione plures reddit industria."]

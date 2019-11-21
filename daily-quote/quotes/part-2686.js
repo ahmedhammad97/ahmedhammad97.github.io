@@ -1,0 +1,1 @@
+var author2686 = "Gustavo Gutiérrez", quotes2686 = ["Reason has, especially today, many other manifestations than philosophical ones.","The Church cannot be a prophet in our day if she herself is not turned to Christ.","The future of history belongs to the poor and exploited.","Through the persons who explicitly accept his Word, the Lord reveals the world to itself."]

@@ -1,0 +1,1 @@
+var author4506 = "Max Horkheimer", quotes4506 = ["Having given up autonomy, reason has become an instrument.","Answers determined by the social division of labor become truth as such."]

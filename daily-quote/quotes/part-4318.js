@@ -1,0 +1,1 @@
+var author4318 = "Manowar", quotes4318 = ["We care about our bands, the quality of music and the metal fans more than anyone else!","This is not Iron Maiden. This is not Judas Priest. This is not fucking Metallica. This is Manowar!"]

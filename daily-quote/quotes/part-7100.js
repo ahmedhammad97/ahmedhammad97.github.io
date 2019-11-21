@@ -1,0 +1,1 @@
+var author7100 = "William Edmondstoune Aytoun", quotes7100 = ["Give me but one hour of SCOTLAND,Let me see it ere I die. "]

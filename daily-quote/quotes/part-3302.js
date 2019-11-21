@@ -1,0 +1,1 @@
+var author3302 = "Jane Yolen", quotes3302 = ["“I’ll drive. You navigate.” He grinned. “I judge people by how well they read maps.”","Time may heal wounds, but it does not erase the scars.","She hated to lie but she hated arguments even more.","Wars do not make heroes of everyone.","Wars may make heroes of men, but not all the time."]

@@ -1,0 +1,1 @@
+var author3890 = "Keith Roberts", quotes3890 = ["A death was more than an ending; it was like pulling a thread from a richly patterned cloth.","She curled her lip. She had discovered cynicism."]

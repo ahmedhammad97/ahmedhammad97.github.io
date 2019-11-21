@@ -1,0 +1,1 @@
+var author6658 = "Thomas Sankara", quotes6658 = ["He who feeds you, controls you."]

@@ -1,0 +1,1 @@
+var author3100 = "Irrationality", quotes3100 = ["Irrationalism will use reason too, but without any feeling of obligation."]

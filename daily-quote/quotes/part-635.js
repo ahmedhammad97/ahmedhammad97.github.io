@@ -1,0 +1,1 @@
+var author635 = "Ashrita Furman", quotes635 = ["Everything is in slow motion down there and silent. It could replace psychotherapy.","Going beyond your every day capacity is such a fulfilling feeling.","Meditation gives you the capacity to overcome obstacles and go beyond your limitations.","I admit that most of my records are silly, but they do require serious training."]

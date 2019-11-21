@@ -1,0 +1,1 @@
+var author7188 = "William Soutar", quotes7188 = ["Art is for all — and the greatest art proves it."]

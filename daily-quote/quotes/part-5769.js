@@ -1,0 +1,1 @@
+var author5769 = "Robert Murray M'Cheyne", quotes5769 = ["One gem from that ocean is worth all the pebbles from earthly streams.","The sea ebbs and flows, but the rock remains unmoved.","Break my hard heart,Hide Thy sweet word."]

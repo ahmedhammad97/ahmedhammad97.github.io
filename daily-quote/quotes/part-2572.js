@@ -1,0 +1,1 @@
+var author2572 = "Giorgio Morandi", quotes2572 = ["I also believe there is nothing more surreal and nothing more abstract than reality."]

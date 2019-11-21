@@ -1,0 +1,1 @@
+var author2101 = "Eugene Field", quotes2101 = ["He could whip his weight in wildcats.","The best of all physiciansIs apple pie and cheese!","It always was the biggest fish I caught that got away."]

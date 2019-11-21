@@ -1,0 +1,1 @@
+var author6974 = "Walter F. Buckley", quotes6974 = ["Systems theory provides:","A system is more than the sum of its parts."]

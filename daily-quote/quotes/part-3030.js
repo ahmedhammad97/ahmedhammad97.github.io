@@ -1,0 +1,1 @@
+var author3030 = "Impropriety", quotes3030 = ["Impropriety is the soul of wit."]

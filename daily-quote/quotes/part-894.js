@@ -1,0 +1,1 @@
+var author894 = "Book of Deuteronomy", quotes894 = ["Thou shalt be perfect with the Lord thy God."]

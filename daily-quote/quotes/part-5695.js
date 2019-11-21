@@ -1,0 +1,1 @@
+var author5695 = "Rita Levi-Montalcini", quotes5695 = ["At 100, I have a mind that is superior — thanks to experience — than when I was 20.","After centuries of dormancy, young women can now look toward a future moulded by their own hands."]

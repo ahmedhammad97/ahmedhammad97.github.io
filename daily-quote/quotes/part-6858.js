@@ -1,0 +1,1 @@
+var author6858 = "Vacuum", quotes6858 = ["When you look at a vacuum in a quantum theory of fields, it isn't exactly nothing."]

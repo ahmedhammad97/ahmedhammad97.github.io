@@ -1,0 +1,1 @@
+var author2348 = "Freethought", quotes2348 = ["One should not have the arrogance to declare that God does not exist.","With most men, unbelief in one thing springs from blind belief in another."]

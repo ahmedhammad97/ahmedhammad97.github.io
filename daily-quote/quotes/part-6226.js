@@ -1,0 +1,1 @@
+var author6226 = "Sports", quotes6226 = ["By sports like these are all their cares beguil'd,The sports of children satisfy the child.","It is a poor sport that is not worth the candle.","When I play with my cat, who knows whether I do not make her more sport, than she makes me?","The addiction to sports ... marks an arrested development of the man's moral nature."]

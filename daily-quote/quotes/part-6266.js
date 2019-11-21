@@ -1,0 +1,1 @@
+var author6266 = "Stephen L. Carter", quotes6266 = ["Rumor is rarely more interesting than fact, but it is always more readily available.","The racists are having their revenge."]

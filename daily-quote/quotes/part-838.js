@@ -1,0 +1,1 @@
+var author838 = "Billy Joe Shaver", quotes838 = ["I'm a serious guy, and hungry, too.","Hopefully things will work out where we become friends enough so that he gives me back my bullet."]

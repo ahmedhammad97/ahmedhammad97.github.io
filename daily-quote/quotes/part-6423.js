@@ -1,0 +1,1 @@
+var author6423 = "Talmud", quotes6423 = ["Teach me the whole Torah while I stand on one foot.","A legal decision depends not on the teacher's age, but on the force of his argument.","A man should endeavor to be as pliant as a reed, and never unyielding like the cedar.","If your friend calls you a donkey, prepare a saddle for your back."]

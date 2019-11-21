@@ -1,0 +1,1 @@
+var author4798 = "Narcotics Anonymous", quotes4798 = ["Insanity is repeating the same mistakes and expecting different results."]

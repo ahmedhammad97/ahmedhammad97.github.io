@@ -1,0 +1,1 @@
+var author2354 = "Friedrich Engels", quotes2354 = ["The state is not “abolished,” it withers away.","The slave is outside competition; the proletarian is in it and experiences all its vagaries.","Abolish competition and replace it with association.","It is a universal revolution and will, accordingly, have a universal range."]

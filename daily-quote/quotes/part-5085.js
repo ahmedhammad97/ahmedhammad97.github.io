@@ -1,0 +1,1 @@
+var author5085 = "Pantheism", quotes5085 = ["To me, nature is sacred. Trees are my temples and forests are my cathedrals."]

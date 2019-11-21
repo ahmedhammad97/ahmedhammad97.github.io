@@ -1,0 +1,1 @@
+var author254 = "Alex Kozinski", quotes254 = ["The parties are advised to chill."]

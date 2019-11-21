@@ -1,0 +1,1 @@
+var author3665 = "John Taylor (1578–1653)", quotes3665 = ["In paper, many a poet now survives","God sends meat, and the Devil sends cooks.","'Tis a mad world (my masters) and in sadnes / I travail'd madly in these dayes of madnes."]

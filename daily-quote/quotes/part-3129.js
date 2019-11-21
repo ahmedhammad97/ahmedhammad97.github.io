@@ -1,0 +1,1 @@
+var author3129 = "Isoroku Yamamoto", quotes3129 = ["The fiercest serpent may be overcome by a swarm of ants."]

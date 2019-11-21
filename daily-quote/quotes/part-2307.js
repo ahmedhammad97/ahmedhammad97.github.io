@@ -1,0 +1,1 @@
+var author2307 = "François Fénelon", quotes2307 = ["The presence of God calms the soul, and gives it quiet and repose.","God never makes us sensible of our weakness except to give us of His strength.","If we love Him infinitely more than we do ourselves, we make an unconditional sacr"]

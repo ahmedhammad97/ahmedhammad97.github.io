@@ -1,0 +1,1 @@
+var author3694 = "John of the Cross", quotes3694 = ["There is nothing better or more necessary than love.","If you wish to attain holy recollection, you will do so not by receiving but by denying.","Whoever flees prayer flees all that is good."]

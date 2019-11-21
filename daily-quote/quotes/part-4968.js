@@ -1,0 +1,1 @@
+var author4968 = "Object-orientation", quotes4968 = ["Object-oriented design is the roman numerals of computing."]

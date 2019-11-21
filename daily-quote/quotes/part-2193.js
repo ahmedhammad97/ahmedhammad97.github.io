@@ -1,0 +1,1 @@
+var author2193 = "Feng Shih-kuan", quotes2193 = ["I would not support Taiwan independence.","We should hide our strength rather than put it on display."]

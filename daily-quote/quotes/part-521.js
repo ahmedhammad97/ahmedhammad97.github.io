@@ -1,0 +1,1 @@
+var author521 = "Ants", quotes521 = ["None preaches better than the ant, and she says nothing.","It is not enough to be industrious; so are the ants. What are you industrious about?","Go to the ant, thou sluggard; consider her ways, and be wise."]

@@ -1,0 +1,1 @@
+var author3283 = "James Thomson (B.V.)", quotes3283 = ["Yet why evoke the spectres of black nightTo blot the sunshine of exultant years?","Yet I strode on austere;No hope could have no fear."]

@@ -1,0 +1,1 @@
+var author1622 = "Deinonychus", quotes1622 = ["Put a leopard and a [Deinonychus] together and the former would be in trouble."]

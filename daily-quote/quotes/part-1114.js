@@ -1,0 +1,1 @@
+var author1114 = "Charlemagne", quotes1114 = ["Right action is better than knowledge; but in order to do what is right, we must know what is right."]

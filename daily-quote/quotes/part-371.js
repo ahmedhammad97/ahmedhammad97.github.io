@@ -1,0 +1,1 @@
+var author371 = "Amy Carmichael", quotes371 = ["One can give without loving, but one cannot love without giving"]

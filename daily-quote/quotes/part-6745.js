@@ -1,0 +1,1 @@
+var author6745 = "Tomáš Baťa", quotes6745 = ["The purpose of the Business Colleges is to teach their students to create values by honest work.","Financial recovery must be preceded by moral recovery."]

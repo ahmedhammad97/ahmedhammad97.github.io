@@ -1,0 +1,1 @@
+var author5965 = "Sand", quotes5965 = ["And it stood still upon the sand of the sea."]

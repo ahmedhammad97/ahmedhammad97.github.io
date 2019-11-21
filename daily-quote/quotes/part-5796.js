@@ -1,0 +1,1 @@
+var author5796 = "Robert Venturi", quotes5796 = ["Less is a bore.","Main Street is almost alright."]

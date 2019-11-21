@@ -1,0 +1,1 @@
+var author6246 = "Statism", quotes6246 = ["Government is a disease masquerading as its own cure.","War breeds collectivism and statism.","States originate in conquest and flourish through war.","War made the state, and the state made war."]

@@ -1,0 +1,1 @@
+var author1825 = "Ecology", quotes1825 = ["A Healthy Ecology is the Basis for a Healthy Economy","To halt the decline of an ecosystem, it is necessary to think like an ecosystem."]

@@ -1,0 +1,1 @@
+var author3632 = "John Pilger", quotes3632 = ["The censorship is such on television in the US that films like mine don't stand a chance."]

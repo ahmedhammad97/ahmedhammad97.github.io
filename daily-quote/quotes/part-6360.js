@@ -1,0 +1,1 @@
+var author6360 = "Susan Cooper", quotes6360 = ["All knowledge is sacred, but it should not be secret.","Never dismiss anyone’s value until you know him.","Jane clutched her mug like a talisman of reality.","He made the quick apologetic grimace that seemed to be as near as he ever came to a smile.","That one is so sharp he will cut himself."]

@@ -1,0 +1,1 @@
+var author6293 = "Steven Brust", quotes6293 = ["When there's nothing you can do except worry, that's a good time to worry."]

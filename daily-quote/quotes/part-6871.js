@@ -1,0 +1,1 @@
+var author6871 = "Vanna White", quotes6871 = ["It's not the most intellectual job in the world, but I do have to know the letters."]

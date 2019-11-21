@@ -1,0 +1,1 @@
+var author5251 = "Peter T. King", quotes5251 = ["Ann Coulter has become a legend in her own mind."]

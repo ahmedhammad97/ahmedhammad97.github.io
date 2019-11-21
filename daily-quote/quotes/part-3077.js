@@ -1,0 +1,1 @@
+var author3077 = "Interest", quotes3077 = ["As soon as interest is abolished, inflation becomes unnecessary..."]

@@ -1,0 +1,1 @@
+var author3764 = "José Antonio Primo de Rivera", quotes3764 = ["Life is not a firework to be let off at the end of a party."]

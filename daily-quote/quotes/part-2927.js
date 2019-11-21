@@ -1,0 +1,1 @@
+var author2927 = "Holbrook Jackson", quotes2927 = ["Suffer fools gladly; they may be right."]

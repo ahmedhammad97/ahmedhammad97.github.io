@@ -1,0 +1,1 @@
+var author7192 = "William Temple", quotes7192 = ["Whoever converses much among the old books, will be something hard to please among the new."]

@@ -1,0 +1,1 @@
+var author833 = "Bill Raftery", quotes833 = ["Give it to the big fella!","Send it in, Jerome!","...with the kiss!","With a sweet kiss, off the glass..."]

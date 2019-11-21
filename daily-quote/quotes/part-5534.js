@@ -1,0 +1,1 @@
+var author5534 = "Randomness", quotes5534 = ["How dare we speak of the laws of chance? Is not chance the antithesis of all law?","The generation of random numbers is too important to be left to chance.","Random numbers should not be generated with a method chosen at random."]

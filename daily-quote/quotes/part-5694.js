@@ -1,0 +1,1 @@
+var author5694 = "Rita Hayworth", quotes5694 = ["I have always felt that one of the secrets of real beauty is simplicity.","Movies were much better in the days when I was doing them.","I'm an afternoon person.","Nobody makes up my mind for me. They used to at Columbia."]

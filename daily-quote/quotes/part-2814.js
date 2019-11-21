@@ -1,0 +1,1 @@
+var author2814 = "Henri Cartier-Bresson", quotes2814 = ["I am a visual man. I watch, watch, watch. I understand things through my eyes."]

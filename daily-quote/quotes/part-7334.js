@@ -1,0 +1,1 @@
+var author7334 = "İsmail Enver", quotes7334 = ["All who seek to enrich those who do not work should be destroyed.","If the Russians retreat, they are done."]

@@ -1,0 +1,1 @@
+var author4363 = "Maria Montessori", quotes4363 = ["Never help a child with a task at which he feels he can succeed.","The best instruction is that which uses the least words sufficient for the task."]

@@ -1,0 +1,1 @@
+var author3898 = "Ken Olsen", quotes3898 = ["There is no reason for any individual to have a computer in his home."]

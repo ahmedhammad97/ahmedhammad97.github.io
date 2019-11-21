@@ -1,0 +1,1 @@
+var author4272 = "Magnificat", quotes4272 = ["And Mary said, My soul doth magnify the Lord,"]

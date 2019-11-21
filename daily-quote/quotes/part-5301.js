@@ -1,0 +1,1 @@
+var author5301 = "Philology", quotes5301 = ["Philology always leads to crime."]

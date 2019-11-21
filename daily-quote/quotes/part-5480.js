@@ -1,0 +1,1 @@
+var author5480 = "Quentin Tarantino", quotes5480 = ["Violence is a form of cinematic entertainment.","I look at Death Proof and realize I had too much time.","I am a genre lover &ndash; everything from spaghetti western to samurai movie.","To me, torture would be watching sports on television."]

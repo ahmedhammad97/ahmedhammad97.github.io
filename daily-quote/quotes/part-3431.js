@@ -1,0 +1,1 @@
+var author3431 = "Joan Didion", quotes3431 = ["Writers are always selling somebody out.","Self-respect is a question of recognizing that anything worth having has a price.","We tell ourselves stories in order to live."]

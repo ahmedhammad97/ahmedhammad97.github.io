@@ -1,0 +1,1 @@
+var author2516 = "George Stephanopoulos", quotes2516 = ["The President has kept all the promises he intended to keep."]

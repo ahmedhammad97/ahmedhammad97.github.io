@@ -1,0 +1,1 @@
+var author2764 = "Harry Harrison (writer)", quotes2764 = ["The crossbows twanged like harps of death.","Their personal policy has become their planetary policy—and that’s never a very smart thing.","Without being too clinical, let’s say his brain was affected."]

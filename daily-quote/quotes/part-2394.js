@@ -1,0 +1,1 @@
+var author2394 = "Gain", quotes2394 = ["And if you mean to profit, learn to please.","No profit grows where is no pleasure ta'en;In brief, sir, study what you most affect.","Everywhere in life, the true question is not what we gain, but what we do."]

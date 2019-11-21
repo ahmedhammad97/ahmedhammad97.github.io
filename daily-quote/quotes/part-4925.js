@@ -1,0 +1,1 @@
+var author4925 = "Norm Schryer", quotes4925 = ["When code and comments disagree, both are probably wrong."]

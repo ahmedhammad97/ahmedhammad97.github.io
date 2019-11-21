@@ -1,0 +1,1 @@
+var author2670 = "Guillotine", quotes2670 = ["And if my thought-dreams could be seen, they'd probably put my head in a guillotine."]

@@ -1,0 +1,1 @@
+var author4372 = "Marine Le Pen", quotes4372 = ["Now, the dividing line is not between left and right but globalists and patriots.","France will be led by a woman, either me or Mrs. Merkel."]

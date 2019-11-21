@@ -1,0 +1,1 @@
+var author6216 = "Speed of light", quotes6216 = ["The speed of light sucks.","Attention spans get very weak at the speed of light, and that goes along with a very week identity.","Inflation itself proceeds at a speed faster than the measured speed of light."]

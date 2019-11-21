@@ -1,0 +1,1 @@
+var author6847 = "Urbanization", quotes6847 = ["Urbanization is the advent of edge species.","The accumulation of capital and misery go hand in hand, concentrated in space."]

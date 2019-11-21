@@ -1,0 +1,1 @@
+var author3883 = "Katrina Pierson", quotes3883 = ["Gay is not normal, accept that.","So what? They’re Muslim.","There is nothing to square. I support Mr. Trump and his policies 100 percent."]

@@ -1,0 +1,1 @@
+var author1923 = "Efficiency", quotes1923 = ["There is an efficiency case for an institutional welfare state.","The ultimate measurement is effectiveness, not efficiency."]

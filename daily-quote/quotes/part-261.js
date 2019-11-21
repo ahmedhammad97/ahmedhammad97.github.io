@@ -1,0 +1,1 @@
+var author261 = "Alexander Borodin", quotes261 = ["Music is a pastime, a relaxation from more serious occupations."]

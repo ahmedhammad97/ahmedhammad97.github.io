@@ -1,0 +1,1 @@
+var author1090 = "Catherine II of Russia", quotes1090 = ["I like to praise and reward loudly, to blame quietly.","I will live to make myself not feared.","Your wit makes others witty.","A great wind is blowing, and that gives you either imagination or a headache.","Power without a nation's confidence is nothing.","From the age of ten, Peter III was partial to drink."]

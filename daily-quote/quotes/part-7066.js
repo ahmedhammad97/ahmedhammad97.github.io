@@ -1,0 +1,1 @@
+var author7066 = "Willard van Orman Quine", quotes7066 = ["A fancifully fancyless medium of unvarnished news.","Logic chases truth up the tree of grammar.","Set theory in sheep's clothing.","Necessity resides in the way we talk about things, not in the things we talk about.","Implication is thus the very texture of our web of belief, and logic is the theory that traces it."]

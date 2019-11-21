@@ -1,0 +1,1 @@
+var author7195 = "William Wallace", quotes7195 = ["I have brought you to the ring, now dance if you can."]

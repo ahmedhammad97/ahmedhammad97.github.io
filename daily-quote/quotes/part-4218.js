@@ -1,0 +1,1 @@
+var author4218 = "Ludwig von Bertalanffy", quotes4218 = ["Wholeness [Ganzheit], Gestalt, is the primary attribute of life.","The stream of life is maintained only in continuous flow of matter through all groups of organisms."]

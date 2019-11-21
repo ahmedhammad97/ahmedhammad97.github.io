@@ -1,0 +1,1 @@
+var author5762 = "Robert Lutz", quotes5762 = ["The electrification of the automobile is inevitable."]

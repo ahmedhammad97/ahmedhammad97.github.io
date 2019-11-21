@@ -1,0 +1,1 @@
+var author4528 = "Mechthild of Magdeburg", quotes4528 = ["What we know is as nothing, if we do not love God properly in all things."]

@@ -1,0 +1,1 @@
+var author7332 = "Íngrid Betancourt", quotes7332 = ["A: M-hm. Most of the time, I would say.","Q: Were you tortured?","A: There are things that I don't want to talk about.","Q: Were there any other women among the hostages?"]

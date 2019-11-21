@@ -1,0 +1,1 @@
+var author6273 = "Stephen Vincent Benét", quotes6273 = ["Eternally the choking steam goes up From the black pools of seething oil...","A soul. A soul is nothing. Can you see it, smell it, touch it? No.","You will have money and all that money can buy."]

@@ -1,0 +1,1 @@
+var author1657 = "Destruction", quotes1657 = ["You cannot seek Destruction and return unscathed."]

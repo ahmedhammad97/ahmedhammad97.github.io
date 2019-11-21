@@ -1,0 +1,1 @@
+var author48 = "Aaron Sorkin", quotes48 = ["Socializing on the internet is to socializing, what reality TV is to reality."]

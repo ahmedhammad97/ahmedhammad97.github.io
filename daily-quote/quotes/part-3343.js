@@ -1,0 +1,1 @@
+var author3343 = "Jean Vanier", quotes3343 = ["The strong need the weak in order to become more human, more compassionate."]

@@ -1,0 +1,1 @@
+var author4627 = "Michelangelo Antonioni", quotes4627 = ["Hollywood is like being nowhere and talking to nobody about nothing.","People are always misquoting me.","Is it important to show why a character is what he is? No. He is. That's all."]

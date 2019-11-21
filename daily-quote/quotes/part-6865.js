@@ -1,0 +1,1 @@
+var author6865 = "Van Jones", quotes6865 = ["The time has come to move beyond eco-elitism to eco-populism."]

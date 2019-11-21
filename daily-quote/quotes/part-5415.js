@@ -1,0 +1,1 @@
+var author5415 = "Princess Marie of Denmark", quotes5415 = ["I sometimes miss the anonymity and walking around without makeup on and having messy hair."]

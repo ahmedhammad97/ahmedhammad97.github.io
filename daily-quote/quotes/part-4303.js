@@ -1,0 +1,1 @@
+var author4303 = "Man a Machine", quotes4303 = ["If there is a revelation, it can not then contradict nature.","One needs only eyes to see the necessary influence of old age on reason.","[I]magination is the soul, since it plays all the roles of the soul."]

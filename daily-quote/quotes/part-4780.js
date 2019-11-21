@@ -1,0 +1,1 @@
+var author4780 = "Myrddin Wyllt", quotes4780 = ["Afallen pen. blodev essplit.Atiff inargel in argoydit."]

@@ -1,0 +1,1 @@
+var author560 = "Aristides de Sousa Mendes", quotes560 = ["Even if I am dismissed, I can only act as a Christian, as my conscience tells me.","I could not have acted otherwise, and I therefore accept all that has befallen me with love.","I would stand with God against man, rather than with man against God."]

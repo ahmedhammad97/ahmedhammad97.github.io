@@ -1,0 +1,1 @@
+var author5065 = "P. D. Ouspensky", quotes5065 = ["Possibly the most interesting first impression of my life came from the world of dreams.","The greatest barrier to consciousness is the belief that one is already conscious."]

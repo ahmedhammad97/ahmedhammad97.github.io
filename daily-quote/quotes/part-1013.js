@@ -1,0 +1,1 @@
+var author1013 = "C. S. Forester", quotes1013 = ["When a man who is drinking neat gin starts talking about his mother he is past all argument.","The lucky man is he who knows how much to leave to chance."]

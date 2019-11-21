@@ -1,0 +1,1 @@
+var author14 = "A Child's History of England", quotes14 = ["It is much easier to burn men than to burn their opinions."]

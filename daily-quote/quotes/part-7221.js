@@ -1,0 +1,1 @@
+var author7221 = "Within a Budding Grove", quotes7221 = ["Fashions change, being themselves begotten of the desire for change."]

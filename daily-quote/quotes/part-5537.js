@@ -1,0 +1,1 @@
+var author5537 = "Rati Tsiteladze", quotes5537 = ["‘I Owe My Success to My Failure‘."]

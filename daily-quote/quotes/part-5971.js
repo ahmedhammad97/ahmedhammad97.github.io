@@ -1,0 +1,1 @@
+var author5971 = "Sanity", quotes5971 = ["Love, n. A temporary insanity curable by marriage...","Sanity is madness put to good uses; waking life is a dream controlled.","I must confess that I lost faith in the sanity of the world."]

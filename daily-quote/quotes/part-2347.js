@@ -1,0 +1,1 @@
+var author2347 = "Freemasonry", quotes2347 = ["Masonry is not a religion. He who makes of it a religious belief, falsifies and denaturalizes it."]

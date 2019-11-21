@@ -1,0 +1,1 @@
+var author7129 = "William Henry Harrison", quotes7129 = ["The strongest of all governments is that which is most free.","The only legitimate right to govern is an express grant of power from the governed."]

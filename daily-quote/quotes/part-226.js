@@ -1,0 +1,1 @@
+var author226 = "Albert Szent-Györgyi", quotes226 = ["Research is to see what everybody has seen and think what nobody has thought. ","Discovery consists of looking at the same thing as everyone else and thinking something different.","Life is water, dancing to the tune of macro molecules."]

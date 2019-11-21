@@ -1,0 +1,1 @@
+var author645 = "Astrology", quotes645 = ["He considered horoscopes as silly as spectacles on a cow.","Astrology is a disease, not a science."]

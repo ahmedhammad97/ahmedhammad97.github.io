@@ -1,0 +1,1 @@
+var author4503 = "Max Ernst", quotes4503 = ["Woman's nakedness is wiser than the teachings of the philosophers. [the title of his essay]","A painter may know what he does not want.","Eternity","The painter","Sanctuary"]

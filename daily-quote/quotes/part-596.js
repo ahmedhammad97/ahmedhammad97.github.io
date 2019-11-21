@@ -1,0 +1,1 @@
+var author596 = "Arthur G. Bedeian", quotes596 = ["Several features or attributes of organizations can therefore be recognized "]

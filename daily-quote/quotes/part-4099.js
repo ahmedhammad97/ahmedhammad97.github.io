@@ -1,0 +1,1 @@
+var author4099 = "Leslie Z. Benet", quotes4099 = ["Even though it’s applied science we’re dealin’ with, it still is&nbsp;– science!"]

@@ -1,0 +1,1 @@
+var author1186 = "Chauncey Depew", quotes1186 = ["I get my exercise acting as pallbearer to my friends who exercise.","There are millions of stories in the world, and several hundred of them good ones.","A witty illustration or an apt story will accomplish more than columns of argument."]

@@ -1,0 +1,1 @@
+var author752 = "Bell hooks", quotes752 = ["Black women control the world. We are through being discriminated against.","People with healthy self-esteem do not need to create pretend identities."]

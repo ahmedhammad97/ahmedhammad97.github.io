@@ -1,0 +1,1 @@
+var author6027 = "Sean Penn", quotes6027 = ["You tolerate me. You really tolerate me.","Thank you, you Commie, homo-loving sons of guns."]

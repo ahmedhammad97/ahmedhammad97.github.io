@@ -1,0 +1,1 @@
+var author988 = "Burt Reynolds", quotes988 = ["My movies were the kind they show in prisons and airplanes, because nobody can leave.","You can only hold your stomach in for so many years.","I can sing as well as Fred Astaire can act."]

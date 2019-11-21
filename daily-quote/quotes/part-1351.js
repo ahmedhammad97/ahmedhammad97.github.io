@@ -1,0 +1,1 @@
+var author1351 = "Computer science", quotes1351 = ["The purpose of computing is insight, not numbers.","Computer science is neither mathematics nor electrical engineering","Any problem in computer science can be solved with another level of indirection."]

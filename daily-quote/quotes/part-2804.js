@@ -1,0 +1,1 @@
+var author2804 = "Helena Modjeska", quotes2804 = ["It is never right to be more Catholic than the Pope."]

@@ -1,0 +1,1 @@
+var author950 = "Brian Mulroney", quotes950 = ["Peter Newman: Go fuck yourself. Thank you. Good night."]

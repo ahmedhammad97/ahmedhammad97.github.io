@@ -1,0 +1,1 @@
+var author4581 = "Michael Flanders", quotes4581 = ["Pity the poor old rhino withA bodger on its bonce.","The bottle-nosed whale is a furlong long,But headstrong strong","I'm a g-nu, The g-nicest work of g-nature in the zoo","Hold very tight pleaseTing ting","Son, son, I admire your sincerity. Always be sincere - whether you mean it or not."]

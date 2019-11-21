@@ -1,0 +1,1 @@
+var author1075 = "Carson Cistulli", quotes1075 = ["I read a book not to find its meaning, but to find my happiness.","Race ain’t nothing but a number."]

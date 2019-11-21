@@ -1,0 +1,1 @@
+var author3304 = "Janis Joplin", quotes3304 = ["Tomorrow never happens. It's all the same fucking day, man.","Fourteen heart attacks and he had to die in my week. In MY week.","One good man,It’s only everything..."]

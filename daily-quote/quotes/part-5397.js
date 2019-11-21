@@ -1,0 +1,1 @@
+var author5397 = "Prediction", quotes5397 = ["As with anything else, there are good and bad ways to forecast.","The only function of economic forecasting is to make astrology look respectable."]

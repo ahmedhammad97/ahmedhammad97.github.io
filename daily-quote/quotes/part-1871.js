@@ -1,0 +1,1 @@
+var author1871 = "Edward Bernays", quotes1871 = ["For the same reason I read the National Geographic, I like to see places I will never visit.","The best place to find things: the public library.","The best defense against propaganda: more propaganda.","Propaganda is the executive arm of the invisible government."]

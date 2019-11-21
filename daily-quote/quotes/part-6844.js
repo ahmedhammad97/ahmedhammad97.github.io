@@ -1,0 +1,1 @@
+var author6844 = "Upton Sinclair", quotes6844 = ["I aimed at the public's heart, and by accident I hit it in the stomach."]

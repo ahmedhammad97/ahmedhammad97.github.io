@@ -1,0 +1,1 @@
+var author6942 = "Vyacheslav Molotov", quotes6942 = ["Only a fool would attack us.","We cannot lose Poland. If this line is crossed, they will grab us, too.","The trouble with free elections is that you never know how they are going to turn out.","There is no alternative to class struggle."]

@@ -1,0 +1,1 @@
+var author6175 = "Social organization", quotes6175 = ["The economic system is, in effect, a mere function of social organization."]

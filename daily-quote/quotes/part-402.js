@@ -1,0 +1,1 @@
+var author402 = "Andrew Abbott", quotes402 = ["Education doesn’t have aims. It is the aim of other things."]

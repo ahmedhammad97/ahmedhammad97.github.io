@@ -1,0 +1,1 @@
+var author3806 = "Julian Huxley", quotes3806 = ["Sooner or later, false thinking brings wrong conduct."]

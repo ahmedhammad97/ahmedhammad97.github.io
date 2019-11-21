@@ -1,0 +1,1 @@
+var author4864 = "New England", quotes4864 = ["The one great poem of New England is her Sunday.","One of the brightest gems in the New England weather is the dazzling uncertainty of it."]

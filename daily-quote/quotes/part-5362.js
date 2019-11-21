@@ -1,0 +1,1 @@
+var author5362 = "Political correctness", quotes5362 = ["Political correctness is tyranny with manners.","If I could believe that this was said sincerely, I could put up with anything.","Immoral (definition): Obsolete expression meaning politically incorrect. "]

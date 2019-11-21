@@ -1,0 +1,1 @@
+var author2381 = "G. Gordon Liddy", quotes2381 = ["Obviously, crime pays, or there'd be no crime."]

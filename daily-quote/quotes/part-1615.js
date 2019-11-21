@@ -1,0 +1,1 @@
+var author1615 = "Deed", quotes1615 = ["God forbid, that a man should lose his estate by losing his title deeds.","There is not more difference betwixt a grant and feoffment, than betwixt one egg and another.","Immemorial enjoyment is the most solid of all titles."]

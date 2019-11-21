@@ -1,0 +1,1 @@
+var author2961 = "Hsu Shui-teh", quotes2961 = ["The living room is a factory and the rooftop is a farm."]

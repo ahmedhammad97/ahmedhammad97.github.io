@@ -1,0 +1,1 @@
+var author3900 = "Kenichi Ohmae", quotes3900 = ["In Japan, organizations and people in the organization are synonymous. ","Rowing harder doesn't help if the boat is headed in the wrong direction."]

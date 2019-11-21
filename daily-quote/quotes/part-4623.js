@@ -1,0 +1,1 @@
+var author4623 = "Michel Petrucciani", quotes4623 = ["Sometimes I think someone upstairs saved me from being ordinary."]

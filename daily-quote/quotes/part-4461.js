@@ -1,0 +1,1 @@
+var author4461 = "Masaru Ibuka", quotes4461 = ["Research bear a true fruit, the research must start from needs. ","We do what others don't!"]

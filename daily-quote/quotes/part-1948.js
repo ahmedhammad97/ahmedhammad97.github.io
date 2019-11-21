@@ -1,0 +1,1 @@
+var author1948 = "Elie Munk", quotes1948 = ["The modern world, more than in any preceding epoch, feels the necessity to learn anew how to pray."]

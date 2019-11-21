@@ -1,0 +1,1 @@
+var author2060 = "Ernest Dimnet", quotes2060 = ["Ideas are the root of creation.","Children have to be educated, but they have also to be left to educate themselves.","Social intercourse, with its … hypocrisy … is highly productive of thought-hindering insincerity.","Personality is the knowledge that we are apart from the rest of the universe."]

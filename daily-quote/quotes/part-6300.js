@@ -1,0 +1,1 @@
+var author6300 = "Steven Runciman", quotes6300 = ["Riches should come as the reward for hard work, preferably one's forebears'. "]

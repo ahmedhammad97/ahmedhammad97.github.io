@@ -1,0 +1,1 @@
+var author2531 = "Georges Bidault", quotes2531 = ["The weak have one weapon: the errors of those who think they are strong."]

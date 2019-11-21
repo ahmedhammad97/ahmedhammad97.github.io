@@ -1,0 +1,1 @@
+var author1253 = "Christopher Reeve", quotes1253 = ["I'm starting a new chapter in my life, and you have no idea how much that means."]

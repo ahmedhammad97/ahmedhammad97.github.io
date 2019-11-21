@@ -1,0 +1,1 @@
+var author6018 = "Scott L. Montgomery", quotes6018 = ["Scientists are not known for the graces of courtesy and tact when commenting on the work of others."]

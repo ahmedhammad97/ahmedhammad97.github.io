@@ -1,0 +1,1 @@
+var author5269 = "Phil Zimmermann", quotes5269 = ["When privacy is outlawed, only outlaws will have privacy. "]

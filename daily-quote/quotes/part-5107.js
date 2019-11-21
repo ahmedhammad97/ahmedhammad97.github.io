@@ -1,0 +1,1 @@
+var author5107 = "Past, present, and future", quotes5107 = ["Whereof what's past is prologue, what to comeIn yours and my discharge.","There is nothing new under the sun."]

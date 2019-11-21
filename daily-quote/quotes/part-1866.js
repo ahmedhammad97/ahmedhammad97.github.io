@@ -1,0 +1,1 @@
+var author1866 = "Eduardo Torroja", quotes1866 = ["Construction methods are... variable for each specific material."]

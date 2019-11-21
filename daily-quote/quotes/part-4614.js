@@ -1,0 +1,1 @@
+var author4614 = "Michael Scott Gallegos", quotes4614 = ["The pivotal element is TIME POVERTY.","Aesthetics is merely an undiscovered force, expressed by a yet un-devised mathematical equation.","Meditation takes chaos and begins magically morphing it into nothing."]

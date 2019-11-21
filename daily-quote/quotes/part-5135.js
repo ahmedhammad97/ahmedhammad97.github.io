@@ -1,0 +1,1 @@
+var author5135 = "Paul Blobel", quotes5135 = ["Every spy and saboteur knew what he had to expect when he was arrested."]

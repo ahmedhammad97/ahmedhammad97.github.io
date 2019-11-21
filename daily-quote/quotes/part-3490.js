@@ -1,0 +1,1 @@
+var author3490 = "John Braine", quotes3490 = ["Being a writer in a library is rather like being a eunuch in a harem."]

@@ -1,0 +1,1 @@
+var author3112 = "Isaac Barrow", quotes3112 = ["An accomplished mathematician, i.e. a most wretched orator."]

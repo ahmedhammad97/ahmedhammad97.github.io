@@ -1,0 +1,1 @@
+var author1477 = "Dan Brown", quotes1477 = ["Secrets interest us all, I think."]

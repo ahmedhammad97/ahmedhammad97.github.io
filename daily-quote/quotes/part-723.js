@@ -1,0 +1,1 @@
+var author723 = "Barry Humphries", quotes723 = ["There is no more terrible fate for a comedian than to be taken seriously."]

@@ -1,0 +1,1 @@
+var author981 = "Buenaventura Durruti", quotes981 = ["The only church that illuminates is a burning church."]

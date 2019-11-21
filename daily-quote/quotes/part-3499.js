@@ -1,0 +1,1 @@
+var author3499 = "John C. Calhoun", quotes3499 = ["Protection and patriotism are reciprocal.","It is harder to preserve than to obtain liberty."]

@@ -1,0 +1,1 @@
+var author2015 = "English language", quotes2015 = ["The United States and Great Britain are two countries separated by a common language.","We have really everything in common with America nowadays, except, of course, language. "]

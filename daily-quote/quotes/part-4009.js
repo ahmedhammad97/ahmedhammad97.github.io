@@ -1,0 +1,1 @@
+var author4009 = "Larry Sanger", quotes4009 = ["Citizendium is based on the failings and unreliability of Wikipedia."]

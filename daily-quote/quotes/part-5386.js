@@ -1,0 +1,1 @@
+var author5386 = "Portugal", quotes5386 = ["O Christ! it is a goodly sight to seeWhat Heaven hath done for this delicious land!","Portuguese wit suggests rebranding the whole country as Poortugal."]

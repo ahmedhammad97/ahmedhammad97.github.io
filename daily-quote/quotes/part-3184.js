@@ -1,0 +1,1 @@
+var author3184 = "Jackie Robinson", quotes3184 = ["A life is not important except for the impact it has on other lives."]

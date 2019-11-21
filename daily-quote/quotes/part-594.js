@@ -1,0 +1,1 @@
+var author594 = "Arthur Balfour", quotes594 = ["Biography should be written by an acute enemy."]

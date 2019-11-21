@@ -1,0 +1,1 @@
+var author6911 = "Vin Scully", quotes6911 = ["The ability to throw 100 mph cannot be taught, cannot be learned, it can only be God-given.","It's a mere moment in a man's life between the All-Star Game and an old timer's game."]

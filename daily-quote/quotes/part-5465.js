@@ -1,0 +1,1 @@
+var author5465 = "Puzzle", quotes5465 = ["The world's a puzzle; no need to make sense out of it. ","The nice thing about doing a crossword puzzle is, you know there is a solution.","Tell the truth so as to puzzle and confound your adversaries."]

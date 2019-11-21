@@ -1,0 +1,1 @@
+var author6358 = "Survival", quotes6358 = ["If you stay alive for no other reason at all, please do it for spite.","Real survivalists don’t run off into the woods; they stay and work to prevent disaster.","After all, it has yet to be proved that intelligence has real survival value.","There walked a lonely man, silent, mute, the only man","The survival of the fittest."]

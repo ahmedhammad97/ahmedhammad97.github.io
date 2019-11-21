@@ -1,0 +1,1 @@
+var author2839 = "Henry Howard, Earl of Surrey", quotes2839 = ["And thus I see among these pleasant thingsEach care decays, and yet my sorrow springs!"]

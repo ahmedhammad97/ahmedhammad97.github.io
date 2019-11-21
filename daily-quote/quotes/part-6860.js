@@ -1,0 +1,1 @@
+var author6860 = "Valentine's Day", quotes6860 = ["For this was on seynt Volantynys dayWhan euery bryd comyth there to chese his make.","Saint Valentine is past;Begin these wood-birds but to couple now?"]

@@ -1,0 +1,1 @@
+var author3765 = "José Canseco", quotes3765 = ["I am and will always be just simply a basball [sic] player, my tomb stone will just say. Baseball."]

@@ -1,0 +1,1 @@
+var author1167 = "Charles Stewart Parnell", quotes1167 = ["Fellow citizens:The hour to try your souls and to redeem your pledges has arrived.","Do what is beyond your strength even should you fail sometimes.","Without the help of the people our exertions would be as nothing.","No man has the right to say to his country Thus far shalt thou go and no further."]

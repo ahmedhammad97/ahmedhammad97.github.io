@@ -1,0 +1,1 @@
+var author4998 = "Olorun", quotes4998 = ["Is the great king of the Universe and the glorious pinnacle..."]

@@ -1,0 +1,1 @@
+var author3744 = "Joseph Hall", quotes3744 = ["A legal thief, a bloodless murderer,A fiend incarnate, a false usurer.","So little in his purse, so much upon his back.","Death borders upon our birth, and our cradle stands in the grave.","Moderation is the silken string running through the pearl chain of all virtues.","Perfection is the child of time…"]

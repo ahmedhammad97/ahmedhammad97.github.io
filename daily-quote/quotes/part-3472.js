@@ -1,0 +1,1 @@
+var author3472 = "John Armstrong (poet)", quotes3472 = ["'Tis not for mortals always to be blest."]

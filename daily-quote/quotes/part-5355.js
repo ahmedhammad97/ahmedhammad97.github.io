@@ -1,0 +1,1 @@
+var author5355 = "Plutocracy", quotes5355 = ["Woe to those who make unjust laws,"]

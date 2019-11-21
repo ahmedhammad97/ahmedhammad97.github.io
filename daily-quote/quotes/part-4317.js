@@ -1,0 +1,1 @@
+var author4317 = "Manny Pacquiao", quotes4317 = ["I want to be the best fighter. I would like to fight in the biggest fights.","Boxing is not for killing."]

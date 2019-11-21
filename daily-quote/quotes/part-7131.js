@@ -1,0 +1,1 @@
+var author7131 = "William Hepworth Thompson", quotes7131 = ["We are none of us infallible—not even the youngest of us."]

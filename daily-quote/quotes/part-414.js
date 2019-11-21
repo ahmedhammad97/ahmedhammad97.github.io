@@ -1,0 +1,1 @@
+var author414 = "Andrew Thomson (Broughton)", quotes414 = ["A Poet is needed to fully interpret a poet"]

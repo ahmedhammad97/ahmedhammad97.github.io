@@ -1,0 +1,1 @@
+var author2432 = "Generalization", quotes2432 = ["The highest of generalizations is the synergetic integration of truth and love.","People who like quotations love meaningless generalizations.","All sweeping assertions are erroneous."]

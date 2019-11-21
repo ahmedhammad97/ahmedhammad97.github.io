@@ -1,0 +1,1 @@
+var author4477 = "Mathematics education", quotes4477 = ["In mathematics the art of asking questions is more valuable than solving problems.","Mathematics as an Element in the History of Thought."]

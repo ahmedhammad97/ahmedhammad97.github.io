@@ -1,0 +1,1 @@
+var author6353 = "Supernatural", quotes6353 = ["I am too firm in my consciousness of the marvelous to be ever fascinated by the mere supernatural.","It is surprising how petty some of the “supernatural” miracles now seem."]

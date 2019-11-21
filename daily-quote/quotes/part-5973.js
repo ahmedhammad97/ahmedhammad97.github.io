@@ -1,0 +1,1 @@
+var author5973 = "Santa Barraza", quotes5973 = ["We can take the iconography and create our own iconography."]

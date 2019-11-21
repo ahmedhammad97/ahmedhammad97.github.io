@@ -1,0 +1,1 @@
+var author1212 = "Chocolate", quotes1212 = ["Life is like a box of chocolates. You never know what you're gonna get.","Well, folks, it looks like we're up chocolate creek without a popsicle stick.","Love, biochemically no different than consuming large quantities of chocolate."]

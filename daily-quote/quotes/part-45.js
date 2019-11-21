@@ -1,0 +1,1 @@
+var author45 = "Aaron C. Brown", quotes45 = ["There's no way to know how good a player you are except by measuring against others.","Fortunes made buying and selling securities have underwritten economic revolutions.","But you can't ignore dense people-they're not unarmed; they're armed differently."]

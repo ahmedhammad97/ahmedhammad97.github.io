@@ -1,0 +1,1 @@
+var author7018 = "Weapon", quotes7018 = ["Language was our secret weapon, and as soon we got language we became a really dangerous species.","Stop quoting laws, we carry weapons!"]

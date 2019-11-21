@@ -1,0 +1,1 @@
+var author6164 = "Sneer", quotes6164 = ["We sneered at each other across the desk for a moment. He sneered better than I did.","Sapping a solemn creed with a solemn sneer.","There was a laughing Devil in his sneer,That raised emotions both of rage and fear.","Who can refute a sneer?"]

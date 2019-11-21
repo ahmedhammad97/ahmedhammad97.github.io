@@ -1,0 +1,1 @@
+var author1497 = "Daniel Boone", quotes1497 = ["I can't say as ever I was lost, but I was bewildered once for three days.","I've opened the way for others to make fortunes, but a fortune for myself was not what I was after."]

@@ -1,0 +1,1 @@
+var author2856 = "Henry S. Haskins", quotes2856 = ["… memories that never ride anything but sound waves."]

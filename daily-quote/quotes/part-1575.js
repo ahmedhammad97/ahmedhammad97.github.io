@@ -1,0 +1,1 @@
+var author1575 = "David McNally (professor)", quotes1575 = ["When history moves — really moves — it does so in great convulsive jolts.","Free trade is a policy imposed on the weakest and evaded by the most powerful.","What was it, then, about the development of capitalism that gave rise to modern racial ideology? "]

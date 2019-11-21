@@ -1,0 +1,1 @@
+var author155 = "Ahmad Shah Massoud", quotes155 = ["We will never be a pawn in someone else's game. We will always be Afghanistan."]

@@ -1,0 +1,1 @@
+var author1959 = "Elizabeth Gaskell", quotes1959 = ["Were all men equal to-night, some would get the start by rising an hour earlier to-morrow.","That kind of patriotism which consists in hating all other nations.","A little credulity helps one on through life very smoothly.","I'll not listen to reason…Reason always means what someone else has got to say."]

@@ -1,0 +1,1 @@
+var author5358 = "Pokémon Gold and Silver", quotes5358 = ["Losing feels insignificant if you look up at the big sky!"]

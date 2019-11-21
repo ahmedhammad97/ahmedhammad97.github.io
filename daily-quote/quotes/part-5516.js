@@ -1,0 +1,1 @@
+var author5516 = "Ralph Barton Perry", quotes5516 = ["… the fear of God together with a keen eye for the main chance."]

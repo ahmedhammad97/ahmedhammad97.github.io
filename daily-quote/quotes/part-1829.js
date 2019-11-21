@@ -1,0 +1,1 @@
+var author1829 = "Economy and Society", quotes1829 = ["Social action, like all action, may be oriented in four ways. It may be:","Characteristics of Modern Bureaucracy"]

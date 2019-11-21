@@ -1,0 +1,1 @@
+var author5535 = "Rape", quotes5535 = ["Rape is like bad weather: if it's inevitable, you might as well relax and enjoy it."]

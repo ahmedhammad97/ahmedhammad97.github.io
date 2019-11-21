@@ -1,0 +1,1 @@
+var author6126 = "Silver", quotes6126 = ["Every cloud has a silver lining.","Hi-ho, Silver, away!","There's the silver lining I've been looking for."]

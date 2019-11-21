@@ -1,0 +1,1 @@
+var author3442 = "Jodie Foster", quotes3442 = ["Normal is not something to aspire to, it is something to get away from."]

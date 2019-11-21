@@ -1,0 +1,1 @@
+var author501 = "Anthony Weiner", quotes501 = ["I would have beaten Bloomberg like a rented mule.","You've gotta stop making stuff up."]

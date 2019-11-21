@@ -1,0 +1,1 @@
+var author1466 = "Daft Punk", quotes1466 = ["People are often afraid of things that sound new. Like robots."]

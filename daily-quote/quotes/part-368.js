@@ -1,0 +1,1 @@
+var author368 = "Amos Oz", quotes368 = ["The [political] left are people with an imagination and the right are those without an imagination."]

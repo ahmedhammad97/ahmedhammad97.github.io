@@ -1,0 +1,1 @@
+var author1080 = "Caspar David Friedrich", quotes1080 = ["The divine is everywhere, even in a grain of sand; there I represented it in the reeds.","Why, the question is often asked of me"]

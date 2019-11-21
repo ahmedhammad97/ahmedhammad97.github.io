@@ -1,0 +1,1 @@
+var author355 = "Ameer Haider Khan Hoti", quotes355 = ["We would fight against terrorism and win at any cost."]

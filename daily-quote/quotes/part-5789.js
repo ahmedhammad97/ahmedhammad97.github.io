@@ -1,0 +1,1 @@
+var author5789 = "Robert Skidelsky, Baron Skidelsky", quotes5789 = ["Keynes is not just for the foxhole, but for the emerging world order."]

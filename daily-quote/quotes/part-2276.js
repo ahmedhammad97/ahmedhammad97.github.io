@@ -1,0 +1,1 @@
+var author2276 = "Francis de Sales", quotes2276 = ["There are no galley-slaves in the royal vessel of divine love—every man works his oar voluntarily!","Have patience with every one, but especially with yourself."]

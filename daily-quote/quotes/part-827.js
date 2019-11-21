@@ -1,0 +1,1 @@
+var author827 = "Bill Mauldin", quotes827 = ["I was a born troublemaker and might as well earn a living at it."]

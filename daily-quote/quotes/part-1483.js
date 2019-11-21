@@ -1,0 +1,1 @@
+var author1483 = "Dan Savage", quotes1483 = ["One man's piss-soaked sadomasochistic orgy is another man's poetic ecstasy."]

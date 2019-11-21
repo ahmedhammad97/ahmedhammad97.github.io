@@ -1,0 +1,1 @@
+var author3229 = "James Cramer", quotes3229 = ["Go cry to your mother."]

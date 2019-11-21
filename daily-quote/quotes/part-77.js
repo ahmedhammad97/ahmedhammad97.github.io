@@ -1,0 +1,1 @@
+var author77 = "Abu Bakr al-Baghdadi", quotes77 = ["...Islam was never a religion of peace. Islam is the religion of fighting..."]

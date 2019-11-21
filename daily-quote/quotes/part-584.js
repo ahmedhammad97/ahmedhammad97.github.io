@@ -1,0 +1,1 @@
+var author584 = "Arshile Gorky", quotes584 = ["..poor art for poor people [his critic on social realism art in America]"]

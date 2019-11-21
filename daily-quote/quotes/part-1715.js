@@ -1,0 +1,1 @@
+var author1715 = "Dmitri Bulykin", quotes1715 = ["Bulykin usually scores in April. - (Aleksandr Borodyuk, Russia national team manager)","I have 3 offers. One from Torpedo, and 2 more they don't want to tell me about. ","Dmitry confessed once that he learned English hoping to play in England one day. "]

@@ -1,0 +1,1 @@
+var author6291 = "Steve Sailer", quotes6291 = ["Perhaps the most quoted social philosopher of our time famously asked:","Political correctness is a war on noticing."]

@@ -1,0 +1,1 @@
+var author93 = "Adam Gopnik", quotes93 = ["There appear to be as many learning styles among prodigies as there are prodigies to express them.","Child rearing is an art, and what makes art art is that it is doing several things at once."]

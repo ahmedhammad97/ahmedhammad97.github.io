@@ -1,0 +1,1 @@
+var author5790 = "Robert Smithson", quotes5790 = ["Writing should generate ideas into matter, and not the other way around.","Nature is never finished."]

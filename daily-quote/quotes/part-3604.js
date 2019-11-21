@@ -1,0 +1,1 @@
+var author3604 = "John Masefield", quotes3604 = ["My blood did leap, my flesh did revel,Saul Kane was tokened to the devil."]

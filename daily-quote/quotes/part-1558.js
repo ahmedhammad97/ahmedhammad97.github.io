@@ -1,0 +1,1 @@
+var author1558 = "David Graeber", quotes1558 = ["Exchange implies equality.","Exchange is all about equivalence.","Honor is a zero sum game.","The criminalization of debt was the criminalization of the very basis of human society."]

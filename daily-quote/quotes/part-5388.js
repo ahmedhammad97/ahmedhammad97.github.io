@@ -1,0 +1,1 @@
+var author5388 = "Posterity", quotes5388 = ["Herself the solitary scion leftOf a time-honour'd race.","As to posterity, I may ask (with somebody whom I have forgot) what has it ever done to oblige me?","Think of your forefathers! Think of your posterity!","He thinks posterity is a pack-horse, always ready to be loaded.","A foreign nation is a kind of contemporaneous posterity."]

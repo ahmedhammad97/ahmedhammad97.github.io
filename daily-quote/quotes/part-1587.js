@@ -1,0 +1,1 @@
+var author1587 = "David Silverman", quotes1587 = ["We are here to deliver a message to America: We are here and we will never be silent again.","Will Rick Santorum ever say no to the Pope? If not, doesn't that make the Pope President?"]

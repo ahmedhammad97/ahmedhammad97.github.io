@@ -1,0 +1,1 @@
+var author6283 = "Steve Collins", quotes6283 = ["Eubank has forgotten his roots. He is of African origin and seems to have forgotten that "]

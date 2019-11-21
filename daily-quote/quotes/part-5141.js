@@ -1,0 +1,1 @@
+var author5141 = "Paul Davies", quotes5141 = ["The scientific quest is a journey into the unknown."]

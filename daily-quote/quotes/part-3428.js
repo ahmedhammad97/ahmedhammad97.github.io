@@ -1,0 +1,1 @@
+var author3428 = "Joachim von Ribbentrop", quotes3428 = ["Death, death. Now I won't be able to write my beautiful memoirs.","I rather liked Stalin and Molotov, got along fine with them."]

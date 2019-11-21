@@ -1,0 +1,1 @@
+var author3630 = "John Perry Barlow", quotes3630 = ["The first serious infowar is now engaged. The field of battle is WikiLeaks. You are the troops."]

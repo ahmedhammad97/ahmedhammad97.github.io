@@ -1,0 +1,1 @@
+var author3012 = "Ignatius Sancho", quotes3012 = ["Poverty and Genius were coupled by the wisdom of Providence for wise and good ends, no doubt"]

@@ -1,0 +1,1 @@
+var author3736 = "Joseph Chamberlain", quotes3736 = ["The day of small nations has passed away; the day of Empires has come."]

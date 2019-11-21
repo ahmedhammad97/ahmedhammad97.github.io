@@ -1,0 +1,1 @@
+var author3370 = "Jeffrey Montgomery", quotes3370 = ["Pat Buchanan is a walking, living, breathing hate crime waiting to happen.","Never repeat the words of your enemy. When you do, their words are heard twice and yours only once.","America… You Kill Me! America kills all of us."]

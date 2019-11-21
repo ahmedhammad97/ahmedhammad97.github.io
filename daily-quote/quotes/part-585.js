@@ -1,0 +1,1 @@
+var author585 = "Arsène Houssaye", quotes585 = ["Whoever embarks with a woman embarks with a storm; but they are themselves the safety boats.","Friendship lives on its income, love devours its capital.","Have you not sometimes seen happiness? Yes, the happiness of others.","We must always have old memories and young hopes."]

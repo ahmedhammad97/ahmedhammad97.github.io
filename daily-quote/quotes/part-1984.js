@@ -1,0 +1,1 @@
+var author1984 = "Emile, or On Education", quotes1984 = ["I hate books; they only teach us to talk about things we know nothing about.","Conscience is the voice of the soul; the passions are the voice of the body.","One must choose between making a man or a citizen, for one cannot make both at the same time."]

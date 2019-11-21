@@ -1,0 +1,1 @@
+var author4765 = "Mumbai", quotes4765 = ["Bombay was the safest city in the world and it continues to be the safest."]

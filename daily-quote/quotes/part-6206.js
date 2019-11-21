@@ -1,0 +1,1 @@
+var author6206 = "Space", quotes6206 = ["No creature loves an empty space;Their bodies measure out their place.","Without space, there is no time."]

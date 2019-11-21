@@ -1,0 +1,1 @@
+var author638 = "Assassination", quotes638 = ["Assassination is the perquisite of kings."]

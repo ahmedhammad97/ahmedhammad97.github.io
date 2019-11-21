@@ -1,0 +1,1 @@
+var author5585 = "René Char", quotes5585 = ["I believe in the magic and authority of words."]

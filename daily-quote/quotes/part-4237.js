@@ -1,0 +1,1 @@
+var author4237 = "Lydia Maria Child", quotes4237 = ["I will work in my own way, according to the light that is in me.","It is impossible to exaggerate the evil work theology has done in the world.","The United States is...a warning rather than an example to the world.","Yours for the unshackled exercise of every faculty by every human being."]

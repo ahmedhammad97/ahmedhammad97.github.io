@@ -1,0 +1,1 @@
+var author2468 = "George Francis FitzGerald", quotes2468 = ["If Universities do not study useless subjects, who will?"]

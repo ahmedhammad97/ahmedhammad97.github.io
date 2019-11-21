@@ -1,0 +1,1 @@
+var author5611 = "Rex Tillerson", quotes5611 = ["[a] fucking moron"]

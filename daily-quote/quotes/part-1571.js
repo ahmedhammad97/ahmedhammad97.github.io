@@ -1,0 +1,1 @@
+var author1571 = "David Lodge", quotes1571 = ["I respect a man who can recognize a quotation. It's a dying art."]

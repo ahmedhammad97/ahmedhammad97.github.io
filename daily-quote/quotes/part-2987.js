@@ -1,0 +1,1 @@
+var author2987 = "Hydroboration–oxidation reaction", quotes2987 = ["The rates of hydroboration of alkenes with dialkylboranes vary over a wide range. "]

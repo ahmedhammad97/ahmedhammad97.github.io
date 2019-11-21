@@ -1,0 +1,1 @@
+var author5188 = "Peggy Noonan", quotes5188 = ["Resentment isn't a magnetic personal style.","Candor is a compliment; it implies equality. It's how true friends talk."]

@@ -1,0 +1,1 @@
+var author3589 = "John L. Lewis", quotes3589 = ["Who gets the bird, the hunter or the dog?"]

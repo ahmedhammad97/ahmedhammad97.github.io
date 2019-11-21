@@ -1,0 +1,1 @@
+var author4051 = "Lee Krasner", quotes4051 = ["I think my painting is so autobiographical if anyone can take the trouble to read it."]

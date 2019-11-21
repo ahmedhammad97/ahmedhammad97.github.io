@@ -1,0 +1,1 @@
+var author6398 = "Systems theory", quotes6398 = ["Systems theory provides:","Systems theory is a science which has the comparative study of systems as its object."]

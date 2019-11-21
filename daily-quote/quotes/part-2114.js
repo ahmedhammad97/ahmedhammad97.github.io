@@ -1,0 +1,1 @@
+var author2114 = "European Union", quotes2114 = ["The best thing out of Maastricht is Andre Rieu.","If you cannot join them, beat them!","When I go into Downing Street they do what I say; when I go to Brussels they take no notice."]

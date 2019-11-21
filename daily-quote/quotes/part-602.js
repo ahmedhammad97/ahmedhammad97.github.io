@@ -1,0 +1,1 @@
+var author602 = "Arthur Honegger", quotes602 = ["Music is geometry in time."]

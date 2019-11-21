@@ -1,0 +1,1 @@
+var author4259 = "Mad Pride", quotes4259 = ["Mad, adj. Affected with a high degree of intellectual independence."]

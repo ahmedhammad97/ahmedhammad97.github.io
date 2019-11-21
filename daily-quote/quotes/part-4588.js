@@ -1,0 +1,1 @@
+var author4588 = "Michael Harrington", quotes4588 = ["Life is lived in common, but not in community. "]

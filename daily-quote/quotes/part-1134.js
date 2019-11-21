@@ -1,0 +1,1 @@
+var author1134 = "Charles Fillmore", quotes1134 = ["We need never look for universal peace on this earth until men stop killing animals for food."]

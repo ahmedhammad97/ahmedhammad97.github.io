@@ -1,0 +1,1 @@
+var author5306 = "Physical examination", quotes5306 = ["Don’t touch the patient—state first what you see; cultivate your powers of observation."]

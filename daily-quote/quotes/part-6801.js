@@ -1,0 +1,1 @@
+var author6801 = "Tweety Bird", quotes6801 = ["I taut I taw a puddy tat a creepin' up on me.I did! I taw a puddy tat as plain as he could be!"]

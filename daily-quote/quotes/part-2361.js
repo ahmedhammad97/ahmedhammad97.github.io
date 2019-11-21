@@ -1,0 +1,1 @@
+var author2361 = "Friedrich von Schrötter", quotes2361 = ["Prussia was not a country with an army, but an army with a country."]

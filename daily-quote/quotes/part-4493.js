@@ -1,0 +1,1 @@
+var author4493 = "Maurice Denis", quotes4493 = ["I believe that art should sanctify nature."]

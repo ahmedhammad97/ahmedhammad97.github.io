@@ -1,0 +1,1 @@
+var author2713 = "Hal Clement", quotes2713 = ["No one likes to be watched constantly by someone he can’t see.","What’s the use of a high school education if you can’t recall it when needed later on?","Maybe we’ve been taking nova precautions for a red dwarf."]

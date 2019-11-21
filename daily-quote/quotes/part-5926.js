@@ -1,0 +1,1 @@
+var author5926 = "Sales", quotes5926 = ["Love and admiration are drowned in these astronomical figures.","For the words of the profits were written on the studio wall"]

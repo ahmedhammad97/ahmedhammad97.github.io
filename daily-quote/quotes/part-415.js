@@ -1,0 +1,1 @@
+var author415 = "Andrew Tobias", quotes415 = ["Hay fever suffers tend to be above average in intelligence,...","Life insurance is a commodity.","The industry cannot long offer unneeded or overpriced insurance if people will not buy it."]

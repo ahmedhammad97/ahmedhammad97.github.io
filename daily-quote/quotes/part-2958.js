@@ -1,0 +1,1 @@
+var author2958 = "Howard Raiffa", quotes2958 = ["Ideas are incestuous.","There is no shortage of disputes.","The party that negotiates in haste is often at a disadvantage.","A final word of advice: don't gloat about how well you have done.","A lot depends on the starting point.","Disputants often fare poorly when they each act greedily and deceptively."]

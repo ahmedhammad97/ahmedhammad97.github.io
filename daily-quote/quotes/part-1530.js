@@ -1,0 +1,1 @@
+var author1530 = "Dave Grohl", quotes1530 = ["Masturbation is one of the safest ways to explore your own sexuality."]

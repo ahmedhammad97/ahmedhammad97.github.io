@@ -1,0 +1,1 @@
+var author6124 = "Sikhism", quotes6124 = ["If you can't see God in All, You can't see God at All."]

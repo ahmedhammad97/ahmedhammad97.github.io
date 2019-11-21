@@ -1,0 +1,1 @@
+var author3525 = "John Davidson (poet)", quotes3525 = ["Unwilling friend, let not your spite abate;Help me with scorn, and strengthen me with hate."]

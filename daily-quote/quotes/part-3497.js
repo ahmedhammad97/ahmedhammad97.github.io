@@ -1,0 +1,1 @@
+var author3497 = "John Burroughs", quotes3497 = ["...the Kingdom of Heaven is not a place, but a state of mind.","We are here to see and contemplate the great spectacle.","Every day is a Sabbath to me. All pure water is holy water, and this earth is a celestial abode.","The truths of naturalism do not satisfy the moral and religious nature."]

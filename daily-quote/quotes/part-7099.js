@@ -1,0 +1,1 @@
+var author7099 = "William Dunbar", quotes7099 = ["My deathe chasis my lyfe so besalieThat wery is my goist to fle so fast."]

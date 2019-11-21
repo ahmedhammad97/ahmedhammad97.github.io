@@ -1,0 +1,1 @@
+var author1052 = "Carl Orff", quotes1052 = ["Experience first, then intellectualize."]

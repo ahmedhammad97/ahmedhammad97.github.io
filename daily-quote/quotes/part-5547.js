@@ -1,0 +1,1 @@
+var author5547 = "Ray Lewis (American football)", quotes5547 = ["A linebacker's job is to knock out running backs, to knock out receivers, to chase the football."]

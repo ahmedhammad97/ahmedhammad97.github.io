@@ -1,0 +1,1 @@
+var author1545 = "David Crystal", quotes1545 = ["There is little scientific data on the point, but evidently people do speak to themselves.","Fluency [is] smooth, rapid, effortless use of language."]

@@ -1,0 +1,1 @@
+var author4384 = "Mark Hopkins (educator)", quotes4384 = ["Language is the picture and counterpart of thought."]

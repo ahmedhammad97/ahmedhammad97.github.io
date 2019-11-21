@@ -1,0 +1,1 @@
+var author376 = "An Wang", quotes376 = ["Success is more a function of consistent common sense than it is of genius."]

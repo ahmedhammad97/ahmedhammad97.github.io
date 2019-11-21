@@ -1,0 +1,1 @@
+var author2735 = "Hanshan", quotes2735 = ["Cold Mountain SonBeyond life death"]

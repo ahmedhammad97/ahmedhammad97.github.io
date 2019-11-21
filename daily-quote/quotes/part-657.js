@@ -1,0 +1,1 @@
+var author657 = "Audience", quotes657 = ["I know two kinds of audience only one coughing and one not coughing."]

@@ -1,0 +1,1 @@
+var author793 = "Bernardo Dovizi", quotes793 = ["(Che) bel fin fa chi ben amando muore."]

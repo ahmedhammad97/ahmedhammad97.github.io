@@ -1,0 +1,1 @@
+var author7047 = "Wild animal suffering", quotes7047 = ["If nature as a whole is good,\\xa0then pain\\xa0and death are also good."]

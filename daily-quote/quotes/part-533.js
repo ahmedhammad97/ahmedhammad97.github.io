@@ -1,0 +1,1 @@
+var author533 = "Apostasy", quotes533 = ["The kiss of the apostate was the most bitter earthly ingredient in the agonies which Christ endured."]

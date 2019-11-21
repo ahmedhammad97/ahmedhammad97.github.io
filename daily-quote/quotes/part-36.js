@@ -1,0 +1,1 @@
+var author36 = "A. S. Byatt", quotes36 = ["Despite the snow, despite the falling snow.","I shall from time to time write a small Clue — so that you may be the more thoroughly confounded.","And where may hide what came and loved our clay? as the Poet asked finely."]

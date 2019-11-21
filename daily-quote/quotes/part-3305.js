@@ -1,0 +1,1 @@
+var author3305 = "January", quotes3305 = ["That blasts of JanuaryWould blow you through and through.","It's easy to kill a movie. Just move it to January."]

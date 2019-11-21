@@ -1,0 +1,1 @@
+var author140 = "Afrikaans", quotes140 = ["He had lost his mother tongue almost completely and acquired the mutilated Dutch of the colonists.","Afrikaans is a cancer that must be destroyed.","A language without a commercial value will die.","The youth culture grabs the young language by its foreskin and gives it its first democratic climax!"]

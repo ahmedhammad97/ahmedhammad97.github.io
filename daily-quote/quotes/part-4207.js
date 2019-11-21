@@ -1,0 +1,1 @@
+var author4207 = "Lucius Cornelius Sulla", quotes4207 = ["I forgive the many for the sake of the few, the living for the dead.","No friend ever served me, and no enemy ever wronged me, whom I have not repaid in full.","He ought to have worked at the oar before steering the vessel."]

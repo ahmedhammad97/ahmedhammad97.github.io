@@ -1,0 +1,1 @@
+var author6147 = "Sir Thomas Twisden, 1st Baronet", quotes6147 = ["Acts of hostility shall be intended matters of force.","The Judge is intrusted with the liberties of the people, and his saying is the Law."]

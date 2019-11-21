@@ -1,0 +1,1 @@
+var author6633 = "Thomas J. Watson", quotes6633 = ["If you want to succeed, double your failure rate."]

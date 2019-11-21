@@ -1,0 +1,1 @@
+var author5637 = "Richard Ford", quotes5637 = ["I may be too cynical, Catherine says.","It's probably nice to know your parents were once not your parents.","You can get carried away with how things were once, and not how you need to make them better."]

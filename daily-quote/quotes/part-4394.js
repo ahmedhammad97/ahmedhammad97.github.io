@@ -1,0 +1,1 @@
+var author4394 = "Mark Skousen", quotes4394 = ["The triumph of persuasion over force is the sign of a civilized society."]

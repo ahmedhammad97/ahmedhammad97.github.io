@@ -1,0 +1,1 @@
+var author983 = "Building", quotes983 = ["We shape our buildings, thereafter they shape us.","Life is chaotic, dangerous, and surprising. Buildings should reflect that."]

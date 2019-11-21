@@ -1,0 +1,1 @@
+var author250 = "Alex D. Linz", quotes250 = ["During one scene, I had to do a shooting drill. He put a psychological spin on it."]

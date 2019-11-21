@@ -1,0 +1,1 @@
+var author4485 = "Matthew Boulton", quotes4485 = ["I sell here, Sir, what all the world desires to have—power."]

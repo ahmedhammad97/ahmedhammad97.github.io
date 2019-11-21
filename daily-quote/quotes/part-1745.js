@@ -1,0 +1,1 @@
+var author1745 = "Donna Haraway", quotes1745 = ["Blasphemy has always seemed to require taking things very seriously.","Though both are bound in the spiral dance, I would rather be a cyborg than a goddess."]

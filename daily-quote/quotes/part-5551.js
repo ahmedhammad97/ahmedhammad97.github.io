@@ -1,0 +1,1 @@
+var author5551 = "Raymond Smullyan", quotes5551 = ["Medical opinions differed as to the cause of this humor disease.","Humor could not flourish in a wholly serious and rational atmosphere.","Metaphysical problems about mind versus matter arise only from epistemological confusions."]

@@ -1,0 +1,1 @@
+var author6457 = "Telugu proverbs", quotes6457 = ["Is there a day called tomorrow?","Can a blind man discern the color of pure gold?"]

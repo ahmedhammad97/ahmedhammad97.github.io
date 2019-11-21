@@ -1,0 +1,1 @@
+var author4421 = "Martha Stewart", quotes4421 = ["Rose: But the world is full of Martha wannabes.","Stewart: Well, that's great because we're all trying to do the same thing. Live well."]

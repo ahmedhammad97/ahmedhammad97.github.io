@@ -1,0 +1,1 @@
+var author351 = "Ambrose", quotes351 = ["Accordingly, death is a harbor of peace for the just, but is believed a shipwreck for the wicked.","It is not death therefore that is burdensome, but the fear of death.","It was not by dialectic that it pleased God to save His people."]

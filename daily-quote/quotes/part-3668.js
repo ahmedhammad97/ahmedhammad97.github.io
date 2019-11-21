@@ -1,0 +1,1 @@
+var author3668 = "John Thibaut", quotes3668 = ["Power can be maintained at its maximum only if it is used considerately and sparingly."]

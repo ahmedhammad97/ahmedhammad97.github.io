@@ -1,0 +1,1 @@
+var author6996 = "War Doctor", quotes6996 = ["I hope the ears are a bit less conspicuous this time."]

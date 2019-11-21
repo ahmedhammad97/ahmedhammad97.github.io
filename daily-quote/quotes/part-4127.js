@@ -1,0 +1,1 @@
+var author4127 = "Lily-of-the-Valley", quotes4127 = ["Where scattered wild the Lily of the ValeIts balmy essence breathes.","The lily of the vale, of flowers the queen,Puts on the robe she neither sew'd nor spun."]

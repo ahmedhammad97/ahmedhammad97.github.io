@@ -1,0 +1,1 @@
+var author4778 = "Muslim", quotes4778 = ["Islam does not permit a non-Muslim to rule over Muslims."]

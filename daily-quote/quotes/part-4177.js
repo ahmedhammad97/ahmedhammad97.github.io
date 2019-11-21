@@ -1,0 +1,1 @@
+var author4177 = "Lotfi A. Zadeh", quotes4177 = ["To what degree is something true or false? "]

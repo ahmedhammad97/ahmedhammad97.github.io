@@ -1,0 +1,1 @@
+var author164 = "Akiba ben Joseph", quotes164 = ["Jesting and levity lead a man to lewdness.","A fence to wisdom is silence.","Beloved is man, for he was created in the image of God.","Beloved are Israel, for they were called children of the All-present."]

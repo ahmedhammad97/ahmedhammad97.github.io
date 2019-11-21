@@ -1,0 +1,1 @@
+var author2560 = "Gian Domenico Borasio", quotes2560 = ["Your values shape your quality of life.","The mid-life crisis is when we think that work is what gives meaning to our lives."]

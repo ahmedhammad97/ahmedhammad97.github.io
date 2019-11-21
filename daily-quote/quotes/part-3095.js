@@ -1,0 +1,1 @@
+var author3095 = "Irenaeus", quotes3095 = ["It is not necessary to seek truth among others which it is easy to obtain from the Church."]

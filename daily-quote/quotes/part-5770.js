@@ -1,0 +1,1 @@
+var author5770 = "Robert Musil", quotes5770 = ["Mathematics is the bold luxury of pure reason, one of the few that remain today.","… the restricting of intellectual and spiritual needs to the mania of progress"]

@@ -1,0 +1,1 @@
+var author4838 = "Negotiations", quotes4838 = ["In business, you don't get what you deserve, you get what you negotiate.","Anger can be an effective negotiating tool, but only as a calculated act, never as a reaction.","A man is rich in proportion to the number of things he can afford to let alone."]

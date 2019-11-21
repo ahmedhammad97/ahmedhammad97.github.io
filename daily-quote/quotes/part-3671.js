@@ -1,0 +1,1 @@
+var author3671 = "John Trudell", quotes3671 = ["They are going to become more brutal. They are going to become more oppressive.","Sometimes when it rains, it's not that simple, when the sky has reasons to cry.","The past is more than a memory."]

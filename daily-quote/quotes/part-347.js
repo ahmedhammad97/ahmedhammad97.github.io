@@ -1,0 +1,1 @@
+var author347 = "Alyson Hannigan", quotes347 = ["No, I don't think they're obsessive, they're just dedicated."]

@@ -1,0 +1,1 @@
+var author3508 = "John Ciardi", quotes3508 = ["A university is what a college becomes when the faculty loses interest in students."]

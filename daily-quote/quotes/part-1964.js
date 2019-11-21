@@ -1,0 +1,1 @@
+var author1964 = "Elizabeth Prentiss", quotes1964 = ["Some of His children must go into the furnace to testify that the Son of God is there with them.","Lay hold on Christ with both your poor, empty hands."]

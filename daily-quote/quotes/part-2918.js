@@ -1,0 +1,1 @@
+var author2918 = "History of chemistry", quotes2918 = ["It is therefore the occult or hidden science, the black art."]

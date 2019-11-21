@@ -1,0 +1,1 @@
+var author2871 = "Herbert A. Simon", quotes2871 = ["Over Christmas, Allen Newell and I created a thinking machine.","The world you perceive is drastically simplified model of the real world.","The behaviour of individuals is the tool with which the organisation achieves its targets."]

@@ -1,0 +1,1 @@
+var author6401 = "T. A. Waters", quotes6401 = ["I’m giving up everything I can’t stand for Lent.","“What will people say?”“Who,” I asked, “is going to tell them?”","Let’s set a precedent and try to approach this thing logically.","Everybody seemed to be in show business; what the hell had happened to the audience?"]

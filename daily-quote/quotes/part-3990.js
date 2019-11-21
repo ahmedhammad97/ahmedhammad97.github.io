@@ -1,0 +1,1 @@
+var author3990 = "Lana Del Rey", quotes3990 = ["Being human is difficult. Some people make it more difficult than others. I was one of those people."]

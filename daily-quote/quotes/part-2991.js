@@ -1,0 +1,1 @@
+var author2991 = "IPod", quotes2991 = ["It's so slim Kate Moss uses it to cut her cocaine.","No wireless. Less space than a Nomad. Lame.","The most common format of music on an iPod is “stolen.”"]

@@ -1,0 +1,1 @@
+var author3922 = "Khakheperraseneb", quotes3922 = ["For what has been said is just repetition,What has been said has been said."]

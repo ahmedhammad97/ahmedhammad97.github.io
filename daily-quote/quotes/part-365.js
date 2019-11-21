@@ -1,0 +1,1 @@
+var author365 = "Amit Shah", quotes365 = ["My image is the creation of the media."]

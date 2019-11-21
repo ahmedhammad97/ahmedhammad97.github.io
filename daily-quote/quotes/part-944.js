@@ -1,0 +1,1 @@
+var author944 = "Brian Campbell Vickery", quotes944 = ["Citation does not necessarily reflect current demand.","The structure if a fully developed classification can be technically described in the following way:","A retrieval system can be studied at three levels:","The principles of information science apply, whatever the medium of transfer."]

@@ -1,0 +1,1 @@
+var author3323 = "Jay R. Galbraith", quotes3323 = ["There is no one best way to organize... Any way of organizing is not equally effective."]

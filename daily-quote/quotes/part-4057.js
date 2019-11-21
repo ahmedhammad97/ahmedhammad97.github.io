@@ -1,0 +1,1 @@
+var author4057 = "Legal fiction", quotes4057 = ["Law makes long spokes of the short stakes of men.","Fictions of law must be consistent with justice.","When Courts adopt a fiction they must necessarily support it.","In fictione juris semper cequitas existit: A legal fiction is always consistent with Equity."]

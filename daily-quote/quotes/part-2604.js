@@ -1,0 +1,1 @@
+var author2604 = "Gordon Bell", quotes2604 = ["The most reliable components are the ones you leave out."]

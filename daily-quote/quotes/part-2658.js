@@ -1,0 +1,1 @@
+var author2658 = "Gross National Product", quotes2658 = ["(Archie and Mike are talking about the benefits of the USA)","It's crazy that America gives such a paltry percentage of its GNP to the starving nations.","The dominant role played by... exporters’ and importers’ GNP and distance in explaining trade flows."]

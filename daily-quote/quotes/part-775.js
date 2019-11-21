@@ -1,0 +1,1 @@
+var author775 = "Benjamin Tucker", quotes775 = ["The exercise of authority over the same area by two States is a contradiction."]

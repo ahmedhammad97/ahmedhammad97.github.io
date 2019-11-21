@@ -1,0 +1,1 @@
+var author765 = "Benigno Aquino III", quotes765 = ["If no one is corrupt, no one will be poor."]

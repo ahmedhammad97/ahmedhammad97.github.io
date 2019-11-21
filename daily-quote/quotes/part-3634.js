@@ -1,0 +1,1 @@
+var author3634 = "John Pratt", quotes3634 = ["Is ill-language a justification for blows?","It is dangerous to make a precedent, an innovation.","What is introductory goes for nothing, but it is in order to explain the evidence."]

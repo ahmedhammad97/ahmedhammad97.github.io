@@ -1,0 +1,1 @@
+var author81 = "Accusation", quotes81 = ["To accuse is so easy that it is infamous to do so where proof is impossible!","I've been accused of every death except the casualty list of the World War.","Even doubtful accusations leave a stain behind them.","Let your accusations be few in number, even if they be just.","Don't accuse anyone else."]

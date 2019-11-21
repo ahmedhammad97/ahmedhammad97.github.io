@@ -1,0 +1,1 @@
+var author4349 = "Margaret Sullivan (journalist)", quotes4349 = ["We — the traditional, the legacy, the mainstream media — have to change."]

@@ -1,0 +1,1 @@
+var author1769 = "Dov Weisglass", quotes1769 = ["We gave them 42% of the land. Did we get 42% of peace? Did we even get 20% of peace?"]

@@ -1,0 +1,1 @@
+var author6391 = "Syesha Mercado", quotes6391 = ["I love musical theatre and my dream is to do Once On This Island.","I had too many bad comments from the judges. Too many, too late, at this point in time "]

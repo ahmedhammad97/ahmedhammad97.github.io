@@ -1,0 +1,1 @@
+var author6999 = "Ward Churchill", quotes6999 = ["And why, by the way, did it take Arabs to do what people here should have done a long time ago?"]

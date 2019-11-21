@@ -1,0 +1,1 @@
+var author2688 = "Guy Fawkes", quotes2688 = ["... to blow you Scotch beggars back to your native mountains."]

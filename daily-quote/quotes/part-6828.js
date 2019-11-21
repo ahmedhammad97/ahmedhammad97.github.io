@@ -1,0 +1,1 @@
+var author6828 = "United States Armed Forces", quotes6828 = ["I have returned. By the grace of Almighty God, our forces stand again.","You don't need to send American troops to Israel, we defend ourselves.","Our military is a disaster!"]

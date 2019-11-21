@@ -1,0 +1,1 @@
+var author6371 = "Suzanne Ciani", quotes6371 = ["The frustration was with the philosophy of the instrument."]

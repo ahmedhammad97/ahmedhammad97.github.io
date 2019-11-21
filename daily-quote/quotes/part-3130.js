@@ -1,0 +1,1 @@
+var author3130 = "Israel", quotes3130 = ["In Israel, in order to be a realist you must believe in miracles.","In defeating terror, Israel’s cause is our cause.","Israel maybe won’t exist very long. It’s a disaster, and we have to protect Israel."]

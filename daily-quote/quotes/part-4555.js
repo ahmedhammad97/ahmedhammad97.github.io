@@ -1,0 +1,1 @@
+var author4555 = "Merit", quotes4555 = ["On their own merits modest men are dumb.","By merit raisedTo that bad eminence.","The spurnsThat patient merit of the unworthy takes.","The force of his own merit makes his way.","On their own merits modest men are dumb.","The sufficiency of merit is to know that my merit is not sufficient."]

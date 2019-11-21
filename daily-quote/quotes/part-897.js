@@ -1,0 +1,1 @@
+var author897 = "Book of Jeremiah", quotes897 = ["They cling to deceit;","Let not the wise boast of their wisdom","The heart is more treacherous than anything else and is desperate. Who can know it?"]

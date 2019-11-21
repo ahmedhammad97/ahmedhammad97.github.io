@@ -1,0 +1,1 @@
+var author4996 = "Olli Rehn", quotes4996 = ["It may be that even a calm, neutral Finn cannot always hide all his emotions and feelings."]

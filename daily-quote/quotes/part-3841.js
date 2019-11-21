@@ -1,0 +1,1 @@
+var author3841 = "Kane and Abel (novel)", quotes3841 = ["Leon: We have wooden swords and shields. We are not afraid of Germans or Russians.","Soldier (After raping Florentyna): I think I've made love to a dead woman. "]

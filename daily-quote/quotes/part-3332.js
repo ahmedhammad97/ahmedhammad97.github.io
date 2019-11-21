@@ -1,0 +1,1 @@
+var author3332 = "Jean Fautrier", quotes3332 = ["No piece of art can depict feelings if a piece of reality is not included in it."]

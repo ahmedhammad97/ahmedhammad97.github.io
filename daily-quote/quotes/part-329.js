@@ -1,0 +1,1 @@
+var author329 = "Alice Moore Hubbard", quotes329 = ["There does not seem to be anything to do."]

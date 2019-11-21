@@ -1,0 +1,1 @@
+var author1141 = "Charles Hodge", quotes1141 = ["The doctrines of grace humble man without degrading him and exalt him without inflating him."]

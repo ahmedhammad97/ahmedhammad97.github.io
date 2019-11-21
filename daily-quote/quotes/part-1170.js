@@ -1,0 +1,1 @@
+var author1170 = "Charles Thomson (artist)", quotes1170 = ["Artists who don't paint aren't artists.","It has become an ongoing national joke.","The Turner should be renamed the B&Q diy prize.","Doodles done by a lobotomised computer."]

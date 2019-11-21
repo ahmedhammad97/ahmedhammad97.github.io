@@ -1,0 +1,1 @@
+var author7232 = "Wolfgang Drechsler", quotes7232 = ["If I want to be truly happy, I have to be a part of state action - a civil servant.","This man doesn't get anything, although he is not a woman!","Most people don't like to be hanged."]

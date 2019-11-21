@@ -1,0 +1,1 @@
+var author989 = "Burton Rascoe", quotes989 = ["I am so constituted that I had rather read bad stuff than nothing."]

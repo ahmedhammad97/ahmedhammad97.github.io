@@ -1,0 +1,1 @@
+var author2532 = "Georges Bizet", quotes2532 = ["Ah, music! What a beautiful art! But what a wretched profession! "]

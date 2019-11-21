@@ -1,0 +1,1 @@
+var author2624 = "Grace Hartigan", quotes2624 = ["I didn’t choose painting … It chose me. I didn’t have any talent. I just had genius.","Pop Art is not painting because painting must have content and emotion."]

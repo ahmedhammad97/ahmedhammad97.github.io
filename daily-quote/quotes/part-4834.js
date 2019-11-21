@@ -1,0 +1,1 @@
+var author4834 = "Ned Rorem", quotes4834 = ["The beautiful are shyer than the ugly, for they move in a world that does not ask for beauty.","Art means to dare — and to have been right."]

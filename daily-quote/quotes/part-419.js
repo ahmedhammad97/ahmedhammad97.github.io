@@ -1,0 +1,1 @@
+var author419 = "Andrey Voznesensky", quotes419 = ["Along a parabola life like a rocket flies,Mainly in darkness, now and then on a rainbow."]

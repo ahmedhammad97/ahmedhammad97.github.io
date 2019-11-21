@@ -1,0 +1,1 @@
+var author1681 = "Diligence", quotes1681 = ["It is a common proverb, beauteous princess, that diligence is the mother of good fortune.","To rank the effort above the prize may be called love."]

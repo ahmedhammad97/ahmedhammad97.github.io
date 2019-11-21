@@ -1,0 +1,1 @@
+var author5021 = "Oracle", quotes5021 = ["Ibis redibis non morieris in bello.","A Delphic sword.","I am Sir Oracle,And when I ope my lips let no dog bark!"]

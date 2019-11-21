@@ -1,0 +1,1 @@
+var author4603 = "Michael Novak", quotes4603 = ["To know oneself is to disbelieve in utopia."]

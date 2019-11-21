@@ -1,0 +1,1 @@
+var author7290 = "Yuan Mei", quotes7290 = ["If I can rejoice for a moment, Death at an early age would still be a long life."]

@@ -1,0 +1,1 @@
+var author5052 = "Otto Skorzeny", quotes5052 = ["Duce, the Führer has sent me to set you free!"]

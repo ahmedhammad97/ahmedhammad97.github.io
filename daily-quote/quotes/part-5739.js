@@ -1,0 +1,1 @@
+var author5739 = "Robert Greene (dramatist)", quotes5739 = ["Weep not, my wanton, smile upon my knee;When thou art old there’s grief enough for thee.","Sweet are the thoughts that savour of content;The quiet mind is richer than a crown.","A mind content both crown and kingdom is."]

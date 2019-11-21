@@ -1,0 +1,1 @@
+var author6530 = "The Myth of the Twentieth Century", quotes6530 = ["Alongside the mythos of the eternal free soul stands the Myth, the religion of the blood."]

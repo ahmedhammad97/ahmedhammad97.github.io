@@ -1,0 +1,1 @@
+var author2228 = "Florence Earle Coates", quotes2228 = ["I love, and the world is mine!","They live indeed—the dead by whose example we are upward led."]

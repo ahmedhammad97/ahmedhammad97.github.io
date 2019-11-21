@@ -1,0 +1,1 @@
+var author1863 = "Eduard Hanslick", quotes1863 = ["Music means itself."]

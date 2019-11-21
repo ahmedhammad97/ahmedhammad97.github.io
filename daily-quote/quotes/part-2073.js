@@ -1,0 +1,1 @@
+var author2073 = "Ernst Kaltenbrunner", quotes2073 = ["Oppression is the essence of power.","The quicker humanity advances, the more important it is to be the one who deals the first blow.","Don't even step out of your garden gate until this matter has been clarified. ","(While playing solitaire and sipping cognac) It's all a lot of crap. The game is up."]

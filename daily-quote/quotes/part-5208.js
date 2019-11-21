@@ -1,0 +1,1 @@
+var author5208 = "Pericles", quotes5208 = ["Freedom is the sure possession of those alone who have the courage to defend it.","Although only a few may originate a policy, we are all able to judge it.","Time is the wisest counselor of all."]

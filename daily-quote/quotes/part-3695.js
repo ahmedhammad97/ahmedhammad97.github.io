@@ -1,0 +1,1 @@
+var author3695 = "John the Evangelist", quotes3695 = ["Whoever does not love has not come to know God, because God is love.","So we ought to support such men, that we may be fellow workers in the truth. ","Who will not really fear you, Jehovah, and glorify your name, because you alone are loyal?"]

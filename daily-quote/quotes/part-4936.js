@@ -1,0 +1,1 @@
+var author4936 = "Norman Schwarzkopf, Jr.", quotes4936 = ["True courage is being afraid, and going ahead and doing your job.","I believe that forgiving them is God's function. Our job is to arrange the meeting.","When placed in command — take charge.","The truth of the matter is that you always know the right thing to do. The hard part is doing it."]

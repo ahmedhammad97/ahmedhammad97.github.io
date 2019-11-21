@@ -1,0 +1,1 @@
+var author3183 = "Jackie Mason", quotes3183 = ["Eighty percent of married men cheat in America. The rest cheat in Europe."]

@@ -1,0 +1,1 @@
+var author6601 = "Thomas A. Bailey", quotes6601 = ["Vietnam is the dead albatross around Johnson's neck that may pull him down."]

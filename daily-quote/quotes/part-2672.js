@@ -1,0 +1,1 @@
+var author2672 = "Guinea", quotes2672 = ["Is that a real country?","With all respect, why do you give crap countries a vote?"]

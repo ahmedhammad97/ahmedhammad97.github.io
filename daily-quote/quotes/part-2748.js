@@ -1,0 +1,1 @@
+var author2748 = "Harold Nicolson", quotes2748 = ["To be a good diarist, one must have a little snouty, sneaky mind.","For seventeen years, he did nothing at all but kill animals and stick in stamps."]

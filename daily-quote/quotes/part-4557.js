@@ -1,0 +1,1 @@
+var author4557 = "Merold Westphal", quotes4557 = ["Kierkegaard seeks to un-socialize the individual in order to un-deify society."]

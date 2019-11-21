@@ -1,0 +1,1 @@
+var author1610 = "December", quotes1610 = ["In cold December fragrant chaplets blow,And heavy harvests nod beneath the snow."]

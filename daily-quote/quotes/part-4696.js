@@ -1,0 +1,1 @@
+var author4696 = "Modris Eksteins", quotes4696 = ["Nineteen forty-five marked the nadir of Western Civilization."]

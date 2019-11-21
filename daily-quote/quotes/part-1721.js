@@ -1,0 +1,1 @@
+var author1721 = "Dogma", quotes1721 = ["To Dogmatism the Spirit of Inquiry is the same as the Spirit of Evil."]

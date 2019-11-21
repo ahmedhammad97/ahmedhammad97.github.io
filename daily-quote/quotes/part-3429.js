@@ -1,0 +1,1 @@
+var author3429 = "Joan Baez", quotes3429 = ["I went to jail for 11 days for disturbing the peace; I was trying to disturb the war.","All of us alive are survivors, but how many of us transcend survival?","We both know what memories can bring They bring diamonds and rust"]

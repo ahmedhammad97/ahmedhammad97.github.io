@@ -1,0 +1,1 @@
+var author805 = "Betrayal", quotes805 = ["Betrayals during war are childlike compared with our betrayals during peace.","Just for the record, the weather today is partly suspicious with chances of betrayal.","The act of treachery is an art, but the traitor himself is a piece of shit., "]

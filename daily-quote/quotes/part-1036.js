@@ -1,0 +1,1 @@
+var author1036 = "Capital accumulation", quotes1036 = ["The accumulation of capital involves the the expansion of value over time.","The accumulation of capital and misery go hand in hand, concentrated in space."]

@@ -1,0 +1,1 @@
+var author5518 = "Ralph George Hawtrey", quotes5518 = ["Banks lend by creating credit. They create the means of payment out of nothing."]

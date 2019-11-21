@@ -1,0 +1,1 @@
+var author7067 = "Willem de Kooning", quotes7067 = ["Jackson has broken the ice for us.","The texture of experience is prior to everything else.","It is disastrous to name ourselves."]

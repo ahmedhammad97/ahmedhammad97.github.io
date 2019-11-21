@@ -1,0 +1,1 @@
+var author5368 = "Polybius", quotes5368 = ["All things are subject to decay and change."]

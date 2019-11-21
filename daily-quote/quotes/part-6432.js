@@ -1,0 +1,1 @@
+var author6432 = "Tarja Halonen", quotes6432 = ["It is positive that the change in Finland means a rush in the elections and not in the streets.","Women receive easily the most difficult assignments."]

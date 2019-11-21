@@ -1,0 +1,1 @@
+var author5173 = "Paul Virilio", quotes5173 = ["Wealth is the hidden side of speed and speed the hidden side of wealth."]

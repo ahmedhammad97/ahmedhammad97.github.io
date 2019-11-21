@@ -1,0 +1,1 @@
+var author317 = "Algorithms", quotes317 = ["Algorithms are the computational content of proofs."]

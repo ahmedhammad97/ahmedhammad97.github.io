@@ -1,0 +1,1 @@
+var author582 = "Aron Nimzowitsch", quotes582 = ["The beauty of a move lies not in its appearance but in the thought behind it."]

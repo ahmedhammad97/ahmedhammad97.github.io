@@ -1,0 +1,1 @@
+var author1590 = "David Suzuki", quotes1590 = ["The planet, hell! What about my nuts? ","We now have access to so much information that we can find support for any prejudice or opinion."]

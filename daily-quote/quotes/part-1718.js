@@ -1,0 +1,1 @@
+var author1718 = "Dmitry Pietrman", quotes1718 = ["There is consensus as long as I agree."]

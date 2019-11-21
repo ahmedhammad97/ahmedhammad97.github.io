@@ -1,0 +1,1 @@
+var author6564 = "Themistocles", quotes6564 = ["Strike, if you will, but hear.","I have with me two gods, Persuasion and Compulsion."]

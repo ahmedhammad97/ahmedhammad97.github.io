@@ -1,0 +1,1 @@
+var author7321 = "Zumwalt-class destroyer", quotes7321 = ["The Zumwalt is an unmitigated disaster. Clearly it is not a good fit as a frontline warship."]

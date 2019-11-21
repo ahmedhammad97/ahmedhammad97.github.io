@@ -1,0 +1,1 @@
+var author5810 = "Rocky Marciano", quotes5810 = ["Why waltz with a guy for 10 rounds if you can knock him out in one?","I don't want to be remembered as a beaten champion."]

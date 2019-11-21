@@ -1,0 +1,1 @@
+var author516 = "Anton Webern", quotes516 = ["Music is natural law as related to the sense of hearing."]

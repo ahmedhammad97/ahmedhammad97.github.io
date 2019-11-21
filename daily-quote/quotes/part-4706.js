@@ -1,0 +1,1 @@
+var author4706 = "Mokshagundam Visveshvaraya", quotes4706 = ["Mental energy is wasted in caste disputes and village factions.","It is better to work out than rust out."]

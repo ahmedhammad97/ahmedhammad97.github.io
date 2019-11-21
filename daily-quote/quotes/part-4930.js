@@ -1,0 +1,1 @@
+var author4930 = "Norman Douglas", quotes4930 = ["You can tell the values of a nation by its advertisements.","As to abuse, I thrive on it. Abuse, hearty abuse, is a tonic to all save men of indifferent health."]

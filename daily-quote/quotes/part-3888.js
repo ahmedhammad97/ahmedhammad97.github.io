@@ -1,0 +1,1 @@
+var author3888 = "Keira Knightley", quotes3888 = ["Prince William definitely isn't my type, he's too horsey-looking.","There is definitely a fuck-you quality to the characters I choose."]

@@ -1,0 +1,1 @@
+var author2075 = "Ernst Mayr", quotes2075 = ["Life is simply the reification of the process of living."]

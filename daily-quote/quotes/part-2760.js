@@ -1,0 +1,1 @@
+var author2760 = "Harry Browne", quotes2760 = ["The free market punishes irresponsibility. Government rewards it.","I want government small enough to fit inside the Constitution.","Republicans campaign like Libertarians and govern like Democrats. "]

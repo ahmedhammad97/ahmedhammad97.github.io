@@ -1,0 +1,1 @@
+var author1784 = "Du Wenxiu", quotes1784 = ["I have read your religious works and I have found nothing inappropriate.","Muslims and Christians are brothers."]

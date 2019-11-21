@@ -1,0 +1,1 @@
+var author3298 = "Jane Goodall", quotes3298 = ["I wanted to talk to the animals like Dr. Dolittle."]

@@ -1,0 +1,1 @@
+var author1341 = "Comparison of Nazism and Stalinism", quotes1341 = ["The parallels between fascism and Communism as ideologies are significant."]

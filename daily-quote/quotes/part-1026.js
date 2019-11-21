@@ -1,0 +1,1 @@
+var author1026 = "Calvin Trillin", quotes1026 = ["Health food makes me sick. "]

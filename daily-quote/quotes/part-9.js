@@ -1,0 +1,1 @@
+var author9 = "2 Chainz", quotes9 = ["And all I get is cheese, like I'm taking Pictures","She got a big booty; so I call her: Big Booty"]

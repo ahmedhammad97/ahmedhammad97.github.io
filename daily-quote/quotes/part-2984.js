@@ -1,0 +1,1 @@
+var author2984 = "Husbandry", quotes2984 = ["Perfection is a costly flower and is cultured only by an uncompromising, strict husbandry.","There's husbandry in heaven;Their candles are all out.","Facts are stubborn things.","February, fill the dykeWith what thou dost like.","Ill husbandry braggethUp gold in his chest.","Ill husbandry liethWhere profit to get."]

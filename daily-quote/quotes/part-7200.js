@@ -1,0 +1,1 @@
+var author7200 = "William Wycherley", quotes7200 = ["Necessity, the mother of invention.","And with faint praises one another damn."]

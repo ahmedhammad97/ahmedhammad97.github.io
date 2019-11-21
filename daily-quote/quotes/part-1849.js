@@ -1,0 +1,1 @@
+var author1849 = "Editorial cartoon", quotes1849 = ["What would a respectful political cartoon look like?"]

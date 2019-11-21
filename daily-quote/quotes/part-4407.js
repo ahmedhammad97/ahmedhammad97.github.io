@@ -1,0 +1,1 @@
+var author4407 = "Marquis de Sade", quotes4407 = ["Why do you complain of your fate when you could so easily change it?"]

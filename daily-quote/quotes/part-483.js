@@ -1,0 +1,1 @@
+var author483 = "Annie Get Your Gun", quotes483 = ["There's no business like show busness like no business I know.","Any thing you can do I can do better.","They say that falling in love is wonderful."]

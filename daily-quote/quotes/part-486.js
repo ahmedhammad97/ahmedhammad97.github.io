@@ -1,0 +1,1 @@
+var author486 = "Ansel Adams", quotes486 = ["There are no rules for good photographs, there are only good photographs.","It is horrifying that we have to fight our own Government to save the environment.","If what I see in my mind excites me, there is a good chance it will make a good photograph."]

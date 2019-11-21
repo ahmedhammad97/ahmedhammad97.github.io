@@ -1,0 +1,1 @@
+var author6589 = "Theory of relativity", quotes6589 = ["It did not last: the Devil howling 'Ho!Let Einstein be!' restored the status quo."]

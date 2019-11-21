@@ -1,0 +1,1 @@
+var author1305 = "Clint Eastwood", quotes1305 = ["I've actually had people come up to me and ask me to autograph their guns.","With that kind of money, I could have invaded some country.","'Don't just do something, stand there.' Gary Cooper wasn't afraid to do nothing."]

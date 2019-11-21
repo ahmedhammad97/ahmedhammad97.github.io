@@ -1,0 +1,1 @@
+var author6636 = "Thomas Kyd", quotes6636 = ["Evil news fly faster still than good.","What outcries pluck me from my naked bedAnd chill my throbbing heart with trembling fear.","Thus must we toil in other men's extremes,That know not how to remedy our own.","Dost thou think to live till his old doublet will make thee a new truss?","For what's a play without a woman in it?"]

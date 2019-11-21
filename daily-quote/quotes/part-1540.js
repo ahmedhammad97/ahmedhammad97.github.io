@@ -1,0 +1,1 @@
+var author1540 = "David C. McClelland", quotes1540 = ["The entrepreneurial role appears to call for decision-making under uncertainty."]

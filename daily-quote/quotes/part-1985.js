@@ -1,0 +1,1 @@
+var author1985 = "Emiliano Zapata", quotes1985 = ["I want to die a slave to principles. Not to men."]

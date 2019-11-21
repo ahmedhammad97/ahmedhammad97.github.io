@@ -1,0 +1,1 @@
+var author4226 = "Luiz Inácio Lula da Silva", quotes4226 = ["I am the son of an illiterate father and mother.","The foundation is in place, and now we have to get to work. "]

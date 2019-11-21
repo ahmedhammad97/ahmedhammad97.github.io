@@ -1,0 +1,1 @@
+var author2808 = "Helmin Wiels", quotes2808 = ["Makambas (old slave word for Dutch people) should return to the Netherlands in body bags."]

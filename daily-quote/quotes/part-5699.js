@@ -1,0 +1,1 @@
+var author5699 = "River Phoenix", quotes5699 = ["Sometimes I wish I wasn't as conscious as I am. It would be so much easier.","When you see the name 'River Phoenix' everywhere; you gotta, like, joke about it.","I'm a minor, stupid talent compared to my brother (Joaquin)."]

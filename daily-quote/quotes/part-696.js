@@ -1,0 +1,1 @@
+var author696 = "BASIC", quotes696 = ["The teaching of BASIC should be rated as a criminal offence: it mutilates the mind beyond recovery."]

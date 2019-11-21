@@ -1,0 +1,1 @@
+var author6667 = "Thomas Wentworth Higginson", quotes6667 = ["To be really cosmopolitan a man must be at home even in his own country."]

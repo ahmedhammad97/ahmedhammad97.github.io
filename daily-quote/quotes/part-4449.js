@@ -1,0 +1,1 @@
+var author4449 = "Mary I of England", quotes4449 = ["When I am dead and opened, you shall find Calais lying in my head."]

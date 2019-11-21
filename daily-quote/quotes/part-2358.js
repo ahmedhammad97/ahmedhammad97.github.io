@@ -1,0 +1,1 @@
+var author2358 = "Friedrich List", quotes2358 = ["… every nation which makes no forward progress sinks lower and lower, and must ultimately fall","The nation … must sacrifice some present advantages in order to insure to itself future ones.","The world has not been hindered in its progress, but immensely aided in it, by England."]

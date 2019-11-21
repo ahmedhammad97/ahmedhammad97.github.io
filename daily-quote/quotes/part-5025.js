@@ -1,0 +1,1 @@
+var author5025 = "Organizational culture", quotes5025 = ["Technical problems can be remediated. A dishonest corporate culture is much harder to fix."]

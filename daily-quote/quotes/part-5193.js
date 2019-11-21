@@ -1,0 +1,1 @@
+var author5193 = "Pendulum", quotes5193 = ["Man!Thou pendulum betwixt a smile and tear."]

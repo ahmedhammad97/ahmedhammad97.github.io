@@ -1,0 +1,1 @@
+var author3122 = "Ishmael", quotes3122 = ["O our Lord! Accept (this service) from us, Verily, You are the All-Hearing, the All-Knowing."]

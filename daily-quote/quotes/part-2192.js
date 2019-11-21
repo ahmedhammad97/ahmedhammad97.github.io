@@ -1,0 +1,1 @@
+var author2192 = "Fenella Fielding", quotes2192 = ["I can remember what I ate. Coconut squares dipped in chocolate, wrapped in gold paper.","It's really splendid, my dear. Are you going to bring it into town?"]

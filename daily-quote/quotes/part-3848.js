@@ -1,0 +1,1 @@
+var author3848 = "Karen Demirchyan", quotes3848 = ["If Kocharyan wins honestly, I will shake him by the hand tonight.","Terrorism has no motherland and terrorists have no nationality.","I will fight for really fair elections. I think they will be fair."]

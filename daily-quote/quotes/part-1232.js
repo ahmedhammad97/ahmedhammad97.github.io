@@ -1,0 +1,1 @@
+var author1232 = "Christian Wirth", quotes1232 = ["If you do not like it here, you can leave, but under the earth, not over it."]

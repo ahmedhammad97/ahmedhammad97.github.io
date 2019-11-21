@@ -1,0 +1,1 @@
+var author138 = "African American", quotes138 = ["Beware of Greeks bearing gifts, colored men looking for loans and whites who understand the Negro."]

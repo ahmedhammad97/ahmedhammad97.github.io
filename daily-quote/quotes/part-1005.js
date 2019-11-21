@@ -1,0 +1,1 @@
+var author1005 = "C. D. Broad", quotes1005 = ["Induction is the glory of science and the scandal of philosophy."]

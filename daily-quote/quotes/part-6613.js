@@ -1,0 +1,1 @@
+var author6613 = "Thomas Chandler Haliburton", quotes6613 = ["We reckon hours and minutes to be dollars and cents.","Nicknames stick to people, and the most ridiculous are the most adhesive.","Punctuality [...] is the soul of business."]

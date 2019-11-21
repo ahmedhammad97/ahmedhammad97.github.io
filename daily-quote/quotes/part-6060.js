@@ -1,0 +1,1 @@
+var author6060 = "Serenity", quotes6060 = ["What moments divine, what rapture serene."]

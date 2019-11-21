@@ -1,0 +1,1 @@
+var author4713 = "Monism", quotes4713 = ["All things are in all.","Hen to pan","We are all one in God’s seeing."]

@@ -1,0 +1,1 @@
+var author5864 = "Rudiger Dornbusch", quotes5864 = ["If there was ever a bad idea, EMU it is."]

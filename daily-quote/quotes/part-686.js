@@ -1,0 +1,1 @@
+var author686 = "Awkwardness", quotes686 = ["God may forgive sins, he said, but awkwardness has no forgiveness in heaven or earth.","With ridiculous and awkward action,Which, slanderer, he imitation calls."]

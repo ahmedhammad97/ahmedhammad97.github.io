@@ -1,0 +1,1 @@
+var author1404 = "Corey Robin", quotes1404 = ["A wise psychoanalyst once told me, “Stop looking at what you’re saying, look at what you’re doing.”"]

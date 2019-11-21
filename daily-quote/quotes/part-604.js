@@ -1,0 +1,1 @@
+var author604 = "Arthur Jones (inventor)", quotes604 = ["If you like an exercise, chances are you’re doing it wrong."]

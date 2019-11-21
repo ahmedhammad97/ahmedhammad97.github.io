@@ -1,0 +1,1 @@
+var author82 = "Ace Frehley", quotes82 = ["I'm very articulate when I wanna be. You wanna talk to me?"]

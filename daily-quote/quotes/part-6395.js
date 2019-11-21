@@ -1,0 +1,1 @@
+var author6395 = "Synagogue", quotes6395 = ["They have burned up all the synagogues of God in the land."]

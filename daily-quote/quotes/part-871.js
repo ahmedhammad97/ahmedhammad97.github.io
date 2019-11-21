@@ -1,0 +1,1 @@
+var author871 = "Boats", quotes871 = ["Fortune brings in some boats that are not steered. "]

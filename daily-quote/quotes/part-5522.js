@@ -1,0 +1,1 @@
+var author5522 = "Ralph Vaughan Williams", quotes5522 = ["The duty of the words is to say just as much as the music has left unsaid and no more.","The art of music above all the other arts is the expression of the soul of a nation.","I don't know whether I like it, but it's what I meant.","It never seems to occur to people that a man might just want to write a piece of music."]

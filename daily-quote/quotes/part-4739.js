@@ -1,0 +1,1 @@
+var author4739 = "Moshe Dayan", quotes4739 = ["There is no more Palestine. Finished . . .","If you want to make peace, you don't talk to your friends. You talk to your enemies."]

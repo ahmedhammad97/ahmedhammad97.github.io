@@ -1,0 +1,1 @@
+var author1828 = "Economist", quotes1828 = ["Economists are tellers of stories and makers of poems."]

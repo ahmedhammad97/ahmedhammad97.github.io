@@ -1,0 +1,1 @@
+var author3182 = "Jackal", quotes3182 = ["To live like a lion for a day is far better than to live for a hundred years like a jackal."]

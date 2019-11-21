@@ -1,0 +1,1 @@
+var author682 = "Avicenna", quotes682 = ["An ignorant doctor is the aide-de-camp of death.","I [prefer] a short life with width to a narrow one with length."]

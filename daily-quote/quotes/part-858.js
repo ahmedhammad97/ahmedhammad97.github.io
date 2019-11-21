@@ -1,0 +1,1 @@
+var author858 = "Black people", quotes858 = ["Boxing is a lot of white men watching two black men beat each other up."]

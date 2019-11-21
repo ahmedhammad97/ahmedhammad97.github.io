@@ -1,0 +1,1 @@
+var author4221 = "Luigi Cornaro", quotes4221 = ["No man should be a perfect physician to any but himself."]

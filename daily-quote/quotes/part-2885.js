@@ -1,0 +1,1 @@
+var author2885 = "Herman E. Daly", quotes2885 = ["The economy is a wholly owned subsidiary of the environment, not the reverse. "]

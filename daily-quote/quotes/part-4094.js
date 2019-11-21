@@ -1,0 +1,1 @@
+var author4094 = "Les Caractères", quotes4094 = ["It is no more in our power to love always than it was not to love at all.","We must laugh before we are happy, for fear we die before we laugh at all."]

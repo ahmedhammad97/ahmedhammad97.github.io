@@ -1,0 +1,1 @@
+var author4729 = "Mortality", quotes4729 = ["You must drink quickly as from a rapid stream that will not always flow.","The ungodly ... reasoned unsoundly, saying to themselves,..."]

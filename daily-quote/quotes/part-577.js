@@ -1,0 +1,1 @@
+var author577 = "Arnold Hauser (art historian)", quotes577 = ["The art of representing the human figure in the ancient world begins and ends with ‘frontality’.","The late Middle Ages not merely has a successful middle class—it is in fact a middle-class period."]

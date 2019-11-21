@@ -1,0 +1,1 @@
+var author6872 = "Vannevar Bush", quotes6872 = ["It is Earlier Than We Think."]

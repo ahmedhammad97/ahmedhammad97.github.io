@@ -1,0 +1,1 @@
+var author7082 = "William Burges", quotes7082 = ["The civil engineer is the real 19th century architect.","I have been brought up in the 13th century belief, and in that belief I intend to die.","The real mission of machinery is to reduce pounds to shillings and shillings to pence."]

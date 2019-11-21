@@ -1,0 +1,1 @@
+var author957 = "Brigitte Bardot", quotes957 = ["I have been very happy, very rich, very beautiful, much adulated, very famous, and very unhappy."]

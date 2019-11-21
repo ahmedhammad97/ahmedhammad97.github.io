@@ -1,0 +1,1 @@
+var author5475 = "Quebec City", quotes5475 = ["It's very important for folks to understand that when there's more trade, there's more commerce."]

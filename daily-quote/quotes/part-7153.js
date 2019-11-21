@@ -1,0 +1,1 @@
+var author7153 = "William McFee", quotes7153 = ["It is so much easier to tell intimate things in the dark.","The world belongs to the enthusiast who keeps cool.","If fate means you to lose, give him a good fight anyhow. "]

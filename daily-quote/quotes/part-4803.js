@@ -1,0 +1,1 @@
+var author4803 = "Natalie Clifford Barney", quotes4803 = ["If we keep an open mind, too much is likely to fall into it. ","Youth is not a question of years: one is young or old from birth.","Time engraves our faces with all the tears we have not shed.","The advantage of love at first sight is that it delays a second sight."]

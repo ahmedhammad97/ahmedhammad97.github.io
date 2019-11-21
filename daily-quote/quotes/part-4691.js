@@ -1,0 +1,1 @@
+var author4691 = "Mob", quotes4691 = ["The mob shouts with one big mouth and eats with a thousand little ones."]

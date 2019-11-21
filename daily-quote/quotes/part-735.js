@@ -1,0 +1,1 @@
+var author735 = "Battle of Panipat (1761)", quotes735 = ["Whither would you run, friends, your country is far from here."]

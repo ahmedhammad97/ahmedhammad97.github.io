@@ -1,0 +1,1 @@
+var author3862 = "Karl Rove", quotes3862 = ["I think it was Osama bin Laden’s [idea to start a pre-emptive war in Iraq].","Just get me a fucking faith-based thing. Got it?","Once again the powers of light and good have triumphed over the media!"]

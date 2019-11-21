@@ -1,0 +1,1 @@
+var author6439 = "Tawakkol Karman", quotes6439 = ["We cannot let the bogeyman of al-Qaida and extremism be used to stall historic change in our country"]

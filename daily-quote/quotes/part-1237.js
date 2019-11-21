@@ -1,0 +1,1 @@
+var author1237 = "Christian socialism", quotes1237 = ["Jesus was the first socialist, the first to seek a better life for mankind.","All the believers were together and had everything in common."]

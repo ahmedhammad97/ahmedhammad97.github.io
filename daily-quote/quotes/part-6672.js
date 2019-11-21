@@ -1,0 +1,1 @@
+var author6672 = "Thomas the Apostle", quotes6672 = ["I have cast fire upon the world — and behold, I guard it until it is ablaze.","Thou art like a philosopher of the heart.","Whoever has found the world and become enriched, let him renounce the world.","Woe to the flesh which depends upon the soul, woe to the soul which depends upon the flesh!"]

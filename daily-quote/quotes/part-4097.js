@@ -1,0 +1,1 @@
+var author4097 = "Leslie Stephen", quotes4097 = ["He who sees only what is before his eyes sees the worst part of every view.","Poe is a kind of Hawthorne and delirium tremens."]

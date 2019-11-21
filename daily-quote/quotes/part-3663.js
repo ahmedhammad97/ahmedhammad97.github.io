@@ -1,0 +1,1 @@
+var author3663 = "John T. Noonan Jr.", quotes3663 = ["Morals are concerned with what aids or impedes the fulfillment of basic human needs."]

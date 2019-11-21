@@ -1,0 +1,1 @@
+var author5099 = "Paris", quotes5099 = ["Paris dictates fashion to the whole world.","Good Americans, when they die, go to Paris.","America is my country and Paris is my home town and it is as it has come to be.","Good talkers are only found in Paris.","Paris is the only city in the world where starving to death is still considered an art. "]

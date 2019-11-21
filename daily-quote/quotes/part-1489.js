@@ -1,0 +1,1 @@
+var author1489 = "Dana White", quotes1489 = ["It isn't all about signing autographs and banging broads."]

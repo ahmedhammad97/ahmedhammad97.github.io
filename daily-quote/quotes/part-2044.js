@@ -1,0 +1,1 @@
+var author2044 = "Eric Garcia", quotes2044 = ["I signed up for the sake of a uniform. I was not the first, and I will not be the last.","True loneliness, I learned that day, isn’t the lack of others. It’s the lack of others quickly.","I tell the truth, but I don’t need to divulge everything."]

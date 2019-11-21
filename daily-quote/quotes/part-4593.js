@@ -1,0 +1,1 @@
+var author4593 = "Michael Jopling", quotes4593 = ["The trouble with Michael is that he had to buy all his furniture"]

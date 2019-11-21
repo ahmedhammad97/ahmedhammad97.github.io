@@ -1,0 +1,1 @@
+var author5218 = "Persuasion", quotes5218 = ["The object of oratory alone is not truth, but persuasion.","'Tis more than reason that goes to persuasion."]

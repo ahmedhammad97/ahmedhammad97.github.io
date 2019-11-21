@@ -1,0 +1,1 @@
+var author5138 = "Paul Carus", quotes5138 = ["There is no prophet which preaches the superpersonal God more plainly than mathematics.","There is no science which teaches the harmonies of nature more clearly than mathematics."]

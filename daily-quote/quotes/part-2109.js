@@ -1,0 +1,1 @@
+var author2109 = "Eugène-Melchior de Vogüé", quotes2109 = ["All contemporary forms of art have secret bonds in common. "]

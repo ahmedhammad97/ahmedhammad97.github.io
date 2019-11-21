@@ -1,0 +1,1 @@
+var author5206 = "Performance art", quotes5206 = ["THE LAWS OF SCULPTORS","A walk down 14th street is more amazing than any masterpiece of art.","Performance art isn’t hit/miss. It’s miss/miss/miss/miss/hit/miss/miss. "]

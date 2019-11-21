@@ -1,0 +1,1 @@
+var author1320 = "Cold", quotes1320 = ["It's too cold outside for angels to fly."]

@@ -1,0 +1,1 @@
+var author1010 = "C. Northcote Parkinson", quotes1010 = ["Delay is the deadliest form of denial.","The time spent on any item of the agenda will be in inverse proportion to the sum involved.","A perfection of planned layout is achieved only by institutions on the point of collapse.","Expansion means complexity, and complexity decay."]

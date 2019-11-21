@@ -1,0 +1,1 @@
+var author4310 = "Manchester United F.C.", quotes4310 = ["The Theatre of Dreams","The fans come to the cathedral of Old Trafford to worship their red-and-white gods."]

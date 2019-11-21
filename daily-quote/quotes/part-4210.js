@@ -1,0 +1,1 @@
+var author4210 = "Lucy Maud Montgomery", quotes4210 = ["Be the day short or be the day long, at last it weareth to evening song."]

@@ -1,0 +1,1 @@
+var author6623 = "Thomas Gold", quotes6623 = ["A theorist can explain any correlation, and its inverse."]

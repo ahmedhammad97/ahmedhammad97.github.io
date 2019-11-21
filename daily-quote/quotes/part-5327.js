@@ -1,0 +1,1 @@
+var author5327 = "Pierre-Simon Laplace", quotes5327 = ["Nature laughs at the difficulties of integration."]

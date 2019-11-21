@@ -1,0 +1,1 @@
+var author6838 = "University of Michigan", quotes6838 = ["An uncommon education for the common man."]

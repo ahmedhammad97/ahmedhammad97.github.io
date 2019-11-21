@@ -1,0 +1,1 @@
+var author1674 = "Didier Sornette", quotes1674 = ["The point is that humans are rarely at their best when they use rational reasoning.","A bubble that goes up is just one that could have crashed but did not."]

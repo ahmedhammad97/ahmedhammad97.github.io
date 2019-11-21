@@ -1,0 +1,1 @@
+var author4757 = "Muhammad Ali Jinnah", quotes4757 = ["I am not fighting for Muslims, believe me, when I demand Pakistan.","There is no power on earth that can undo Pakistan."]

@@ -1,0 +1,1 @@
+var author1752 = "Dorothy L. Sayers", quotes1752 = ["Those who make some other person their job . . . are dangerous.","A human being must have occupation, if he or she is not to become a nuisance to the world."]

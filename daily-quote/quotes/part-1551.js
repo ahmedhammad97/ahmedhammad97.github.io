@@ -1,0 +1,1 @@
+var author1551 = "David Fleming", quotes1551 = ["Forward movement is not helpful if what is needed is a change of direction.","Wisdom is intelligence drenched in culture.","Do nothing that matters without consulting a conversation.","Life-saving information tends to come in local dialects."]

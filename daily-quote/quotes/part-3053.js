@@ -1,0 +1,1 @@
+var author3053 = "Information management", quotes3053 = ["It was to do with information management. The intention was to dramatise it."]

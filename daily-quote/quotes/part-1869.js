@@ -1,0 +1,1 @@
+var author1869 = "Edward B. Titchener", quotes1869 = ["Common sense is the very antipodes of science."]

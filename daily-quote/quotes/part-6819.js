@@ -1,0 +1,1 @@
+var author6819 = "Uncertainty", quotes6819 = ["Nothing is but what is not.","ThisTo know not what the worst ahead might be."]

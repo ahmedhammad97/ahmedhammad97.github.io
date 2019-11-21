@@ -1,0 +1,1 @@
+var author170 = "Al Franken", quotes170 = ["What I do is taking what they say and using it against them. What I do is jujitsu."]

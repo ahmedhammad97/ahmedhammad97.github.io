@@ -1,0 +1,1 @@
+var author407 = "Andrew Jackson", quotes407 = ["Desperate courage makes One a majority.","The bank, Mr. Van Buren, is trying to kill me, but I will kill it."]

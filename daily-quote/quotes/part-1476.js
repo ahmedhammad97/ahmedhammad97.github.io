@@ -1,0 +1,1 @@
+var author1476 = "Dan Aykroyd", quotes1476 = ["Greetings and death to our enemies.","You look at the floor and see the floor. I look at the floor and see molecules."]

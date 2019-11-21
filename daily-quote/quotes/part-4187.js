@@ -1,0 +1,1 @@
+var author4187 = "Louis Rukeyser", quotes4187 = ["Trees don't grow to the sky."]

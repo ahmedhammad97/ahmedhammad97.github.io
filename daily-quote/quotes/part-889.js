@@ -1,0 +1,1 @@
+var author889 = "Bohr–Einstein debates", quotes889 = ["We, of course, were sure that on that particular debate Bohr was right and Einstein was wrong."]

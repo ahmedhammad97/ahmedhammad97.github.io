@@ -1,0 +1,1 @@
+var author5607 = "Revelation", quotes5607 = ["We are all one in God’s seeing.","Nature is a revelation of God;Art a revelation of man."]

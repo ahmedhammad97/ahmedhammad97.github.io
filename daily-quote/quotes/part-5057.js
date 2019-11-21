@@ -1,0 +1,1 @@
+var author5057 = "Overnight to Many Distant Cities", quotes5057 = ["Food, said Goethe, is the topmost taper on the golden candelabrum of existence.","Music, said Goethe, is the frozen tapioca in the ice sheet of History.","The funniest thing in the world is a general trying on a nickname."]

@@ -1,0 +1,1 @@
+var author1316 = "Coercion", quotes1316 = ["The exercise of one coercion always makes another inevitable.","Legal coercion is a course which the law allows."]

@@ -1,0 +1,1 @@
+var author5215 = "Persius", quotes5215 = ["She knows her man, and when you rant and swear,Can draw you to her with a single hair."]

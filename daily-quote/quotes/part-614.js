@@ -1,0 +1,1 @@
+var author614 = "Arthur Quiller-Couch", quotes614 = ["O pastoral heart of England! like a psalmOf green days telling with a quiet beat."]

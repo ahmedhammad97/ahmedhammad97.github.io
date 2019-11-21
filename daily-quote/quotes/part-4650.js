@@ -1,0 +1,1 @@
+var author4650 = "Mikhail Bakunin", quotes4650 = ["All exercise of authority perverts, and submission to authority humiliates. ","Every state, like every theology, assumes man to be fundamentally bad and wicked."]

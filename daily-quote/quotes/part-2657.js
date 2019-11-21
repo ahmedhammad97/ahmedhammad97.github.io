@@ -1,0 +1,1 @@
+var author2657 = "Groo the Wanderer", quotes2657 = ["You think you can confuse Groo by giving him two things to think about at once!","I want my dog back! I would give you until the count of five if I could count to five!"]

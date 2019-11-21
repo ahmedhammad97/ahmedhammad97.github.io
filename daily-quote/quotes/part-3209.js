@@ -1,0 +1,1 @@
+var author3209 = "Jamal-al-Din Afghani", quotes3209 = ["The world is a game of chess; the loser loses and the winner wins."]

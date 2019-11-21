@@ -1,0 +1,1 @@
+var author3726 = "Jorge Vargas González", quotes3726 = ["Paulina Nin disrespected my town."]

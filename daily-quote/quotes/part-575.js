@@ -1,0 +1,1 @@
+var author575 = "Arnold Bennett", quotes575 = ["The price of justice is eternal publicity."]

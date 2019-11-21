@@ -1,0 +1,1 @@
+var author6619 = "Thomas Drummond", quotes6619 = ["Property has its duties as well as its rights."]

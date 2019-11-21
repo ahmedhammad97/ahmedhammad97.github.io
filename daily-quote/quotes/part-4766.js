@@ -1,0 +1,1 @@
+var author4766 = "Mumia Abu-Jamal", quotes4766 = ["The state would rather give me an uzi than a microphone."]

@@ -1,0 +1,1 @@
+var author2325 = "Fred Thompson", quotes2325 = ["I often say after eight years in Washington, I longed for the realism and sincerity of Hollywood."]

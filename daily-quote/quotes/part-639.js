@@ -1,0 +1,1 @@
+var author639 = "Assassination of Abraham Lincoln", quotes639 = ["There lies the most perfect ruler of men the world has ever seen. Now he belongs to the ages."]

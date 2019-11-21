@@ -1,0 +1,1 @@
+var author6821 = "Undertakers", quotes6821 = ["The houses that he makes last till doomsday."]

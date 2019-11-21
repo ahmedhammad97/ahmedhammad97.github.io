@@ -1,0 +1,1 @@
+var author6178 = "Socialism", quotes6178 = ["Slavery is a form, and the very best form, of socialism.","The function of socialism is to raise suffering to a higher level.","Socialism is the same as Communism, only better English."]

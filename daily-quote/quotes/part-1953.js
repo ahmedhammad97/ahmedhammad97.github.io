@@ -1,0 +1,1 @@
+var author1953 = "Elisabeth Kübler-Ross", quotes1953 = ["Guilt is perhaps the most painful companion of death."]

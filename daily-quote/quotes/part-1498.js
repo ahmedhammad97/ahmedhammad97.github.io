@@ -1,0 +1,1 @@
+var author1498 = "Daniel Daly", quotes1498 = ["Come on, you sons of bitches, do you want to live forever?","I can't see how a single man could spend his time to better advantage than in the Marines."]

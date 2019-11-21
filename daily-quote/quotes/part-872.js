@@ -1,0 +1,1 @@
+var author872 = "Bob Barr", quotes872 = ["Every American is hard-wired in history or experience to be libertarian about something. "]

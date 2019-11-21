@@ -1,0 +1,1 @@
+var author416 = "Andrew Vachss", quotes416 = ["I don't love kids. I hate their predators. It's a burning hatred I feel to this day."]

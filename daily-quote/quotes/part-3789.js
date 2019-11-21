@@ -1,0 +1,1 @@
+var author3789 = "Judith Jamison", quotes3789 = ["People come to see beauty, and I dance to give it to them."]

@@ -1,0 +1,1 @@
+var author1125 = "Charles Coffey", quotes1125 = ["The girl is mettle to the back."]

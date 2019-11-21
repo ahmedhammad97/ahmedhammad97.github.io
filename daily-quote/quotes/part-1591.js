@@ -1,0 +1,1 @@
+var author1591 = "David Thomas (born 1813)", quotes1591 = ["Unselfish and noble acts are the most radiant epochs in the biography of souls.","How free from every thing like art were the reasonings and language of Christ."]

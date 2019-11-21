@@ -1,0 +1,1 @@
+var author4587 = "Michael Hammer", quotes4587 = ["To succeed at reengineering, you have to be a missionary, a motivator, and a leg breaker."]

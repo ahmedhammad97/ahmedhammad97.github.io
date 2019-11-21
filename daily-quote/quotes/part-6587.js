@@ -1,0 +1,1 @@
+var author6587 = "Theory", quotes6587 = ["It is a condition which confronts us — not a theory.","The final test of a theory is its capacity to solve the problems which originated it.","No single theory ever agrees with all the facts in its domain.","Great theories are expansive; failures mire us in dogmatism and tunnel vision."]

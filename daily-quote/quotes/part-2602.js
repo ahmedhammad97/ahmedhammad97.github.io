@@ -1,0 +1,1 @@
+var author2602 = "Gone with the Wind (novel)", quotes2602 = ["A what?","A dusk of the gods. Unfortunately, we Southerners did think we were gods.","Hardships make or break people."]

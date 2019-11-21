@@ -1,0 +1,1 @@
+var author1060 = "Carl Van Doren", quotes1060 = ["A classic is a book that doesn't have to be written again.","The race of man, while sheep in credulity, are wolves for conformity.","Yes, it's hard to write. But it's harder not to."]

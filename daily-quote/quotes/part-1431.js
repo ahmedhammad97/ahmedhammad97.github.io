@@ -1,0 +1,1 @@
+var author1431 = "Credit", quotes1431 = ["Let me remind you that credit is the lifeblood of business, the lifeblood of prices and jobs."]

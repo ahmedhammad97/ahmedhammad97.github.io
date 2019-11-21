@@ -1,0 +1,1 @@
+var author3696 = "John von Neumann", quotes3696 = ["Young man, in mathematics you don't understand things. You just get used to them.","You don't have to be responsible for the world that you're in.","The goys have proven the following theorem…"]

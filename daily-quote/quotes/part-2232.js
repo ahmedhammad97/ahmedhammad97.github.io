@@ -1,0 +1,1 @@
+var author2232 = "Florida", quotes2232 = ["Where the hell's Fiji? Near Florida?","California, Florida, whatever. Either way, your pale ass is getting a tan.","A few things for themselves, Disclose to the lover.","One nice thing about Florida, it makes Pennsylvania look unspoiled.","Just not being senile is considered great down here."]

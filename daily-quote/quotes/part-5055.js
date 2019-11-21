@@ -1,0 +1,1 @@
+var author5055 = "Ouida", quotes5055 = ["Take hope from the heart of man and you make him a beast of prey."]

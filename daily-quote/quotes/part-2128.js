@@ -1,0 +1,1 @@
+var author2128 = "Exercise", quotes2128 = ["[Writing of Letitia Elizabeth Landon]","Health is the vital principle of bliss,And exercise, of health.","If you would get exercise, go in search of the springs of life.","I get my exercise running to the funerals of my friends who exercise.","I'm the biggest guy in Bodeites, I could take on anyone**"]

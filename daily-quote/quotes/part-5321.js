@@ -1,0 +1,1 @@
+var author5321 = "Pierre Mendès-France", quotes5321 = ["To govern is to choose."]

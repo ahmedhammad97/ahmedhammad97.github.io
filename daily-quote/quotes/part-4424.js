@@ -1,0 +1,1 @@
+var author4424 = "Martin Bormann", quotes4424 = ["National Socialism and Christianity are irreconcilable."]

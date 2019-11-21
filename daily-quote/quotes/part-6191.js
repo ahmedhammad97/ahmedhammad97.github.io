@@ -1,0 +1,1 @@
+var author6191 = "Somnath temple", quotes6191 = ["I don’t like your trying to restore Somnath. It is Hindu revivalism. "]

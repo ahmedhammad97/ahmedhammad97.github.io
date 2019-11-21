@@ -1,0 +1,1 @@
+var author6541 = "The Right Nation", quotes6541 = ["If Bush has divided opinion at home, he has united it abroad&mdash;pretty much all against him."]

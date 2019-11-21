@@ -1,0 +1,1 @@
+var author6675 = "Thor (Marvel Comics)", quotes6675 = ["Whosoever holds this hammer, if he be worthy, shall possess the power of Thor!","All life...even such as theirs...is precious beyond understanding!","For they who live by violence...most surely will so perish!!","Ultron. We would have words with thee."]

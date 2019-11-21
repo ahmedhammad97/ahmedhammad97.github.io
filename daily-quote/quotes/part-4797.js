@@ -1,0 +1,1 @@
+var author4797 = "Napoleon III", quotes4797 = ["In politics evils should be remedied not revenged.","Usually, it is man who attacks; as for me, I defend myself, and I often capitulate."]

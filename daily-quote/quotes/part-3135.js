@@ -1,0 +1,1 @@
+var author3135 = "Ithiel de Sola Pool", quotes3135 = ["The Telephone will democratize hierarchic relations."]

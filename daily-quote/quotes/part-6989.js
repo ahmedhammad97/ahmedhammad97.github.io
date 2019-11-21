@@ -1,0 +1,1 @@
+var author6989 = "Walter Terence Stace", quotes6989 = ["Either God is a Mystery or He is nothing at all.","The true religious doctrine is that the world is to be both denied and not to be denied.","The pure religious consciousness lies in a region which is forever beyond all proof or disproof.","Mystics more often than not avoid direct reference to themselves."]

@@ -1,0 +1,1 @@
+var author3128 = "Isocrates", quotes3128 = ["Argos is the land of your fathers."]

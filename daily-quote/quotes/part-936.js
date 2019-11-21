@@ -1,0 +1,1 @@
+var author936 = "Brendan Behan", quotes936 = ["He was born an Englishman and remained one for years.","An author's first duty is to let down his country. ","There's no bad publicity except an obituary.","Mother, they would praise my balls if I hung them high enough.","I only drink on two occasions — When I am thirsty and when I'm not."]

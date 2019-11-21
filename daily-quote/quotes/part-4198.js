@@ -1,0 +1,1 @@
+var author4198 = "Lu Xun", quotes4198 = ["The so-called peace is an interval between wars."]

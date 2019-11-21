@@ -1,0 +1,1 @@
+var author4790 = "Nancy Cartwright", quotes4790 = ["The best acting job in the world.","Devious, underachieving, school-hating, irreverent, [and] clever."]

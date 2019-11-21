@@ -1,0 +1,1 @@
+var author4709 = "Molly Ringwald", quotes4709 = ["When I was a little kid I thought I would grow up to be black and sing jazz in nightclubs."]

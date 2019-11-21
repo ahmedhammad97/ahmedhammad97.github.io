@@ -1,0 +1,1 @@
+var author5632 = "Richard Cyert", quotes5632 = ["Effective retention is heavily dependent on recruiting students with the potential to graduate.","Relatively unsuccessful firms would be more likely to innovate than relatively successful firms.","Rational actors are significantly constrained by limitations of information and calculation."]

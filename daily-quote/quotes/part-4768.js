@@ -1,0 +1,1 @@
+var author4768 = "Murasaki Shikibu", quotes4768 = ["Unforgettably horrible is the naked body. It really does not have the slightest charm.","Real things in the darkness seem no realer than dreams.","Ceaseless as the interminable voices of the bell-cricket, all night till dawn my tears flow.","It is in general the unexplored that attracts us."]

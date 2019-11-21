@@ -1,0 +1,1 @@
+var author3455 = "Joel Bakan", quotes3455 = ["As institutional psychopaths, corporations are wont to remove obstacles that get into their way."]

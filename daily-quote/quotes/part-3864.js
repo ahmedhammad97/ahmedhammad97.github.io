@@ -1,0 +1,1 @@
+var author3864 = "Kashubians", quotes3864 = ["Dear Kashubian brothers and sisters! Cherish the values and the heritage that define your identity.","It is a government's intention to oust the Kashubian language gradually (1835)","Nowhere in the world today will you find a corner that does not carry some memory of us Kashubians."]

@@ -1,0 +1,1 @@
+var author4473 = "Materialism", quotes4473 = ["He was troubled by materialism."]

@@ -1,0 +1,1 @@
+var author6916 = "Vincent Starrett", quotes6916 = ["When we are collecting books, we are collecting happiness."]

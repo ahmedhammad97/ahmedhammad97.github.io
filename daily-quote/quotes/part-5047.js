@@ -1,0 +1,1 @@
+var author5047 = "Oskar Kokoschka", quotes5047 = ["I cannot say why I wanted to paint. The only answer is in the pictures themselves.","My plays are not didactic... they simply express my attitude to my world."]

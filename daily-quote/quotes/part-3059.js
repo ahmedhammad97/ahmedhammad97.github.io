@@ -1,0 +1,1 @@
+var author3059 = "Inhumanity", quotes3059 = ["Man's inhumanity to manMakes countless thousands mourn!","Man's inhumanity to man will continue as long as man loves God more than he loves his fellow man.","All that separates, whether of race, class, creed, or sex, is inhuman, and must be overcome."]

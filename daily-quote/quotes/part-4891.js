@@ -1,0 +1,1 @@
+var author4891 = "Nicolae Ceaușescu", quotes4891 = ["Oil, Jews and Germans, are our most important export commodities.","My brother! You are my brother for the rest of my life!","He tells nothing but lies."]

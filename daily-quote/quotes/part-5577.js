@@ -1,0 +1,1 @@
+var author5577 = "Religious conversion", quotes5577 = ["A man to be converted has to give up his will, his ways, and his thoughts.","The time when I was converted was when religion became no longer a duty, but a pleasure."]

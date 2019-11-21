@@ -1,0 +1,1 @@
+var author4658 = "Military character", quotes4658 = ["Ah! my wang is hateful to you; or is it I, madam, that enjoys that privilege?"]

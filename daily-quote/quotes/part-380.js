@@ -1,0 +1,1 @@
+var author380 = "Anand Patwardhan", quotes380 = ["You have to be a filmmaker, and then you have to be a lawyer as well."]

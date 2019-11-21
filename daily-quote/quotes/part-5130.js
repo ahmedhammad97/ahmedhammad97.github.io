@@ -1,0 +1,1 @@
+var author5130 = "Patrick White", quotes5130 = ["Conversation is imperative if gaps are to be filled, and old age, it is the last gap but one.","Loonies speak their own language, like educated people. ","The essence of what you have to say you pick up before you're twenty."]

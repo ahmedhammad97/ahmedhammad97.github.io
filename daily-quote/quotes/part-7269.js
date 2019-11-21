@@ -1,0 +1,1 @@
+var author7269 = "Yasunari Kawabata", quotes7269 = ["Because you cannot see him, God is everywhere."]

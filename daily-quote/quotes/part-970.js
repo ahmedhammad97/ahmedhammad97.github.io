@@ -1,0 +1,1 @@
+var author970 = "Bruce Sterling", quotes970 = ["Tomorrow composts today."]

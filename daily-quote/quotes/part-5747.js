@@ -1,0 +1,1 @@
+var author5747 = "Robert J. Hanlon", quotes5747 = ["Never attribute to malice that which is adequately explained by stupidity."]

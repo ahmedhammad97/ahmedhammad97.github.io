@@ -1,0 +1,1 @@
+var author1169 = "Charles Symmons", quotes1169 = ["Hard is the task, O Queen! that you impose,To tear my bosom with reviving woes.","Dire lust of gold! how mighty thy controllTo bend to crime man's impotence of soul!","Yet have I lived!—and lived for noble ends!My shade in glory to the shades descends.","They can because they dare."]

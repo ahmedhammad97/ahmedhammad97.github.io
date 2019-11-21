@@ -1,0 +1,1 @@
+var author762 = "Benedetto Croce", quotes762 = ["Language is articulated, limited sound organized for the purpose of expression. "]

@@ -1,0 +1,1 @@
+var author5426 = "Problem solving", quotes5426 = ["In mathematics the art of asking questions is more valuable than solving problems.","There is always an easy solution to every human problem — neat, plausible, and wrong."]

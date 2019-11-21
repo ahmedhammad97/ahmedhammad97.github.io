@@ -1,0 +1,1 @@
+var author1775 = "Draupadi", quotes1775 = ["'O Sankara, I desire to have from thee only one husband possessed of every virtue?"]

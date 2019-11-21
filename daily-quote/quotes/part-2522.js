@@ -1,0 +1,1 @@
+var author2522 = "George Wallace", quotes2522 = ["I was wrong. Those days are over, and they ought to be over. "]

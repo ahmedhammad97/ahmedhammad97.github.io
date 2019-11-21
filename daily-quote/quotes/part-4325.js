@@ -1,0 +1,1 @@
+var author4325 = "Marc Benioff", quotes4325 = ["The enemy of my enemy is my friend, so that makes Google my best friend."]

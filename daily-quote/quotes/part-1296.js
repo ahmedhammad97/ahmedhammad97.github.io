@@ -1,0 +1,1 @@
+var author1296 = "Clemens August Graf von Galen", quotes1296 = ["And now go and serve your fatherland."]

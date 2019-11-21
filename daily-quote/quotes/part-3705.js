@@ -1,0 +1,1 @@
+var author3705 = "Jon Courtenay Grimwood", quotes3705 = ["Gene Newman was Catholic, although not so Catholic that he had more than two children.","“We’re getting old,” he said.“No,” said Paula Zarte. “You are. I’m just not as young as I was.”"]

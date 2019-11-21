@@ -1,0 +1,1 @@
+var author6946 = "W. Averell Harriman", quotes6946 = ["Conferences at the top level are always courteous. Name calling is left to the foreign ministers."]

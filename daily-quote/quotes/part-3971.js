@@ -1,0 +1,1 @@
+var author3971 = "Kyuzo Mifune", quotes3971 = ["Of course the strong are strong and the weak weak.","A chance to try your technique is in one instant never to be regained, so try it without hesitation."]

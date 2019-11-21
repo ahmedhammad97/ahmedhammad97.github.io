@@ -1,0 +1,1 @@
+var author366 = "Amitabh Bachchan", quotes366 = ["He never gave us a script and we never asked - we were safe in his hands.","I believe that cinema picks up ideas from society and not the other way round.","When your back is against the wall, there's only one way to go and that's forward."]

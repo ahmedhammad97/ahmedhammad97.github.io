@@ -1,0 +1,1 @@
+var author2439 = "Geoffrey Moore", quotes2439 = ["Without “big data”, you are blind and deaf and in the middle of a freeway.","Marketing has long known how to exploit fads and how to develop trends."]

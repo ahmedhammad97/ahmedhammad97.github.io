@@ -1,0 +1,1 @@
+var author1628 = "Demi Moore", quotes1628 = ["Truly, my first love."]

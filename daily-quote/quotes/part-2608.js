@@ -1,0 +1,1 @@
+var author2608 = "Gordon Tullock", quotes2608 = ["What is important will be manipulated by the government."]

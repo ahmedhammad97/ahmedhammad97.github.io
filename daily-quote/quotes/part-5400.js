@@ -1,0 +1,1 @@
+var author5400 = "Preparation", quotes5400 = ["Be Prepared. ","Stay here — and be prepared — for anything.","Hello, my name is Inigo Montoya. You killed my father. Prepare to die.","In the fields of observation chance favors only the prepared mind.","Expect the best. Prepare for the worst. Capitalize on what comes. "]

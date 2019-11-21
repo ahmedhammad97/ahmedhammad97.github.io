@@ -1,0 +1,1 @@
+var author5336 = "Pirates", quotes5336 = ["It's more fun to be a pirate than to join the navy.","Now and then we had a hope that if we lived and were good, God would permit us to be pirates."]

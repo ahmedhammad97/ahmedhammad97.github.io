@@ -1,0 +1,1 @@
+var author5542 = "Ravi Zacharias", quotes5542 = ["Truth by definition excludes.","With no fact as a referent, what is normative is purely a matter of preference."]

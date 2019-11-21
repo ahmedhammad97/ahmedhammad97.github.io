@@ -1,0 +1,1 @@
+var author4223 = "Luis A. Ferré", quotes4223 = ["Revolutionary in my ideas, liberal in my objectives and conservative in my methods.","My theory was that a city without a newspaper is a city without a soul."]

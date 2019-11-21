@@ -1,0 +1,1 @@
+var author6499 = "The Dead Father", quotes6499 = ["Best not to anticipate too much, said Thomas, it jiggles the possibilities."]

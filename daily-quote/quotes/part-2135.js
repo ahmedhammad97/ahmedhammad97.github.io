@@ -1,0 +1,1 @@
+var author2135 = "Exploration", quotes2135 = ["It's a magical world, Hobbes, ol' buddy...Let's go exploring! "]

@@ -1,0 +1,1 @@
+var author3427 = "Joachim Kaiser", quotes3427 = ["The word Silence today sounds bridegroom or the tragedy of love."]

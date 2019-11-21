@@ -1,0 +1,1 @@
+var author2699 = "H. Richard Niebuhr", quotes2699 = ["Faith and God belong together somewhat as sense experience and physical reality do."]

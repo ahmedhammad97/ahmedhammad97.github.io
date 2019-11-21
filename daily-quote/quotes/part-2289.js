@@ -1,0 +1,1 @@
+var author2289 = "Frank Herbert", quotes2289 = ["I must not fear. ","The scarce water of Dune is an exact analog of oil scarcity. CHOAM is OPEC.","Learning a language represents training in the delusions of that language."]

@@ -1,0 +1,1 @@
+var author6770 = "Translation", quotes6770 = ["Translation is at best an echo.","Such is our pride, our folly, or our fate,That few but such as cannot write, translate.","Nor ought a genius less than his that writAttempt translation.","Humour is the first of the gifts to perish in a foreign tongue."]

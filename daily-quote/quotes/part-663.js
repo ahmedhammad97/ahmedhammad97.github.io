@@ -1,0 +1,1 @@
+var author663 = "Auguste Comte", quotes663 = ["To understand a science it is necessary to know its history.","The dead govern the living.","Foreknowledge is power."]

@@ -1,0 +1,1 @@
+var author7324 = "Zygmunt Krasiński", quotes7324 = ["Alas! thou sufferest, too, although thy pangs"]

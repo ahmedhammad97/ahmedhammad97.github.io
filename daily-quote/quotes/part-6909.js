@@ -1,0 +1,1 @@
+var author6909 = "Villain", quotes6909 = ["Zeno first started that doctrine, that knavery is the best defence against a knave.","There's ne'er a villain dwelling in all DenmarkBut he's an arrant knave.","A knave; a rascal; an eater of broken meats.","Whip me such honest knaves."]

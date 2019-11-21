@@ -1,0 +1,1 @@
+var author3969 = "Kwame Nkrumah", quotes3969 = ["The independence of Ghana is meaningless until it is linked to the total liberation of Africa."]

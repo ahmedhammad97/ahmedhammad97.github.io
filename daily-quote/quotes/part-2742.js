@@ -1,0 +1,1 @@
+var author2742 = "Harlan F. Stone", quotes2742 = ["Words, especially those of a constitution, are not to be read with such stultifying narrowness.","Democracy cannot survive without the guidance of a creative minority."]

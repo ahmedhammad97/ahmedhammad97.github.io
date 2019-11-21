@@ -1,0 +1,1 @@
+var author7023 = "Welfare", quotes7023 = ["A society is a cooperative venture for the mutual advantage of its members.","The welfare of a nation can scarcely be inferred from a measurement of national income.","Welfare's purpose should be to eliminate, as far as possible, the need for its own existence."]

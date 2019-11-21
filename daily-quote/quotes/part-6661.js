@@ -1,0 +1,1 @@
+var author6661 = "Thomas Sturge Moore", quotes6661 = ["For milkmaids and queens and gipsy-princessesDream and kiss blindfold or starve upon guesses.","Break free, my soul, good manners are thy tomb!"]

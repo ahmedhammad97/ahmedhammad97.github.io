@@ -1,0 +1,1 @@
+var author4445 = "Marxism", quotes4445 = ["We are all Marxists now","Marxism, as the formal framework of all contemporary philosophical thought, cannot be superseded."]

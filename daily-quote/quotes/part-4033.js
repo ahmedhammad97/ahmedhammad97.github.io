@@ -1,0 +1,1 @@
+var author4033 = "Lawrence Ferlinghetti", quotes4033 = ["The pennycandystore beyond the Elwith unreality","It was a face which darkness could killin an instant","Poetry is the shadow cast by our imaginations."]

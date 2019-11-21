@@ -1,0 +1,1 @@
+var author6927 = "Vittore Pisani", quotes6927 = ["The Macedonian language is actually an artifact produced for primarily political reasons."]

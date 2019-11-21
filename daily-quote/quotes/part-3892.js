@@ -1,0 +1,1 @@
+var author3892 = "Keith West", quotes3892 = ["Grocer Jack, Grocer Jack,Oh no, no. "]

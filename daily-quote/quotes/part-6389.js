@@ -1,0 +1,1 @@
+var author6389 = "Sydney J. Harris", quotes6389 = ["Every morning I take out my bankbook, stare at it, shudder — and turn quickly to my typewriter.","When I hear somebody sigh that Life is hard, I am always tempted to ask, Compared to what?","People who think they’re generous to a fault usually think that’s their only fault."]

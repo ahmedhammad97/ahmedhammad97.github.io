@@ -1,0 +1,1 @@
+var author1993 = "Emlyn Williams", quotes1993 = ["Look up - to where the corn is green!"]

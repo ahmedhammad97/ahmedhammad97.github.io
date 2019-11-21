@@ -1,0 +1,1 @@
+var author4692 = "Moby", quotes4692 = ["Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book."]

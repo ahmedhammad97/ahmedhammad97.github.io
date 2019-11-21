@@ -1,0 +1,1 @@
+var author5231 = "Peter Cohan", quotes5231 = ["With the tragic death of Steve Jobs, Apple has lost its ability to innovate."]

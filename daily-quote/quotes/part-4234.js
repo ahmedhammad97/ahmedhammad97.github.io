@@ -1,0 +1,1 @@
+var author4234 = "Luther H. Gulick", quotes4234 = ["What is the work of the chief executive? What does he do?"]

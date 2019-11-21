@@ -1,0 +1,1 @@
+var author7247 = "World view", quotes7247 = ["The systems approach goes on to discovering that every world-view is terribly restricted.","Asked where he came from, he said, I am a citizen of the world.","World-view is a product of life-view, not vice versa.","I must confess that I lost faith in the sanity of the world.","A frog in a well cannot conceive of the ocean."]

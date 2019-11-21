@@ -1,0 +1,1 @@
+var author248 = "Alessandra Torresani", quotes248 = ["I want to be the poster girl for engineers and computer nerds."]

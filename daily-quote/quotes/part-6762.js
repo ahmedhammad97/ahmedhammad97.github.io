@@ -1,0 +1,1 @@
+var author6762 = "Total quality management", quotes6762 = ["Building the house of quality requires six basic steps: "]

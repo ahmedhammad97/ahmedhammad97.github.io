@@ -1,0 +1,1 @@
+var author5273 = "Philip Gibbs", quotes5273 = ["It's better to give than to lend, and it costs about the same."]

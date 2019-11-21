@@ -1,0 +1,1 @@
+var author1510 = "Daniel McCallum", quotes1510 = ["The road must run save first and fast afterward."]

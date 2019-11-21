@@ -1,0 +1,1 @@
+var author1516 = "Danny Kaye", quotes1516 = ["I am a wife-made man","I became an entertainer not because I wanted to but because I was meant to."]

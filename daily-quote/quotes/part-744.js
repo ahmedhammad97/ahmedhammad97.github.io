@@ -1,0 +1,1 @@
+var author744 = "Beetles", quotes744 = ["An inordinate fondness for beetles."]

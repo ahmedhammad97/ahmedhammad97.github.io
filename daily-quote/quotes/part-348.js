@@ -1,0 +1,1 @@
+var author348 = "Amanda Filipacchi", quotes348 = ["For months I had been trying to be less myself."]

@@ -1,0 +1,1 @@
+var author5373 = "Pope Francis", quotes5373 = ["This is what I want, a poor Church for the poor.","The earth, our home, is beginning to look more and more like an immense pile of filth.","Let us turn our backs on power and treachery."]

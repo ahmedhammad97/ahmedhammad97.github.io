@@ -1,0 +1,1 @@
+var author5176 = "Paula Poundstone", quotes5176 = ["I have terrible short-term memory loss, which I like to think of as Presidential eligibility."]

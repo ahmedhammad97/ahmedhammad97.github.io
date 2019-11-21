@@ -1,0 +1,1 @@
+var author2793 = "Heinrich Himmler", quotes2793 = ["My honor is my loyalty.","I hope to see the very concept of Jewry completely obliterated."]

@@ -1,0 +1,1 @@
+var author3344 = "Jean de La Bruyère", quotes3344 = ["A Man must be very inert to have no character at all.","Most men make use of the first part of their life to render the last part miserable.","One mark of a second-rate mind is to be always telling stories."]

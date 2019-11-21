@@ -1,0 +1,1 @@
+var author3787 = "Judiciary", quotes3787 = ["John Marshall has made his decision: now let him enforce it!"]

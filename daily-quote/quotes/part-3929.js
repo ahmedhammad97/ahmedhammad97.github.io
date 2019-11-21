@@ -1,0 +1,1 @@
+var author3929 = "Kim Jong-il", quotes3929 = ["It's all a lie. They're just pretending to praise me.","Glory to the heroic soldiers of the Korean People's Army!"]

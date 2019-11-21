@@ -1,0 +1,1 @@
+var author6772 = "Traudl Junge", quotes6772 = ["Now that I've let go of my story, I can let go of my life."]

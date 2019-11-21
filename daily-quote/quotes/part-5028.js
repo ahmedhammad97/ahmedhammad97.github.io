@@ -1,0 +1,1 @@
+var author5028 = "Organized crime", quotes5028 = ["[Luca Brasi's bulletproof vest is delivered with a fish inside]","I make him an offer he don't refuse ~ Vito Corleone.","The richest man is the one with the most powerful friends ~ Don Altobello.","Don't get high on your own supply. ~ Elvira Hancock","There is no Mafia. ~ Tony Soprano."]

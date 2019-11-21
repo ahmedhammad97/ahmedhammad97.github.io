@@ -1,0 +1,1 @@
+var author4311 = "Mandell Creighton", quotes4311 = ["No people do so much harm as those who go about doing good."]

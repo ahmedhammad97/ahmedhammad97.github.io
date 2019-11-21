@@ -1,0 +1,1 @@
+var author188 = "Alan Grayson", quotes188 = ["Republican Party, you're a lie factory, that's all you do.","He's just angry because the president [Obama] doesn't shoot old men in the face.","When he was done speaking, did he just then turn into a bat and fly away?","I’m sorry... I’m sorry that Limbaugh is one sorry excuse for a human being."]

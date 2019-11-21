@@ -1,0 +1,1 @@
+var author4669 = "Minor (law)", quotes4669 = ["Minority is to give total impunity.","Infants have no privilege to cheat men."]

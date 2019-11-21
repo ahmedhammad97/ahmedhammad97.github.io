@@ -1,0 +1,1 @@
+var author5729 = "Robert E. Machol", quotes5729 = ["[Systems should be classified] on the basis of the types of inputs with which they must cope.","The conclusions of most good operations research studies are obvious.","If the assumptions are wrong, the conclusions aren't likely to be very good."]

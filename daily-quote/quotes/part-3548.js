@@ -1,0 +1,1 @@
+var author3548 = "John Frusciante", quotes3548 = ["Pagers are my life--I try to get them in to our music as much as possible."]

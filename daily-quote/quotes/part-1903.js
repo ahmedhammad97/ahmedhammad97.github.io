@@ -1,0 +1,1 @@
+var author1903 = "Edward V. Berard", quotes1903 = ["Walking on water and developing software from a specification are easy if both are frozen."]

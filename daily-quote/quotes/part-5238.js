@@ -1,0 +1,1 @@
+var author5238 = "Peter Handke", quotes5238 = ["I was angry at her for not being what I wanted.","Proud of my near-madness, as if I had attained a goal."]

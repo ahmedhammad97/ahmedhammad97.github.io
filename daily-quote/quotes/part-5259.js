@@ -1,0 +1,1 @@
+var author5259 = "Peter Wessel Zapffe", quotes5259 = ["Death is the most certain and the most uncertain event there is.","Mankind ought to end its existence of its own will."]

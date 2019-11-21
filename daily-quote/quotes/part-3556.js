@@ -1,0 +1,1 @@
+var author3556 = "John Gilmore", quotes3556 = ["The Net interprets censorship as damage and routes around it.","How many of you have broken no laws this month?","If you're watching everybody, you're watching nobody.","When the X500 revolution comes, your name will be lined against the wall and shot."]

@@ -1,0 +1,1 @@
+var author1529 = "Dave Barry", quotes1529 = ["As a child, I was more afraid of tetanus shots than, for example, Dracula."]

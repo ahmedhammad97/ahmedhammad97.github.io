@@ -1,0 +1,1 @@
+var author6196 = "Sonny Bill Williams", quotes6196 = ["I am the first to jump up and say that I am a proud Samoan.","If you don't have massive dreams, you might as well stay in bed."]

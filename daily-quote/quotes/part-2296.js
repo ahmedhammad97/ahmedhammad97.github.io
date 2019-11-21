@@ -1,0 +1,1 @@
+var author2296 = "Frankenstein (novel)", quotes2296 = ["What can stop the determined heart and resolved will of man?","Live, and be happy, and make others so."]

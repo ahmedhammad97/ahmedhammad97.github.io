@@ -1,0 +1,1 @@
+var author4329 = "Marcellin Berthelot", quotes4329 = ["The word truth can not be used outside of science without a misuse of terms."]

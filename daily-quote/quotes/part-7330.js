@@ -1,0 +1,1 @@
+var author7330 = "Émile Zola", quotes7330 = ["One forges one's style on the terrible anvil of daily deadlines.","Everything is only a dream.","The artist is nothing without the gift, but the gift is nothing without work."]

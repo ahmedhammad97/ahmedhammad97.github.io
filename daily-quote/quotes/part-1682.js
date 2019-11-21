@@ -1,0 +1,1 @@
+var author1682 = "Dimples", quotes1682 = ["Then did she lift her hands unto his chin,And praised the pretty dimpling of his skin."]

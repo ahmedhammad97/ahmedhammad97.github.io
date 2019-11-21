@@ -1,0 +1,1 @@
+var author5776 = "Robert Owen", quotes5776 = ["Man is the creature of circumstances.","To preserve permanent good health, the state of mind must be taken into consideration."]

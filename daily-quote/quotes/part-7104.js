@@ -1,0 +1,1 @@
+var author7104 = "William Ernest Hocking", quotes7104 = ["Principle I : Legal rights are presumptive rights."]

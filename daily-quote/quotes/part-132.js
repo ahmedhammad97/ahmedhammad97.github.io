@@ -1,0 +1,1 @@
+var author132 = "Affectation", quotes132 = ["Affectation hides three times as many virtues as charity does sins.","There Affectation, with a sickly mien,Shows in her cheek the roses of eighteen."]

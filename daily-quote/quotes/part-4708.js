@@ -1,0 +1,1 @@
+var author4708 = "Molly Ivins", quotes4708 = ["On the Iraq War: "]

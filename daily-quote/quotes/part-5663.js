@@ -1,0 +1,1 @@
+var author5663 = "Richard Pipes", quotes5663 = ["Bolshevism and Fascism were heresies of socialism."]

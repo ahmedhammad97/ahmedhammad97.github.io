@@ -1,0 +1,1 @@
+var author3889 = "Keith Olbermann", quotes3889 = ["Courage is a mutual thing.","An uprising of the reasonable is our only chance."]

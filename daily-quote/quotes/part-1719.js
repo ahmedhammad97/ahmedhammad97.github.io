@@ -1,0 +1,1 @@
+var author1719 = "Doctor Strange", quotes1719 = ["It is time for me to visit the master, from whom all my powers stem… "]

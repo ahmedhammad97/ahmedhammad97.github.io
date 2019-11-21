@@ -1,0 +1,1 @@
+var author4491 = "Maureen Dowd", quotes4491 = ["These are not grounds for impeachment. These are grounds for divorce.","The idea of American exceptionalism doesn't extend to Americans being exceptional."]

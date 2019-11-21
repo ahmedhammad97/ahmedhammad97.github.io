@@ -1,0 +1,1 @@
+var author673 = "Australia", quotes673 = ["God bless America, God Save the Queen, God defend New Zealand and thank Christ for Australia.","Yeah mate I bloody was like a rat up a drainpipe in one of them runs there.","Earth is here so kind, that just tickle her with a hoe and she laughs with a harvest.","In joyful strains then let us sing, 'Advance Australia fair!'"]

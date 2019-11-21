@@ -1,0 +1,1 @@
+var author4466 = "Mason Weems", quotes4466 = ["Even common passions... will put him up to his mettle.","I cannot tell a lie, I did it with my little hatchet."]

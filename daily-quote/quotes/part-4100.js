@@ -1,0 +1,1 @@
+var author4100 = "Lester del Rey", quotes4100 = ["Stupidity, greed, misdirected aggression—or sum it up and call it man.","“How can you prove God’s on your side?” Boyd asked.","He was sure there must be some catch. Every principle here had an opposite, and both were wrong."]

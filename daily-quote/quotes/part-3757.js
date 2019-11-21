@@ -1,0 +1,1 @@
+var author3757 = "Josh McDowell", quotes3757 = ["Rules without relationship leads to rebellion."]

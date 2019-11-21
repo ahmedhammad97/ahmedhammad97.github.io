@@ -1,0 +1,1 @@
+var author712 = "Barbara Hepworth", quotes712 = ["Sculpture, to me, is primitive, religious, passionate, and magical."]

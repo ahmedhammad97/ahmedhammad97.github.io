@@ -1,0 +1,1 @@
+var author4089 = "Leonhard Euler", quotes4089 = ["Madam, I have come from a country where people are hanged if they talk.","Now I will have less distraction."]

@@ -1,0 +1,1 @@
+var author2279 = "Frank Borman", quotes2279 = ["Capitalism without bankruptcy is like Christianity without hell."]

@@ -1,0 +1,1 @@
+var author7235 = "Wonder", quotes7235 = ["Wonder is the beginning of wisdom."]

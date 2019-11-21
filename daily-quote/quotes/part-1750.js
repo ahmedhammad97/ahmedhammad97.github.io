@@ -1,0 +1,1 @@
+var author1750 = "Doron Zeilberger", quotes1750 = ["Programming is much much harder than doing mathematics."]

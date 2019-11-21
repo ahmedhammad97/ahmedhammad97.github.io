@@ -1,0 +1,1 @@
+var author307 = "Alfred P. Sloan", quotes307 = ["Take my assets — but leave me my organization and in five years I'll have it all back.","Bedside manners are no substitute for the right diagnosis.","It is astonishing what you can do when you have a lot of energy, ambition and plenty of ignorance."]

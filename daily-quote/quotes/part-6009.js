@@ -1,0 +1,1 @@
+var author6009 = "Scarlett Johansson", quotes6009 = ["I am very independent. I can look after myself but I still need a lot of love and care. "]

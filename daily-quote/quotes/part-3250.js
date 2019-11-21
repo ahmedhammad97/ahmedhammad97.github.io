@@ -1,0 +1,1 @@
+var author3250 = "James Hutton", quotes3250 = ["We find no vestige of a beginning - no prospect of an end."]

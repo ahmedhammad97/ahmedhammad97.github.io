@@ -1,0 +1,1 @@
+var author3835 = "Kabir", quotes3835 = ["Kabîr says, O Sadhu! God is the breath of all breath.","I do not quote from the scriptures;I simply see what I see.","When the bride is onethe wedding party? "]

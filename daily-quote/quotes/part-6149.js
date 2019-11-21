@@ -1,0 +1,1 @@
+var author6149 = "Sir William Wyndham, 3rd Baronet", quotes6149 = ["O God, if there be a God, save my soul, if I have a soul."]

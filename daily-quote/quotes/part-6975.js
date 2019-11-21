@@ -1,0 +1,1 @@
+var author6975 = "Walter Gilbert", quotes6975 = ["I would not be surprised if there were another cause of AIDS and even that HIV is not involved."]

@@ -1,0 +1,1 @@
+var author2877 = "Herbert Read", quotes2877 = ["A poem is not a statement, but a manifestation, a manifestation of being"]

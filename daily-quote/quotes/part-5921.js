@@ -1,0 +1,1 @@
+var author5921 = "Safety", quotes5921 = ["Choosing safety is a choice of life over career.","In love the only safety is in flight","A ship is safe in harbor, but that's not what ships are for."]

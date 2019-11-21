@@ -1,0 +1,1 @@
+var author6526 = "The Men Who Stare at Goats (film)", quotes6526 = ["More of this is true than you would believe."]

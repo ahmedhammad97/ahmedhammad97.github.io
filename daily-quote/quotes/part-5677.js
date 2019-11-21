@@ -1,0 +1,1 @@
+var author5677 = "Richard Wurmbrand", quotes5677 = ["A faith that can be destroyed by suffering is not faith."]

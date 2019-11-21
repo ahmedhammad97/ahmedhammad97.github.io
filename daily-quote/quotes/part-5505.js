@@ -1,0 +1,1 @@
+var author5505 = "Raghuram Rajan", quotes5505 = ["Not taking risks one doesn't understand is often the best form of risk management.","A 007 James Bond image is very dangerous for a central banker to have."]

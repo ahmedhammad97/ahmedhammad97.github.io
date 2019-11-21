@@ -1,0 +1,1 @@
+var author1507 = "Daniel Keyes", quotes1507 = ["Strange about learning; the farther I go the more I see that I never knew even existed."]

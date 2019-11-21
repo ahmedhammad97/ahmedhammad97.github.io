@@ -1,0 +1,1 @@
+var author6522 = "The Man Who Laughs", quotes6522 = ["It is very fortunate that kings cannot err. Hence their contradictions never perplex us.","Freedom which exists in the wanderer terrified the law."]

@@ -1,0 +1,1 @@
+var author6669 = "Thomas Wolsey", quotes6669 = ["I am come to leave my bones among you."]

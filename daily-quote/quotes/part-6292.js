@@ -1,0 +1,1 @@
+var author6292 = "Steve Wozniak", quotes6292 = ["Steve Jobs doesn't use a Mac, and won't, because it's too crappy in his opinion.","I went drinking with Gray Powell and all I got was a lousy iPhone prototype.","Wherever smart people work, doors are unlocked.","A lot of hacking is playing with other people, you know, getting them to do strange things."]

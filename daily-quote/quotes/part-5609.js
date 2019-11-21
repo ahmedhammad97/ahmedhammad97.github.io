@@ -1,0 +1,1 @@
+var author5609 = "Reward", quotes5609 = ["There is a reward for kindness to every living animal or human. ","The one who recites the Qur’an and the one who listens to it have an equal share in the reward.","Every reward has its proper bounds."]

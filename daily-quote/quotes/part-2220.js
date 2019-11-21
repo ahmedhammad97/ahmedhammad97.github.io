@@ -1,0 +1,1 @@
+var author2220 = "Flag desecration", quotes2220 = ["I hope, Mr. President, that we can pass a law that criminalizes flag burning and desecration."]

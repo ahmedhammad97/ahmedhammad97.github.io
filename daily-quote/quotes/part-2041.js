@@ -1,0 +1,1 @@
+var author2041 = "Eric Clapton", quotes2041 = ["Did you plan your leads, or, for that matter, do you plan them now? ","Tell me why, must I fall in love with you?","Would you know my name if I saw you in heaven? Would it be the same If I saw you in heaven?","And I say, Yes, you look wonderful tonight.","You never told me he was that fucking good."]

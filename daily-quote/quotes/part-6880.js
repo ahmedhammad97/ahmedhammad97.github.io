@@ -1,0 +1,1 @@
+var author6880 = "Vegetating", quotes6880 = ["Genuine living and mere vegetating have only breathing in common (and a few other things)."]

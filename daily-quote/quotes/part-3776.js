@@ -1,0 +1,1 @@
+var author3776 = "Joyce Kim", quotes3776 = ["Discover the things that you do that make you proud as hell."]

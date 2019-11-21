@@ -1,0 +1,1 @@
+var author5281 = "Philip Melanchthon", quotes5281 = ["The shadow does not follow the body more closely than eloquence accompanies sagacity."]

@@ -1,0 +1,1 @@
+var author1827 = "Economic growth", quotes1827 = ["The reason it's on the rise is because probably the boom times are getting even more boomer.","When trust is lost, a nation's ability to transact business is palpably undermined.","The economic illusion is the belief that social justice is bad for economic growth."]

@@ -1,0 +1,1 @@
+var author2964 = "Huey P. Newton", quotes2964 = ["You can kill my body, but you can't kill my soul. My soul will live forever!","I do not think life will change for the better without an assault on the establishment."]

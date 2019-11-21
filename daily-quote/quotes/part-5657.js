@@ -1,0 +1,1 @@
+var author5657 = "Richard Miles (historian)", quotes5657 = ["Civilisation as a term suggests human agency. Things don't come together organically.","There are winners and losers – and human will created the world we live in."]

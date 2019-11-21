@@ -1,0 +1,1 @@
+var author517 = "Antoni Tàpies", quotes517 = ["For in order to be born again, you must die.","In actual fact, contemplation is not a form of inactivity but an exercise."]

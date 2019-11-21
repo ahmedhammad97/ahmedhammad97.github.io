@@ -1,0 +1,1 @@
+var author2596 = "Godfrey Kneller", quotes2596 = ["Only God Almighty makes painters."]

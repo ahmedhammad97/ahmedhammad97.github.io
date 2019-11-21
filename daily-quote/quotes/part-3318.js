@@ -1,0 +1,1 @@
+var author3318 = "Javier Marías", quotes3318 = ["Life is a very bad novelist. It is chaotic and ludicrous."]

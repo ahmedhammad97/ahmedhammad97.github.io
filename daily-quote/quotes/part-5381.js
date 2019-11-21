@@ -1,0 +1,1 @@
+var author5381 = "Populism", quotes5381 = ["The time has come to move beyond eco-elitism to eco-populism."]

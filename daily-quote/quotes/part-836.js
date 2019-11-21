@@ -1,0 +1,1 @@
+var author836 = "Billy Crystal", quotes836 = ["I fell in love with the right person, a person I know and who knows me.","Oprah: Is there a muscle you use for performing?Billy: Yes — my brain."]

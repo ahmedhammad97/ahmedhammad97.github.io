@@ -1,0 +1,1 @@
+var author6723 = "Todor Zhivkov", quotes6723 = ["Now every day, every hour, everywhere there is mat'rial (material) for meeting demonstrations!","Competition principle does not mean a competitive edge, comrades.","Marxism does not make sense, and I am the first one to say this."]

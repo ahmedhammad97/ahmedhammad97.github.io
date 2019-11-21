@@ -1,0 +1,1 @@
+var author6573 = "Theodore L. Cuyler", quotes6573 = ["In heaven, knowledge shall be commensurate with the enlarged powers of the glorified soul.","Let him who would move and convince others, be first moved and convinced himself.","A genuine revival means a trimming of personal lamps."]

@@ -1,0 +1,1 @@
+var author3884 = "Katt Williams", quotes3884 = ["Never in the history of niggadom..."]

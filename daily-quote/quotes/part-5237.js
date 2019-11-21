@@ -1,0 +1,1 @@
+var author5237 = "Peter Green", quotes5237 = ["Macedonia as a whole tended to remain in isolation from the rest of Greece... "]

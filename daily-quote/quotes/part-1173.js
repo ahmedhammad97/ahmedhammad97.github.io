@@ -1,0 +1,1 @@
+var author1173 = "Charles Williams", quotes1173 = ["He said: If I thought more of myself? ","If one is anxious to write about God, one ought to be anxious to write well.","Christianity and life ought to be one."]

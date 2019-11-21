@@ -1,0 +1,1 @@
+var author1283 = "Clark Kerr", quotes1283 = ["The employers will love this generation...they will be easy to handle."]

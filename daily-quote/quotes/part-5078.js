@@ -1,0 +1,1 @@
+var author5078 = "Paladin", quotes5078 = ["Remember, Arthas, we are paladins. Vengeance cannot be a part of what we must do."]

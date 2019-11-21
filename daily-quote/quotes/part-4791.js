@@ -1,0 +1,1 @@
+var author4791 = "Nancy Pelosi", quotes4791 = ["Why should we put a plan out? Our plan is to stop him. He must be stopped.","Maybe it will take a woman to clean up the House.","A woman is like a teabag. You can't tell how strong she is until you put her in hot water.","I have said it before and I will say it again: Impeachment is off the table."]

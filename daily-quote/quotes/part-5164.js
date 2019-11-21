@@ -1,0 +1,1 @@
+var author5164 = "Paul Robeson", quotes5164 = ["If the American Negro is to have a culture of his own he will have to leave America to get it.","You are the non-patriots, and you are the un-Americans, and you ought to be ashamed of yourselves."]

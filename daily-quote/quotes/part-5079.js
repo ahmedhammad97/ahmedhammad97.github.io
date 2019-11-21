@@ -1,0 +1,1 @@
+var author5079 = "Pamela Anderson", quotes5079 = ["I love doing what I do, but I don't like seeing the finished product.","What's going on outside? It was really nice - all the fans out there with big signs."]

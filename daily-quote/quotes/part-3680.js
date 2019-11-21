@@ -1,0 +1,1 @@
+var author3680 = "John Wain", quotes3680 = ["The lesson is that dying men must groan;And poets groan in rhymes that please the ear.","Poetry is to prose as dancing is to walking."]

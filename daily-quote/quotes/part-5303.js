@@ -1,0 +1,1 @@
+var author5303 = "Phoenix", quotes5303 = ["Change is the constant, the signal for rebirth, the egg of the phoenix."]

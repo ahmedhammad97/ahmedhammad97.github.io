@@ -1,0 +1,1 @@
+var author201 = "Alan Ryan", quotes201 = ["Justice is a virtue, but not one that makes people lovable."]

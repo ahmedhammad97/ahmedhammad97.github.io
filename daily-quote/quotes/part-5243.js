@@ -1,0 +1,1 @@
+var author5243 = "Peter Medawar", quotes5243 = ["Creosote has a pretty technological smell."]

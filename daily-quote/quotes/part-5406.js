@@ -1,0 +1,1 @@
+var author5406 = "Preston Manning", quotes5406 = ["In many respects, my best friends were dogs. ","The Reform Party does not, however, equate high profile with electability. "]

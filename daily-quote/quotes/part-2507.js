@@ -1,0 +1,1 @@
+var author2507 = "George R. R. Martin", quotes2507 = ["Of all the bright cruel lies they tell you, the crudest is the one called love.","Art is not a democracy. People don't get to vote on how it ends.","Believe me, no one wants to finish this book more than me.","Nobody is a villain in their own story. We're all the heroes of our own stories."]

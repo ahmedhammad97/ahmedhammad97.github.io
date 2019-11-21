@@ -1,0 +1,1 @@
+var author222 = "Albert Mackey", quotes222 = ["A system is a plan or scheme of doctrines intended to develop a particular view."]

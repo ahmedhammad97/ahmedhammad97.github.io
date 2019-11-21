@@ -1,0 +1,1 @@
+var author4048 = "Learned Hand", quotes4048 = ["If we are to keep our democracy, there must be one commandment: Thou shalt not ration justice.","In the end it is worse to suppress dissent than to run the risk of heresy.","The public needs the equivalent of Chevrolets as well as Cadillacs."]

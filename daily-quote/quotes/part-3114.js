@@ -1,0 +1,1 @@
+var author3114 = "Isaac Bickerstaffe", quotes3114 = ["'Tis a sure sign work goes on merrily, when folks sing at it."]

@@ -1,0 +1,1 @@
+var author1184 = "Chase", quotes1184 = ["Together let us beat this ample field,Try what the open, what the covert yield.","Proud Nimrod first the bloody chase began,A mighty hunter, and his prey was man.","My hoarse-sounding hornInvites thee to the chase, the sport of kings."]

@@ -1,0 +1,1 @@
+var author1293 = "Clay Shirky", quotes1293 = ["When we change the way we communicate, we change society."]

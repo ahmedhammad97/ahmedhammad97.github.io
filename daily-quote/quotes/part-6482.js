@@ -1,0 +1,1 @@
+var author6482 = "Thanksgiving", quotes6482 = ["And taught by thee the Church prolongsHer hymns of high thanksgiving still."]

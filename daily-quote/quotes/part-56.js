@@ -1,0 +1,1 @@
+var author56 = "Abdullah of Saudi Arabia", quotes56 = ["When the Head is Rotten, It Affects the Whole Body"]

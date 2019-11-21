@@ -1,0 +1,1 @@
+var author3339 = "Jean Monnet", quotes3339 = ["Continue, continue, there is no future for the people of Europe other than in union."]

@@ -1,0 +1,1 @@
+var author2294 = "Frank Wilczek", quotes2294 = ["Quite undeservedly, the ether has acquired a bad name.","In science... the ultimate judges are not experts but experiments."]

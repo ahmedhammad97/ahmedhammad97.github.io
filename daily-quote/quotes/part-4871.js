@@ -1,0 +1,1 @@
+var author4871 = "Newt Gingrich", quotes4871 = ["People like me are what stand between us and Auschwitz. I see evil around me every day.","I'm not a natural leader. I'm too intellectual; I'm too abstract; I think too much.","I'm opposed to giving people money for doing nothing.","Give the park police more ammo."]

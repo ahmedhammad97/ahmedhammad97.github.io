@@ -1,0 +1,1 @@
+var author5879 = "Ruler", quotes5879 = ["They don't really care about us.","... the rulers of this age, who are coming to nothing."]

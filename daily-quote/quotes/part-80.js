@@ -1,0 +1,1 @@
+var author80 = "Accounting", quotes80 = ["There are only two things as complicated as insurance accounting and I have no idea what they are."]

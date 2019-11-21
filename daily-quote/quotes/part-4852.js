@@ -1,0 +1,1 @@
+var author4852 = "Neolithic", quotes4852 = ["Much of what has been written about Stonehenge is derivative, second-rate or plain wrong."]

@@ -1,0 +1,1 @@
+var author1152 = "Charles Mackay", quotes1152 = ["If happy I and wretched he, Perhaps the king would change with me.","Cleon hath a million acres,— ne’er a one have I; Cleon dwelleth in a palace, — in a cottage I.","Old Tubal Cain was a man of might In the days when earth was young."]

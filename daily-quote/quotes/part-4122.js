@@ -1,0 +1,1 @@
+var author4122 = "Lilith", quotes4122 = ["The Virgin Mary is reflected in Lilith."]

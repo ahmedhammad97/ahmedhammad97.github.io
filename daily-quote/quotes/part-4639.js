@@ -1,0 +1,1 @@
+var author4639 = "Miguel Ángel Ruiz", quotes4639 = ["Be Skeptical, but Learn to Listen."]

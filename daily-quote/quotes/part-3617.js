@@ -1,0 +1,1 @@
+var author3617 = "John Moffat (physicist)", quotes3617 = ["Inflation itself proceeds at a speed faster than the measured speed of light."]

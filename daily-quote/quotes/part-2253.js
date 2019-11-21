@@ -1,0 +1,1 @@
+var author2253 = "Four Upbuilding Discourses, 1844", quotes2253 = ["When the first self submits to the deeper self, they are reconciled and walk on together."]

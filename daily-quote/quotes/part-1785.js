@@ -1,0 +1,1 @@
+var author1785 = "Dudeism", quotes1785 = ["This is a natural, zesty enterprise. Yes."]

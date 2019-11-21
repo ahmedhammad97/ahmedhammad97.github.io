@@ -1,0 +1,1 @@
+var author5817 = "Roger Federer", quotes5817 = ["All four of those are on grass, whereas I have to play some on a hard court!","It was just one of those days for him to forget and me to remember.","I would so like to be Lenny Kravitz.","Maybe, hopefully, one day you can tell me how it feels to win Montreal."]

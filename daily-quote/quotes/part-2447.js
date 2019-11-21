@@ -1,0 +1,1 @@
+var author2447 = "Georg Solti", quotes2447 = ["From Toscanini I learnt the essential and desperate seriousness of making music.","Fight the tendency to become complacent and do one kind of music - that is the death of a musician.","Between the two men, somewhere, a truth is lying, and that is what I try to find."]

@@ -1,0 +1,1 @@
+var author5643 = "Richard Grafton", quotes5643 = ["They may the better fish in the water when it is troubled.","Printer to the Queen."]

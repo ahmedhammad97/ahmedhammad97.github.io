@@ -1,0 +1,1 @@
+var author6951 = "W. Clement Stone", quotes6951 = ["I feel healthy! I feel happy I feel terrific","All I want to do is change the world!","Give time for a worthy cause (with eagerness) — you will be worthy and richly rewarded.","Give encouragement (the incentive to action) — you will have courage and be encouraged."]

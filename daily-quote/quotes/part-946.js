@@ -1,0 +1,1 @@
+var author946 = "Brian Eno", quotes946 = ["Saying that cultural objects have value is like saying that telephones have conversations.","If you don’t call it art, you’re likely to get a better result.","Ideas worth questioning: Being an artist is a job for life.","As struggles go, being an artist isn't that much of one."]

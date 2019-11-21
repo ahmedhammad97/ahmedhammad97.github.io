@@ -1,0 +1,1 @@
+var author1914 = "Edwin Hubble", quotes1914 = ["Science is the one human activity that is totally progressive."]

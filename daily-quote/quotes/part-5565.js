@@ -1,0 +1,1 @@
+var author5565 = "Reggie Jackson", quotes5565 = ["I was 'colored' until I was 14, a Negro until I was 21 and a black man ever since."]

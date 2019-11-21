@@ -1,0 +1,1 @@
+var author2605 = "Gordon Clark", quotes2605 = ["The more thorough the understanding needed, the further back in time one must go."]

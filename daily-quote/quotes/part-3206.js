@@ -1,0 +1,1 @@
+var author3206 = "Jacques-Bénigne Bossuet", quotes3206 = ["The inexorable boredom that is at the core of life.","Only great souls know the grandeur there is in charity.","The greatest weakness of all weaknesses is to fear too much to appear weak."]

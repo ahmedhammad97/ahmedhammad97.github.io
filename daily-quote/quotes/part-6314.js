@@ -1,0 +1,1 @@
+var author6314 = "Storm", quotes6314 = ["Ride the airIn whirlwind.","A little gale will soon disperse that cloud… for every cloud engenders not a storm.","Blow wind, swell billow, and swim bark!The storm is up, and all is on the hazard.","I have heard a greater storm in a boiling pot.","A storm in a cream bowl."]

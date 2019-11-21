@@ -1,0 +1,1 @@
+var author637 = "Aspiration", quotes637 = ["On what wings dare he aspire?"]

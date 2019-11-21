@@ -1,0 +1,1 @@
+var author4801 = "Nastassja Kinski", quotes4801 = ["It started out as a light romance, but he became demanding and possessive.","I think we were better as friends than husband and wife.","I would do anything to put him behind bars for life. I am glad he is no longer alive."]

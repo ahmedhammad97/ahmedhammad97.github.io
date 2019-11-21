@@ -1,0 +1,1 @@
+var author5393 = "Prakash Javadekar", quotes5393 = ["This is a machine and anything can go wrong with it."]

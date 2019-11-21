@@ -1,0 +1,1 @@
+var author6523 = "The Man Who Was Thursday", quotes6523 = ["When duty and religion are really destroyed, it will be by the rich."]

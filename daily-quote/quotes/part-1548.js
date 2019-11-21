@@ -1,0 +1,1 @@
+var author1548 = "David Eagleman", quotes1548 = ["Instead of reality being passively recorded by the brain, it is actively constructed by it. "]

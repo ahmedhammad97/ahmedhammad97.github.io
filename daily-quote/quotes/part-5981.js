@@ -1,0 +1,1 @@
+var author5981 = "Sarah Doudney", quotes5981 = ["But the waiting time, my brothers,Is the hardest time of all."]

@@ -1,0 +1,1 @@
+var author6187 = "Solemnity", quotes6187 = ["Sapping a solemn creed with solemn sneer.","No one is exempt from talking nonsense. The great misfortune is to do it solemnly.","There was no Piggy to talk sense. There was no solemn assembly for debate nor dignity of the conch.","An exaggerated and solemn respect always indicates a loss of faith. "]

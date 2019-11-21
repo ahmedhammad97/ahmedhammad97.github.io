@@ -1,0 +1,1 @@
+var author6588 = "Theory of Heat", quotes6588 = ["[T]he theory of heat as a form of energy is called Thermodynamics.","[A]ll hot bodies emit radiation."]

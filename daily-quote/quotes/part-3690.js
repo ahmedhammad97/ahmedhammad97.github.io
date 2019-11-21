@@ -1,0 +1,1 @@
+var author3690 = "John Wycliffe", quotes3690 = ["I believe that in the end the truth will conquer.","This Bible is for the Government of the People, by the People, and for the People."]

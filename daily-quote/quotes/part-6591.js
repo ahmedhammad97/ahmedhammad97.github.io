@@ -1,0 +1,1 @@
+var author6591 = "Theory of tides", quotes6591 = ["We shall describe cursorily the ordinary phænomena of tides.","The results of a few Experiments on Waves will be given, in comparison with the preceding theory."]

@@ -1,0 +1,1 @@
+var author6125 = "Silas Weir Mitchell", quotes6125 = ["Death’s but one more to-morrow."]

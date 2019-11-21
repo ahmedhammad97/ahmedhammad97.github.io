@@ -1,0 +1,1 @@
+var author878 = "Bob Hope", quotes878 = ["Thanks to our brave allies: you gallant Russian bear, you British everywhere.","I was on the way to my hotel, and I passed a hotel going in the opposite direction."]

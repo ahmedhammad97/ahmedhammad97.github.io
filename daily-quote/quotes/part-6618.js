@@ -1,0 +1,1 @@
+var author6618 = "Thomas Dewar, 1st Baron Dewar", quotes6618 = ["Minds are like parachutes: they only function when open."]

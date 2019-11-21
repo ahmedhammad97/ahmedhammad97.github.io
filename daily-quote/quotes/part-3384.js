@@ -1,0 +1,1 @@
+var author3384 = "Jerome", quotes3384 = ["Grandes materias ingenia parva non sufferunt.","The tired ox treads with a firmer step.","It is no fault of Christianity that a hypocrite falls into sin."]

@@ -1,0 +1,1 @@
+var author1475 = "Damon Runyon", quotes1475 = ["I long ago come to the conclusion that all life is six to five against. (A Nice Price)"]

@@ -1,0 +1,1 @@
+var author5236 = "Peter Farb", quotes5236 = ["An isolated human in a simple society is usually a dead human...","The more simple the society, the more leisured its way of life.","The Shoshone did not wage war, because it served no purpose.","Each language encourages its speakers to tell certain things and to ignore other things."]

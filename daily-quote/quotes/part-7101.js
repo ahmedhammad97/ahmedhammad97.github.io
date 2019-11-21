@@ -1,0 +1,1 @@
+var author7101 = "William Edward Hartpole Lecky", quotes7101 = ["Whence has come thy lasting power."]

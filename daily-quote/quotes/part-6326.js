@@ -1,0 +1,1 @@
+var author6326 = "Studs Terkel", quotes6326 = ["Chicago is not the most corrupt American city, it's the most theatrically corrupt.","I'm celebrated for celebrating the uncelebrated.","I like quoting Einstein. Know why? Because nobody dares contradict you."]

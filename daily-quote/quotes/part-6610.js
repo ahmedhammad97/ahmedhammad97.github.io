@@ -1,0 +1,1 @@
+var author6610 = "Thomas Campion", quotes6610 = ["Plead, Sleep, my cause, and make her soft like thee,That she in peace may wake and pity me.","Shall I come, sweet Love, to thee,When the ev'ning beams are set?"]

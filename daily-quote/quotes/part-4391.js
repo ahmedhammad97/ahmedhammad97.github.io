@@ -1,0 +1,1 @@
+var author4391 = "Mark McHugh", quotes4391 = ["The extra hour in bed this morning just was sexual!"]

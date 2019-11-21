@@ -1,0 +1,1 @@
+var author3506 = "John Chivington", quotes3506 = ["Kill all the Indians you come across."]

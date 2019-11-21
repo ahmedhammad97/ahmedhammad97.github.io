@@ -1,0 +1,1 @@
+var author3974 = "L. Frank Baum", quotes3974 = ["Now we can cross the Shifting Sands.","To destroy an offender cannot benefit society so much as to redeem him."]

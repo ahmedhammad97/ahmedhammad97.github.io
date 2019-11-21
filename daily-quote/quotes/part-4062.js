@@ -1,0 +1,1 @@
+var author4062 = "Leigh Brackett", quotes4062 = ["The man who doesn’t fear, doesn’t live long. I fear everything.","“Better to make haste slowly than not at all,” said Amnir sententiously.","The Thyrans came on, as merciless as time."]

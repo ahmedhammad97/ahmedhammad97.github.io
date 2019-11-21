@@ -1,0 +1,1 @@
+var author5011 = "Operations research", quotes5011 = ["OR is the securing of improvement in social systems by means of scientific method","The conclusions of most good operations research studies are obvious.","Operations research is a scientific approach to problem-solving for executive management."]

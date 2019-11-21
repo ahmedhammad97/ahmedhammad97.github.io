@@ -1,0 +1,1 @@
+var author3780 = "Juan Ramón Jiménez", quotes3780 = ["If they give you ruled paper, write the other way."]

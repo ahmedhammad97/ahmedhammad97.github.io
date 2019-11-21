@@ -1,0 +1,1 @@
+var author1789 = "Dungeons & Dragons", quotes1789 = ["Make believe for men who know childhood never really ends. "]

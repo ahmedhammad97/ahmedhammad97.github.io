@@ -1,0 +1,1 @@
+var author2979 = "Humphrey Bogart", quotes2979 = ["All you owe the public is a good performance.","You're not a star until they can spell your name in Karachi."]

@@ -1,0 +1,1 @@
+var author6995 = "Wang Wei", quotes6995 = ["In the mountains a night of rain,And above the trees a hundred springs."]

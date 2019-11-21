@@ -1,0 +1,1 @@
+var author4101 = "Leszek Kołakowski", quotes4101 = ["...shall we say that the difference between a vegetarian and a cannibal is just a matter of taste?","The concept of original sin gives us a penetrating insight into human destiny.","I, then a young and omniscient student (alas, I was soon to lose both these virtues)..."]

@@ -1,0 +1,1 @@
+var author1525 = "Darwinism", quotes1525 = ["There are people in the world who desperately want not to have to believe in Darwinism."]

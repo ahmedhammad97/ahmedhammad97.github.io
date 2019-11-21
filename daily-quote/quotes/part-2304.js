@@ -1,0 +1,1 @@
+var author2304 = "Franz Liszt", quotes2304 = ["Brahms' Variations are better than mine, but mine were written before his.","Sorrowful and great is the artist's destiny."]

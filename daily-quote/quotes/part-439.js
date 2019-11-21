@@ -1,0 +1,1 @@
+var author439 = "Angus Young", quotes439 = ["We're a rock group. We're noisy, rowdy, sensational and weird.","The best AC/DC cover I've heard? There was an all-girl cover band in America, the Hell's Belles."]

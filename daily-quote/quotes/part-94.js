@@ -1,0 +1,1 @@
+var author94 = "Adam Mickiewicz", quotes94 = ["Sound as a burrow'd marmot he sleptOn the straw where he'd tumbled fully-dressed that night."]

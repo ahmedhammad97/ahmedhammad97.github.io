@@ -1,0 +1,1 @@
+var author141 = "Afterlife", quotes141 = ["Have you discovered, then, the beginning, that you look for the end?","As you intend to live hereafter, it is in your power to live here."]

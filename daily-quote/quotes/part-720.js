@@ -1,0 +1,1 @@
+var author720 = "Barrett Brown", quotes720 = ["Being an atheist is like not owning a TV – completely rational, but best kept to one's self.","I am a tremendous optimist for someone who has grown up amid the twilight of American competence.","In conclusion, they should let me out of jail.","This is not the “rule of law”...it is the “rule of law enforcement.”"]

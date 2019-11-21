@@ -1,0 +1,1 @@
+var author4357 = "Margrit Kennedy", quotes4357 = ["As soon as interest is abolished, inflation becomes unnecessary...","The monetary system we have inherited is more than 2,000 years old."]

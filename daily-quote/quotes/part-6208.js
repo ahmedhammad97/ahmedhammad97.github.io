@@ -1,0 +1,1 @@
+var author6208 = "Spacetime", quotes6208 = ["This picture would explain why we haven't been over run by tourists from the future.","In the Vortex that lies beyond time and space tumbled a police box that was not a police box."]

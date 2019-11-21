@@ -1,0 +1,1 @@
+var author7255 = "Wyoming", quotes7255 = ["He heard the wind, the ever present Wyoming wind for the last time."]

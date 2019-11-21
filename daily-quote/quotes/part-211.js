@@ -1,0 +1,1 @@
+var author211 = "Alban Berg", quotes211 = ["The best music always results from ecstasies of logic."]

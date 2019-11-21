@@ -1,0 +1,1 @@
+var author6867 = "Vanessa Redgrave", quotes6867 = ["As a mother you have got to have a view for now and a view for the future."]

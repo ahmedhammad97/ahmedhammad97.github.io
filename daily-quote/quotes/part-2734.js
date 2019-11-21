@@ -1,0 +1,1 @@
+var author2734 = "Hans-Georg Gadamer", quotes2734 = ["Being that can be understood is language."]

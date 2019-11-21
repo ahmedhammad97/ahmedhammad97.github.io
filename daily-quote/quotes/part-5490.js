@@ -1,0 +1,1 @@
+var author5490 = "R. Scott Bakker", quotes5490 = ["The world is a big place and our brain is only three pounds.","Love is lust made meaningful. Hope is hunger made human."]

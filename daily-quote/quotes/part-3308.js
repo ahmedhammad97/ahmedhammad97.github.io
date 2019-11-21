@@ -1,0 +1,1 @@
+var author3308 = "Jared Diamond", quotes3308 = ["Put another way, the chimpanzees' closest relative is not the gorilla but humans.","Remember that impact is the product of two factors: population multiplied times impact per person."]

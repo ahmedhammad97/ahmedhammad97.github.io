@@ -1,0 +1,1 @@
+var author7191 = "William Tecumseh Sherman", quotes7191 = ["War is cruelty. There is no use trying to reform it; the crueler it is, the sooner it will be over.","I can make this march, and I will make Georgia howl!","Atlanta is ours, and fairly won.","Hold the fort! I am coming!","War is Hell.","I will not accept if nominated, and will not serve if elected."]

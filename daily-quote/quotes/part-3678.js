@@ -1,0 +1,1 @@
+var author3678 = "John W. Campbell", quotes3678 = ["Immunity corrupts; absolute immunity corrupts absolutely."]

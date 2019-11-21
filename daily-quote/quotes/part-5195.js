@@ -1,0 +1,1 @@
+var author5195 = "Penn & Teller", quotes5195 = ["This I believe: I believe there is no god."]

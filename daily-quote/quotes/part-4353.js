@@ -1,0 +1,1 @@
+var author4353 = "Margery Kempe", quotes4353 = ["Pacyens is more worthy than myraclys werkyng."]

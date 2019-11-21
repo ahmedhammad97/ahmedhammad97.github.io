@@ -1,0 +1,1 @@
+var author6160 = "Slavoj Žižek", quotes6160 = ["See you, either in Hell, or in Communism.","The force of universalism is in you Basques, not in the Spanish state","Memento mori should be read: don't forget to die.","Even the dead will not be safe from the enemy if he wins.","Heidegger is 'great' not in spite of, but because of his Nazi engagement..."]

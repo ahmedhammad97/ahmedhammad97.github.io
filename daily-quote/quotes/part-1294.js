@@ -1,0 +1,1 @@
+var author1294 = "Clayton M. Christensen", quotes1294 = ["It’s easier to hold to your principles 100% of the time than it is to hold to them 98% of the time.","I think [the Vista fiasco] will allow [Apple] to survive for a bit longer."]

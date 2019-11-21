@@ -1,0 +1,1 @@
+var author3426 = "Jo Walton", quotes3426 = ["It was only now that they realized that there is nothing that can really be a preparation for death.","All farms are much alike everywhere, and all wild places have their own beauty.","What you can't pay back you pay forward."]

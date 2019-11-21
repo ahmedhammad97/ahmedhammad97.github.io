@@ -1,0 +1,1 @@
+var author2356 = "Friedrich Hölderlin", quotes2356 = ["Now we were standing close to the summit's rim, gazing out into the endless East.","What is the wisdom of a book compared with the wisdom of an angel?","I call on Fate to give me back my soul.","Before either of us knew it, we belonged to each other."]

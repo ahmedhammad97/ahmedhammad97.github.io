@@ -1,0 +1,1 @@
+var author4974 = "Obstinacy", quotes4974 = ["Obstinacy is ever most positive when it is most in the wrong."]

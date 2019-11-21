@@ -1,0 +1,1 @@
+var author628 = "Arvo Pärt", quotes628 = ["I have discovered that it is enough when a single note is beautifully played. ","A need to concentrate on each sound, so that every blade of grass would be as important as a flower."]

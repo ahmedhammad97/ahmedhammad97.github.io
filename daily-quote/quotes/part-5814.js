@@ -1,0 +1,1 @@
+var author5814 = "Rodney King", quotes5814 = ["It made me feel like I was back in slavery days."]

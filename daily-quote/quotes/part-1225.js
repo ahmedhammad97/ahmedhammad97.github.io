@@ -1,0 +1,1 @@
+var author1225 = "Chris Walla", quotes1225 = ["My favorite sport is Scrabble."]

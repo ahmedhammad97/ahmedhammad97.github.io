@@ -1,0 +1,1 @@
+var author7183 = "William Sharp (writer)", quotes7183 = ["How beautiful they are,In the hollow hills."]

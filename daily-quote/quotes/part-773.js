@@ -1,0 +1,1 @@
+var author773 = "Benjamin Netanyahu", quotes773 = ["We'll attack anyone who tries to harm our citizens.","Israel without Jerusalem is like a body without a heart. Our heart will never be divided again."]

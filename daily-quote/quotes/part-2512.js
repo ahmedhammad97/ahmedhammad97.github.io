@@ -1,0 +1,1 @@
+var author2512 = "George Sarton", quotes2512 = ["… science is the most revolutionary force in the world.","The whole iconography of ancient science is simply the fruit of wishful thinking.","My gratitude to them [my first teachers] grows as I myself grow older."]

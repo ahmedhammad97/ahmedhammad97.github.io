@@ -1,0 +1,1 @@
+var author6763 = "Touch", quotes6763 = ["Touch me, hold me. Try to fall for me.","Will you touch, will you mend me Christ? Won't you touch, will you heal me Christ?"]

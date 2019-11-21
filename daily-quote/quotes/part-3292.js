@@ -1,0 +1,1 @@
+var author3292 = "Jan Hus", quotes3292 = ["Even a most evil man is better than the devil!"]

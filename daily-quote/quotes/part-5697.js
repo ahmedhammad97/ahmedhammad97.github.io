@@ -1,0 +1,1 @@
+var author5697 = "Rita Rudner", quotes5697 = ["To me, life is tough enough without having someone kick you from the inside.","I had teeth that stuck out so far, I used to eat other kids' candy bars by accident."]

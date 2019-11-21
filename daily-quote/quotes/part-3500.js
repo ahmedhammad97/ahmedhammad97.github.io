@@ -1,0 +1,1 @@
+var author3500 = "John C. Dvorak", quotes3500 = ["I hate to use that term [iPad Killer] since the iPad is probably dead anyway.","Tim Cook is not Steve Jobs. In fact, he's about as thrilling as dental floss.","If [Apple's upcoming watch] can't replace the iPhone completely it's a goner."]

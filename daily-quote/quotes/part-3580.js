@@ -1,0 +1,1 @@
+var author3580 = "John Jay", quotes3580 = ["No power on earth has a right to take our property from us without our consent."]

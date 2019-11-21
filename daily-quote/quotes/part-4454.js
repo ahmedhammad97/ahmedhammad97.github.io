@@ -1,0 +1,1 @@
+var author4454 = "Mary Pickford", quotes4454 = ["[Talking pictures are] like putting lip rouge on the Venus de Milo."]

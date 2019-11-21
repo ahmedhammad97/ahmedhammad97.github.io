@@ -1,0 +1,1 @@
+var author1409 = "Corporate governance", quotes1409 = ["Like all fads, corporate governance has its zealots."]

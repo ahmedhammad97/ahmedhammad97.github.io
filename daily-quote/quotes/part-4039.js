@@ -1,0 +1,1 @@
+var author4039 = "Lawrence Shepp", quotes4039 = ["Yes, but when I discovered it, it stayed discovered."]

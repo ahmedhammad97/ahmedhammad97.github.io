@@ -1,0 +1,1 @@
+var author7122 = "William H. Riker", quotes7122 = ["We can say that voting […] is at the heart of both the method and the ideal of democracy."]

@@ -1,0 +1,1 @@
+var author6744 = "Tomoyuki Yamashita", quotes6744 = ["How could we win when you had all that?","We have just received your reply. The Japanese Army will consider nothing but surrender.","All I want to hear from you is Yes or No!"]

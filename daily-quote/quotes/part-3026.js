@@ -1,0 +1,1 @@
+var author3026 = "Imperial State of Iran", quotes3026 = ["It has never been easy to be a Persian, from the oldest times in history till today."]

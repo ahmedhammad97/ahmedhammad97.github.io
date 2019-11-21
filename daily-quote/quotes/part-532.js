@@ -1,0 +1,1 @@
+var author532 = "Apollonius of Tyana", quotes532 = ["Make yourself known as a philosopher, that is a free man.","In my judgment excellence and wealth are direct opposites.","To speak falsely is the mark of a slave, but the truth is noble."]

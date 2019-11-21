@@ -1,0 +1,1 @@
+var author1050 = "Carl Lewis", quotes1050 = ["I want to be a millionaire, and I don't ever want a real job."]

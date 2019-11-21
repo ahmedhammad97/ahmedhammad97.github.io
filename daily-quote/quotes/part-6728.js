@@ -1,0 +1,1 @@
+var author6728 = "Tom Ford", quotes6728 = ["You can only make the slit so much higher, the stiletto so much taller."]

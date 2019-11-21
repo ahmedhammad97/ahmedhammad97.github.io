@@ -1,0 +1,1 @@
+var author1892 = "Edward Moore", quotes1892 = ["Beauty has wings, and too hastily flies, And love, unrewarded, soon sickens and dies."]

@@ -1,0 +1,1 @@
+var author3097 = "Irina Dunn", quotes3097 = ["A woman needs a man like a fish needs a bicycle."]

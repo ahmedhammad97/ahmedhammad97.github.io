@@ -1,0 +1,1 @@
+var author5009 = "Opening statement", quotes5009 = ["Do not open that which is not evidence.","What is introductory goes for nothing, but it is in order to explain the evidence."]

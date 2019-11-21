@@ -1,0 +1,1 @@
+var author2678 = "Guru Angad Dev", quotes2678 = ["Die before the one whom you love; to live after he dies is to live a worthless life in this world."]

@@ -1,0 +1,1 @@
+var author1928 = "Ehud Barak", quotes1928 = ["Life-sustaining Zionism and the seeds of fascism cannot live together."]

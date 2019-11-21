@@ -1,0 +1,1 @@
+var author3126 = "Islamophobia", quotes3126 = ["Islamophobic violence is nurtured by histories of anti-black racist violence."]

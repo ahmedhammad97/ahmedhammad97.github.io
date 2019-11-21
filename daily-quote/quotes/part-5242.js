@@ -1,0 +1,1 @@
+var author5242 = "Peter Lorre", quotes5242 = ["You know I can get away with murder. The audience loves me."]

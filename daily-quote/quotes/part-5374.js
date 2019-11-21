@@ -1,0 +1,1 @@
+var author5374 = "Pope John Paul I", quotes5374 = ["I come without five lire. I want to leave without five lire.","Yesterday, a funny thing happened to me on my way to the Conclave.","Even the young are killing each other."]

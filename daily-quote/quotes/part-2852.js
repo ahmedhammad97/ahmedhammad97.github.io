@@ -1,0 +1,1 @@
+var author2852 = "Henry Morton Stanley", quotes2852 = ["Socialism is a return to primitive conditions. (p. 530)"]

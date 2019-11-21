@@ -1,0 +1,1 @@
+var author737 = "Bayard Taylor", quotes737 = ["Peace the offspring is of Power.","The hollows are heavy and dank With the steam of the Goldenrods."]

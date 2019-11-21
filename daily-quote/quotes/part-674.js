@@ -1,0 +1,1 @@
+var author674 = "Authoritarianism", quotes674 = ["No moral system can rest solely on authority.","Most fundamentally, I would see Anarchism as a synonym for anti-authoritarianism."]

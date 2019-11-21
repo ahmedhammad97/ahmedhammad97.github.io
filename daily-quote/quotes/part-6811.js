@@ -1,0 +1,1 @@
+var author6811 = "Ukraine", quotes6811 = ["Any signature to a deal on forming a new Soviet Union means the breakup of the country."]

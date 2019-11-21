@@ -1,0 +1,1 @@
+var author4142 = "Lips", quotes4142 = ["Lying lips are abomination to the LORD: but they that deal truly are his delight.","He who guards his lips guards his life, but he who speaks rashly will come to ruin.","Divers philosophers hold that the lips is parcel of the mouth.","As a pomegranate, cut in twain,White-seeded is her crimson mouth."]

@@ -1,0 +1,1 @@
+var author868 = "Blood", quotes868 = ["Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.","A conscientious man would be cautious how he dealt in blood.","Blud's thicker than water.","Blood is thicker than water."]

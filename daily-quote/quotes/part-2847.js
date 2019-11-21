@@ -1,0 +1,1 @@
+var author2847 = "Henry M. Leland", quotes2847 = ["Mr. Sloan, are made to run, not just to sell."]

@@ -1,0 +1,1 @@
+var author3872 = "Katharine Kerr", quotes3872 = ["All love affairs are tragedies in the end unless the lovers die at the same moment."]

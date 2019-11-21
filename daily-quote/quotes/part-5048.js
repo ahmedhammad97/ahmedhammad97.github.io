@@ -1,0 +1,1 @@
+var author5048 = "Oswald Mosley", quotes5048 = ["Great men of action never mind on occasion being ridiculous; in a sense it is part of their job.","A prophet or an achiever must never mind an occasional absurdity; it is an occupational risk."]

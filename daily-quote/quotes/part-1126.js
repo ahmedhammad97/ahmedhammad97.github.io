@@ -1,0 +1,1 @@
+var author1126 = "Charles Cooley", quotes1126 = ["Strong joy and grief depend upon the treatment this rudimentary social self receives."]

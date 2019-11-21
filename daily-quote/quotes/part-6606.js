@@ -1,0 +1,1 @@
+var author6606 = "Thomas Bracken", quotes6606 = ["Give me, give me God's own country! there to live and there to die,"]

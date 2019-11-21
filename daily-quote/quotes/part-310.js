@@ -1,0 +1,1 @@
+var author310 = "Alfred de Musset", quotes310 = ["Great artists have no country."]

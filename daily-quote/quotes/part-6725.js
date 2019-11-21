@@ -1,0 +1,1 @@
+var author6725 = "Tom Cruise", quotes6725 = ["That's laughable to me. That stuff's laughable."]

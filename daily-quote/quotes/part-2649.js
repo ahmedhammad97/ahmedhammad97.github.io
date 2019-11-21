@@ -1,0 +1,1 @@
+var author2649 = "Gregory Colbert", quotes2649 = ["I spent all my time at school in the library. Bad teachers can teach you to learn on your own.","The whales do not sing because they have an answer. They sing because they have a song."]

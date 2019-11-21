@@ -1,0 +1,1 @@
+var author4978 = "Octavio Paz", quotes4978 = ["To fight evil is to fight ourselves.","If you are the amber mare","Between going and staying the day wavers, ","To read a poem is to hear it with our eyes; to hear it is to see it with our ears."]

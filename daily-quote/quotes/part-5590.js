@@ -1,0 +1,1 @@
+var author5590 = "Representation", quotes5590 = ["The art of representing the human figure in the ancient world begins and ends with ‘frontality’."]

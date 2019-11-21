@@ -1,0 +1,1 @@
+var author3232 = "James D. Thompson", quotes3232 = ["Under norms of rationality, organizations seek to smooth out input and output transactions."]

@@ -1,0 +1,1 @@
+var author2840 = "Henry J. Kaiser", quotes2840 = ["Problems are only opportunities in work clothes."]

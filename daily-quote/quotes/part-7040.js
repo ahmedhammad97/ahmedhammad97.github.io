@@ -1,0 +1,1 @@
+var author7040 = "Whitney Balliett", quotes7040 = ["A critic is a bundle of biases held loosely together by a sense of taste."]

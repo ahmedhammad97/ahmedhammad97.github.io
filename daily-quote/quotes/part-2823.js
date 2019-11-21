@@ -1,0 +1,1 @@
+var author2823 = "Henry Alford", quotes2823 = ["Law is king of all.","Truth does not consist in minute accuracy of detail; but in conveying a right impression."]

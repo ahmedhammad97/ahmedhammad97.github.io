@@ -1,0 +1,1 @@
+var author4725 = "Moro people", quotes4725 = ["There is Bangsamoro, the place; there is Bangsamoro, the identity."]

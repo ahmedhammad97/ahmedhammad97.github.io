@@ -1,0 +1,1 @@
+var author5572 = "Relativism", quotes5572 = ["Beauty is in the eye of the beholder.","Essentially, all models are wrong, but some are useful.","Wrong does not cease to be wrong because the majority share in it."]

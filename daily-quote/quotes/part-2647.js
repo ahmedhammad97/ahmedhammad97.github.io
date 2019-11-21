@@ -1,0 +1,1 @@
+var author2647 = "Gregory Battcock", quotes2647 = ["Video art is art that will stretch the boundaries of the art world."]

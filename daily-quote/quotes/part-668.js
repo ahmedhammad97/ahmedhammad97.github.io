@@ -1,0 +1,1 @@
+var author668 = "Augustus", quotes668 = ["Have I played the part well? Then applaud as I exit.","I came to see a king, not a row of corpses."]

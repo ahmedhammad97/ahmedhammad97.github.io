@@ -1,0 +1,1 @@
+var author5485 = "R. A. Salvatore", quotes5485 = ["I shudder at the concept of a world tamed."]

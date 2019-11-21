@@ -1,0 +1,1 @@
+var author120 = "Adrienne Barbeau", quotes120 = ["I'm a short woman with a pretty good body and large breasts — that's not what I think of as sexy."]

@@ -1,0 +1,1 @@
+var author5298 = "Philo", quotes5298 = ["Bodies have men as their masters, souls their vices and passions.","God and no mortal is my Sovereign.","He who has God alone for his leader, he alone is free.","Nothing will a man rue more than refusal to listen to the wise."]

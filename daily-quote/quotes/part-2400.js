@@ -1,0 +1,1 @@
+var author2400 = "Gao Xingjian", quotes2400 = ["Life is probably a tangle of love and hate permanently knotted together."]

@@ -1,0 +1,1 @@
+var author1669 = "Dick Cavett", quotes1669 = ["It's a wonderful job for people who have never had a nervous breakdown but always wanted one.","Why don't you fold it five ways and put it where the moon don't shine.","There's so much comedy on television. Does that cause comedy in the streets?"]

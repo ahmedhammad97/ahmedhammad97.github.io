@@ -1,0 +1,1 @@
+var author920 = "Boy George", quotes920 = ["Madonna is a living, breathing cash register. "]

@@ -1,0 +1,1 @@
+var author6418 = "Talcott Parsons", quotes6418 = ["Ideology is a system of beliefs, held in common by the members of a collectivity."]

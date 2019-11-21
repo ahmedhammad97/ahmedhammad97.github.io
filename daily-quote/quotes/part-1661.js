@@ -1,0 +1,1 @@
+var author1661 = "Dhammapada", quotes1661 = ["There is no fear for one whose mind is not filled with desires. (Verse 39)","Give, even if you only have a little. (Verse 224)"]

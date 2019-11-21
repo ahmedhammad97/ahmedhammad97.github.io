@@ -1,0 +1,1 @@
+var author2737 = "Happy Rhodes", quotes2737 = ["That I am one and many is at the heart of my dis-ease Yet I am one and many","I am skilled now, at casting iron To make a hardened bed for my heavy world"]

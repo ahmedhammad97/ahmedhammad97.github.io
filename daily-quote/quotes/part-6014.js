@@ -1,0 +1,1 @@
+var author6014 = "Scotland", quotes6014 = ["NEVER forget that we are the bastard people of a mongrel nation.","We’re a mongrel nation and proud and the can fuck off."]

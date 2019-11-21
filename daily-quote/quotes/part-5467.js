@@ -1,0 +1,1 @@
+var author5467 = "Python", quotes5467 = ["And what defines a 'python activist' anyway? Blowing up Perl installations worldwide?"]

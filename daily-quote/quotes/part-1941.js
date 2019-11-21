@@ -1,0 +1,1 @@
+var author1941 = "Eleftherios Venizelos", quotes1941 = ["Neutrality is not politics.","England in all her wars has always gained one battle - the last!","One cannot kick against geography!"]

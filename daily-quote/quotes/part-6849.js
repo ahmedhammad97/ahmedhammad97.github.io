@@ -1,0 +1,1 @@
+var author6849 = "Usury", quotes6849 = ["He who lives by usury in this world shall not live in the world to come.","To borrow upon Usury, bringeth on Beggary.","Jewish usury was prohibited at common law, but no other."]

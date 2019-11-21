@@ -1,0 +1,1 @@
+var author3761 = "Josiah Gilbert Holland", quotes3761 = ["The heart is wiser than the intellect."]

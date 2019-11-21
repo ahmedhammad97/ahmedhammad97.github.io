@@ -1,0 +1,1 @@
+var author4794 = "Naples", quotes4794 = ["Naples is the flower of paradise. The last adventure of my life.","A Mediterranean Paris. Such is Naples.","The turmoil and the daily come and go made Naples a populated and fibrillating city like Paris.","Naples and Paris: the two only capitals."]

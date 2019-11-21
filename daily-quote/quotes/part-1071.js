@@ -1,0 +1,1 @@
+var author1071 = "Caroline, Princess of Hanover", quotes1071 = ["It was important to talk about the students and put their work forward and the light on them.","There are two words I hate and despise and don’t want to hear: red carpet and iconic."]

@@ -1,0 +1,1 @@
+var author6566 = "Theo de Raadt", quotes6566 = ["Linux people do what they do because they hate Microsoft. We do what we do because we love Unix.","[...] beer results in ideas, which results in new code.","It's the little things that make Freedom become Not Freedom."]

@@ -1,0 +1,1 @@
+var author2601 = "Golo Mann", quotes2601 = ["Closest to the truth are those who deal lightly with it because they know it is inexhaustible."]

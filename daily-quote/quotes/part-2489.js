@@ -1,0 +1,1 @@
+var author2489 = "George Kelly (psychologist)", quotes2489 = ["Man anticipates events by construing their replications.","Fundamental Postulate and its Corollaries"]

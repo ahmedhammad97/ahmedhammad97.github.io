@@ -1,0 +1,1 @@
+var author2517 = "George Stephenson", quotes2517 = ["The rage for railroads is so great that many will be laid in parts where they will not pay."]

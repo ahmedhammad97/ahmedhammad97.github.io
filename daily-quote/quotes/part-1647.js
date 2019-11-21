@@ -1,0 +1,1 @@
+var author1647 = "Derek Hitchins", quotes1647 = ["The real world is made from open, interacting systems, behaving chaotically.","There seem to be two fundamental schisms in thinking: the hard/soft and the open/closed. "]

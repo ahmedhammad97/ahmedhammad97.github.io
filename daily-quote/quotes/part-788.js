@@ -1,0 +1,1 @@
+var author788 = "Bernard Le Bovier de Fontenelle", quotes788 = ["We can never add more truth to what is true already, nor make that true which is false."]

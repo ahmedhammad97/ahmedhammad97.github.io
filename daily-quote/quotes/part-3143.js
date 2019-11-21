@@ -1,0 +1,1 @@
+var author3143 = "Ivor Grattan-Guinness", quotes3143 = ["The teaching of axioms should come after conveying the theory in a looser version."]

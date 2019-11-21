@@ -1,0 +1,1 @@
+var author5458 = "Punctuality", quotes5458 = ["It is no use running; to set out betimes is the main point.","I have always been a quarter of an hour before my time, and it has made a man of me.","The habitually punctual make all their mistakes right on time."]

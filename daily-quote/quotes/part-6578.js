@@ -1,0 +1,1 @@
+var author6578 = "Theodore Schultz", quotes6578 = ["Economists have long known that people are an important part of the wealth of nations.","Human beings are incontestably capital from an abstract and mathematical point of view."]

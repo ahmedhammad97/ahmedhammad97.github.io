@@ -1,0 +1,1 @@
+var author1252 = "Christopher Pitt", quotes1252 = ["Ah, mighty Queen! you urge me to disclose,And feel, once more, unutterable woes.","I proved unfaithful to my former spouse,And now I reap the fruits of broken vows!","The shrill echoes ring amidst the skies."]

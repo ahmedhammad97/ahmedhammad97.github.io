@@ -1,0 +1,1 @@
+var author5367 = "Polyamory", quotes5367 = ["I do not find people to fit the spaces in my life. I make spaces to fit the people in my life.","There is no One Right Way to be Polyamorous. But there are plenty of Wrong Ways!","I'm poly, bi and kinky and I still won't sleep with you!","I believe that trust is more important than monogamy."]

@@ -1,0 +1,1 @@
+var author3512 = "John Cleveland", quotes3512 = ["Had Cain been Scot, God would have changed his doom;Not made him wander, but continued him home.","Like an ambassador that beds a queenWith the nice caution of a sword between.","He that to ancient wreaths can bring no moreFrom his own worth, dies bankrupt on the score."]

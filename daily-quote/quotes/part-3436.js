@@ -1,0 +1,1 @@
+var author3436 = "Joan Woodward", quotes3436 = ["There was a particular form of organisation most appropriate to each technical situation."]

@@ -1,0 +1,1 @@
+var author5156 = "Paul Martin", quotes5156 = ["Put simply, we must always remember that separate but equal is not equal."]

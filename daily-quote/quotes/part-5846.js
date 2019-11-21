@@ -1,0 +1,1 @@
+var author5846 = "Rosalind Russell", quotes5846 = ["Acting is standing up naked and turning around very slowly.","Success is a public affair. Failure is a private funeral."]

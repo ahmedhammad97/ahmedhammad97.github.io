@@ -1,0 +1,1 @@
+var author1916 = "Edwin M. Stanton", quotes1916 = ["There lies the most perfect ruler of men the world has ever seen. Now he belongs to the ages."]

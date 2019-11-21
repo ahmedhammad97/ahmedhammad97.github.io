@@ -1,0 +1,1 @@
+var author1531 = "Dave Marsh", quotes1531 = ["I argue with lots of things, but I do not argue with my ears."]

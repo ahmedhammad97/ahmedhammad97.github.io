@@ -1,0 +1,1 @@
+var author3240 = "James G. March", quotes3240 = ["I am not now, nor I have ever been, relevant."]

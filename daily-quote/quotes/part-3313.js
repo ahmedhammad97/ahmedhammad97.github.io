@@ -1,0 +1,1 @@
+var author3313 = "Jason Mewes", quotes3313 = ["I was a metalhead and then I was into the rap and then I was a metalhead again."]

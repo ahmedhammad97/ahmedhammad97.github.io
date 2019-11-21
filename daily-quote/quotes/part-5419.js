@@ -1,0 +1,1 @@
+var author5419 = "Principles of organization", quotes5419 = ["Every organization evaluates favorably conformity to its own norms.","According to Taylor, the principles of Efficiency are: ","Twelve Principles of Efficiency "]

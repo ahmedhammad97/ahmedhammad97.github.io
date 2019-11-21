@@ -1,0 +1,1 @@
+var author1193 = "Cher", quotes1193 = ["Follow this you bitches.","Try to be in as many relationships as you can. ","Don’t buy into the idea that women aren’t strong enough to do anything they want on their own. ","WTF is MDNA?"]

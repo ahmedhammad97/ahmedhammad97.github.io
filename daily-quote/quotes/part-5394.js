@@ -1,0 +1,1 @@
+var author5394 = "Pramod Muthalik", quotes5394 = ["Since they are women, stooping to the level of gifting undergarments will defame them only."]

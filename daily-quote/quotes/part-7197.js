@@ -1,0 +1,1 @@
+var author7197 = "William Whewell", quotes7197 = ["Man is the interpreter of nature, science the right interpretation.","In art, truth is a means to an end; in science, it is the only end.","The catastrophist constructs theories, the uniformitarian demolishes them.","It is a test of true theories not only to account for but to predict phenomena."]

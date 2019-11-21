@@ -1,0 +1,1 @@
+var author3392 = "Jerry Seinfeld", quotes3392 = ["Economy is essential to all good fart.","The biggest laugh has to come at the end.","Sometimes the road less traveled is less traveled for a reason."]

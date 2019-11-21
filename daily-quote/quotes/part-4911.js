@@ -1,0 +1,1 @@
+var author4911 = "Nikolai Berdyaev", quotes4911 = ["Objectification is above all exteriorization, the alienation of spirit from itself."]

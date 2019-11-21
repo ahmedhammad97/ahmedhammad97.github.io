@@ -1,0 +1,1 @@
+var author6177 = "Social work", quotes6177 = ["Anthropology is not social work.","There is only one science, physics: everything else is social work."]

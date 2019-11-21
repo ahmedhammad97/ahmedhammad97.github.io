@@ -1,0 +1,1 @@
+var author1932 = "Elaine Goodale Eastman", quotes1932 = ["Pure and perfect, sweet arbutusTwines her rosy-tinted wreath.","The seal and guerdon of wealth untoldWe clasp in the wild marsh marigold."]

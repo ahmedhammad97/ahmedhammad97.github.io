@@ -1,0 +1,1 @@
+var author1188 = "Cheating", quotes1188 = ["The only way to win is cheat.","Doubtless the pleasure is as greatOf being cheated as to cheat.","One must not cheat anyone, not even the world of its victory.","No treaty is ever an impediment to a cheat."]

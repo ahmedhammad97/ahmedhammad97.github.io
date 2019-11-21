@@ -1,0 +1,1 @@
+var author706 = "Bankim Chandra Chattopadhyay", quotes706 = ["When a man is in doubt what to do, he goes wherever he happens to be first called."]

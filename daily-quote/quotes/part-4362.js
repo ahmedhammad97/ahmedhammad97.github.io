@@ -1,0 +1,1 @@
+var author4362 = "Maria Mitchell", quotes4362 = ["Every formula which expresses a law of nature is a hymn of praise to God."]

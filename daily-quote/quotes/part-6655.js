@@ -1,0 +1,1 @@
+var author6655 = "Thomas Piketty", quotes6655 = ["Democracy will never be supplanted by a republic of experts - and that is a very good thing. ","Broadly speaking, the rise of the supermanager is largely an Anglo-Saxon phenomenon.","The tragedy is that Trump’s program will only strengthen the trend towards inequality."]

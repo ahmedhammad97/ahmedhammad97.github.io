@@ -1,0 +1,1 @@
+var author2490 = "George Klir", quotes2490 = ["No classification is complete and perfect for all purposes."]

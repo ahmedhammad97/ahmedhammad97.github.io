@@ -1,0 +1,1 @@
+var author6809 = "Tzvetan Todorov", quotes6809 = ["Democracy brought to others through the barrel of a gun is not democracy.","People who believe themselves to be the incarnation of good have a distorted view of the world."]

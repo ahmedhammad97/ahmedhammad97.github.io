@@ -1,0 +1,1 @@
+var author1049 = "Carl Kruger", quotes1049 = ["Government has an obligation to protect its citizenry. "]

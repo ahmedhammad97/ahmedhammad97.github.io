@@ -1,0 +1,1 @@
+var author2357 = "Friedrich Kellner", quotes2357 = ["Spineless politics do not change the mind of a tyrant."]

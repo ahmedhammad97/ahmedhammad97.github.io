@@ -1,0 +1,1 @@
+var author3918 = "Kevin W. Pearson", quotes3918 = ["We get what we focus on consistently."]

@@ -1,0 +1,1 @@
+var author5646 = "Richard Hartshorne", quotes5646 = ["Science is... in the broadest sense of organized, objective knowledge."]

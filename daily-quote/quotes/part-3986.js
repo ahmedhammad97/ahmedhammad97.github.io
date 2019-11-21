@@ -1,0 +1,1 @@
+var author3986 = "Laika", quotes3986 = ["Woof","That does not raise my apprehension, not one iota."]

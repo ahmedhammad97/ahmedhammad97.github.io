@@ -1,0 +1,1 @@
+var author4728 = "Mort Sahl", quotes4728 = ["Reagan won because he ran against Jimmy Carter. If he ran unopposed he would have lost.","The bravest thing that men do is love women.","You haven't lived until you've died in California.","I found people looked better when they laughed."]

@@ -1,0 +1,1 @@
+var author6469 = "Teresa Nielsen Hayden", quotes6469 = ["I deeply resent the way this administration makes me feel like a nutbar conspiracy theorist."]

@@ -1,0 +1,1 @@
+var author912 = "Boris Yeltsin", quotes912 = ["You can build a throne with bayonets, but it's difficult to sit on it.","Today is the last day of an era past."]

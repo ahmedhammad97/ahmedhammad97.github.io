@@ -1,0 +1,1 @@
+var author2083 = "Escapism", quotes2083 = ["The foolish read to escape reality; the wise surrender to it."]

@@ -1,0 +1,1 @@
+var author713 = "Barbara Jordan", quotes713 = ["What people want is simple. They want an America as good as its promise."]

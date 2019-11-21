@@ -1,0 +1,1 @@
+var author2759 = "Harry Belafonte", quotes2759 = ["I have very little regard for consensus if it blinds you to the truth."]

@@ -1,0 +1,1 @@
+var author1802 = "E. F. Benson", quotes1802 = ["Vermouth always makes me brilliant unless it makes me idiotic, but we'll hope for the best."]

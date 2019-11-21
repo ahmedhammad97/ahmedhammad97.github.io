@@ -1,0 +1,1 @@
+var author4475 = "Mathematicians", quotes4475 = ["A mathematician is a machine for turning coffee into theorems.","I have hardly ever known a mathematician who was capable of reasoning."]

@@ -1,0 +1,1 @@
+var author267 = "Alexander II of Russia", quotes267 = ["It is better to abolish serfdom from above than to wait for it to abolish itself from below."]

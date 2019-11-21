@@ -1,0 +1,1 @@
+var author862 = "Blank verse", quotes862 = ["Blank verse seems to be verse only to the eye.","Rhyme is no necessary adjunct of true poetry."]

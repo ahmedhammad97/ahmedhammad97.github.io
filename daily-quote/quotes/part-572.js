@@ -1,0 +1,1 @@
+var author572 = "Armand V. Feigenbaum", quotes572 = ["Quality control may be defined as:","In the phrase, quality control the word control represents a management tool with four steps:"]

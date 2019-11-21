@@ -1,0 +1,1 @@
+var author2079 = "Errico Malatesta", quotes2079 = ["We follow ideas and not men, and rebel against this habit of embodying a principle in a man. "]

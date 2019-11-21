@@ -1,0 +1,1 @@
+var author2210 = "Film director", quotes2210 = ["[As the clones fight the droids]"]

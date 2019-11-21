@@ -1,0 +1,1 @@
+var author3975 = "L. K. Samuels", quotes3975 = ["To accept the legitimacy of the state is to embrace the necessity for war.","Paradoxes often arise because theory routinely refuses to be subordinate to reality."]

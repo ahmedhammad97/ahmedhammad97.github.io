@@ -1,0 +1,1 @@
+var author2904 = "Highway", quotes2904 = ["So put me on a highwayAnd take it to the limit one more time."]

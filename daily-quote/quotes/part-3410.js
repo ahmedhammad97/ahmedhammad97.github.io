@@ -1,0 +1,1 @@
+var author3410 = "Jim Carrey", quotes3410 = ["I wish I could do some really weird stuff for you guys, you know?"]

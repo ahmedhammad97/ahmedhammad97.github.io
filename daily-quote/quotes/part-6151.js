@@ -1,0 +1,1 @@
+var author6151 = "Sister Nivedita", quotes6151 = ["I believe that India is one, indissoluble, indivisible.","Our daily life creates our symbol of God. No two ever cover quite the same conception. "]

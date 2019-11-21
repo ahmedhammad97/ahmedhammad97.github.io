@@ -1,0 +1,1 @@
+var author3638 = "John R. Platt", quotes3638 = ["Going to the moon is not a matter of physics but of economics.","The world has become too dangerous for anything less than utopias."]

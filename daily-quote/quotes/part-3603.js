@@ -1,0 +1,1 @@
+var author3603 = "John Marston", quotes3603 = ["Who winks and shuts his apprehension up. "]

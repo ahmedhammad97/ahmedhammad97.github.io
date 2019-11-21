@@ -1,0 +1,1 @@
+var author4915 = "Nina Totenberg", quotes4915 = ["[On General William Boykin] I hope he's not long for this world. "]

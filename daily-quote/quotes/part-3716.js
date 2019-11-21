@@ -1,0 +1,1 @@
+var author3716 = "Jonathan Richardson", quotes3716 = ["In picture we never die,never decay or grow older","Painting is that pleasant amusement being one of the means whereby we convey ideas to each other.","Words paint to the imagination but every man forms the thing to himself in his own way."]

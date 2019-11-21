@@ -1,0 +1,1 @@
+var author3187 = "Jacob Aagaard", quotes3187 = ["We always say, one day we will laugh at this. I always try to make sure that this one day is today…"]

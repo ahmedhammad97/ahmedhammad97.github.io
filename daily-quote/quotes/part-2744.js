@@ -1,0 +1,1 @@
+var author2744 = "Harold Gould Henderson", quotes2744 = ["Haiku...meditations...starting points for trains of thought"]

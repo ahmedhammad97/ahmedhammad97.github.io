@@ -1,0 +1,1 @@
+var author1876 = "Edward Coote Pinkney", quotes1876 = ["Look out upon the stars, my love, And shame them with thine eyes."]

@@ -1,0 +1,1 @@
+var author4926 = "Normality", quotes4926 = ["Nobody realizes that some people expend tremendous energy merely to be normal."]

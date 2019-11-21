@@ -1,0 +1,1 @@
+var author1230 = "Christian Nestell Bovee", quotes1230 = ["He has but one great fear that fears to do wrong.","The light in the world comes principally from two sources,—the sun, and the student's lamp.","The great obstacle to progress is prejudice.","Loss of sincerity is loss of vital power."]

@@ -1,0 +1,1 @@
+var author4887 = "Nick Hornby", quotes4887 = ["Then I lost it. Kinda lost it all, you know. Faith, dignity, about fifteen pounds.","What if a sense of humour is like hair — something a lot of man lose as they get older?"]

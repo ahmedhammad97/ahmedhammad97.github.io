@@ -1,0 +1,1 @@
+var author632 = "Ashley Montagu", quotes632 = ["The family unit is the institution for the systematic production of mental illness.","The Eskimos live among ice all their lives but have no single word for ice.","The ability to play is one of the principal criteria of mental health."]

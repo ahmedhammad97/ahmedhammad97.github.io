@@ -1,0 +1,1 @@
+var author6502 = "The Elements of Style", quotes6502 = ["The adjective hasn't yet been built that can pull a weak or inaccurate noun out of a tight place.","Although there is no substitute for merit in writing, clarity comes closest to being one."]

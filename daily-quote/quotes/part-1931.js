@@ -1,0 +1,1 @@
+var author1931 = "Elagabalus", quotes1931 = ["He undertook to disparage my age, when he himself had appointed his five-year-old son.","Leave my mother alone!"]

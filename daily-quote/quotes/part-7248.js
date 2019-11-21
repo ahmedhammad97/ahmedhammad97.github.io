@@ -1,0 +1,1 @@
+var author7248 = "Worry", quotes7248 = ["Don't worry, be happy!","What? Me worry?"]

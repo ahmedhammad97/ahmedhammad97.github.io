@@ -1,0 +1,1 @@
+var author4620 = "Michel Bréal", quotes4620 = ["Historical grammar is now in a position to confirm or to refute."]

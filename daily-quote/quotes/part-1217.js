@@ -1,0 +1,1 @@
+var author1217 = "Choshi", quotes1217 = ["On its way west / to paradise - / migrating bird."]

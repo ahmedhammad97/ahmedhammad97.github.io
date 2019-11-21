@@ -1,0 +1,1 @@
+var author715 = "Barbara Kruger", quotes715 = ["When I hear the word Culture I take out my checkbook","If you can’t feel it, it must be real.","Memory is your image of perfection.","I have no complaints, except for the world."]

@@ -1,0 +1,1 @@
+var author2482 = "George Herbert Mead", quotes2482 = ["Man lives in a world of Meaning. What he sees and hears means what he will or might handle. "]

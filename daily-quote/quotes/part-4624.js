@@ -1,0 +1,1 @@
+var author4624 = "Michel Sabbah", quotes4624 = ["Nobody can tell us Christians how to dress, how to live or how to pray."]

@@ -1,0 +1,1 @@
+var author1195 = "Cheryl James", quotes1195 = ["What's the matter with your life? Why you gotta mess with mine?"]

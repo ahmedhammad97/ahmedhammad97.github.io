@@ -1,0 +1,1 @@
+var author4460 = "Mary, Queen of Scots", quotes4460 = ["In my end is my beginning."]

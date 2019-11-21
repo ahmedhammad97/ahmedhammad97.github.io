@@ -1,0 +1,1 @@
+var author2252 = "Foundations of mathematics", quotes2252 = ["From this proposition it will follow, when arithmetical addition has been defined, that 1+12. "]

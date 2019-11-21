@@ -1,0 +1,1 @@
+var author2751 = "Harold Wilson", quotes2751 = ["Hughie, get your tanks off my lawn."]

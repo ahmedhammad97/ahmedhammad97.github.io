@@ -1,0 +1,1 @@
+var author771 = "Benjamin Lee Whorf", quotes771 = ["We are thus able to distinguish thinking as the function which is to a large extent linguistic.","Speech is the best show a man puts on.","We dissect nature along lines laid down by our native language."]

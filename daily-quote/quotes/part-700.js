@@ -1,0 +1,1 @@
+var author700 = "Baboons", quotes700 = ["The strain of man's bred outInto baboons and monkey."]

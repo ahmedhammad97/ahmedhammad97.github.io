@@ -1,0 +1,1 @@
+var author5964 = "Sanction", quotes5964 = ["No degree of antiquity can give sanction to a usage bad in itself."]

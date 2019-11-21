@@ -1,0 +1,1 @@
+var author1120 = "Charles Baudelaire", quotes1120 = ["I think there can be few examples of a life as dilapidated as mine."]

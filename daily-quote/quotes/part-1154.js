@@ -1,0 +1,1 @@
+var author1154 = "Charles Maturin", quotes1154 = ["A maladyPreys on my heart that med'cine cannot reach.","O wretched is the dame, to whom the sound,Your lord will soon return, no pleasure brings."]

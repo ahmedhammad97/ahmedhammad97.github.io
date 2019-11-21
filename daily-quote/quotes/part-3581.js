@@ -1,0 +1,1 @@
+var author3581 = "John Jay Chapman", quotes3581 = ["Good government is the outcome of private virtue."]

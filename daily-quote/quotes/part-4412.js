@@ -1,0 +1,1 @@
+var author4412 = "Marsden Hartley", quotes4412 = ["It is never difficult to see images – when the principle of the image is embedded in the soul."]

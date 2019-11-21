@@ -1,0 +1,1 @@
+var author3481 = "John Bascom", quotes3481 = ["The cardinal method with faults is to overgrow them and choke them out with virtues."]

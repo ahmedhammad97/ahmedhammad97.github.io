@@ -1,0 +1,1 @@
+var author6456 = "Telescope", quotes6456 = ["The eye appears to have been designed; no designer of telescopes could have done better.","[The Hubble Space Telescope is] probably the most sophisticated scientific satellite ever built. ","The largest, most complex, and most powerful observatory ever deployed in space.","Hubble is fixed beyond our wildest expectations."]

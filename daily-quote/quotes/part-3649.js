@@ -1,0 +1,1 @@
+var author3649 = "John Rupert Firth", quotes3649 = ["You shall know a word by the company it keeps."]

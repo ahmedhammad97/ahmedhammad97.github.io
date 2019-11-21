@@ -1,0 +1,1 @@
+var author6990 = "Walter Veith", quotes6990 = ["If you believe in science [evolution] you must have a rather strong faith."]

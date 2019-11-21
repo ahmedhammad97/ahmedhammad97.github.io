@@ -1,0 +1,1 @@
+var author2855 = "Henry Royce", quotes2855 = ["The quality will remain long after the price is forgotten.","I have only one regret … that I have not worked harder."]

@@ -1,0 +1,1 @@
+var author2424 = "Gelett Burgess", quotes2424 = ["To appreciate nonsense requires a serious interest in life.","there are no roads in all Bohemia !","A woman and a mouse, they carry a tale wherever they go."]

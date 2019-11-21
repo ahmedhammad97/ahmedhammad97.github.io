@@ -1,0 +1,1 @@
+var author1578 = "David O. McKay", quotes1578 = ["An Unsatisfied Appetite for Knowledge Means Progress and Is the State of a Normal Mind","Every member a missionary! ","Freedom of choice is more to be treasured than any possession earth can give."]

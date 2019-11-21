@@ -1,0 +1,1 @@
+var author6436 = "Taste (sociology)", quotes6436 = ["What's one man's poison, signior,Is another's meat or drink.","It is only a dying cause which can attain to perfect taste.","Taste is the enemy of creativeness.","In Poets as true Genius is but rare, ","Taste has no system and no proofs."]

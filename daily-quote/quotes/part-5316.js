@@ -1,0 +1,1 @@
+var author5316 = "Pierre Boulez", quotes5316 = ["Creation exists only in the unforeseen made necessary."]

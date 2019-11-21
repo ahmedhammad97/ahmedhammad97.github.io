@@ -1,0 +1,1 @@
+var author3374 = "Jennifer Aniston", quotes3374 = ["The greater your capacity to love, the greater your capacity to feel the pain"]

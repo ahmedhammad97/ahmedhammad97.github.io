@@ -1,0 +1,1 @@
+var author163 = "Aki Kaurismäki", quotes163 = ["When all the hope is gone, there is no reason for pessimism."]

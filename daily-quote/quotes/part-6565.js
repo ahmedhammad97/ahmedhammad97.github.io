@@ -1,0 +1,1 @@
+var author6565 = "Theo Jansen", quotes6565 = ["The walls between art and engineering exist only in our minds, and few go beyond them."]

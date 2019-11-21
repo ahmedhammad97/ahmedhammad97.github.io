@@ -1,0 +1,1 @@
+var author3069 = "Insults", quotes3069 = ["Hear me, you who know what is right,"]

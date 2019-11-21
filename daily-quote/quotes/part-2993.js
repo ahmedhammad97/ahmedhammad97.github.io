@@ -1,0 +1,1 @@
+var author2993 = "Iamblichus", quotes2993 = ["Wait for the appointed hour."]

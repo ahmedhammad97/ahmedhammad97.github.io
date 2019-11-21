@@ -1,0 +1,1 @@
+var author774 = "Benjamin Peirce", quotes774 = ["Ideality is preëminently the foundation of Mathematics.","Mathematics is the science which draws necessary conclusions."]

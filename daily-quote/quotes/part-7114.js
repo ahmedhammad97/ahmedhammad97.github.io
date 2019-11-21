@@ -1,0 +1,1 @@
+var author7114 = "William Frederick Yeames", quotes7114 = ["And When Did You Last See Your Father?"]

@@ -1,0 +1,1 @@
+var author695 = "B. Kliban", quotes695 = ["Never eat anything bigger than your head."]

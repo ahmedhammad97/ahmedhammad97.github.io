@@ -1,0 +1,1 @@
+var author5873 = "Rufus Choate", quotes5873 = ["The final end of government is not to exert restraint but to do good.","We join ourselves to no party that does not carry the flag, and keep step to the music of the Union.","A book is the only immortality.","Neither irony nor sarcasm is argument."]

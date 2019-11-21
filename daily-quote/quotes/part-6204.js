@@ -1,0 +1,1 @@
+var author6204 = "South Carolina", quotes6204 = ["North Carolina, South Carolina, and all my little itty-bitty hick towns."]

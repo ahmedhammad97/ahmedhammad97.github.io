@@ -1,0 +1,1 @@
+var author2000 = "Emmanuel Macron", quotes2000 = ["Make our planet great again.","The fight against climate change is by far the most significant struggle of our times.","Climate change adds further injustice to an already unfair world."]

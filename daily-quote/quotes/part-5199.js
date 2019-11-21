@@ -1,0 +1,1 @@
+var author5199 = "Pentti Saarikoski", quotes5199 = ["Life was given to man"]

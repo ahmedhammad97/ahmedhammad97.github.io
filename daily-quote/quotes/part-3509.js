@@ -1,0 +1,1 @@
+var author3509 = "John Clare", quotes3509 = ["And what is Life? — An hour-glass on the run,","And don't despise your betters cause they're old.","Throw not my words away, as many do;They're gold in value, though they're cheap to you.","In politics and politicians' liesThe modern farmer waxes wondrous wise;","When trouble haunts me, need I sigh? No, rather smile away despair;"]

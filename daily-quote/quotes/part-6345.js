@@ -1,0 +1,1 @@
+var author6345 = "Sun Yat-sen", quotes6345 = ["To understand is difficult; to act is easy.","Only powerful people have liberty."]

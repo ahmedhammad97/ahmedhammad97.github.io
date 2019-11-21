@@ -1,0 +1,1 @@
+var author2712 = "Hal Borland", quotes2712 = ["Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence."]

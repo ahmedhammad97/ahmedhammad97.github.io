@@ -1,0 +1,1 @@
+var author5597 = "Resistance movement", quotes5597 = ["Resistance to tyranny is man’s highest ideal."]

@@ -1,0 +1,1 @@
+var author199 = "Alan O. Ebenstein", quotes199 = ["Hayek’s ultimate social goal—his utopia—was the unification of all humankind in one society.","Hayek opposed not merely Keynes’s policy recommendations, but his technical method."]

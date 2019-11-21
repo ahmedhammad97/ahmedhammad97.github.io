@@ -1,0 +1,1 @@
+var author6536 = "The Prince and the Pauper", quotes6536 = ["Unhand me, thou foolish creature; it was not I that bereaved thee of thy paltry goods.","What dost thou know of suffering and oppression? I and my people know, but not thou."]

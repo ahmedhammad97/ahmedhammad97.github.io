@@ -1,0 +1,1 @@
+var author803 = "Beth Anderson", quotes803 = ["Real music soars above class society."]

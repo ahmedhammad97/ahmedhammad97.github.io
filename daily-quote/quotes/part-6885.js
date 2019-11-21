@@ -1,0 +1,1 @@
+var author6885 = "Vera Farmiga", quotes6885 = ["There are some times when I think acting can be a noble profession."]

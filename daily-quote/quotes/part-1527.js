@@ -1,0 +1,1 @@
+var author1527 = "Dave Allen", quotes1527 = ["I don't go out of my way to be outrageous, I just go out of my way to look at things.","If it's sent by ship then it's a cargo, if it's sent by road then it's a shipment."]

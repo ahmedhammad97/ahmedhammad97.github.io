@@ -1,0 +1,1 @@
+var author2857 = "Henry Savile Clarke", quotes2857 = ["Be speedy, for I was born under a thirsty star.","Nobody but a highlander can go about without his trousers."]

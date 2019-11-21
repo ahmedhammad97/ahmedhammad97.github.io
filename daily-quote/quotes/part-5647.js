@@ -1,0 +1,1 @@
+var author5647 = "Richard Hofstadter", quotes5647 = ["Anti-Catholicism has always been the pornography of the Puritan.","Intellectualism, though by no means confined to doubters, is often the sole piety of the skeptic.","Intellect is neither practical nor impractical; it is extra-practical."]

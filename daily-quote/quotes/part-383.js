@@ -1,0 +1,1 @@
+var author383 = "Anatole Broyard", quotes383 = ["The contents of someone's bookcase are part of his history, like an ancestral portrait.","A good book is never exhausted. It goes on whispering to you from the wall."]

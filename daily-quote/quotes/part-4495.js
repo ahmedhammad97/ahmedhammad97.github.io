@@ -1,0 +1,1 @@
+var author4495 = "Maurice Merleau-Ponty", quotes4495 = ["The world is nothing but 'world-as-meaning.'","Language transcends us and yet, we speak.","It is a great good fortune, as Stendhal said, for one “to have his passion as a profession.”"]

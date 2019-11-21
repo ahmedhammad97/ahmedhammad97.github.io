@@ -1,0 +1,1 @@
+var author2695 = "H. A. L. Fisher", quotes2695 = ["Purity of race does not exist. Europe is a continent of energetic mongrels.","Politics is the art of human happiness."]

@@ -1,0 +1,1 @@
+var author5610 = "Rex Ryan", quotes5610 = ["The first step is, if you don't believe it yourself your team darn sure won't.","No, we don't fear anything."]

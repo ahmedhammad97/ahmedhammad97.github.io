@@ -1,0 +1,1 @@
+var author5953 = "Samuel McChord Crothers", quotes5953 = ["To keep shooting at a folly after it is dead is unsportsmanlike.","There is no absurdity in its mental processes; all that is concealed in its assumptions."]

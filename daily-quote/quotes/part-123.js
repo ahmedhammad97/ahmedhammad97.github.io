@@ -1,0 +1,1 @@
+var author123 = "Adultery", quotes123 = ["Adultery is the application of democracy to love."]

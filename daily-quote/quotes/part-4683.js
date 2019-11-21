@@ -1,0 +1,1 @@
+var author4683 = "Missionary position", quotes4683 = ["One presumes that all of those jokes about the missionary position might have a kernel of truth."]

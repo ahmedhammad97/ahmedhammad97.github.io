@@ -1,0 +1,1 @@
+var author857 = "Black Power", quotes857 = ["Be confident in your blackness!"]

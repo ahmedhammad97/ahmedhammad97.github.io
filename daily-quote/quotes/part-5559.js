@@ -1,0 +1,1 @@
+var author5559 = "Redd Foxx", quotes5559 = ["If you can see the handwriting on the wall … you're on the toilet.","My first wife, I'll never forget her — and I've tried. ","We were poor. If I wasn't a boy, I wouldn't have had nothing to play with."]

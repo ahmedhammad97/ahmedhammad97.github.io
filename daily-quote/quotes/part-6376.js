@@ -1,0 +1,1 @@
+var author6376 = "Swallows", quotes6376 = ["The martletEven in the force and road of casualty.","One swallowe proveth not that summer is neare.","The swallow follows not summer more willing than we your lordship.","Now to the Goths as swift as swallow flies.","The swallow sweepsThe slimy pool, to build his hanging house."]

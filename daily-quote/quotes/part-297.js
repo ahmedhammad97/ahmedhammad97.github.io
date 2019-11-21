@@ -1,0 +1,1 @@
+var author297 = "Alfred D. Chandler, Jr.", quotes297 = ["Men's mind and abilities grow and expand with use of responsibilities."]

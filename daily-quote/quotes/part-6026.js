@@ -1,0 +1,1 @@
+var author6026 = "Sean Parker", quotes6026 = ["What you don't want is a product to be cool. You want it to be a part of people's everyday life."]

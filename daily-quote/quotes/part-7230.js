@@ -1,0 +1,1 @@
+var author7230 = "Wolf Vostell", quotes7230 = ["Events are weapons for politicization of art.","I declare peace the greatest work of art."]

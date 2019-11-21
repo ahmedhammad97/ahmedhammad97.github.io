@@ -1,0 +1,1 @@
+var author239 = "Alec Guinness", quotes239 = ["...nothing is desperately important and the joy of life is just looking at it."]

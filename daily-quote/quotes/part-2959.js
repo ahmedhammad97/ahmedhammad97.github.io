@@ -1,0 +1,1 @@
+var author2959 = "Howard S. Becker", quotes2959 = ["I think it is generally true that sociology does not discover what no one ever knew before."]

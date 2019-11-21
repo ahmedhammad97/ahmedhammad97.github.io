@@ -1,0 +1,1 @@
+var author5771 = "Robert N. Bellah", quotes5771 = ["Leaving home in a sense involves a kind of second birth in which we give birth to ourselves. "]

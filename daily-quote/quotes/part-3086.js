@@ -1,0 +1,1 @@
+var author3086 = "Ippen", quotes3086 = ["To reach the borders of the uncreated,Just let go! This is genuine gratitude."]

@@ -1,0 +1,1 @@
+var author4894 = "Nicolas Léonard Sadi Carnot", quotes4894 = ["Iron and heat are... the supporters, the bases, of the mechanic arts."]

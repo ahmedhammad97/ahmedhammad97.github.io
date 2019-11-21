@@ -1,0 +1,1 @@
+var author359 = "American Dream", quotes359 = ["It's called the American dream because you have to be asleep to believe it.","I'm Miss American Dream since I was seventeen"]

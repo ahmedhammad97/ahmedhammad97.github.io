@@ -1,0 +1,1 @@
+var author6521 = "The Lost Symbol", quotes6521 = ["Knowledge is a tool, and like all tools, its impact is in the hands of the user.","Don't tell me, bookish bachelor seeking single Noetic Scientist?","Wealth is commonplace, but wisdom is rare."]

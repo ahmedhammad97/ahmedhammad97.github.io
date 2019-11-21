@@ -1,0 +1,1 @@
+var author2198 = "Fernand Léger", quotes2198 = ["The mural artist is concerned with bringing to life dead surfaces by the application of colour."]

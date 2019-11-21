@@ -1,0 +1,1 @@
+var author6361 = "Susan Ertz", quotes6361 = ["Boredom comes simply from ignorance and lack of imagination.","Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon."]

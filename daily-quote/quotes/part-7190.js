@@ -1,0 +1,1 @@
+var author7190 = "William Styron", quotes7190 = ["This was not judgement day — only morning. Morning: excellent and fair."]

@@ -1,0 +1,1 @@
+var author4248 = "M. H. Abrams", quotes4248 = ["Hard work makes easy reading or, at least, easier reading.","If you read quickly to get through a poem to what it means, you have missed the body of the poem. ","He always violated your expectations. … He was a character.","It’s a pleasure that you don’t outgrow the anthology."]

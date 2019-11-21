@@ -1,0 +1,1 @@
+var author1247 = "Christopher Isherwood", quotes1247 = ["I am a camera with its shutter open, quite passive, recording, not thinking.","I doubt if one ever accepts a belief until one urgently needs it."]

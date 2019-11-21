@@ -1,0 +1,1 @@
+var author5387 = "Positive feedback", quotes5387 = ["They would need to be already wise, in order to love wisdom."]

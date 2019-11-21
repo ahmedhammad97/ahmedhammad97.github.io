@@ -1,0 +1,1 @@
+var author3730 = "Josef Mengele", quotes3730 = ["The Jewish people, no matter where they are, they become the best in the world.","The more we do to you, the less you seem to believe we are doing it.","Away with this shit!"]

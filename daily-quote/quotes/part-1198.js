@@ -1,0 +1,1 @@
+var author1198 = "Chester Bowles", quotes1198 = ["Government is too big and important to be left to the politicians."]

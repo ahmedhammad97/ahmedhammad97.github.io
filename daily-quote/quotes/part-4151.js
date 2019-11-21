@@ -1,0 +1,1 @@
+var author4151 = "Liu Shahe", quotes4151 = ["Being misunderstood by someone is vexation. Being misunderstood by everyone is tragedy."]

@@ -1,0 +1,1 @@
+var author6977 = "Walter Lippmann", quotes6977 = ["Where all think alike, no one thinks very much.","It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."]

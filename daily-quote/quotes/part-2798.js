@@ -1,0 +1,1 @@
+var author2798 = "Helen Hayes", quotes2798 = ["One has to grow up with good talk in order to form the habit of it.","Actors work and slave — and it is the color of your hair that can determine your fate in the end.","Stardom can be a gilded slavery.","I cry out for order and find it only in art.","The worst constructed play is a Bach fugue when compared to life."]

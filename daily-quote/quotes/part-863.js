@@ -1,0 +1,1 @@
+var author863 = "Blasphemy", quotes863 = ["Talk not to me of blasphemy, man; I'd strike the sun if it insulted me.","One can only blaspheme if one believes.","Heresy is only another word for freedom of thought.","Blasphemy is the word that the majority hisses into the ear of the few."]

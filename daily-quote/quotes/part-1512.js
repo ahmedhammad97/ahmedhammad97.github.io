@@ -1,0 +1,1 @@
+var author1512 = "Daniel Radcliffe", quotes1512 = ["Ron's funnier than Robin Williams. The hard thing is not to laugh when the camera is rolling.","I'm the only kid in the world who doesn't want an eighth Harry Potter book."]

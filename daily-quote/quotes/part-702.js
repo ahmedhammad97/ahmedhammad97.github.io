@@ -1,0 +1,1 @@
+var author702 = "Bal Gangadhar Tilak", quotes702 = ["Swaraj is my birthright, and I shall have it!","Freedom is my birthright. I must have it.","If God is put up with untouchability, I will not call him God.","The compilation of hymns into Sanhitas also appears to be a work of the early part of this period."]

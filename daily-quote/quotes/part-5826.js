@@ -1,0 +1,1 @@
+var author5826 = "Romain Rolland", quotes5826 = ["I find war detestable but those who praise it without participating in it even more so.","I know at last what distinguishes man from animals; financial worries.","One makes mistakes; that is life. But it is never a mistake to have loved.","It is the artist's business to create sunshine when the sun fails."]

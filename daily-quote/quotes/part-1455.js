@@ -1,0 +1,1 @@
+var author1455 = "Cyprian", quotes1455 = ["For the helmsman is recognized in the tempest; in the warfare the soldier is proved."]

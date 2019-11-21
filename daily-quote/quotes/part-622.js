@@ -1,0 +1,1 @@
+var author622 = "Arthur Young", quotes622 = ["A country is signally blessed above others, which can grow ."]

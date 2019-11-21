@@ -1,0 +1,1 @@
+var author5150 = "Paul Halmos", quotes5150 = ["]The author discusses valueless measures in pointless spaces.]"]

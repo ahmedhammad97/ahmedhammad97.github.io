@@ -1,0 +1,1 @@
+var author5845 = "Rosabeth Moss Kanter", quotes5845 = ["Everything looks like a failure in the middle.","Powerlessness corrupts: absolute powerlessness corrupts absolutely."]

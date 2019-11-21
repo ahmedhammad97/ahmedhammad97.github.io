@@ -1,0 +1,1 @@
+var author5435 = "Protagoras", quotes5435 = ["There are two sides to every question."]

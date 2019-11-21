@@ -1,0 +1,1 @@
+var author2956 = "Howard P. Robertson", quotes2956 = ["This... is an outrageously over-simplified account of the assumptions and procedures..."]

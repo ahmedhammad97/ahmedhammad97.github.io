@@ -1,0 +1,1 @@
+var author4049 = "Lech Wałęsa", quotes4049 = ["I am for, and even against. "]

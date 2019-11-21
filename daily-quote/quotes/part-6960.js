@@ -1,0 +1,1 @@
+var author6960 = "Wales", quotes6960 = ["There are still parts of Wales where the only concession to gaiety is a striped shroud."]

@@ -1,0 +1,1 @@
+var author6788 = "Trouble", quotes6788 = ["This peck of troubles.","To take arms against a sea of troubles.","I survived that trouble so likewise may I survive this one.","Sweet is the remembrance of troubles when you are in safety.","Man is born unto trouble, as the sparks fly upward."]

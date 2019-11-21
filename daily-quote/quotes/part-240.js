@@ -1,0 +1,1 @@
+var author240 = "Alec Waugh", quotes240 = ["The first duty of wine is to be red. The second is to be a Burgundy."]

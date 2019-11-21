@@ -1,0 +1,1 @@
+var author949 = "Brian Kernighan", quotes949 = ["Controlling complexity is the essence of computer programming."]

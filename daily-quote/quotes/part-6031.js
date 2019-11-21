@@ -1,0 +1,1 @@
+var author6031 = "Second Boer War", quotes6031 = ["The Victorian age ended in the crash and conflict of the Great Boer War.","... the Jameson Raid was the real declaration of war."]

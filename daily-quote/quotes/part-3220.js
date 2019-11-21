@@ -1,0 +1,1 @@
+var author3220 = "James Buchanan", quotes3220 = ["I am the last President of the United States!","What is right and what is practicable are two different things."]

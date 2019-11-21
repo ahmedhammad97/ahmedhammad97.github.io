@@ -1,0 +1,1 @@
+var author5649 = "Richard Hooker", quotes5649 = ["Change is not made without inconvenience, even from worse to better."]

@@ -1,0 +1,1 @@
+var author1835 = "Eddie Cantor", quotes1835 = ["The March of Dimes","Every blossom I see reminds me of you","It takes twenty years to make an overnight success."]

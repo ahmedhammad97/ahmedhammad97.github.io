@@ -1,0 +1,1 @@
+var author115 = "Adolphe Quetelet", quotes115 = ["I am less desirous to explain phenomena than to establish their existence."]

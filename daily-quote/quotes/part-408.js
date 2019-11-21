@@ -1,0 +1,1 @@
+var author408 = "Andrew Lang", quotes408 = ["They hear like ocean on a western beachThe surge and thunder of the Odyssey.","If indeed there be a god in heaven."]

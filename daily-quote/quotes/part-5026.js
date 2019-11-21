@@ -1,0 +1,1 @@
+var author5026 = "Organizational structure", quotes5026 = ["The purposes of functional charts is","You cannot run your business, or anything else, on a theory."]

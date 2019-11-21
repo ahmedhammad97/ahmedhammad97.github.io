@@ -1,0 +1,1 @@
+var author2569 = "Gillian Clarke", quotes2569 = ["If civilisation drowns"]

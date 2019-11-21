@@ -1,0 +1,1 @@
+var author6251 = "Stella Adler", quotes6251 = ["The theatre was created to tell people the truth about life and the social situation.","Your talent is in your imagination. The rest is lice.","You can't be boring. Life is boring. The weather is boring. Actors must not be boring.","Get a stage tone, darling, an energy. Never go on stage without your motor running."]

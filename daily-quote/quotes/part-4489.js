@@ -1,0 +1,1 @@
+var author4489 = "Maumoon Abdul Gayoom", quotes4489 = ["Freedom of expression is guaranteed by our constitution."]

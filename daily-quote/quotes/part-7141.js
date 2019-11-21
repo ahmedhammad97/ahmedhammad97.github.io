@@ -1,0 +1,1 @@
+var author7141 = "William Jennings Bryan", quotes7141 = ["“Think of it! Niggers speaking French!”","If they believe it, they go back to scoff at the religion of their parents.","I can make affirmation; I can say So help me God, I will tell the truth."]

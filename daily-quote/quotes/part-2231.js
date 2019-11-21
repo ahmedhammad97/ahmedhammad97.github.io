@@ -1,0 +1,1 @@
+var author2231 = "Florence Scovel Shinn", quotes2231 = ["If one asks for success and prepares for failure, he will get the situation he has prepared for.","Intuition is a spiritual faculty and does not explain, but simply points the way."]

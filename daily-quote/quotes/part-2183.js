@@ -1,0 +1,1 @@
+var author2183 = "Fear and Trembling", quotes2183 = ["Is there such a thing as a teleological suspension of the ethical?"]

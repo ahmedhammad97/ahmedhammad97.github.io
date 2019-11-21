@@ -1,0 +1,1 @@
+var author5147 = "Paul Gauguin", quotes5147 = ["Life being what it is, one dreams of revenge — and has to content oneself with dreaming.","A young man who is unable to commit a folly is already an old man.","I do not paint by copying nature. Everything I do springs from my wild imagination."]

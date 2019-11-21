@@ -1,0 +1,1 @@
+var author2125 = "Exact science", quotes2125 = ["Politics is not an exact science.","The whole subject-matter of exact science consists of pointer readings and similar indications.","Economics is not an exact science.","In reality, there is no such thing as an exact science. ","An exact science is one that admits loss."]

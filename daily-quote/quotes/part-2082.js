@@ -1,0 +1,1 @@
+var author2082 = "Esaias Tegnér", quotes2082 = ["A dead father's counsel, a wise son heedeth.","A woman's honor rests on manly love.","A sense of justice is a noble fancy.","Hener was the hero-king,A shelter for peace."]

@@ -1,0 +1,1 @@
+var author6158 = "Slaughterhouse-Five", quotes6158 = ["The smell of mustard gas and roses.","Listen: Billy Pilgrim has come unstuck in time.","If you're ever in Cody, Wyoming, just ask for Wild Bob! (p. 67)","How nice — to feel nothing, and still get full credit for being alive. (p. 105)","Everything was beautiful, and nothing hurt. (p. 122)"]

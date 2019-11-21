@@ -1,0 +1,1 @@
+var author3079 = "International monetary systems", quotes3079 = ["The international monetary system is the glue that binds national economies together."]

@@ -1,0 +1,1 @@
+var author2996 = "Ian Dunlop", quotes2996 = ["The Shock of the New"]

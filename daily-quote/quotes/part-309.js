@@ -1,0 +1,1 @@
+var author309 = "Alfred Whitney Griswold", quotes309 = ["A Socrates in every classroom."]

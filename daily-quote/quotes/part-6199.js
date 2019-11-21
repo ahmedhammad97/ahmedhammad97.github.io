@@ -1,0 +1,1 @@
+var author6199 = "Sophie Swetchine", quotes6199 = ["The only true method of action in this world is to be in it, but not of it.","To love deeply in one direction makes us more loving in all others","Youth should be a savings-bank."]

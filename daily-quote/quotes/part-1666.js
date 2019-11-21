@@ -1,0 +1,1 @@
+var author1666 = "Diane Abbott", quotes1666 = ["White people love playing ‘divide & rule’. We should not play their game.","On balance Mao did more good than harm."]

@@ -1,0 +1,1 @@
+var author6803 = "Twilight of the Idols", quotes6803 = ["... imprisoned among all sorts of terrible concepts","The early church, as everyone knows, certainly did wage war against the intelligent.","In art, man enjoys himself as perfection.","The other thing I do not like to hear is the notorious “and” …"]

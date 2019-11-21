@@ -1,0 +1,1 @@
+var author487 = "Anselm Kiefer", quotes487 = ["When knowledge becomes rigid, it stops living.","Until the artist is dead, we are not able to determine his work in all its dimensions."]

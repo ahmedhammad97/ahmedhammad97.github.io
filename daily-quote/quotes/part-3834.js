@@ -1,0 +1,1 @@
+var author3834 = "KT Tunstall", quotes3834 = ["Over the sea and far away Waiting to change..."]

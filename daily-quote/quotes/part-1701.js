@@ -1,0 +1,1 @@
+var author1701 = "Discrimination", quotes1701 = ["The way to stop discrimination on the basis of race is to stop discriminating on the basis of race."]

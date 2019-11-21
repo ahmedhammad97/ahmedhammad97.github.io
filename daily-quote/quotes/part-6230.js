@@ -1,0 +1,1 @@
+var author6230 = "Sri Lanka", quotes6230 = ["Now we are vacating our backyard for the Chinese to rebuild all of a booming post-war Sri Lanka"]

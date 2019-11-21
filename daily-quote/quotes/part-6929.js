@@ -1,0 +1,1 @@
+var author6929 = "Vladimir Horowitz", quotes6929 = ["Interesting pianist, but I think he is just a little bit meshuga."]

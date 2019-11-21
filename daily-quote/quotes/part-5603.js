@@ -1,0 +1,1 @@
+var author5603 = "Reticence", quotes5603 = ["Too many tongues have gates which fly apart"]

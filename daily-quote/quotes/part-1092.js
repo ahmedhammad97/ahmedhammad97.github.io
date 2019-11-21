@@ -1,0 +1,1 @@
+var author1092 = "Catherine of Siena", quotes1092 = ["The path to heaven lies through heaven, and all the way to heaven is heaven."]

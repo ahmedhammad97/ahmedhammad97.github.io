@@ -1,0 +1,1 @@
+var author5182 = "Paz de la Huerta", quotes5182 = ["I love the fact that the present is the only real reality we have.","I want to make it clear to England, I am not a party girl.","I'm not a model. Whenever I do a photo shoot I like to create a story."]

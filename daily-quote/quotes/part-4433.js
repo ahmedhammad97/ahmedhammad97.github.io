@@ -1,0 +1,1 @@
+var author4433 = "Martin Lawrence", quotes4433 = ["Sorry, I had told Craig and them I'm gon' kick it with them. Gotta go! See you when I see you!","Go head on, with yo' fat apple pie ass, Aunt Bea!"]

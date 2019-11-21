@@ -1,0 +1,1 @@
+var author1733 = "Donald Barthelme", quotes1733 = ["I am never needlessly obscure—I am needfully obscure, when I am obscure.","[picket sign] COGITO ERGO NOTHING!....[casual passerby:] Cogito ergo your ass....","No man's plenum, Mr. Quistgaard, is impervious to the awl of God's will.","ANATHEMATIZATION OF THE WORLD IS NOT AN ADEQUATE RESPONSE TO THE WORLD.","Poignance is all."]

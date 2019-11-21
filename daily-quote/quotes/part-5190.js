@@ -1,0 +1,1 @@
+var author5190 = "Pelicans", quotes5190 = ["Nature's prime favourites were the Pelicans;High-fed, long-lived, and sociable and free.","What, wouldst thou have me turn pelican, and feed thee out of my own vitals?"]

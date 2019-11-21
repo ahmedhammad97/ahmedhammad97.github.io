@@ -1,0 +1,1 @@
+var author1898 = "Edward Rutledge", quotes1898 = ["Be mild and firm. Apply your best exertions to put us in a proper posture of defense."]

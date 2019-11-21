@@ -1,0 +1,1 @@
+var author1711 = "Division of labor", quotes1711 = ["The life that I aspire to live","Division of labor is a justification for sloth.","Answers determined by the social division of labor become truth as such.","The division of labor among nations is that some specialize in winning and others in losing. "]

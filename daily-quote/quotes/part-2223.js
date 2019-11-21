@@ -1,0 +1,1 @@
+var author2223 = "Flesh", quotes2223 = ["That which is born of the flesh is flesh; and that which is born of the spirit is spirit.","Make not provision for the flesh, to fulfil the lusts thereof.","Those who belong to Christ Jesus have crucified the flesh with its passions and desires."]

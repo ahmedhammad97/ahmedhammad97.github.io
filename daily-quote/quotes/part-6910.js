@@ -1,0 +1,1 @@
+var author6910 = "Ville Niinistö", quotes6910 = ["Not even Hollywood would consider the script of Fennovoima credible.”"]

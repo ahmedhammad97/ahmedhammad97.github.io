@@ -1,0 +1,1 @@
+var author2677 = "Guru", quotes2677 = ["Who is whose Guru? God alone is the guide and Guru of the universe."]

@@ -1,0 +1,1 @@
+var author1883 = "Edward Grey, 1st Viscount Grey of Fallodon", quotes1883 = ["The British Army should be a projectile to be fired by the British Navy."]

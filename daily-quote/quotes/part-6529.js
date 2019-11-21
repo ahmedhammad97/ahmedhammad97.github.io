@@ -1,0 +1,1 @@
+var author6529 = "The Mysteries of Pittsburgh", quotes6529 = ["It is always so simple, and so complicating, to accept an apology."]

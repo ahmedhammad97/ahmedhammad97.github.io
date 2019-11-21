@@ -1,0 +1,1 @@
+var author5734 = "Robert Fulghum", quotes5734 = ["Don't worry that children never listen to you; worry that they are always watching you.","Life-and-death. Lifedeath. One event. One short event. Don’t forget.","You can't always explain everything you do to everybody, you know.","I don't think the thing is to be well known, but being worth knowing."]

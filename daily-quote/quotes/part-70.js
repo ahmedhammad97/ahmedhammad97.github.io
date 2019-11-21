@@ -1,0 +1,1 @@
+var author70 = "Abraham Pais", quotes70 = ["A number of current theoretical explorations will turn out to be passing fancies..."]

@@ -1,0 +1,1 @@
+var author3934 = "Kingman Brewster, Jr.", quotes3934 = ["If I take refuge in ambiguity, I assure you that it’s quite conscious.","Incomprehensible jargon is the hallmark of a profession.","We all live in a televised goldfish bowl."]

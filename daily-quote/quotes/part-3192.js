@@ -1,0 +1,1 @@
+var author3192 = "Jacob M. Appel", quotes3192 = ["Nothing sells tombstones like a Girl Scout in uniform."]

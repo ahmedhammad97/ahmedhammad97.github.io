@@ -1,0 +1,1 @@
+var author4417 = "Marston Bates", quotes4417 = ["Research is the process of going up alleys to see if they are blind."]

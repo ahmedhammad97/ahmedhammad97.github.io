@@ -1,0 +1,1 @@
+var author806 = "Betsy DeVos", quotes806 = ["I would imagine that there’s probably a gun in the school to protect from potential grizzlies."]

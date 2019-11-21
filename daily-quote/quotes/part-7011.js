@@ -1,0 +1,1 @@
+var author7011 = "Watchman Nee", quotes7011 = ["God's commandment is that those who serve Him must separate themselves from the world.","Since the Lord suffered humiliation on the earth, we should not seek glory here."]

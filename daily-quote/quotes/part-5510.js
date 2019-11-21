@@ -1,0 +1,1 @@
+var author5510 = "Rain", quotes5510 = ["A little rain will fillThe lily's cup which hardly moists the field.","For the rain it raineth every day.","And the hooded clouds, like friars,Tell their beads in drops of rain.","He shall come down like rain upon the mown grass.","I know Sir John will go, though he was sure it would rain cats and dogs."]

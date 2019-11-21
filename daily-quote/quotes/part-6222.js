@@ -1,0 +1,1 @@
+var author6222 = "Spiritual intelligence", quotes6222 = ["Intellectual, (Lat.) belonging to the Intellect, Spiritual.","An invisible spiritual intelligence is an object too refined for vulgar apprehension ","At the minimum, spiritually intelligent individuals are characterized by:"]

@@ -1,0 +1,1 @@
+var author2800 = "Helen Mirren", quotes2800 = ["The part never calls for it. And I've never ever used that excuse. The box office calls for it."]

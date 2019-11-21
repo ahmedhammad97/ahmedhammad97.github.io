@@ -1,0 +1,1 @@
+var author6706 = "Timing", quotes6706 = ["Observe due measure, for right timing is in all things the most important factor."]

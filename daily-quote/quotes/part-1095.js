@@ -1,0 +1,1 @@
+var author1095 = "Causality", quotes1095 = ["To all facts there are laws,The effect has its cause, and I mount to the cause.","Ask you what provocation I have had?The strong antipathy of good to bad.","Your cause doth strike my heart.","God befriend us, as our cause is just!","Mine's not an idle cause."]

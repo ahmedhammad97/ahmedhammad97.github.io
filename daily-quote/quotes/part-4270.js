@@ -1,0 +1,1 @@
+var author4270 = "Magistrates", quotes4270 = ["Excess of jurisdiction is ground for prohibition.","We presume a magistrate does right until the contrary appears."]

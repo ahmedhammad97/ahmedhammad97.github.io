@@ -1,0 +1,1 @@
+var author4090 = "Leonid Brezhnev", quotes4090 = ["Soviet people are better off materially and richer spiritually.","It is madness for any country to build its policy with an eye to nuclear war.","God will not forgive us if we fail."]

@@ -1,0 +1,1 @@
+var author2567 = "Gilbert du Motier, Marquis de Lafayette", quotes2567 = ["Humanity has gained its suit; Liberty will nevermore be without an asylum."]

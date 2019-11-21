@@ -1,0 +1,1 @@
+var author7267 = "Yaroslav Alexandrovich Evdokimov", quotes7267 = ["I am proud to be Ukrainian. "]

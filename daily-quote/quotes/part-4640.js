@@ -1,0 +1,1 @@
+var author4640 = "Miho Mosulishvili", quotes4640 = ["Everything started by a word and a word will end it all. (The motto of Miho Mosulishvili)"]

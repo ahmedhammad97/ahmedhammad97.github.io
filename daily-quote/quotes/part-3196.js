@@ -1,0 +1,1 @@
+var author3196 = "Jacques Barzun", quotes3196 = ["Teaching is not a lost art, but the regard for it is a lost tradition.","Old age is like learning a new profession. And not one of your own choosing."]

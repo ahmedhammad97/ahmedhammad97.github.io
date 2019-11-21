@@ -1,0 +1,1 @@
+var author346 = "Alvin Toffler", quotes346 = ["Change is the process by which the future invades our lives."]

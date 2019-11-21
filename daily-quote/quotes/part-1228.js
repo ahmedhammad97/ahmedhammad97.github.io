@@ -1,0 +1,1 @@
+var author1228 = "Christiaan Huygens", quotes1228 = ["...the power of this line [the cycloid] to measure time.","I believe that we do not know anything for certain, but everything probably. "]

@@ -1,0 +1,1 @@
+var author3164 = "J. R. Moehringer", quotes3164 = ["Beer is amazing. Nutritional. Medicinal. A beverage, but also a meal. "]

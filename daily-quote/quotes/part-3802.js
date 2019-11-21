@@ -1,0 +1,1 @@
+var author3802 = "Julia Roberts", quotes3802 = ["I've sort of grown into my cuteness."]

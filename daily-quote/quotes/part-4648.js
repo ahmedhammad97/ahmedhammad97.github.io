@@ -1,0 +1,1 @@
+var author4648 = "Mike Warnke", quotes4648 = ["Christians have their own language."]

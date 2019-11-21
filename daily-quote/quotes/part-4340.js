@@ -1,0 +1,1 @@
+var author4340 = "Margaret Chase Smith", quotes4340 = ["We should not permit tolerance to degenerate into indifference."]

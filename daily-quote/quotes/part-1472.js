@@ -1,0 +1,1 @@
+var author1472 = "Damian Spinelli", quotes1472 = ["Spinelli: Sex is better than orange soda."]

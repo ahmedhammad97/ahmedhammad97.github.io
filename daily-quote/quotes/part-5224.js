@@ -1,0 +1,1 @@
+var author5224 = "Pete Stark", quotes5224 = ["The more debt we owe, the wealthier we are.","Get the fuck out or I'll throw you out the window!"]

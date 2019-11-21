@@ -1,0 +1,1 @@
+var author753 = "Bell's theorem", quotes753 = ["Bell’s theorem is the most profound discovery of science."]

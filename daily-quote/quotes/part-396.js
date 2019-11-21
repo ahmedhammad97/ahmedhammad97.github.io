@@ -1,0 +1,1 @@
+var author396 = "Andrei Codrescu", quotes396 = ["Only the poor can create art."]

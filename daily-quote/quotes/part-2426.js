@@ -1,0 +1,1 @@
+var author2426 = "Gender bender", quotes2426 = ["All I know is this:and came home female."]

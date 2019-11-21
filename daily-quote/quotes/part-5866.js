@@ -1,0 +1,1 @@
+var author5866 = "Rudolf Hess", quotes5866 = ["People don't forget, do they?"]

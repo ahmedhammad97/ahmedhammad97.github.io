@@ -1,0 +1,1 @@
+var author3942 = "Kit Carson", quotes3942 = ["Peters laid it on a leetle too thick."]

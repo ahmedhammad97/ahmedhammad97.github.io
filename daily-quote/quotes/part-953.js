@@ -1,0 +1,1 @@
+var author953 = "Brian Swimme", quotes953 = ["Earth was once molten rock, and now it makes spaceships.","The break-through moments are unimaginable until they happen."]

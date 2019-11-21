@@ -1,0 +1,1 @@
+var author3945 = "Klaus F. Zimmermann", quotes3945 = ["Globalization has brought a new challenge to Europe: migration."]

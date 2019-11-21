@@ -1,0 +1,1 @@
+var author1765 = "Douglas MacArthur", quotes1765 = ["I came out of Bataan and I shall return!","Only those are fit to live who are not afraid of dying.","Rules are mostly made to be broken and are too often for the lazy to hide behind."]

@@ -1,0 +1,1 @@
+var author6950 = "W. Chan Kim", quotes6950 = ["The only way to beat the competition is to stop trying to beat the competition."]

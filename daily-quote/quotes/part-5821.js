@@ -1,0 +1,1 @@
+var author5821 = "Rogue", quotes5821 = ["We can love an honest rogue, but what is more offensive than a false saint?"]

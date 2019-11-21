@@ -1,0 +1,1 @@
+var author6846 = "Urban decay", quotes6846 = ["We [The banks] determine who will succeed and who will fail.","It was people, not architects, who made slums."]

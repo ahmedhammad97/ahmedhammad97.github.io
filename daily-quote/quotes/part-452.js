@@ -1,0 +1,1 @@
+var author452 = "Ann Richards", quotes452 = ["… we're going to tell how the cow ate the cabbage.","Poor George, he can't help it — he was born with a silver foot in his mouth.","Oh, I would probably have raised more hell.{{cite news"]

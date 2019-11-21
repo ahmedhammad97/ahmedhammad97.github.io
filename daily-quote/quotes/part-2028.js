@@ -1,0 +1,1 @@
+var author2028 = "Epicurus", quotes2028 = ["He who is not satisfied with a little, is satisfied with nothing.","Self-sufficiency is the greatest of all wealth."]

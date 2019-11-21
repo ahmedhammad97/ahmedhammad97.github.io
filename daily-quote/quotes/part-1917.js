@@ -1,0 +1,1 @@
+var author1917 = "Edwin Markham", quotes1917 = ["I fear the vermin that shall undermine Senate and citadel and school and shrine."]

@@ -1,0 +1,1 @@
+var author2955 = "Howard Jacobson", quotes2955 = ["I'm a Jewish Jane Austen.","In the matrimonial life of the Jewish male every day is Yom Kippur.","He was as sentimental as Hitler about applause and crowds."]

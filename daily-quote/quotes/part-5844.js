@@ -1,0 +1,1 @@
+var author5844 = "Rosa Parks", quotes5844 = ["I did not get on the bus to get arrested. I got on the bus to go home."]

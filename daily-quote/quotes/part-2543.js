@@ -1,0 +1,1 @@
+var author2543 = "Gerald Ford", quotes2543 = ["Tell the truth, work hard, and come to dinner on time.","America needed recovery, not revenge. The hate had to be drained and the healing begun.","We came from many roots, and we have many branches.","The length of one's days matters less than the love of one's family and friends."]

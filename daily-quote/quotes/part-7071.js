@@ -1,0 +1,1 @@
+var author7071 = "William Adams", quotes7071 = ["Lov'est thou me? This is the one test question of our religion; for he that loveth is born of God."]

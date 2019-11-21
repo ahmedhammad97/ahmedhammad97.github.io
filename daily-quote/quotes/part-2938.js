@@ -1,0 +1,1 @@
+var author2938 = "Homophobia", quotes2938 = ["Homophobia is gay."]

@@ -1,0 +1,1 @@
+var author5 = "1 (number)", quotes5 = ["More knowable than the number is the unit; for it is prior and the source of every number.","Let us take as the basis of our consideration first of all a thought-thing 1 (one)."]

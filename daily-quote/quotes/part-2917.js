@@ -1,0 +1,1 @@
+var author2917 = "History of algebra", quotes2917 = ["Greek algebra before Diophantus was essentially rhetorical."]

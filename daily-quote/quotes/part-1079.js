@@ -1,0 +1,1 @@
+var author1079 = "Cash flow", quotes1079 = ["Focusing on cash flow is the best way to determine whether the proposed project is feasible.","The three most dreaded words in the English language are 'negative cash flow'.","Happiness is a Positive Cash Flow."]

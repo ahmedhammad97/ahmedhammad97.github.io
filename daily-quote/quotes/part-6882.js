@@ -1,0 +1,1 @@
+var author6882 = "Ventseslav Konstantinov", quotes6882 = ["It is only logical for the translator to become a part of the world of the author.","The translator constantly learns new things about himself."]

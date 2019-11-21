@@ -1,0 +1,1 @@
+var author4585 = "Michael Halliday", quotes4585 = ["Foregrounding, as I understand it, is prominence that is motivated"]

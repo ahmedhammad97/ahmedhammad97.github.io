@@ -1,0 +1,1 @@
+var author3307 = "Japan", quotes3307 = ["The Japanese can only fulfill it by the sword.","In Asia, the memories of Imperial Japan are still fresh.","International hub for the production and trafficking of child pornography."]

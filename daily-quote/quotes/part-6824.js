@@ -1,0 +1,1 @@
+var author6824 = "Unification in science and mathematics", quotes6824 = ["All knowledge... is unification of the multiple."]

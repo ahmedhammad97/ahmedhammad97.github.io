@@ -1,0 +1,1 @@
+var author3011 = "Iggy Pop", quotes3011 = ["What I do on stage has utterly no purpose.","This town is diverse as shit. I like it here a lot.","I almost always pee in the yard or the garden, because I like to pee on my estate."]

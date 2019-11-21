@@ -1,0 +1,1 @@
+var author935 = "Bread", quotes935 = ["These findings show us that starvation is now threatening large parts of the Syrian population."]

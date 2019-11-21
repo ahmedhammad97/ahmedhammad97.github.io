@@ -1,0 +1,1 @@
+var author397 = "Andrei Grechko", quotes397 = ["For us military men, it is impossible to forget.","Liberalization and democratization are in essence counter-revolution.","The lesson of that victory was that Soviet citizens must still heed Lenin's warning of 1921."]

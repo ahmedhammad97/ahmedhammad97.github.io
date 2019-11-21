@@ -1,0 +1,1 @@
+var author3818 = "Junot Díaz", quotes3818 = ["If you think learning salsa is your future, you’re going to be pretty insufferable in salsa classes."]

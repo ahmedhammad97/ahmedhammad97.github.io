@@ -1,0 +1,1 @@
+var author1685 = "Dinner", quotes1685 = ["A dinner lubricates business."]

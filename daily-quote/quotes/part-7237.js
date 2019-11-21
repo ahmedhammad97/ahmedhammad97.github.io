@@ -1,0 +1,1 @@
+var author7237 = "Wood", quotes7237 = ["Wood carving is perhaps one of the earliest and most universal of the industrial arts."]

@@ -1,0 +1,1 @@
+var author5192 = "Penance", quotes5192 = ["Only the penitent man will pass.","Christian penitence is something more than a thought or an emotion or a tear; it is action.","The man hath penance done,And penance more will do."]

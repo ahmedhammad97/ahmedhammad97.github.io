@@ -1,0 +1,1 @@
+var author288 = "Alexis", quotes288 = ["Once thou art wed, no longer canst thou beLord of thyself.","Of all thy blessings reckon wealth the least,For 'tis the least secure of our possessions.","Though Fortune now be smiling, it behovesTo look ahead, nor e'er to trust in Fortune.","Not in vain oaths should prudent men believe,But put their trust in actions."]

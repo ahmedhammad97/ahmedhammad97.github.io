@@ -1,0 +1,1 @@
+var author5488 = "R. P. Blackmur", quotes5488 = ["W C Williams' poetry is: The Imagism of 1912, self-transduced."]

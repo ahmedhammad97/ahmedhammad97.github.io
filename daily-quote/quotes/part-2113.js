@@ -1,0 +1,1 @@
+var author2113 = "Europe", quotes2113 = ["Whoever speaks of Europe is wrong: it is a geographical expression.","Soon nostalgia will be another name for Europe.","Purity of race does not exist. Europe is a continent of energetic mongrels.","Europe is and will be a Union of States."]

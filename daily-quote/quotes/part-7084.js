@@ -1,0 +1,1 @@
+var author7084 = "William Byrd", quotes7084 = ["Care in such sort that thou be sure of this:Care keep thee not from heaven and heavenly bliss."]

@@ -1,0 +1,1 @@
+var author3703 = "Jomo Kenyatta", quotes3703 = ["Don't be fooled into turning to Communism looking for food."]

@@ -1,0 +1,1 @@
+var author1031 = "Canada", quotes1031 = ["Oh God! Oh Montreal!","Belgium... they're the Canada of France! There, I said it!","Saskatchewan is much like Texas; except it's more friendly to the United States."]

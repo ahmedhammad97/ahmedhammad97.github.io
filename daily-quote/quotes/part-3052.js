@@ -1,0 +1,1 @@
+var author3052 = "Information age", quotes3052 = ["Metadata liberates us, liberates knowledge.","Information paints no picture, sings no song, and writes no poem."]

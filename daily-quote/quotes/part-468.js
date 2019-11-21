@@ -1,0 +1,1 @@
+var author468 = "Anne Lamott", quotes468 = ["Laughter is carbonated holiness."]

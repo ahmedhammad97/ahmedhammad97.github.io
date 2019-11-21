@@ -1,0 +1,1 @@
+var author6396 = "Syracuse, Sicily", quotes6396 = ["...the greatest Greek city and the most beautiful of them all..."]

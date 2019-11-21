@@ -1,0 +1,1 @@
+var author1110 = "Challenge", quotes1110 = ["Only those who will risk going too far can possibly find out how far one can go.","The greatest challenge to any thinker is stating the problem in a way that will allow a solution.","There I throw my gage,Of mortal breathing.","But thou liest in thy throat; that is not the matter I challenge thee for."]

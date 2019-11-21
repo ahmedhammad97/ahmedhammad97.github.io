@@ -1,0 +1,1 @@
+var author5408 = "Pretension", quotes5408 = ["The desire of appearing clever often prevents our becoming so.","Where there is much pretension, much has been borrowed: nature never pretends.","The more honesty a man has, the less he affects the air of a saint."]

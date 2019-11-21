@@ -1,0 +1,1 @@
+var author3449 = "Joe Higgins", quotes3449 = ["Superfluous and should be abolished.","Like playing handball against a haystack.","Babies also have a civil right not to be kissed by every passing politician.","It is outrageous that [the ESB] is oppressing a powerless citizen in this way.","A banker's charter written by bankers."]

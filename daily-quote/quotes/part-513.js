@@ -1,0 +1,1 @@
+var author513 = "Anton Cermak", quotes513 = ["It is true that I have not come on the Mayflower but I came as fast as I could.","I'm glad it was me instead of you"]

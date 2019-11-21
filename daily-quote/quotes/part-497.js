@@ -1,0 +1,1 @@
+var author497 = "Anthony Quinn", quotes497 = ["There's no sense that you're there forever. No parent is there forever."]

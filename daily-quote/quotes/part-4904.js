@@ -1,0 +1,1 @@
+var author4904 = "Nigel Warburton", quotes4904 = ["Philosophy is an activity: it is a way of thinking about certain sorts of question."]

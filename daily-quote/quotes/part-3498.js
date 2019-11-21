@@ -1,0 +1,1 @@
+var author3498 = "John Byrom", quotes3498 = ["Christians, awake! salute the happy morn, Whereon the Saviour of mankind was born.","Take time enough: all other graces Will soon fill up their proper places.","As clear as a whistle.","The point is plain as a pike-staff.","The Sabbath was made for Man; not Man for the Sabbath."]

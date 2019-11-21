@@ -1,0 +1,1 @@
+var author5849 = "Rosie Malek-Yonan", quotes5849 = ["Anytime the western countries go to war in the Middle East, it becomes a religious war.","Iraq's 'liberation' has become the 'oppression' of Assyrians.","*As quoted in The Crimson Field.","I am an Assyrian. That is not negotiable."]

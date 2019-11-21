@@ -1,0 +1,1 @@
+var author1999 = "Emma Watson", quotes1999 = ["In Cancún, I felt like I had walked into an American teen movie.","Empathy and the ability to use your imagination should have no limits."]

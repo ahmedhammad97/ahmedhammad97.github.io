@@ -1,0 +1,1 @@
+var author5692 = "Ringo Starr", quotes5692 = ["I got blisters on my fingers!","I'd Like to beIn an octopus's garden with you.","Got to pay your dues if you want to sing the bluesAnd you know it don't come easy.","The world's saddest man will live here in Los Angeles.","The only way I'll get you is to get you in bed.","All I do is scream your name.","Drumming is my middle name."]

@@ -1,0 +1,1 @@
+var author2211 = "Fine-tuned Universe", quotes2211 = ["A life-giving factor lies at the centre of the whole machinery and design of the world."]

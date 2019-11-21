@@ -1,0 +1,1 @@
+var author4897 = "Nicolas Steno", quotes4897 = ["Beautiful is what we see, More Beautiful is what we know, most Beautiful by far is what we don't."]

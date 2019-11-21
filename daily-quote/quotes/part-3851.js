@@ -1,0 +1,1 @@
+var author3851 = "Karl Bowman", quotes3851 = ["Love is an obsessive delusion that is cured by marriage."]

@@ -1,0 +1,1 @@
+var author63 = "Abraham", quotes63 = ["You are fifty years old and would worship a day old statue!","O our Lord ! Accept (this service) from us, Verily, You are the All-Hearing, the All-Knowing."]

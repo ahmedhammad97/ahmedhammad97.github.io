@@ -1,0 +1,1 @@
+var author5764 = "Robert Maxwell Young", quotes5764 = ["People are always asking about the good old days. I say, why don't you say the good now days?"]

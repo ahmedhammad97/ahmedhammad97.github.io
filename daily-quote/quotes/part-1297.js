@@ -1,0 +1,1 @@
+var author1297 = "Clement Attlee", quotes1297 = ["Not Churchill. Sixty-five, old for a Churchill.","You will be judged by what you succeed at gentlemen, not by what you attempt."]

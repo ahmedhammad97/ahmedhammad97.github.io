@@ -1,0 +1,1 @@
+var author3327 = "Jean Anouilh", quotes3327 = ["When you're forty, half of you belongs to the past — and when you're seventy, nearly all of you."]

@@ -1,0 +1,1 @@
+var author6752 = "Tony Buzan", quotes6752 = ["The mind map will change your life.","The world is historically mentally illiterate."]

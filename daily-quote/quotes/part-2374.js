@@ -1,0 +1,1 @@
+var author2374 = "Fufu", quotes2374 = ["My companion in the skies / of death, / a cuckoo."]

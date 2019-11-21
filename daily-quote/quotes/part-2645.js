@@ -1,0 +1,1 @@
+var author2645 = "Gregory Balestrero", quotes2645 = ["Companies have a responsibility to train and retrain their employees. "]

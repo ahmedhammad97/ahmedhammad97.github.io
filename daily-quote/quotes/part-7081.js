@@ -1,0 +1,1 @@
+var author7081 = "William Buckland", quotes7081 = ["The taste of mole was the most repulsive I knew until I tasted a bluebottle [fly].","I have eaten many strange things, but have never eaten the heart of a king."]

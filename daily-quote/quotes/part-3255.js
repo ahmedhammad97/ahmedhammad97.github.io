@@ -1,0 +1,1 @@
+var author3255 = "James Jeans", quotes3255 = ["One must stand stiller than still.","Life exists in the universe only because the carbon atom possesses certain exceptional properties."]

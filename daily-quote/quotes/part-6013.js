@@ -1,0 +1,1 @@
+var author6013 = "Scorn", quotes6013 = ["So let him stand, through ages yet unborn,Fix'd statue on the pedestal of Scorn.","He will laugh thee to scorn.","Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.","O, what a deal of scorn looks beautifulIn the contempt and anger of his lip!"]

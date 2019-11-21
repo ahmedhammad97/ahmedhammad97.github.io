@@ -1,0 +1,1 @@
+var author1614 = "Dee Dee Ramone", quotes1614 = ["I hope no one thinks we really sniff glue. I stopped when I was eight."]

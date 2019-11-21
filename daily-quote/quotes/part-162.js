@@ -1,0 +1,1 @@
+var author162 = "Akbar Hashemi Rafsanjani", quotes162 = ["If the Americans attack Iran, the world will change. …They will not dare to make such a mistake'"]

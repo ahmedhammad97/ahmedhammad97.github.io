@@ -1,0 +1,1 @@
+var author3469 = "John A. Macdonald", quotes3469 = ["Let us be English or let us be French... but above all let us be Canadians"]

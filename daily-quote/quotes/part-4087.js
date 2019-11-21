@@ -1,0 +1,1 @@
+var author4087 = "Leonardo DiCaprio", quotes4087 = ["There's no other art form in the world that affects me more."]

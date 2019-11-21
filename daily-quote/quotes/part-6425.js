@@ -1,0 +1,1 @@
+var author6425 = "Tammy Smith", quotes6425 = ["A Soldier should never have to hide their family. The strength of our Soldiers is our families."]

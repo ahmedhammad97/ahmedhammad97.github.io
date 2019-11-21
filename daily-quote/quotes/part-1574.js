@@ -1,0 +1,1 @@
+var author1574 = "David Marr", quotes1574 = ["Vision is the process of discovering from images what is present in the world, and where it is."]

@@ -1,0 +1,1 @@
+var author2382 = "G. H. Hardy", quotes2382 = ["Chess problems are the hymn-tunes of mathematics.","I am interested in mathematics only as a creative art."]

@@ -1,0 +1,1 @@
+var author6510 = "The Glass Bead Game", quotes6510 = ["Almost without words he had shown him what music really was."]

@@ -1,0 +1,1 @@
+var author2971 = "Hugo Münsterberg", quotes2971 = ["The knowledge of nature and the mastery of nature have always belonged together."]

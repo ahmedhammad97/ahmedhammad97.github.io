@@ -1,0 +1,1 @@
+var author6517 = "The Jetsons", quotes6517 = ["George Jetson: JANE! STOP THIS CRAZY THING!!"]

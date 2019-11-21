@@ -1,0 +1,1 @@
+var author2845 = "Henry L. Stimson", quotes2845 = ["Gentlemen don't read each other's mail.","The only deadly sin I know is cynicism."]

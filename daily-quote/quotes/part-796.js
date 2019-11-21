@@ -1,0 +1,1 @@
+var author796 = "Bernie Sanders", quotes796 = ["Enough is enough! [...] How many homes can you own?","Absolutely, in fact, climate change is directly related to the growth of terrorism.","Donald Trump is a pathological liar.","Billionaires and Wall Street should not be buying elections.","Today in America, the middle class is disappearing."]

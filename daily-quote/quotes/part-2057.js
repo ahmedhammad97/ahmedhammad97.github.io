@@ -1,0 +1,1 @@
+var author2057 = "Ernest Becker", quotes2057 = ["Mother nature is a brutal bitch, red in tooth and claw, who destroys what she creates. "]

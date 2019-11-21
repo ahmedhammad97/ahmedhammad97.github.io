@@ -1,0 +1,1 @@
+var author3936 = "Kinky Friedman", quotes3936 = ["Let Saigons be bygones / Don't you blow this world in two.","Poly means more than one, and ticks are bloodsucking parasites.","No lesbian left behind.","Find what you like, and let it kill you."]

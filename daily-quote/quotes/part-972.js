@@ -1,0 +1,1 @@
+var author972 = "Bryan Alvarez", quotes972 = ["Ric Flair was still the biggest draw in either company(in 1998). "]

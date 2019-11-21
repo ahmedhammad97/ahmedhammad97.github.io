@@ -1,0 +1,1 @@
+var author2175 = "Fathers", quotes2175 = ["As a father shows mercy to his sons, Jehovah has shown mercy to those fearing him.","The fundamental defect of fathers is that they want their children to be a credit to them.","The rights of a father are sacred rights because his duties are sacred duties."]

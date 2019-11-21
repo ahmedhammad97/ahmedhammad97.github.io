@@ -1,0 +1,1 @@
+var author4666 = "Mindfulness", quotes4666 = ["Life is a collection of moments. Mindfulness is beautification of the moments.","Life is a dance. Mindfulness is witnessing that dance. "]

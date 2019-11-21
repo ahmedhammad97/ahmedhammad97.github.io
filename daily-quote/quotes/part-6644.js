@@ -1,0 +1,1 @@
+var author6644 = "Thomas Middleton", quotes6644 = ["In spite of my teeth.","Like pearlUpon the bashful rose."]

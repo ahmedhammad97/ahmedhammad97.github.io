@@ -1,0 +1,1 @@
+var author5999 = "Satellite", quotes5999 = ["[The Hubble Space Telescope is] probably the most sophisticated scientific satellite ever built.”"]

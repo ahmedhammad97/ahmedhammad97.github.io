@@ -1,0 +1,1 @@
+var author6491 = "The Book Thief", quotes6491 = ["How about a kiss, Saumensch?","I am haunted by humans."]

@@ -1,0 +1,1 @@
+var author5604 = "Retirement", quotes5604 = ["Retirement without the love of letters is a living burial."]

@@ -1,0 +1,1 @@
+var author3725 = "Jorge Rafael Videla", quotes3725 = ["As many people as necessary must die in Argentina so that the country will again be secure.","… yesterday’s enemies are in power and from there, they are trying to establish a Marxist regime.","[I take] full military responsibility for the actions of the army in the war against terrorism."]

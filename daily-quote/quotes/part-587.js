@@ -1,0 +1,1 @@
+var author587 = "Art Blakey", quotes587 = ["...so go on and play, and if you make a mistake, make it loud so you won't make it next time."]

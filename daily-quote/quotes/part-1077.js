@@ -1,0 +1,1 @@
+var author1077 = "Cary Grant", quotes1077 = ["I really am a happy, amusing fellow at heart. Trouble is I seem the only one left.","Everyone wants to be Cary Grant. Even I want to be Cary Grant.","When I’m married I want to be single, and when I’m single I want to be married."]

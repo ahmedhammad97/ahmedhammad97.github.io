@@ -1,0 +1,1 @@
+var author7193 = "William Thomson", quotes7193 = ["Mathematics is the only true metaphysics.","Tesla has contributed more to electrical science than any man up to his time.","To live among friends is the primary essential of happiness."]

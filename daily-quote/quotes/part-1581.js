@@ -1,0 +1,1 @@
+var author1581 = "David P. Norton", quotes1581 = ["A company's ability to innovate, improve, and learn ties directly to the company's value."]

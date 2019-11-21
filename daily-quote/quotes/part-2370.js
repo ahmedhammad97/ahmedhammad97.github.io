@@ -1,0 +1,1 @@
+var author2370 = "From the Greeks to Darwin", quotes2370 = ["Darwin owes more even to the Greeks than we have ever recognized."]

@@ -1,0 +1,1 @@
+var author2571 = "Giordano Bruno", quotes2571 = ["Time is the father of truth, its mother is our mind.","All things are in all."]

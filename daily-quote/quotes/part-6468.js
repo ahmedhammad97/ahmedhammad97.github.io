@@ -1,0 +1,1 @@
+var author6468 = "Teresa Heinz Kerry", quotes6468 = ["You said something I didn't say. Now shove it.","They want four more years of hell.","Three more months!","I want you to issue a challenge for me to debate Howard Dean."]

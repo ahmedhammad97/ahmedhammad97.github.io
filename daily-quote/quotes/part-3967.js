@@ -1,0 +1,1 @@
+var author3967 = "Kurt von Hammerstein-Equord", quotes3967 = ["Regulations are for the stupid.","I am ashamed to have belonged in an army, that witnessed and tolerated all the crimes."]

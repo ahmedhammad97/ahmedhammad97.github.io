@@ -1,0 +1,1 @@
+var author7117 = "William Godwin", quotes7117 = ["Government was intended to suppress injustice, but its effect has been to embody and perpetuate it.","Perfectibility is one of the most unequivocal characteristics of the human species."]

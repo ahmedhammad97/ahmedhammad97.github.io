@@ -1,0 +1,1 @@
+var author5266 = "Phil Collins", quotes5266 = ["The world is in your hands, now use it.","Wait for it, wait for it! Anticipation is half the fun. So I've been told...","I can't remember those words (Lyrics) even when we were on tour."]

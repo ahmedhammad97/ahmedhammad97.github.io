@@ -1,0 +1,1 @@
+var author7268 = "Yasser Arafat", quotes7268 = ["This is my homeland; no one can kick me out.","Let it collapse, it will be the fault of Israel and the Americans.","All religious wars are about people arguing over who has the biggest invisible friend."]

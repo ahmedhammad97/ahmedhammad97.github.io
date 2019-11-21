@@ -1,0 +1,1 @@
+var author76 = "Abu Bakr", quotes76 = ["Surely I have a Devil who seizes me(also: who comes to me), so if i become angry stay away from me."]

@@ -1,0 +1,1 @@
+var author5736 = "Robert Gates", quotes5736 = ["Most governments lie to each other. That’s the way business gets done."]

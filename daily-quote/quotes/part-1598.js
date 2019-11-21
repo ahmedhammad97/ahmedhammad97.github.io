@@ -1,0 +1,1 @@
+var author1598 = "Davy Crockett", quotes1598 = ["The party in power, like Jonah's gourd, grew up quickly, and will quickly fall."]

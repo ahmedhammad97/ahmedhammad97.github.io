@@ -1,0 +1,1 @@
+var author6354 = "Supreme Court of the United States", quotes6354 = ["The Court's great power is its ability to educate, to provide moral leadership."]

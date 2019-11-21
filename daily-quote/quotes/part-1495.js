@@ -1,0 +1,1 @@
+var author1495 = "Daniel Barenboim", quotes1495 = ["Music has the capacity to create a greater reality."]

@@ -1,0 +1,1 @@
+var author6328 = "Style", quotes6328 = ["Indifference to style ... is almost always symptomatic of the dogmatic sclerosis of content.","Such labour'd nothings, in so strange a style,Amaze th' learn'd, and make the learned smile.","A chaste and lucid style is indicative of the same personal traits in the author.","Style is the dress of thoughts.","Neat, not gaudy."]

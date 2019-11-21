@@ -1,0 +1,1 @@
+var author3393 = "Jerry Springer", quotes3393 = ["I'm not conflicted. Because I know. There's me, and there's the show.","I create this persona for the show. And that's what it is. I'm an act.","Country comes before politics.","I should get a weekend show where all I do is play country music."]

@@ -1,0 +1,1 @@
+var author1816 = "Easter", quotes1816 = ["'Twas Easter-Sunday. The full-blossomed treesFilled all the air with fragrance and with joy.","Spring bursts to-day,For Christ is risen and all the earth's at play."]

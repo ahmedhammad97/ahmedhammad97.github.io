@@ -1,0 +1,1 @@
+var author3156 = "J. L. Austin", quotes3156 = ["Sentences are not as such either true or false,","Why should it not be the whole function of a word to denote many things?","It may justly be urged that, properly speaking, what alone has meaning is a sentence.","Ordinary language blinkers the already feeble imagination."]

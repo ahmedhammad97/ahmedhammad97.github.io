@@ -1,0 +1,1 @@
+var author4836 = "Negative number", quotes4836 = ["+ whych betokeneth too muche, as this line - plain without a crosse line betokeneth too little."]

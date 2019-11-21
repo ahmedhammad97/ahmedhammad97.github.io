@@ -1,0 +1,1 @@
+var author1242 = "Christopher Cross", quotes1242 = ["Sailing is not a romantic song"]

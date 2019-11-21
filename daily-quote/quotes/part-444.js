@@ -1,0 +1,1 @@
+var author444 = "Anita Bryant", quotes444 = ["If homosexuality was the normal way, God would have made Adam and Bruce.","Well, at least it was a fruit pie."]

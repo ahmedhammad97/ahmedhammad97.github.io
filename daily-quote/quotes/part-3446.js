@@ -1,0 +1,1 @@
+var author3446 = "Joe Clark", quotes3446 = ["We will not take this nation by storm or by stealth or by surprise. We will win it by work.","Mr. Speaker, as I was saying on November 27, 1979, before I was so rudely interrupted..."]

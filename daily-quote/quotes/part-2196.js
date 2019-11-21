@@ -1,0 +1,1 @@
+var author2196 = "Ferdinand Marcos", quotes2196 = ["I claim the right not to incriminate myself.","Of what good is democracy if it is not for the poor?","My spirit will rise from the grave and the world shall know that I was right."]

@@ -1,0 +1,1 @@
+var author579 = "Arnold M. Ludwig", quotes579 = ["There was no future and no past. The present was eternity.","Paranoia is naturally common among all kinds of rulers, especially tyrants and visionaries."]

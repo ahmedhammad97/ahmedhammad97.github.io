@@ -1,0 +1,1 @@
+var author5867 = "Rudolf Höss", quotes5867 = ["You become hard when you carry out such orders."]

@@ -1,0 +1,1 @@
+var author3024 = "Impatience", quotes3024 = ["Impatient straight to flesh his virgin sword.","I am on fireAnd yet not ours."]

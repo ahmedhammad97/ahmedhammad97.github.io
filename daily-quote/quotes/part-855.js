@@ -1,0 +1,1 @@
+var author855 = "Black Elk", quotes855 = ["The power of a thing or an act is in the meaning and the understanding.","Flames were rising from the waters and in the flames a blue man lived.","All around the circle, feeding on the green, green grass were fat and happy horses..."]

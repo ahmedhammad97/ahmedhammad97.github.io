@@ -1,0 +1,1 @@
+var author5115 = "Pat Robertson", quotes5115 = ["What is this mac and cheese? Is that a black thing?","Pat Robertson doesn't worship the cross. He worships the fucking dollar sign."]

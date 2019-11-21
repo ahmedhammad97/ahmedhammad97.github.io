@@ -1,0 +1,1 @@
+var author7322 = "Zuo Zongtang", quotes7322 = ["We shall first confront them [the Russians] with arguments...and then settle it on the battlefields."]

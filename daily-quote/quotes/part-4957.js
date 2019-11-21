@@ -1,0 +1,1 @@
+var author4957 = "Nuclear power", quotes4957 = ["Our children will enjoy in their homes electrical energy too cheap to meter."]

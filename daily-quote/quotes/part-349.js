@@ -1,0 +1,1 @@
+var author349 = "Amanda Palmer", quotes349 = ["i am a herd of cats and a drunk shepherd with alzheimer’s all at once. i am the walrus.","Nothing is crueller than children who come from good homes.","A turn, a screw, a pull, a twist, the drug that makes you prettiest.","I'm not gonna live my life on one side of an ampersand."]

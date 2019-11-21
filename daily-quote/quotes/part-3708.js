@@ -1,0 +1,1 @@
+var author3708 = "Jonas Ridderstråle", quotes3708 = ["While few customer offerings have a life, all great products and services have a soul."]

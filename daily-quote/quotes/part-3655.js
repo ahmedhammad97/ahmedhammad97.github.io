@@ -1,0 +1,1 @@
+var author3655 = "John Skelton", quotes3655 = ["There is nothynge that more dyspleaseth God,Than from theyr children to spare the rod."]

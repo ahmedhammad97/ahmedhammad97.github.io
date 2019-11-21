@@ -1,0 +1,1 @@
+var author3121 = "Isaiah Berlin", quotes3121 = ["Philosophers are adults who persist in asking childish questions.","What is Life?"]

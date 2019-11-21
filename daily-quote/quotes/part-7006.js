@@ -1,0 +1,1 @@
+var author7006 = "Warren Weaver", quotes7006 = ["Science is not gadgetry."]

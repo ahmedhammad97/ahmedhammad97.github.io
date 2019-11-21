@@ -1,0 +1,1 @@
+var author5924 = "Saint Peter", quotes5924 = ["Though all men shall be offended because of thee, yet will I never be offended."]

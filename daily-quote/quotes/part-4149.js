@@ -1,0 +1,1 @@
+var author4149 = "Little Raven (Arapaho leader)", quotes4149 = ["I would like to shake hands with the white men, but I am afraid they do not want peace with us."]

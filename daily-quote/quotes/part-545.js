@@ -1,0 +1,1 @@
+var author545 = "Aramaic proverbs", quotes545 = ["If you steal from a thief, you also have a taste of it.","Learn good conduct at all times and in love of it you will grow ever stronger.","Let him who is honoured be meek."]

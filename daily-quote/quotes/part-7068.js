@@ -1,0 +1,1 @@
+var author7068 = "Willem-Alexander of the Netherlands", quotes7068 = ["[I want to be] a king who in the 21st century can unite, represent and encourage society."]

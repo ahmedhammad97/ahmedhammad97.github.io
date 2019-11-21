@@ -1,0 +1,1 @@
+var author2669 = "Guillermo del Toro", quotes2669 = ["The point of being over 40 is to fulfill the desires you've been harboring since you were 7. "]

@@ -1,0 +1,1 @@
+var author3577 = "John Howard", quotes3577 = ["The most important civil liberty... is to stay alive and to be free from violence and death...","Truth is absolute, truth is supreme, truth is never disposable in national political life.","A conservative is someone who does not think he is morally superior to his grandfather."]

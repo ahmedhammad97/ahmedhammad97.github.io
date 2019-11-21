@@ -1,0 +1,1 @@
+var author6936 = "Volcanoes", quotes6936 = ["[On the volcano.] And many a fire there burns beneath the ground. ","A volcano may be considered as a cannon of immense size. ","The real difficulty about vulcanism is not to see how it can start, but how it can stop. "]

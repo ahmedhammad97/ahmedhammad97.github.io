@@ -1,0 +1,1 @@
+var author3926 = "Khem Veasna", quotes3926 = ["Keynotes for the 1st ordinary congress (6 November 2011)","Keynotes for the 1st ordinary congress (6 November 2011)","Keynotes for the 1st ordinary congress (6 November 2011)"]

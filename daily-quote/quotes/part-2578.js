@@ -1,0 +1,1 @@
+var author2578 = "Gitoku", quotes2578 = ["Clear sky - / the way I came by once / I now go back by."]

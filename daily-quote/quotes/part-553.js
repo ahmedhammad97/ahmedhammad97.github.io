@@ -1,0 +1,1 @@
+var author553 = "Archimedes", quotes553 = ["The centre of gravity of a parallelogram is the point of intersection of its diagonals.","The centre of gravity of any cylinder is the point of bisection of the axis."]

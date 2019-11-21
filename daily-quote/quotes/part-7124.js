@@ -1,0 +1,1 @@
+var author7124 = "William H. Starbuck", quotes7124 = ["Labeling a firm as knowledge-intensive implies that knowledge has more importance than other inputs."]

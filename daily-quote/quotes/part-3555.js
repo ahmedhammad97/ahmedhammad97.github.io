@@ -1,0 +1,1 @@
+var author3555 = "John Gielgud", quotes3555 = ["I feel so sorry for those poor men sitting up there all day. They must be so cold."]

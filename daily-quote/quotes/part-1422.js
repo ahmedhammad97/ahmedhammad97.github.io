@@ -1,0 +1,1 @@
+var author1422 = "Coventry Patmore", quotes1422 = ["A woman is a foreign land.","Life is not life at all without delight.","To have noughtIs to have all things without care or thought!"]

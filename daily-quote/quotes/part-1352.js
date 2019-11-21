@@ -1,0 +1,1 @@
+var author1352 = "Computers", quotes1352 = ["Trust The Computer. The Computer is your friend.","Computers are good at following instructions, but not at reading your mind.","Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway.","The only legitimate use of a computer is to play games."]

@@ -1,0 +1,1 @@
+var author5787 = "Robert Service", quotes5787 = ["Mud is mankind in the moulding,Heaven's mystery unfolding","Now a promise made is a debt unpaid, and the trail has its own stern code."]

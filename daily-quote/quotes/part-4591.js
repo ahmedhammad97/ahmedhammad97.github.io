@@ -1,0 +1,1 @@
+var author4591 = "Michael J. Sandel", quotes4591 = ["But if political philosophy is unrealizable in one sense, it is unavoidable in another.","A public philosophy is an elusive thing, for it is constantly before our eyes."]

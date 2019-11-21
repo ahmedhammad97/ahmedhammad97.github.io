@@ -1,0 +1,1 @@
+var author4671 = "Miranda July", quotes4671 = ["It was a tiny sound but it woke me up because it was a human sound."]

@@ -1,0 +1,1 @@
+var author2241 = "Foreign aid", quotes2241 = ["Foreign aid goes from poor people in rich countries to rich people in poor countries."]

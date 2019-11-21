@@ -1,0 +1,1 @@
+var author495 = "Anthony Munday", quotes495 = ["Beauty sat bathing by a spring"]

@@ -1,0 +1,1 @@
+var author3210 = "James A. Champy", quotes3210 = ["Half a revolution is not better than none... It may, in fact, be worse.","Managers model the way by first changing themselves."]

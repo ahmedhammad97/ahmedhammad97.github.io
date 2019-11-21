@@ -1,0 +1,1 @@
+var author3510 = "John Cleese", quotes3510 = ["He who laughs most, learns best.","If you want creative workers, give them enough time to play.","If God did not intend for us to eat animals, then why did he make them out of meat?"]

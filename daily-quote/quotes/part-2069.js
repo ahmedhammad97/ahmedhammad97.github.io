@@ -1,0 +1,1 @@
+var author2069 = "Ernest Shackleton", quotes2069 = ["Optimism is true moral courage.","Better a live donkey than a dead lion."]

@@ -1,0 +1,1 @@
+var author4830 = "Nayla Moawad", quotes4830 = ["In countries like ours, women enter politics in mourning clothes."]

@@ -1,0 +1,1 @@
+var author2755 = "Harriet Harman", quotes2755 = ["Yes I did when I was at university 30 years ago, just for a short time.","I am a very big admirer of Hillary's and I am an admirer of Obama as well."]

@@ -1,0 +1,1 @@
+var author3085 = "Invisible hand", quotes3085 = ["The reason that the invisible hand often seems invisible is that it is often not there."]

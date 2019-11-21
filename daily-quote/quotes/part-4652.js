@@ -1,0 +1,1 @@
+var author4652 = "Mikhail Bulgakov", quotes4652 = ["'I do not know these good men,' replied the prisoner.","It's all over, so let's not burden the telegraph system.","Ryukhin showed himself no mercy-'I don't believe in anything I've ever written!'","The hope that she might regain her happiness made her fearless.","Manuscripts don't burn."]

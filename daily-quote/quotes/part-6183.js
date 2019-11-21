@@ -1,0 +1,1 @@
+var author6183 = "Software architecture", quotes6183 = ["By analogy to building architecture, we propose the following model of software architecture:"]

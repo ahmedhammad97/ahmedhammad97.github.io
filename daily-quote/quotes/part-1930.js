@@ -1,0 +1,1 @@
+var author1930 = "El Lissitsky", quotes1930 = ["Let us summarize these three points more concisely:"]

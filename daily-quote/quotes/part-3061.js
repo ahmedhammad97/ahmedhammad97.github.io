@@ -1,0 +1,1 @@
+var author3061 = "Injustice", quotes3061 = ["When one has been threatened with a great injustice, one accepts a smaller as a favour.","If you tremble with indignation at every injustice, then you are a comrade of mine.","Injustice anywhere is a threat to justice everywhere.","People, beware of injustice, for injustice shall be darkness on the Day of Judgment."]

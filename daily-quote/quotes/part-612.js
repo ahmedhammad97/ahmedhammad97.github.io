@@ -1,0 +1,1 @@
+var author612 = "Arthur Murphy", quotes612 = ["Wit is the most rascally, contemptible, beggarly thing on the face of the earth."]

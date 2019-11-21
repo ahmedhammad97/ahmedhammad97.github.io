@@ -1,0 +1,1 @@
+var author479 = "Anne of the Island", quotes479 = ["She found, however, that revenge hurts nobody quite so much as the one who tries to inflict it.","What a comfort one familiar face is in a howling wilderness of strangers!","Why did you kill Maurice Lennox? she asked reproachfully."]

@@ -1,0 +1,1 @@
+var author3871 = "Katharine Fullerton Gerould", quotes3871 = ["The aristocracy most widely developed in America is that of wealth."]

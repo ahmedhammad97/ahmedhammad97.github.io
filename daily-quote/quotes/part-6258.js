@@ -1,0 +1,1 @@
+var author6258 = "Stephen Crane", quotes6258 = ["Every sin is the result of a collaboration.","The red sun was pasted in the sky like a wafer.","He had fought like a pagan who defends his religion."]

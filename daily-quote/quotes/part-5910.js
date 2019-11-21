@@ -1,0 +1,1 @@
+var author5910 = "S.L.A. Marshall", quotes5910 = ["War must always start with imperfect instruments.","The first effect of fire is to dissolve all appearances of order.","The first duty of the officer is to challenge whatever seems illusory."]

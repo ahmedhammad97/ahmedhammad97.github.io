@@ -1,0 +1,1 @@
+var author3002 = "Ian Wilmut", quotes3002 = ["Any kind of manipulation with human embryos should be prohibited."]

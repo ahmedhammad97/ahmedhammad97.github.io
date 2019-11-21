@@ -1,0 +1,1 @@
+var author3464 = "Johann de Kalb", quotes3464 = ["Well, sir. Perhaps a few hours will show who are the brave."]

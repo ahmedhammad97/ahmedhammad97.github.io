@@ -1,0 +1,1 @@
+var author1224 = "Chris Stedman", quotes1224 = ["I couldn’t pray the gay away, no matter how hard I tried.","Chance is a funny thing and it is easily mistaken for portent."]

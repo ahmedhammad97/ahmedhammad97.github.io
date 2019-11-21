@@ -1,0 +1,1 @@
+var author2492 = "George Long (scholar)", quotes2492 = ["A man who attempts to debate when he cannot listen must make a wretched display of impotence."]

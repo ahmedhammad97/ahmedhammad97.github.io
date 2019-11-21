@@ -1,0 +1,1 @@
+var author5089 = "Parable", quotes5089 = ["Each parable makes one point per main character.","The final authority for evaluating a parable is the parable itself.","A parable is a form of communication, a dialogue between a narrator and listener"]

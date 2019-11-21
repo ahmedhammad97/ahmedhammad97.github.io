@@ -1,0 +1,1 @@
+var author6025 = "Sean Hannity", quotes6025 = ["Is it that you hate this president or that you hate America?","It doesn’t say anywhere in the Constitution this idea of the separation of church and state.","The U.S. is the greatest, best country God has ever given man on the face of the earth.","If I was in Congress, I would not vote to raise the debt ceiling."]

@@ -1,0 +1,1 @@
+var author27 = "A. J. Muste", quotes27 = ["There is no way to peace; peace is the way.","In a world built on violence, one must be a revolutionary before one can be a pacifist."]

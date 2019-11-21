@@ -1,0 +1,1 @@
+var author3831 = "K. Pattabhi Jois", quotes3831 = ["Ahhh. Samadhi.That's all. "]

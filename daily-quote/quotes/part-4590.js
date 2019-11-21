@@ -1,0 +1,1 @@
+var author4590 = "Michael Ignatieff", quotes4590 = ["I believe in Canadians. I believe in you. As I said at the beginning, we are a serious people."]

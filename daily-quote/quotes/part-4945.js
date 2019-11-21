@@ -1,0 +1,1 @@
+var author4945 = "Nostradamus", quotes4945 = ["Tomorrow, I shall no longer be here."]

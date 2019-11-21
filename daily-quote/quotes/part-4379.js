@@ -1,0 +1,1 @@
+var author4379 = "Marion Zimmer Bradley", quotes4379 = ["A trail without beginning has no end.","Our world is rotten, but I’ve no confidence that the new world will be better!","Only men laugh, only men dance, only men weep - Saying on Darkover, quoted by Lew Alton"]

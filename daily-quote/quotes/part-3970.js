@@ -1,0 +1,1 @@
+var author3970 = "Kyle Cease", quotes3970 = ["HAVE FUN DRINKING THE KOOL AID IN YOUR CULT."]

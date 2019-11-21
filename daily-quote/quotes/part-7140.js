@@ -1,0 +1,1 @@
+var author7140 = "William James Mayo", quotes7140 = ["A specialist is a man who knows more and more about less and less."]

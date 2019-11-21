@@ -1,0 +1,1 @@
+var author4403 = "Marketing management", quotes4403 = ["Authentic marke"]

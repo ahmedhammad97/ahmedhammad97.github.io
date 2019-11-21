@@ -1,0 +1,1 @@
+var author6653 = "Thomas Overbury", quotes6653 = ["He disdains all things above his reach, and preferreth all countries above his own."]

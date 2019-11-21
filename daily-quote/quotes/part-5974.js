@@ -1,0 +1,1 @@
+var author5974 = "Santa Claus", quotes5974 = ["They err who think Santa Claus enters through the chimney. He enters through the heart."]

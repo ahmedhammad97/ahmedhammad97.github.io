@@ -1,0 +1,1 @@
+var author5239 = "Peter Jackson", quotes5239 = ["Fantasy is an 'F' word that hopefully the five second delay won't do anything with","Kong bites his head off in a PG13 kinda way","Remember, pain is temporary; film is forever.","I regard myself as an entertainer much more than an artist."]

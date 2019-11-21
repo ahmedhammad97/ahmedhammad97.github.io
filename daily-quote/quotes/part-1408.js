@@ -1,0 +1,1 @@
+var author1408 = "Cornelius Vanderbilt", quotes1408 = ["Let them do what I have done."]

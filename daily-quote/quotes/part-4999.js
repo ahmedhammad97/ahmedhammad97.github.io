@@ -1,0 +1,1 @@
+var author4999 = "Olympic Games", quotes4999 = ["A better world could be brought about only by better individuals.","Winning medals wasn’t the point of the Olympics. It’s the participating that counts.","The Olympics have become a proving ground for scientists, chemists and unethical doctors.","The Olympic Movement today is perhaps the greatest social force in the world."]

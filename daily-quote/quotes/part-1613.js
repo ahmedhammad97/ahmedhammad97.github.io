@@ -1,0 +1,1 @@
+var author1613 = "Decorum", quotes1613 = ["Writing an upbeat aphorism is a temptation, but decorum forbids. "]

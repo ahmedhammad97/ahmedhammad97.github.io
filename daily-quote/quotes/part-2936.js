@@ -1,0 +1,1 @@
+var author2936 = "Homeopathy", quotes2936 = ["HOMOEOPATHIST, n. The humorist of the medical profession."]

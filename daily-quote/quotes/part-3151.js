@@ -1,0 +1,1 @@
+var author3151 = "J. Edgar Hoover", quotes3151 = ["[Whoever did this] must be exterminated, and they must be exterminated by us.","We are a fact-gathering organization only. We don’t clear anybody. We don’t condemn anybody."]

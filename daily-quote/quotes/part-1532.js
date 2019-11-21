@@ -1,0 +1,1 @@
+var author1532 = "Dave Ulrich", quotes1532 = ["HR professionals help turn aspirations into actions by focusing on three things: ","Competencies can be communicated — and therefore can be taught and learned.","The best learners are also teachers."]

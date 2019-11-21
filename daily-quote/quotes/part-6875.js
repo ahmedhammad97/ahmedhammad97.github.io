@@ -1,0 +1,1 @@
+var author6875 = "Vasily Chuikov", quotes6875 = ["Every German soldier must be made to feel that he is living under the muzzle of a Russian gun.","I would not have believed such an inferno could open up on earth. Men died but they did not retreat."]

@@ -1,0 +1,1 @@
+var author4969 = "Oblivion", quotes4969 = ["Only the dead could afford oblivion.","Oblivion is not to be hired.","And o'er the past oblivion stretch her wing.","He shall return no more to his house, neither shall his place know him any more.","What's past and what's to come is strew'd with husksAnd formless ruin of oblivion."]

@@ -1,0 +1,1 @@
+var author4928 = "Norman Cota", quotes4928 = ["Rangers! Lead the way!"]

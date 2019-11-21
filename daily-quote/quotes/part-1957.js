@@ -1,0 +1,1 @@
+var author1957 = "Elizabeth Bowen", quotes1957 = ["Fate is not an eagle, it creeps like a rat."]

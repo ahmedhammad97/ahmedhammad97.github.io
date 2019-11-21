@@ -1,0 +1,1 @@
+var author5498 = "Rachel Weisz", quotes5498 = ["I was kind of a tomboy climbing trees so it never crossed my mind, no."]

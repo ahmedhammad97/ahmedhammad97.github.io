@@ -1,0 +1,1 @@
+var author7273 = "Yiddish", quotes7273 = ["Yiddish literature"]

@@ -1,0 +1,1 @@
+var author2860 = "Henry Stephens Salt", quotes2860 = ["Have the lower animals rights? Undoubtedly—if men have."]

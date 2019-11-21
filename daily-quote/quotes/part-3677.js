@@ -1,0 +1,1 @@
+var author3677 = "John Vorhaus", quotes3677 = ["[That] is the essence of poker: making tricky decisions based on incomplete information.","The universe... doesn't owe us anything but an education, and it gives us lessons every day.","To an asshole, the whole world looks dark.","Go off in all directions at once; you're bound to get somewhere somehow."]

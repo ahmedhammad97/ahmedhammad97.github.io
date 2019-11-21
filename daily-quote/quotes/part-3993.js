@@ -1,0 +1,1 @@
+var author3993 = "Land", quotes3993 = ["Generally speaking, no young tree is allowed to stand on copyhold land."]

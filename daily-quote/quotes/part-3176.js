@@ -1,0 +1,1 @@
+var author3176 = "Jack Nicklaus", quotes3176 = ["The older you get the stronger the wind gets—and it’s always in your face."]

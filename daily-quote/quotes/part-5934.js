@@ -1,0 +1,1 @@
+var author5934 = "Sam Keen", quotes5934 = ["It is the vocation of each person to become unique.","The neurosis of normality is a case of repetition compulsion caused by the repression of awareness.","Meditation, like masturbation, has until recently been considered a form of self-abuse.","One of the commonest perversions of love is to limit it to the private sphere."]

@@ -1,0 +1,1 @@
+var author6213 = "Specialization", quotes6213 = ["Specialization develops only part of a man; a man partially developed is deformed."]

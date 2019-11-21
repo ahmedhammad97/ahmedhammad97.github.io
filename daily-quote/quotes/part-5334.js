@@ -1,0 +1,1 @@
+var author5334 = "Pindar", quotes5334 = ["Time is the best preserver of righteous men.","Law, the king of all mortals and immortals."]

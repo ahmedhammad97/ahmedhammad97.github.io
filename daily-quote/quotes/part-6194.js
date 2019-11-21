@@ -1,0 +1,1 @@
+var author6194 = "Sonia Sotomayor", quotes6194 = ["Until we get equality in education, we won’t have an equal society."]

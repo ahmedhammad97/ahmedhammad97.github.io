@@ -1,0 +1,1 @@
+var author4846 = "Neil Postman", quotes4846 = ["A definition is the start of an argument, not the end of one.","As technical people, we are apt to be preoccupied with scores, not competence...","The effects of technology are always unpredictable. But they are not always inevitable."]

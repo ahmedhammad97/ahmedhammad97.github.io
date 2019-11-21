@@ -1,0 +1,1 @@
+var author6428 = "Tao Yuanming", quotes6428 = ["I would gladly wander in Paradise,But it is far away and there is no road.","God can only set in motion:He cannot control the things he has made.","Longingly—I think of my friends,But neither boat nor carriage comes."]

@@ -1,0 +1,1 @@
+var author3274 = "James Otis Jr.", quotes3274 = ["If we are not represented, we are slaves.","An act against the Constitution is void; an act against natural equity is void.","Taxes are not to be laid on the people but by their consent in person or by deputation."]

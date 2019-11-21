@@ -1,0 +1,1 @@
+var author204 = "Alan Sugar", quotes204 = ["If there was a market in mass-produced portable nuclear weapons, we'd market them, too.","If you take care of your character, your reputation will take care of itself."]

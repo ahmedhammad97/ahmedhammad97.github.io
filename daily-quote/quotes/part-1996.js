@@ -1,0 +1,1 @@
+var author1996 = "Emma Goldman", quotes1996 = ["When we can't dream any longer we die.","No sacrifice is lost for a great ideal! (p. 135)","There is no hope even that woman, with her right to vote, will ever purify politics."]

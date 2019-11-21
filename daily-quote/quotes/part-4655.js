@@ -1,0 +1,1 @@
+var author4655 = "Mikhail Sholokhov", quotes4655 = ["&lsquo;The Don! The Don! The gentle Don! Our father; giver of our food! Hurrah!&rsquo;"]

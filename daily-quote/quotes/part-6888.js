@@ -1,0 +1,1 @@
+var author6888 = "Vermont", quotes6888 = ["Freedom and Unity","The gods of the valley are not the gods of the hills, and you shall understand it.","Vermont is a small state which makes an enormous difference."]

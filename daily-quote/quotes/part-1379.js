@@ -1,0 +1,1 @@
+var author1379 = "Constant Lambert", quotes1379 = ["The Appalling Popularity of Music."]

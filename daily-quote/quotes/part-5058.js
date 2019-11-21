@@ -1,0 +1,1 @@
+var author5058 = "Owen Feltham", quotes5058 = ["Negligence is the rust of the soul that corrodes through all her best resolves."]

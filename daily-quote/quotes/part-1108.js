@@ -1,0 +1,1 @@
+var author1108 = "Cesare Lombroso", quotes1108 = ["Genius is one of the many forms of insanity.","The ignorant man always adores what he cannot understand."]

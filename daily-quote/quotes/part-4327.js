@@ -1,0 +1,1 @@
+var author4327 = "Marc Rich", quotes4327 = ["As a trader you often walk on the blade. Be careful and don't step off."]

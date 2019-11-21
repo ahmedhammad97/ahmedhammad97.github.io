@@ -1,0 +1,1 @@
+var author3659 = "John Stuart Blackie", quotes3659 = ["Order is the law of all intelligible existence.","Converse with men makes sharp the glittering wit,But God to man doth speak in solitude."]

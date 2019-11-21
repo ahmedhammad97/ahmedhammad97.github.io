@@ -1,0 +1,1 @@
+var author1963 = "Elizabeth Kostova", quotes1963 = ["Dracula is a metaphor for the evil that is so hard to undo in history."]

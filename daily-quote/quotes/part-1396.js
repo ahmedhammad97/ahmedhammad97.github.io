@@ -1,0 +1,1 @@
+var author1396 = "Copenhagen interpretation", quotes1396 = ["It works, is useful to understand our experiments, and makes no unnecessary assumptions."]

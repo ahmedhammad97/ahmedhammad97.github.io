@@ -1,0 +1,1 @@
+var author7280 = "Yoko Ono", quotes7280 = ["A dream you dream alone is only a dream. A dream you dream together is reality.","If your judgement is clouded, you must be carrying too many things which are being a burden to you.","The opposite of love is fear, not hate."]

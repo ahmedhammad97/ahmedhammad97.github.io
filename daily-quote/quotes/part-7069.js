@@ -1,0 +1,1 @@
+var author7069 = "William A. Dembski", quotes7069 = ["Design theorists are no friends of theistic evolution.","The world is a mirror representing the divine life..."]

@@ -1,0 +1,1 @@
+var author202 = "Alan Shepard", quotes202 = ["The fact that every part of this ship was built by the low bidder."]

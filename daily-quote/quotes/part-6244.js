@@ -1,0 +1,1 @@
+var author6244 = "Startup company", quotes6244 = ["The last 10% it takes to launch something takes as much energy as the first 90%. ","Business models and value propositions expire like a yogurt in the fridge."]

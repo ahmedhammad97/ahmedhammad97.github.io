@@ -1,0 +1,1 @@
+var author5235 = "Peter F. Hamilton", quotes5235 = ["You cannot impose ideologies on people who do not embrace it wholeheartedly.","The whole concept of salvation through belief offers strength to those who doubt themselves.","But to have dreamed the dream is to have flown above the mountains so high in all but deed.","Mockery; the righteousness of fools everywhere."]

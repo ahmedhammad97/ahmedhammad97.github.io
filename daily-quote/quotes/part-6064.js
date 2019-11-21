@@ -1,0 +1,1 @@
+var author6064 = "Sergei Rachmaninoff", quotes6064 = ["My dear hands. Farewell, my poor hands."]

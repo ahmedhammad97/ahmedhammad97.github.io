@@ -1,0 +1,1 @@
+var author1519 = "Darby Conley", quotes1519 = ["You can wordify anything, if you just verb it.","You got anything to say to your filthy monkey gods before I food you?"]

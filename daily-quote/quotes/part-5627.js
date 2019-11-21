@@ -1,0 +1,1 @@
+var author5627 = "Richard Branson", quotes5627 = ["One thing is certain in business. You and everyone around you will make mistakes.","Making money never was my incentive. I just want to fight big companies.","If you want to be a Millionaire, start with a billion dollars and launch a new airline."]

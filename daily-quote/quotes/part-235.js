@@ -1,0 +1,1 @@
+var author235 = "Alcuin", quotes235 = ["What makes bitter things sweet? Hunger."]

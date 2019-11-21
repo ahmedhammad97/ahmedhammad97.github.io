@@ -1,0 +1,1 @@
+var author3185 = "Jackson Browne", quotes3185 = ["I'm Glad that the Bush years are behind us","Take it easy, take it easy Drive you crazy.","Make it on your own if you think you can.If you see somewhere to go, I understand. ","Into a dancer you have grown from the seeds somebody else has sown","I don't know where I'm running now, I'm just running on"]

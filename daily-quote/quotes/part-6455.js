@@ -1,0 +1,1 @@
+var author6455 = "Teleology", quotes6455 = ["Our culture is teleological—it presumes purposive development and a conclusion.","Evolution disposes of teleology."]

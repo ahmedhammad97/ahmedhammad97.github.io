@@ -1,0 +1,1 @@
+var author1432 = "Creed", quotes1432 = ["I have a very simple creed: that life and joy and beauty are better than dusty death."]

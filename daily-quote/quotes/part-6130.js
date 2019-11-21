@@ -1,0 +1,1 @@
+var author6130 = "Simon Kuznets", quotes6130 = ["The welfare of a nation can scarcely be inferred from a measurement of national income. "]

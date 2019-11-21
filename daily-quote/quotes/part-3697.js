@@ -1,0 +1,1 @@
+var author3697 = "Johnnie Cochran", quotes3697 = ["I work not only for the O.J.s, but also the No Js."]

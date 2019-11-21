@@ -1,0 +1,1 @@
+var author1549 = "David Easton", quotes1549 = ["Political science is the study of the authoritative allocation of values for a society."]

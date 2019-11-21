@@ -1,0 +1,1 @@
+var author5878 = "Rukmini Devi Arundale", quotes5878 = ["We dance with our bodies, but we finally forget them and transform them."]

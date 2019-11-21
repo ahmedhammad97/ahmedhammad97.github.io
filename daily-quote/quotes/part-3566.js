@@ -1,0 +1,1 @@
+var author3566 = "John Hart (author)", quotes3566 = ["Denial was a weapon; it killed truth, numbed the mind, and I was a junkie."]

@@ -1,0 +1,1 @@
+var author1358 = "Confederate States of America", quotes1358 = ["The South has conquered nothing — but a graveyard."]

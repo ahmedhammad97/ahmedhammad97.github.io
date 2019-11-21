@@ -1,0 +1,1 @@
+var author3903 = "Kenneth Clark", quotes3903 = ["Leonardo is the Hamlet of art history whom each of us must recreate for himself.","Heroes do not easily tolerate the company of other heroes.","The great artist takes what he needs."]

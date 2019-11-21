@@ -1,0 +1,1 @@
+var author1890 = "Edward Macnaghten, Baron Macnaghten", quotes1890 = ["To protect those who are not able to protect themselves is a duty which every one owes to society.","You may not sell the cow and sup the milk.","It is a public scandal when the law is forced to uphold a dishonest act."]

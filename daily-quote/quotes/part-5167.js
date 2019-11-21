@@ -1,0 +1,1 @@
+var author5167 = "Paul Scofield", quotes5167 = ["Oh, I suppose my wife and I will open a bottle of champagne with another couple.","As you get older, the more you know, so the more nervous you become. The risks are much bigger.","Privacy is not negotiable."]

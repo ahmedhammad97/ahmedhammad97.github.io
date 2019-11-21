@@ -1,0 +1,1 @@
+var author6091 = "Sheffield", quotes6091 = ["What a beautiful place Sheffield would be, if Sheffield were not there!","There is no more public spirit in Sheffield than there is in the smallest village of Yorkshire."]

@@ -1,0 +1,1 @@
+var author5096 = "Paranormal", quotes5096 = ["My mind to your mind... my thoughts to your thoughts...","How many people here have telekinetic powers? Raise my hand."]

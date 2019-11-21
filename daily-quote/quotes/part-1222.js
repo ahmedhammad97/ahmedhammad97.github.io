@@ -1,0 +1,1 @@
+var author1222 = "Chris Pontius", quotes1222 = ["Todays debate: Is it wrong to be strong? You be the judge.","Water based lube: Friend or Foe?"]

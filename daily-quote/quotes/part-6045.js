@@ -1,0 +1,1 @@
+var author6045 = "Self-righteousness", quotes6045 = ["Regret not that which is past; and trust not to thine own righteousness."]

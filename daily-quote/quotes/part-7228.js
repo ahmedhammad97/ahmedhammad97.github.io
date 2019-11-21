@@ -1,0 +1,1 @@
+var author7228 = "Wolcott Gibbs", quotes7228 = ["They are detached from the language and inflated like little balloons."]

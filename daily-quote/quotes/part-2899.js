@@ -1,0 +1,1 @@
+var author2899 = "Hester Thrale", quotes2899 = ["Women bear Crosses better than Men do, but bear Surprizes – worse."]

@@ -1,0 +1,1 @@
+var author335 = "Alistair Cooke", quotes335 = ["He was at his best only when the going was good."]

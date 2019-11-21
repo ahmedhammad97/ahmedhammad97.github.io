@@ -1,0 +1,1 @@
+var author5136 = "Paul Bourget", quotes5136 = ["The forests have taught man liberty.","There is only one thing infamous in love, and that is a falsehood.","There are conditions of blindness so voluntary that they become complicity."]

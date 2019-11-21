@@ -1,0 +1,1 @@
+var author6678 = "Thoughtlessness", quotes6678 = ["Ah, how unjust to Nature and himselfIs thoughtless, thankless, inconsistent man!"]

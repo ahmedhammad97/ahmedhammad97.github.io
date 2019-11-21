@@ -1,0 +1,1 @@
+var author2781 = "Hayao Miyazaki", quotes2781 = ["Children understand intuitively that the world they have been born into is not a blessed world.","Actually I think CGI has the potential to equal or even surpass what the human hand can do."]

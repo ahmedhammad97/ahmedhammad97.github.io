@@ -1,0 +1,1 @@
+var author7186 = "William Sloane Coffin", quotes7186 = ["I love the recklessness of faith. First you leap and then you grow wings."]

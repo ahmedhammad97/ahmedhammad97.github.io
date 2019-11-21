@@ -1,0 +1,1 @@
+var author4779 = "Mustafa Kemal Atatürk", quotes4779 = ["If you don't have ammunition, you have bayonets! FIX BAYONETS! GET DOWN!","Everything we see in the world is the creative work of women.","We did not win the war with prayers, but with the blood of our soldiers."]

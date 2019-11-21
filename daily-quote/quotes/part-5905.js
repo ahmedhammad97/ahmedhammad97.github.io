@@ -1,0 +1,1 @@
+var author5905 = "Ryōkan", quotes5905 = ["The thief left it behind: at my window.","The winds gives me To make a fire","This world Unreal"]

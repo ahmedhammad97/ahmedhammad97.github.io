@@ -1,0 +1,1 @@
+var author5576 = "Religion of Peace", quotes5576 = ["Islam was never a religion of fighting. Islam is the religion of peace.","Islam is not a religion of peace; it never has been and never will be."]

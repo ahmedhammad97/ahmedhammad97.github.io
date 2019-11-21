@@ -1,0 +1,1 @@
+var author4954 = "November 2015 Paris attacks", quotes4954 = ["Peace for Paris"]

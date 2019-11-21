@@ -1,0 +1,1 @@
+var author3911 = "Kenzaburō Ōe", quotes3911 = ["The dead can survive as part of the lives of those that still live.","I don’t think young people need to see the face of the deceased. ","To be upright and to have an imagination: that is enough to be a very good young man.","The writer’s job is the job of a clown …the clown who also talks about sorrow."]

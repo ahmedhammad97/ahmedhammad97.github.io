@@ -1,0 +1,1 @@
+var author1506 = "Daniel Jonah Goldhagen", quotes1506 = ["We are all Danes now. We are all Jews now. We are all Pope Benedict."]

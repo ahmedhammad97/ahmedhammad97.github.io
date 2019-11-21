@@ -1,0 +1,1 @@
+var author5962 = "Samuli Paronen", quotes5962 = ["Name is a fence and within it you are nameless.","Real winners do not compete."]

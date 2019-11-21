@@ -1,0 +1,1 @@
+var author3611 = "John McClellan Holmes", quotes3611 = ["Christ's gospel could never have been delivered by one who was diseased."]

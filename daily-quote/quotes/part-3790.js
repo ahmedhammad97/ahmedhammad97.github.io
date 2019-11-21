@@ -1,0 +1,1 @@
+var author3790 = "Judith Martin", quotes3790 = ["Civilized life begins with a boiled egg sitting upright in an egg cup.","Traditionally, a luncheon is a lunch that takes an eon."]

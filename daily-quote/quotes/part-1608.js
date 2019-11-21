@@ -1,0 +1,1 @@
+var author1608 = "Debtor", quotes1608 = ["I hold every man a debtor to his profession.","Forgive us out debts, as we forgive our debtors."]

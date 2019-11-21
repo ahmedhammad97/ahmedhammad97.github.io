@@ -1,0 +1,1 @@
+var author2986 = "Huston Smith", quotes2986 = ["The sheer immensity of the human self as envisioned by the world's religions is awesome.","Sex is the divine in its most available epiphany.","Confucius saw the human self as a node, not an entity.","We are a blend of dust and divinity."]

@@ -1,0 +1,1 @@
+var author4773 = "Murray Gell-Mann", quotes4773 = ["Just because things get a little dingy at the subatomic level doesn't mean all bets are off.","If I have seen further than others, it is because I am surrounded by dwarfs."]

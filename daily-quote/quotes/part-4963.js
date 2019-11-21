@@ -1,0 +1,1 @@
+var author4963 = "Nut (fruit)", quotes4963 = ["If ye like the nut, crack it.","He that would eat the kernel must crack the nut."]

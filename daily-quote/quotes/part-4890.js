@@ -1,0 +1,1 @@
+var author4890 = "Nick Turse", quotes4890 = ["In his heart, Simon Yakida knew he was digging his own grave."]

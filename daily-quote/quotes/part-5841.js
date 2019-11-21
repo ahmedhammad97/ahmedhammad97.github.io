@@ -1,0 +1,1 @@
+var author5841 = "Ronnie Drew", quotes5841 = ["A song is communicating with people. Entertainment is a different area."]

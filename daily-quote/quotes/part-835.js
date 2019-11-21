@@ -1,0 +1,1 @@
+var author835 = "Billie Holiday", quotes835 = ["No two people on earth are alike, and it's got to be that way in music or it isn't music.","Somebody once said we never know what is enough until we know what's more than enough.","I've been told that nobody sings the word hunger like I do. Or the word love.","I'm always making a comeback but nobody ever tells me where I've been."]

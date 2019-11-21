@@ -1,0 +1,1 @@
+var author2408 = "Gary Gilmore", quotes2408 = ["Death is the only inescapable unavoidable sure thing. We are sentenced to die the day we were born."]

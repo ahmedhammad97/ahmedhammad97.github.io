@@ -1,0 +1,1 @@
+var author3162 = "J. Paul Getty", quotes3162 = ["If you can count your money, you don’t have a billion dollars."]

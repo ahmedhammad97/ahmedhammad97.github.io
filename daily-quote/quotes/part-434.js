@@ -1,0 +1,1 @@
+var author434 = "Angela Merkel", quotes434 = ["We Are All in the Same Boat.","Our interests are very much aligned. Our attempts of cooperation are very much aligned."]

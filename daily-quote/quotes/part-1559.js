@@ -1,0 +1,1 @@
+var author1559 = "David Guterson", quotes1559 = ["Accident ruled every corner of the universe except the chambers of the human heart."]

@@ -1,0 +1,1 @@
+var author4857 = "Neuro-linguistic programming", quotes4857 = ["The study of the structure of subjective experience.","An attitude and a methodology that leaves behind a trail of techniques."]

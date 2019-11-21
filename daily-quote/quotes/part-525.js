@@ -1,0 +1,1 @@
+var author525 = "Anxiety", quotes525 = ["One cannot fight what one does not know.","If you want to conquer the anxiety of life, live in the moment, live in the breath."]

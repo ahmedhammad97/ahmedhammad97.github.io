@@ -1,0 +1,1 @@
+var author3287 = "James W. Dean", quotes3287 = ["Total quality is a matter of survival.","Building the house of quality requires six basic steps: "]

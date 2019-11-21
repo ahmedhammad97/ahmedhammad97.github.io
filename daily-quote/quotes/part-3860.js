@@ -1,0 +1,1 @@
+var author3860 = "Karl Polanyi", quotes3860 = ["The economic system is, in effect, a mere function of social organization."]

@@ -1,0 +1,1 @@
+var author6074 = "Shadow Puppets", quotes6074 = ["You fight dirty.I fight like a girl.","Am I the only one here who sees something of himself in the man who's lying in this box?"]

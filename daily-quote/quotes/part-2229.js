@@ -1,0 +1,1 @@
+var author2229 = "Florence King", quotes2229 = ["Writers who have nothing to say always strain for metaphors to say it in."]

@@ -1,0 +1,1 @@
+var author2749 = "Harold Pinter", quotes2749 = ["I tend to believe that cricket is the greatest thing that God ever created on earth.","I saw Len Hutton in his prime,Another time, another time."]

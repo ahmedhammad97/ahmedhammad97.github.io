@@ -1,0 +1,1 @@
+var author7242 = "Works of Love (Kierkegaard)", quotes7242 = ["The relationship between the individual and God, the God-relationship, is the conscience."]

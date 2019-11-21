@@ -1,0 +1,1 @@
+var author1642 = "Dennis Prager", quotes1642 = ["Of all the world's evils, child abuse may rank as the greatest.","The majority of Republicans are not conservative."]

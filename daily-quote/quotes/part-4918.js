@@ -1,0 +1,1 @@
+var author4918 = "Nnamdi Azikiwe", quotes4918 = ["Originality is the essence of true scholarship. Creativity is the soul of the true scholar. "]

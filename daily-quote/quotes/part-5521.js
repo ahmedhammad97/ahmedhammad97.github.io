@@ -1,0 +1,1 @@
+var author5521 = "Ralph Peters", quotes5521 = ["If there is a single power the West underestimates, it is the power of collective hatred.","We [Americans] choose not to understand the world on terms other than our own."]

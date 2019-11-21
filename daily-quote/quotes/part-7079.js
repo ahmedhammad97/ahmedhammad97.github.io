@@ -1,0 +1,1 @@
+var author7079 = "William Bradford (1590-1657)", quotes7079 = ["The loss of...honest and industrious men's lives cannot be valued at any price.","Cold comfort to fill their hungry stomach.","Behold, now, another providence of God. A ship comes into the harbor."]

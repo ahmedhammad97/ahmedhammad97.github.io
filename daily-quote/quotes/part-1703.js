@@ -1,0 +1,1 @@
+var author1703 = "Disenchantment", quotes1703 = ["“Well, Lord, is the soul the same as the body, is the soul one thing and the body another?”"]

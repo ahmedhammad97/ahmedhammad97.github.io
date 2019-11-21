@@ -1,0 +1,1 @@
+var author1109 = "Chaim Potok", quotes1109 = ["I don't understand why I wanted to kill you. ","It is never pleasant to be a buffer, Reuven. "]

@@ -1,0 +1,1 @@
+var author4530 = "Mediocrity", quotes4530 = ["We mistrust anything that too strongly challenges our ideal of mediocrity.","Only the mediocre are always at their best."]

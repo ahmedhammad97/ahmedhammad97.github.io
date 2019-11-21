@@ -1,0 +1,1 @@
+var author6140 = "Sinnathamby Rajaratnam", quotes6140 = ["One united people, regardless of race, language or religion."]

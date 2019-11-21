@@ -1,0 +1,1 @@
+var author2185 = "Federica Mogherini", quotes2185 = ["Many Italians suspect that this is our last chance for change."]

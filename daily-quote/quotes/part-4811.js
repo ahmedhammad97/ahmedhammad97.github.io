@@ -1,0 +1,1 @@
+var author4811 = "Nathan Hale", quotes4811 = ["I only regret that I have but one life to lose for my country."]

@@ -1,0 +1,1 @@
+var author1583 = "David Petraeus", quotes1583 = ["Political progress will only take place if sufficient security exists."]

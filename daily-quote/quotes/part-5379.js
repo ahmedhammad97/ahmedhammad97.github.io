@@ -1,0 +1,1 @@
+var author5379 = "Pope Sixtus V", quotes5379 = ["While I live, every criminal must die."]

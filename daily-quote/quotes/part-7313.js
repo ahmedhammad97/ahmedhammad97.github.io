@@ -1,0 +1,1 @@
+var author7313 = "Zia Haider Rahman", quotes7313 = ["Perhaps the elites run to a different beat of time."]

@@ -1,0 +1,1 @@
+var author5571 = "Reinhold Niebuhr", quotes5571 = ["The will-to-live becomes the will-to-power.","Human beings are endowed by nature with both selfish and unselfish impulses.","There is no level of moral achievement upon which man can have or actually has an easy conscience."]

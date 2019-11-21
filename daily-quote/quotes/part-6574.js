@@ -1,0 +1,1 @@
+var author6574 = "Theodore Levitt", quotes6574 = ["People don't want to buy a quarter-inch drill, they want a quarter-inch hole.","The historic fate of one growth industry after another has been its suicidal product provincialism."]

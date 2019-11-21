@@ -1,0 +1,1 @@
+var author6680 = "Threatening the President of the United States", quotes6680 = ["*United States v. Carrier (1982, CA2 NY) 672 F2d 300.","You can't keep me from killing George Bush; One day I will have my chance, just watch and see.","Are you serious!?!? omg. Am I in a lot of trouble?"]

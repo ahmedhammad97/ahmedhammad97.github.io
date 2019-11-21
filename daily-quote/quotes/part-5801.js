@@ -1,0 +1,1 @@
+var author5801 = "Roberto Durán", quotes5801 = ["There's only one legend. That's me.","I realized that my body can give me so much more.","Duran has always been the master of defense that is one of his trademarks."]

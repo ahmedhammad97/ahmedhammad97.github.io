@@ -1,0 +1,1 @@
+var author3541 = "John F. Sowa", quotes3541 = ["Taxonomy is a Greek word which means an arrangement based on any kind of law or principle."]

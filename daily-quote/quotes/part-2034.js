@@ -1,0 +1,1 @@
+var author2034 = "Epistle to the Romans", quotes2034 = ["What, then, is the superiority of the Jew, or what is the benefit of the circumcision?","Everyone who calls on the name of Jehovah will be saved.","So faith follows the thing heard. In turn the thing heard is through the word about Christ"]

@@ -1,0 +1,1 @@
+var author2566 = "Gilbert Ryle", quotes2566 = ["Myths often do a lot of theoretical good, while they are still new."]

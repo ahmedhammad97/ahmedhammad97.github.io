@@ -1,0 +1,1 @@
+var author2879 = "Herbert Stein", quotes2879 = ["If something cannot go on forever, it will stop."]

@@ -1,0 +1,1 @@
+var author3995 = "Landed property", quotes3995 = ["The term esquire has no relation whatever to landed property."]

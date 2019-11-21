@@ -1,0 +1,1 @@
+var author16 = "A History of European Thought in the Nineteenth Century", quotes16 = ["Take away thought, and monotony becomes the order."]

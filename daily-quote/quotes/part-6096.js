@@ -1,0 +1,1 @@
+var author6096 = "Shepherd", quotes6096 = ["The star that bids the shepherd fold,Now the top of heaven doth hold."]

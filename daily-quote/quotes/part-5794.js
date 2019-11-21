@@ -1,0 +1,1 @@
+var author5794 = "Robert Stewart, Viscount Castlereagh", quotes5794 = ["I feel no wrath against the people, I am only doing my duty."]

@@ -1,0 +1,1 @@
+var author6154 = "Skepticism", quotes6154 = ["Scepticism is the first step towards truth.","Through a vicious circle of pure reason skepsis itself becomes dogma.","Skepticism, like chastity, should not be relinquished too readily."]

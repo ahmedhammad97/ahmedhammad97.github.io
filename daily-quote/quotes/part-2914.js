@@ -1,0 +1,1 @@
+var author2914 = "Hirohito", quotes2914 = ["When I consider the dead and their families, I cannot repress my mental agony."]

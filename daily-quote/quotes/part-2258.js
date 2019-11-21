@@ -1,0 +1,1 @@
+var author2258 = "Frances Bannerman", quotes2258 = ["Night my banner, and my herald Fear."]

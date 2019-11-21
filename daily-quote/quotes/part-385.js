@@ -1,0 +1,1 @@
+var author385 = "Anatoly Karpov", quotes385 = ["If you want to become a World Champion you should avoid playing in Open tournaments."]

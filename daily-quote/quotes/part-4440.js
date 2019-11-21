@@ -1,0 +1,1 @@
+var author4440 = "Martti Ahtisaari", quotes4440 = ["It's very important to be able to act properly. You need financing, and you never have enough."]

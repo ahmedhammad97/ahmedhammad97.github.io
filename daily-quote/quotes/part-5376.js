@@ -1,0 +1,1 @@
+var author5376 = "Pope Leo X", quotes5376 = ["Since God has given us the papacy, let us enjoy it.","Made thirty, we should make thirty-one"]

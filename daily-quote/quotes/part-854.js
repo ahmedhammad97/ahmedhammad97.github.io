@@ -1,0 +1,1 @@
+var author854 = "Black", quotes854 = ["I saw a mighty Devil folded in black clouds [...]"]

@@ -1,0 +1,1 @@
+var author6334 = "Subramanian Swamy", quotes6334 = ["The US wants only 51 per cent adherence as against 100 per cent adherence demanded by Russia.","Fanatic Muslims consider Hindu-dominated India an unfinished chapter of Islamic conquests."]

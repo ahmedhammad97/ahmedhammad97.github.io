@@ -1,0 +1,1 @@
+var author1104 = "Ceremony", quotes1104 = ["“The multitude of your sacrifices—"]

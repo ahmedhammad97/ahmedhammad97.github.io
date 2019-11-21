@@ -1,0 +1,1 @@
+var author6695 = "Tim Allen", quotes6695 = ["Men are pigs. Too bad we own everything."]

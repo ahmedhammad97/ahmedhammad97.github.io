@@ -1,0 +1,1 @@
+var author3066 = "Insect", quotes3066 = ["It’s phenomenal that any insect transforms. They all do. That’s part of being an insect.","To a first approximation, all multicellular species on earth are insects."]

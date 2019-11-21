@@ -1,0 +1,1 @@
+var author2925 = "Hoagy Carmichael", quotes2925 = ["You sittin' here chained to your rockin' chair."]

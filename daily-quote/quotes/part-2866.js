@@ -1,0 +1,1 @@
+var author2866 = "Henry Wilson", quotes2866 = ["The natural equality of all men I believe in, as far as rights are concerned. ","I believe in the equality of rights of all mankind.","The idea which pervades our Constitution; that all men of every race are equal before the laws."]

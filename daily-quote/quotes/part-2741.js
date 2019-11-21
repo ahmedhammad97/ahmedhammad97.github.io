@@ -1,0 +1,1 @@
+var author2741 = "Harlan Ellison", quotes2741 = ["Love Ain't Nothing But Sex Misspelled.","Heaven began to run at the edges.","You can't win, you can't break even, and you can't get out of the fucking game.","For a brief time, I was here; and, for a brief time, I mattered.","He had writer's block once. It was the worst ten minutes of his life."]

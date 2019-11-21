@@ -1,0 +1,1 @@
+var author6368 = "Susanne Langer", quotes6368 = ["Art is the objectification of feeling.","Music is the tonal analogue of emotive life.","If we would have new knowledge, we must get us a whole world of new questions. "]

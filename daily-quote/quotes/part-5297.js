@@ -1,0 +1,1 @@
+var author5297 = "Phillis Wheatley", quotes5297 = ["When first thy pencil did these beaties give And breathing figures learnt from thee to live","Creation smiles in various beauty gayWhile day to night, and night succeeds day"]

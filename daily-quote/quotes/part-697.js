@@ -1,0 +1,1 @@
+var author697 = "Ba Jin", quotes697 = ["I've lived on royalties all my life. It is the readers who have supported me.","Only by not forgetting the past can we be the master of the future.","I believe in the future a new Dante will write a new Divine Comedy."]

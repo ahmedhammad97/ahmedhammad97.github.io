@@ -1,0 +1,1 @@
+var author5359 = "Pol Pot", quotes5359 = ["Everything I did, I did for my country."]

@@ -1,0 +1,1 @@
+var author6652 = "Thomas Occleve", quotes6652 = ["For the more paart, youthe is rebel,Un-to reson & hatith her doctryne.","With bookës of his ornat endytyng,That is to al þis land enlumynyng.","Who was hiër in philosophieTo Aristotle, in our tonge, but thow?","The firste fyndere of our faire langage."]

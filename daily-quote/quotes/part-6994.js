@@ -1,0 +1,1 @@
+var author6994 = "Wanda Landowska", quotes6994 = ["I never practice, I always play.","You play Bach your way and I'll play him his way."]

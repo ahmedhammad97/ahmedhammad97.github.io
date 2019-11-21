@@ -1,0 +1,1 @@
+var author5319 = "Pierre Deligne", quotes5319 = ["The nice thing about mathematics is doing mathematics."]

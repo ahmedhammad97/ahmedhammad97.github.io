@@ -1,0 +1,1 @@
+var author5315 = "Piero Scaruffi", quotes5315 = ["Zappa was not a protester or an activist. He was merely a man who used his brain. ","Michael Brown was a thug.","Trump is not an idiot at all, but those who voted for him are."]

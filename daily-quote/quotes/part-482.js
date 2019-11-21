@@ -1,0 +1,1 @@
+var author482 = "Annie Dillard", quotes482 = ["How we spend our days is, of course, how we spend our lives."]

@@ -1,0 +1,1 @@
+var author6412 = "Taisen Deshimaru", quotes6412 = ["We feel our shell keeps us safe, but it crushes us and others, and keeps out light and sun. ","To receive everything, one must open one's hands and give.","If you are not happy here and now, you never will be.","Think with your whole body.","We should learn to think with our fingers."]

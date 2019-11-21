@@ -1,0 +1,1 @@
+var author4191 = "Louisa May Alcott", quotes4191 = ["Is it not meningitis?","Love is a great beautifier.","I'm not afraid of storms, for I'm learning how to sail my ship."]

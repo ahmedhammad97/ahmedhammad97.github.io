@@ -1,0 +1,1 @@
+var author7329 = "Émile Durkheim", quotes7329 = ["There is no sociology worthy of the name which does not possess a historical character.","Solidarity can grow only in inverse ratio to personality.","Methodological rules are for science what rules of law and custom are for conduct."]

@@ -1,0 +1,1 @@
+var author4330 = "Marcello Mastroianni", quotes4330 = ["When I was young, life seemed long and endless to me. "]

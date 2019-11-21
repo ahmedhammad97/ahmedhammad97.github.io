@@ -1,0 +1,1 @@
+var author5856 = "Roy Blount, Jr.", quotes5856 = ["In the beginning, Atlanta was without form, and void; and it still is.","That's American English for you: more roots than a mangrove swamp."]

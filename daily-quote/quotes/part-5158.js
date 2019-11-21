@@ -1,0 +1,1 @@
+var author5158 = "Paul Morphy", quotes5158 = ["It [chess] is not only the most delightful and scientific, but the most moral of amusements.","It [chess] is eminently and emphatically the philosopher's game."]

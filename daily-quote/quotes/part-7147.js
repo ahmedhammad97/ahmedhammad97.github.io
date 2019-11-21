@@ -1,0 +1,1 @@
+var author7147 = "William Lyon Phelps", quotes7147 = ["The expression as right as rain must have been invented by an Englishman."]

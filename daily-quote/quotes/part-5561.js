@@ -1,0 +1,1 @@
+var author5561 = "Reflection", quotes5561 = ["Education begins the gentleman, but reading, good company, and reflection must finish him.","The learn'd reflect on what before they knew.","Let the Tribune put all this in its pipe and smoke it.","A soul without reflection, like a pileWithout inhabitant, to ruin runs."]

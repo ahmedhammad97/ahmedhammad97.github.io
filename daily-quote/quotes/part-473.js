@@ -1,0 +1,1 @@
+var author473 = "Anne Robert Jacques Turgot", quotes473 = ["Every soil does not produce every material.","All money is essentially merchandize."]

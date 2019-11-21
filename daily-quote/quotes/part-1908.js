@@ -1,0 +1,1 @@
+var author1908 = "Edwin Arlington Robinson", quotes1908 = ["No matter what we are, and what we sing,Time finds a withered leaf in every laurel","Oh for a poet - for a beacon bright ","I shall have more to say when I am dead."]

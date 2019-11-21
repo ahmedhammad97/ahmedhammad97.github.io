@@ -1,0 +1,1 @@
+var author2049 = "Eric Voegelin", quotes2049 = ["The death of the spirit is the price of progress.","'The order of history is the history of order.'"]

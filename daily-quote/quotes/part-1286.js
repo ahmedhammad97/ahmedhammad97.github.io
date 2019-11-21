@@ -1,0 +1,1 @@
+var author1286 = "Claude Cohen-Tannoudji", quotes1286 = ["Science is the future of mankind."]

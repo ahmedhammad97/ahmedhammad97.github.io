@@ -1,0 +1,1 @@
+var author2240 = "Ford Madox Ford", quotes2240 = ["Only two classes of books are of universal appeal: the very best and the very worst.","This is the saddest story I have ever heard."]

@@ -1,0 +1,1 @@
+var author646 = "Astronomy", quotes646 = ["Space is big. Really big. You won't believe how hugely mindboggling big it really is.","The wonder is, not that the field of stars is so vast, but that man has measured it.","A strange weasel-built creature with a curly tail.","And teach me howThat burn by day and night."]

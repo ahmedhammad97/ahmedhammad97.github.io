@@ -1,0 +1,1 @@
+var author6077 = "Shahrukh Khan", quotes6077 = ["Don't be negative. It shows on your face.","I am like a Rolls Royce which can run without an engine, just on reputation.","I think if you take sexuality very seriously it becomes very oily.","Often I don't say hello to people for fear that they may not remember me.","You never win the silver. You only lose the gold."]

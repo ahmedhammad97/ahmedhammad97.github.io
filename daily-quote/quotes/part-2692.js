@@ -1,0 +1,1 @@
+var author2692 = "Gypsy Rose Lee", quotes2692 = ["I have everything I had twenty years ago, only it's all a little bit lower.","God is love, but get it in writing.","If a thing is worth doing, it is worth doing slowly … very slowly."]

@@ -1,0 +1,1 @@
+var author2500 = "George Mikes", quotes2500 = ["An Englishman, even if he is alone, forms an orderly queue of one.","Continental people have sex life; the English have hot-water bottles.","In England everything is the other way round.","On the Continent people have good food; in England, people have good table manners."]

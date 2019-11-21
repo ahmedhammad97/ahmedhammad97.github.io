@@ -1,0 +1,1 @@
+var author1097 = "Cecil Day Lewis", quotes1097 = ["Is it birthday weather for you, dear soul?Is it fine your way","It's hard to believe a spirit could dieOf such generous glow"]

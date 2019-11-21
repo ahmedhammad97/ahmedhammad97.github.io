@@ -1,0 +1,1 @@
+var author3028 = "Importance", quotes3028 = ["Whoever is careless with truth in small matters cannot be trusted in important affairs."]

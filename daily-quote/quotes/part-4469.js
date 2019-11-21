@@ -1,0 +1,1 @@
+var author4469 = "Mass production", quotes4469 = ["Any customer can have a car painted any colour that he wants so long as it is black."]

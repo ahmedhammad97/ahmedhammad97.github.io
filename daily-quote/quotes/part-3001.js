@@ -1,0 +1,1 @@
+var author3001 = "Ian McEwan", quotes3001 = ["I did not kill my father, but I sometimes felt I had helped him on his way.","This is how the entire course of a life can be changed - by doing nothing.","Nations are never virtuous, though they might sometimes think they are."]

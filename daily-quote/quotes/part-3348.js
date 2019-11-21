@@ -1,0 +1,1 @@
+var author3348 = "Jean-Claude Van Damme", quotes3348 = ["In a dojo... you will never become any good unless you believe in yourself."]

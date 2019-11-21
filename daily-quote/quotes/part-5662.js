@@ -1,0 +1,1 @@
+var author5662 = "Richard Perle", quotes5662 = ["Sometimes the things we have to do are objectionable in the eyes of others.","I’ve never thought much of Joe Nye’s writings on soft power.","About George W. Bush: He came ill-equipped for the job and has failed to master it."]

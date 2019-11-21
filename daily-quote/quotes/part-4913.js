@@ -1,0 +1,1 @@
+var author4913 = "Nile", quotes4913 = ["Whose tongueOutvenoms all the worms of Nile."]

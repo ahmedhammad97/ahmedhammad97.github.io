@@ -1,0 +1,1 @@
+var author1894 = "Edward Payson", quotes1894 = ["Not for ourselves, but for others, is the grand law inscribed on every part of creation.","I was never fit to say a word to a sinner, except when I had a broken heart myself."]

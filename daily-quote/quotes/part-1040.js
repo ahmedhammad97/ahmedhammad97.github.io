@@ -1,0 +1,1 @@
+var author1040 = "Car", quotes1040 = ["Ferraris are art, but they love being driven.","The best British cars are Italian."]

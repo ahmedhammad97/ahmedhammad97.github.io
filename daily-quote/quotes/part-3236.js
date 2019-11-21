@@ -1,0 +1,1 @@
+var author3236 = "James Fenton", quotes3236 = ["Poetry carries its history within it, and it is oral in its origins, its transmission was oral.","Poetry is not a metrical exercise.","Windbags can be right. Aphorists can be wrong. It is a tough world."]

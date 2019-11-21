@@ -1,0 +1,1 @@
+var author4615 = "Michael Servetus", quotes4615 = ["Poor people always lose in struggles.","Michael Servetus, alone, but trusting in Christ’s most sure protection."]

@@ -1,0 +1,1 @@
+var author3046 = "Industrialization", quotes3046 = ["The economic function of space industrialization is to generate jobs on Earth, not in space."]

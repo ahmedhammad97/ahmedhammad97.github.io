@@ -1,0 +1,1 @@
+var author5652 = "Richard Le Gallienne", quotes5652 = ["Art was a palace once, things great and fair, And strong and holy , found a temple there:"]

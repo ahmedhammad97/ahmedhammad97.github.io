@@ -1,0 +1,1 @@
+var author3324 = "Jay Wright Forrester", quotes3324 = ["Pestel was a very forceful person and quickly saw the power of system dynamics."]

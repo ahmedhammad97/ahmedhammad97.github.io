@@ -1,0 +1,1 @@
+var author2301 = "Franz Grillparzer", quotes2301 = ["I love the pride whose measure is its own eminence and not the insignificance of someone else."]

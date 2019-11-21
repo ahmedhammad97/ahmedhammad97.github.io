@@ -1,0 +1,1 @@
+var author816 = "Bigos", quotes816 = ["There's going to be hot bigos of lead and gunpowder.","Holy smokes, now I've cooked some bigos!"]

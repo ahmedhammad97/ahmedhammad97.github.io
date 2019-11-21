@@ -1,0 +1,1 @@
+var author3385 = "Jerome Frank", quotes3385 = ["To say I removes a false impression of a Jovian aloofness.","The test of the moral quality of a civilization is its treatment of the weak and powerless.","Only a very foolish lawyer will dare guess the outcome of a jury trial."]

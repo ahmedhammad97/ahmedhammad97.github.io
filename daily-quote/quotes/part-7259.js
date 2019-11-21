@@ -1,0 +1,1 @@
+var author7259 = "Xenophanes", quotes7259 = ["There is one god, greatest among gods and men, similar to mortals neither in shape nor in thought.","For all things are from the earth and to the earth all things come in the end."]

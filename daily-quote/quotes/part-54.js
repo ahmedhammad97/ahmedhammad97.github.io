@@ -1,0 +1,1 @@
+var author54 = "Abdourahman Waberi", quotes54 = ["Languages are not ownedand make them live."]

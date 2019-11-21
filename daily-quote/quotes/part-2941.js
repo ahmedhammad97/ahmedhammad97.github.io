@@ -1,0 +1,1 @@
+var author2941 = "Horace", quotes2941 = ["Dum licet, in rebus jucundis vive beatus;Vive memor quam sis aevi brevis.","Vitae summa brevis spem nos vetat inchoare longam.","Magnas inter opes inops.","Brave men were living before Agamemnon.","Nec verbum verbo curabis reddere fidusInterpres."]

@@ -1,0 +1,1 @@
+var author4605 = "Michael O'Donoghue", quotes4605 = ["The key to a successful restaurant is dressing girls in degrading clothes.","Nothing important has ever come out of San Francisco, Rice-A-Roni aside."]

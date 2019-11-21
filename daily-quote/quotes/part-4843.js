@@ -1,0 +1,1 @@
+var author4843 = "Neil Harbisson", quotes4843 = ["Beware not to use the future as an excuse to ignore living in the present.","If salads sounded like Justin Bieber, children would eat more vegetables.","Light is slow."]

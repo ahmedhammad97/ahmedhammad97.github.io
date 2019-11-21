@@ -1,0 +1,1 @@
+var author6784 = "Triviality", quotes6784 = ["Our triviality is proportionate to the seriousness with which we take ourselves."]

@@ -1,0 +1,1 @@
+var author5062 = "Oxygen", quotes5062 = ["You are (we hope!) consuming oxygen as you read."]

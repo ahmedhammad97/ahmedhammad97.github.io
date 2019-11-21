@@ -1,0 +1,1 @@
+var author2829 = "Henry Constable", quotes2829 = ["Diaphenia like the daffadowndilly","I do love thee as my lambsAre belovėd of their dams","As the birds do love the spring,Or the bees their careful king"]

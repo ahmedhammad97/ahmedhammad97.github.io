@@ -1,0 +1,1 @@
+var author1658 = "Detachment", quotes1658 = ["And with how free an eye doth he look down","I look down from my height on nationsAnd they become ashes before me.","Nothing is rarer than giving no importance to things that have none."]

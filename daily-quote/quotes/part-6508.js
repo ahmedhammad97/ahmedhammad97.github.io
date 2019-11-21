@@ -1,0 +1,1 @@
+var author6508 = "The General Theory of Employment, Interest and Money", quotes6508 = ["All production is for the purpose of ultimately satisfying a consumer.","Obstinacy can bring only a penalty and no reward.","We are, as I have said, one equation short.","Once doubt begins it spreads rapidly.","The idea behind stamped money is sound."]

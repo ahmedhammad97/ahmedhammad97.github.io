@@ -1,0 +1,1 @@
+var author1633 = "Deng Xiaoping", quotes1633 = ["It doesn't matter whether the cat is black or white, as long as it catches mice.","A basic contradiction between socialism and the market economy does not exist.","Let some people get rich first."]

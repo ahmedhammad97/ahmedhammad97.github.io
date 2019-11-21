@@ -1,0 +1,1 @@
+var author6709 = "Timothy Geithner", quotes6709 = ["This plan will work.","We believe in a strong dollar … Chinese financial assets are very safe."]

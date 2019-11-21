@@ -1,0 +1,1 @@
+var author3363 = "Jeff Foxworthy", quotes3363 = ["[what men are thinking] I'd like a beer and I'd like to see something naked.","(To his wife) You do not have testicular cancer. You don't even have testiculars!","[about rental car employees who ask if he wants the additional insurance]","[about his daughters and nieces having developed a natural curiosity about boys]"]

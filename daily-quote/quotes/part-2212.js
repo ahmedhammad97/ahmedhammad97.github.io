@@ -1,0 +1,1 @@
+var author2212 = "Finley Peter Dunne", quotes2212 = ["Thrust ivrybody—but cut th' ca-ards.","A fanatic is a man that does what he thinks th' Lord wud do if He knew th' facts iv th' case."]

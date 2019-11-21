@@ -1,0 +1,1 @@
+var author7107 = "William Falconer", quotes7107 = ["With living colours give my verse to glow:The sad memorial of a tale of woe!","Thou living ray of intellectual fire.","High in his chariot glow'd the lamp of day.","The sacred lamp of dayNow dipt in western clouds his parting ray."]

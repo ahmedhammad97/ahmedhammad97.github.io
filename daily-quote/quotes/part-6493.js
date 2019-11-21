@@ -1,0 +1,1 @@
+var author6493 = "The Bronx", quotes6493 = ["Ladies and Gentlemen, the Bronx Is Burning.","My name is Benny Blanco from the Bronx. - You know me?"]

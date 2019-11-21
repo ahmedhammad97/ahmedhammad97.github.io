@@ -1,0 +1,1 @@
+var author3295 = "Jan Tinbergen", quotes3295 = ["The factor of distance may also stand for an index of information about export markets."]

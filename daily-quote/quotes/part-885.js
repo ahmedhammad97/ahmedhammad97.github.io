@@ -1,0 +1,1 @@
+var author885 = "Bobby Jindal", quotes885 = ["I’m not worried about where Barack Obama is from. I’m worried about where he’s going.","Immigration without assimilation is an invasion."]

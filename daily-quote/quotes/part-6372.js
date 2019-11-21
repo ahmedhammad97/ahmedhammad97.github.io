@@ -1,0 +1,1 @@
+var author6372 = "Suzanne Curchod", quotes6372 = ["It is never permissible to say, I say.","Obstinacy is ever most positive when it is most in the wrong.","How immense to us appear the sins we have not committed.","Romance is the poetry of literature."]

@@ -1,0 +1,1 @@
+var author272 = "Alexander McQueen", quotes272 = ["I'm 40 now. When I'm dead, hopefully this house will still be going."]

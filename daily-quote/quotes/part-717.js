@@ -1,0 +1,1 @@
+var author717 = "Barnaby Rudge", quotes717 = ["Something will come of this. I hope it mayn’t be human gore!","Good night, captain! he cried. I am yours to the death, remember!","Oh gracious, why wasn't I born old and ugly!","‘Better be mad than sane, here,’ said Hugh. ‘GO mad.’","The men who learn endurance, are they who call the whole world brother."]

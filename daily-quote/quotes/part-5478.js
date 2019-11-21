@@ -1,0 +1,1 @@
+var author5478 = "Queen Rania of Jordan", quotes5478 = ["To achieve a lasting peace in the Middle East takes guts, not guns."]

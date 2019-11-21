@@ -1,0 +1,1 @@
+var author3639 = "John Ray", quotes3639 = ["In a calm sea every man is a pilot.","Money and friendship bribe justice.Beauty is potent, but money is omnipotent.","Prate us but prade; it's money buys landMoney begets money.","As full as a piper's bag; as a tick."]

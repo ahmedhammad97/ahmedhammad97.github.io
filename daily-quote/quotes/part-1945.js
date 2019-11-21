@@ -1,0 +1,1 @@
+var author1945 = "Eli Siegel", quotes1945 = ["Poetry...is the oneness of the permanent opposites in reality as seen by an individual. "]

@@ -1,0 +1,1 @@
+var author5308 = "Physics", quotes5308 = ["Our judge is not God or governments, but Nature.","All science is either physics or stamp collecting."]

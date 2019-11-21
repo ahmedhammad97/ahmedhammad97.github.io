@@ -1,0 +1,1 @@
+var author4584 = "Michael Frayn", quotes4584 = ["If a lion could speak, it would not understand itself.","It's not the despair, Laura, I can stand the despair. It's the hope."]

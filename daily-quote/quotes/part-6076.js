@@ -1,0 +1,1 @@
+var author6076 = "Shafi Muhammad Burfat", quotes6076 = ["Remember! If struggle is unchallenging, consequences would be."]

@@ -1,0 +1,1 @@
+var author2942 = "Horace Bushnell", quotes2942 = ["Christianity is not so much the advent of a better doctrine as of a perfect character.","Faith is the act of trust by which one being, a sinner, commits himself to another being, a Saviour.","As long as we abide in Christ, our action is from Him, not from our own corrupt and broken nature."]

@@ -1,0 +1,1 @@
+var author6335 = "Substance", quotes6335 = ["Substance is in its nature infinite, immutable, indivisible..."]

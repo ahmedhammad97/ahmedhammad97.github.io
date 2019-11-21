@@ -1,0 +1,1 @@
+var author7005 = "Warren S. McCulloch", quotes7005 = ["Don't bite my finger, look where I am pointing."]

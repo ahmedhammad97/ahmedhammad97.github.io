@@ -1,0 +1,1 @@
+var author5417 = "Principles", quotes5417 = ["Principle is ever my motto, no expediency.","I don't believe in princerple,But, oh, I du in interest.","Ez to my princerples, I gloryIn hevin' nothin' o' the sort."]

@@ -1,0 +1,1 @@
+var author4747 = "Mount Rushmore", quotes4747 = ["Every face on Mt. Rushmore was a third party candidate at some point or another."]

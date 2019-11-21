@@ -1,0 +1,1 @@
+var author4103 = "Lewis Black", quotes4103 = ["If it weren’t for my horse, I wouldn’t have spent that year in college.","How our government works... it doesn't. ","I'm only allowed to say 'fuck' twelve times.","I don't know if you realize, but I use the word Fuck, so that I can think of other stuff."]

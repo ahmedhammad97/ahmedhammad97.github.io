@@ -1,0 +1,1 @@
+var author5166 = "Paul Samuelson", quotes5166 = ["The stock market has forecast nine of the last five recessions.","I tell no secret when I repeat that fame and reputation are much a matter of luck and chance.","Economics never was a dismal science. It should be a realistic science."]

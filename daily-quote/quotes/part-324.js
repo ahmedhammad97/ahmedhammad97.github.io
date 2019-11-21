@@ -1,0 +1,1 @@
+var author324 = "Alice Cooper", quotes324 = ["The minute you step onstage, you get eight feet taller","He has a woman's name and wears makeup. How original.","How old are you? Sixteen? S-seventeen? [asks security guard] Is seventeen legal?"]

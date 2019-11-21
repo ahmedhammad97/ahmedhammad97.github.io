@@ -1,0 +1,1 @@
+var author388 = "Anbumani Ramadoss", quotes388 = ["India will be another Africa, if left to itself.","Section 377 of IPC, which criminalizes men who have sex with men, must go. "]

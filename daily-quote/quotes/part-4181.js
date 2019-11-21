@@ -1,0 +1,1 @@
+var author4181 = "Louis B. Mayer", quotes4181 = ["I will only make pictures that I won't be ashamed to have my children see.","You know how I'm smart? I got people around me who know more than I do.","The number one book of the ages was written by a committee, and it was called The Bible.","Don't make these pictures any better. Just keep them the way they are."]

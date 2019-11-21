@@ -1,0 +1,1 @@
+var author327 = "Alice Meynell", quotes327 = ["I came from nothing; but from whereCome these undying thoughts I bear?","Compassion in the highest degree is the divinest form of religion."]

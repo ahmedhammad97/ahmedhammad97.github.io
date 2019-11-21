@@ -1,0 +1,1 @@
+var author4486 = "Matthew Green", quotes4486 = ["Nor bigots who but one way see,Through blinkers of authority.","Avarice, sphincter of the heart."]

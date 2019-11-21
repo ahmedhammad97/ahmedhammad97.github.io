@@ -1,0 +1,1 @@
+var author5891 = "Russell Baker", quotes5891 = ["In America, it is sport that is the opiate of the masses.","In America nothing dies easier than tradition.","Watergate left Washington a city ravaged by honesty."]

@@ -1,0 +1,1 @@
+var author6248 = "Statius", quotes6248 = ["Non parcit populis regnum breve.","Primus in orbe deos fecit timor.","Nobis meminisse relictum.","Aut monstrare lyra veteres heroas alumno.","Jamdudum tacito lustrat Thetis omnia visu."]

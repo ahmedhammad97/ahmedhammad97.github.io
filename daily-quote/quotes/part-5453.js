@@ -1,0 +1,1 @@
+var author5453 = "Publishing", quotes5453 = ["Publish or perish.","Yon second-hand bookseller is second to none in the worth of the treasures which he dispenses."]

@@ -1,0 +1,1 @@
+var author1452 = "Cybernetics", quotes1452 = ["Cybernetics: or Control and Communication in the Animal and the Machine","[Cybernetics is] the art of ensuring the efficacy of action.","Cybernetics is the science of the process of transmission, processing and storage of information.","If cybernetics is the science of control, management is the profession of control"]

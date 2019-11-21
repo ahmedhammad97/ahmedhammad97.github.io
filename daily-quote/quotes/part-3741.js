@@ -1,0 +1,1 @@
+var author3741 = "Joseph Gordon-Levitt", quotes3741 = ["The most valiant thing you can do as an artist is inspire someone else to be creative.","Actually I've thanked you a lot of times so now I'm thanking you again.","The cinematographer came up to me and said, 'You have to hit your mark exactly,'"]

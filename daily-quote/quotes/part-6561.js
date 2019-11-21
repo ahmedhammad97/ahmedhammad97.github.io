@@ -1,0 +1,1 @@
+var author6561 = "Theda Bara", quotes6561 = ["I will continue doing vampires as long as people sin."]

@@ -1,0 +1,1 @@
+var author4972 = "Observation", quotes4972 = ["If a tree falls in a forest, and no-one is around to hear it, does it make a noise?","Facts have to be discovered by observation, not by reasoning","Most, if not all, of the great ideas of modern mathematics have had their origin in observation.","The gap between our feelings and our social observation is dangerously wide."]

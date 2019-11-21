@@ -1,0 +1,1 @@
+var author2094 = "Ethiopia", quotes2094 = ["Can the Ethiopian change his skin, or the leopard his spots? "]

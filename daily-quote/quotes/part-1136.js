@@ -1,0 +1,1 @@
+var author1136 = "Charles Fort", quotes1136 = ["The outrageous is the reasonable, if introduced politely.","The fate of all explanation is to close one door only to have another fly wide open."]

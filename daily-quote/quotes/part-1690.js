@@ -1,0 +1,1 @@
+var author1690 = "Disability", quotes1690 = ["Pamela Anderson has more prosthetics in her body than I do; nobody calls her disabled."]

@@ -1,0 +1,1 @@
+var author578 = "Arnold J. Toynbee", quotes578 = ["Civilization is a movement and not a condition, a voyage and not a harbor.","The supreme accomplishment is to blur the line between work and play.","… the dogma that History is just one damned thing after another....","There is no such thing as gratitude in international politics."]

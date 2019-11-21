@@ -1,0 +1,1 @@
+var author5125 = "Patrick McGoohan", quotes5125 = ["Mel [Gibson] will always be Mad Max, and me, I will always be a number.","I was going to be lynched. I had to go into hiding in the mountains for two weeks."]

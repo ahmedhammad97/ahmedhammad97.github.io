@@ -1,0 +1,1 @@
+var author1641 = "Dennis Potter", quotes1641 = ["My only regret is to die four pages too soon.","Philip Marlow: Minute by minute we make the world. We make our own world."]

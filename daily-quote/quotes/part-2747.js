@@ -1,0 +1,1 @@
+var author2747 = "Harold Macmillan", quotes2747 = ["Forever poised between a cliché and an indiscretion.","Indeed, let us be frank about it. Most of our people have never had it so good. ","Nonsense, there are no clubs around Victoria.","I'd like that translated, if I may.","It's a good thing to be laughed at. It's better than to be ignored."]

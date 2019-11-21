@@ -1,0 +1,1 @@
+var author5639 = "Richard Franck", quotes5639 = ["Art imitates Nature, and Necessity is the Mother of Invention."]

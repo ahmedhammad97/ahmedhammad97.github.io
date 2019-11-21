@@ -1,0 +1,1 @@
+var author6497 = "The Court Jester", quotes6497 = ["King Roderick: The Duke. What did the Duke do?","King Roderick: You spent some time in the Italian court?","Get it? Got it? Good."]

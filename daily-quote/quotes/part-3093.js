@@ -1,0 +1,1 @@
+var author3093 = "Iraqi legislative election, 2005", quotes3093 = ["The process as currently designed is little more than a 'bait and switch' ploy.","A step in the right direction ... a positive event."]

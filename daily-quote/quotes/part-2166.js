@@ -1,0 +1,1 @@
+var author2166 = "Fang Lizhi", quotes2166 = ["All of us have direct experience of the Supreme.","Marxism-Leninism is a worn-out dress that should be thrown away.","A rising economic power that violates human rights is a threat to peace."]

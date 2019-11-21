@@ -1,0 +1,1 @@
+var author3992 = "Lancelot Law Whyte", quotes3992 = ["Did ever the history of the intellect so little conceal so much?","We are sick today for lack of simple ideas which can help us be what we want to be."]

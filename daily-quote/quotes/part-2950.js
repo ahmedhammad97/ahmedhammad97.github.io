@@ -1,0 +1,1 @@
+var author2950 = "How to Lie with Statistics", quotes2950 = ["Who are those who chucked the questionnaire into the nearest wastebasket?","Nothing has been falsified—except the impression that it gives."]

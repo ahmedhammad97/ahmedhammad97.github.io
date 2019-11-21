@@ -1,0 +1,1 @@
+var author5529 = "Rammstein", quotes5529 = ["I fucked the keyboardist, the keyboard was too cold and lifeless.","We're all living in America / Coca-Cola, Wonderbra"]

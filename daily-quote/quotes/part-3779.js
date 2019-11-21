@@ -1,0 +1,1 @@
+var author3779 = "Juan Gris", quotes3779 = ["I try to make concrete that which is abstract."]

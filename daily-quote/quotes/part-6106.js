@@ -1,0 +1,1 @@
+var author6106 = "Shirley MacLaine", quotes6106 = ["The more I traveled the more I realized that fear makes strangers of people who should be friends."]

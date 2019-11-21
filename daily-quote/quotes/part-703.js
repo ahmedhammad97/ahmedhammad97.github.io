@@ -1,0 +1,1 @@
+var author703 = "Baldur von Schirach", quotes703 = ["The body expresses our very being. The striving for beauty is inborn among the Aryan.","We simply believed.","He who serves our Führer, Adolf Hitler, serves Germany, and he who serves Germany, serves God."]

@@ -1,0 +1,1 @@
+var author4535 = "Meher Baba", quotes4535 = ["If God can be found through the medium of any drug, God is not worthy of being God.","Don't worry, be happy.","9 : A Journey Without Journeying, p. 11.","The seeker asking, Where is God? Is really God saying, Where indeed is the seeker!","I am the Avatar of this Age!"]

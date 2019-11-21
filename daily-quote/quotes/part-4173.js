@@ -1,0 +1,1 @@
+var author4173 = "Lorin Maazel", quotes4173 = ["In fact the hardest part is trying to forget music when I'm not conducting it."]

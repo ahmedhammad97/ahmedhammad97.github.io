@@ -1,0 +1,1 @@
+var author79 = "Accountability", quotes79 = ["Think of three Things, whence you came, where you are going, and to whom you must account."]

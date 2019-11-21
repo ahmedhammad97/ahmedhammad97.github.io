@@ -1,0 +1,1 @@
+var author1259 = "Christopher Wren", quotes1259 = ["A time will come when men will stretch out their eyes. They should see planets like our Earth."]

@@ -1,0 +1,1 @@
+var author2477 = "George Grossmith", quotes2477 = ["I left the room with silent dignity, but caught my foot in the mat."]

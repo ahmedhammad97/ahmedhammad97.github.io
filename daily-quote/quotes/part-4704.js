@@ -1,0 +1,1 @@
+var author4704 = "Mohsen Rezaee", quotes4704 = ["The American empire is hovering between life and death."]

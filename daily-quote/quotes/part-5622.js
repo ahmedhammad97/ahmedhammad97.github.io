@@ -1,0 +1,1 @@
+var author5622 = "Richard Barnfield", quotes5622 = ["King Pandion, he is dead,All thy friends are lapped in lead."]

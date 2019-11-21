@@ -1,0 +1,1 @@
+var author5536 = "Rashi", quotes5536 = ["I come only to explain its simple meaning."]

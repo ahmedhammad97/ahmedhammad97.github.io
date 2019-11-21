@@ -1,0 +1,1 @@
+var author6295 = "Steven Gerrard", quotes6295 = ["Two European Cup finals in three years — not bad for a little club."]

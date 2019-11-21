@@ -1,0 +1,1 @@
+var author5472 = "Quantity", quotes5472 = ["The spirit, overcome by the weight of quantity, has no longer any other criterion than efficiency.","Quantity has a quality all its own."]

@@ -1,0 +1,1 @@
+var author3092 = "Iraq and weapons of mass destruction", quotes3092 = ["It is true that much of the intelligence turned out to be wrong."]

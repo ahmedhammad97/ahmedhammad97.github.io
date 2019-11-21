@@ -1,0 +1,1 @@
+var author1904 = "Edward Whittemore", quotes1904 = ["Why is it the Mongols of this world always tell us they're defending us against the Mongols?"]

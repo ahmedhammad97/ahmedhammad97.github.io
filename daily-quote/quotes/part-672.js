@@ -1,0 +1,1 @@
+var author672 = "Austen Chamberlain", quotes672 = ["Gentlemen do not behave in such a way."]

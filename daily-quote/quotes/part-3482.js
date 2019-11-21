@@ -1,0 +1,1 @@
+var author3482 = "John Basedow", quotes3482 = ["If you can dream it, you can do it. Never give up on your dreams.","Don't tell me what I should do until you show me what you can do.","Believe in yourself and you can accomplish anything."]

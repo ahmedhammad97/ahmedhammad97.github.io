@@ -1,0 +1,1 @@
+var author6854 = "V. S. Pritchett", quotes6854 = ["Life — how curious is that habit that makes us think it is not here, but elsewhere.","How extraordinary it is that one feels most guilt about the sins one is unable to commit.","There is more magic in sin if it is not committed."]

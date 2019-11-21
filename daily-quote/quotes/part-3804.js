@@ -1,0 +1,1 @@
+var author3804 = "Julian (emperor)", quotes3804 = ["By purple death I'm seized and fate supreme.","Can anyone be proved innocent, if it be enough to have accused him?","Zeal to do all that is in one's power is, in truth, a proof of piety.","No wild beasts are so dangerous to men as Christians are to one another."]

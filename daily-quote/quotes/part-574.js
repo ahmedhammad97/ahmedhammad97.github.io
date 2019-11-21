@@ -1,0 +1,1 @@
+var author574 = "Armenian genocide", quotes574 = ["Turkey initiated a policy of annihilation against the Armenians.","Who, after all, speaks today of the annihilation of the Armenians?","Kill every Armenian man, woman, and child without concern."]

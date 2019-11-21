@@ -1,0 +1,1 @@
+var author2450 = "George Bancroft", quotes2450 = ["The fears of one class of men are not the measure of the rights of another.","Avarice is the vice of declining years.","Ennui is the desire of activity without the fit means of gratifying the desire."]

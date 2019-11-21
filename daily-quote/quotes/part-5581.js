@@ -1,0 +1,1 @@
+var author5581 = "Remedy", quotes5581 = ["For extreme diseases, extreme methods of cure, as to restriction, are most suitable.","To do nothing is sometimes a good remedy.","The water of Zamzam is a cure for whatever (ailment) it is taken for. ","Diseases desperate grown Or not at all."]

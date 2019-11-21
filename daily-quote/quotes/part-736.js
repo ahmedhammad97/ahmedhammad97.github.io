@@ -1,0 +1,1 @@
+var author736 = "Battle of the Somme", quotes736 = ["Somme. The whole history of the world cannot contain a more ghastly word."]

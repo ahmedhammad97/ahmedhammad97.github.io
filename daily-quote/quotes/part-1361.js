@@ -1,0 +1,1 @@
+var author1361 = "Confidentiality", quotes1361 = ["Let those who are friendly to you be many,"]

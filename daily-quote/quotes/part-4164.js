@@ -1,0 +1,1 @@
+var author4164 = "Lolita", quotes4164 = ["Oh, my Lolita, I have only words to play with!","I am sufficiently proud of my knowing something to be modest about my not knowing all."]

@@ -1,0 +1,1 @@
+var author2367 = "Fritz Todt", quotes2367 = ["The purpose of the Reichsautobahnen is to become the roads of Adolf Hitler.","We do not build speedways, but roads which correspond to the character of the German landscape."]

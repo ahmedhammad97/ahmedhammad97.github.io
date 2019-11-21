@@ -1,0 +1,1 @@
+var author5931 = "Sam Brown", quotes5931 = ["Never offend people with style when you can offend them with substance."]

@@ -1,0 +1,1 @@
+var author1171 = "Charles V, Holy Roman Emperor", quotes1171 = ["I speak in Latin to God, Italian to Women, French to Men, and German to my Horse."]

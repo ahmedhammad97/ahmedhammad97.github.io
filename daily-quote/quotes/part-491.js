@@ -1,0 +1,1 @@
+var author491 = "Anthony Fitzherbert", quotes491 = ["Ryght so euery man is capitayne of his owne soule."]

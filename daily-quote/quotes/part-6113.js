@@ -1,0 +1,1 @@
+var author6113 = "Shunroku Hata", quotes6113 = ["As the rising sun melts thinly frozen ice, so the Japanese Army is overcoming Chinese troops.","I will take responsibility for all operations.","We should not miss the present opportunity or we shall be blamed by posterity."]

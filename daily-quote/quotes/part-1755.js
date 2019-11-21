@@ -1,0 +1,1 @@
+var author1755 = "Dorothy Thompson", quotes1755 = ["To have felt too much is to end in feeling nothing."]

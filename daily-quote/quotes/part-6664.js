@@ -1,0 +1,1 @@
+var author6664 = "Thomas Tusser", quotes6664 = ["At Christmas play and make good cheer, For Christmas comes but once a year."]

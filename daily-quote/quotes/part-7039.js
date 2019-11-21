@@ -1,0 +1,1 @@
+var author7039 = "White privilege", quotes7039 = ["White is a metaphor for power, and that is simply a way of describing Chase Manhattan Bank.","It's impossible for a white person to believe in capitalism and not believe in racism."]

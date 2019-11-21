@@ -1,0 +1,1 @@
+var author3906 = "Kenneth Williams", quotes3906 = ["Oh – what's the bloody point?"]

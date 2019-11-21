@@ -1,0 +1,1 @@
+var author6276 = "Stereotype", quotes6276 = ["Javier: Alright. We got an ex-Triad member, looking for work."]

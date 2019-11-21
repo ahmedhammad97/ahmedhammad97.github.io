@@ -1,0 +1,1 @@
+var author5445 = "Psychotherapy", quotes5445 = ["Things have to be done fast in America, and therefore therapy has to be brief.","For art to be art it has to cure. ","There are three things needed to eliminate human misery. Unfortunately, nobody knows what they are.","The human capacity for denial and rationalization is always shocking, but never surprising."]

@@ -1,0 +1,1 @@
+var author6856 = "Vacation", quotes6856 = ["Vacation is what you take when you can't take what you've been taking any longer.","VacationMeant to be spent alone."]

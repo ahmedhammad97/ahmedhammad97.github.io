@@ -1,0 +1,1 @@
+var author3186 = "Jackson Pollock", quotes3186 = ["I can control the flow of paint; there is no accident..","My concern is with the rhythms of nature.. .I work inside out, like nature."]

@@ -1,0 +1,1 @@
+var author2003 = "Empedocles", quotes2003 = ["The sea is the sweat of the earth.","What is right may well be said even twice."]

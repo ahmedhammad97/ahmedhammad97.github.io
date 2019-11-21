@@ -1,0 +1,1 @@
+var author6674 = "Thor", quotes6674 = ["Thor was the God of Thunder and, frankly, acted like it."]

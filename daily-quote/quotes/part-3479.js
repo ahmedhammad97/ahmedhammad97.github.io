@@ -1,0 +1,1 @@
+var author3479 = "John Barrymore", quotes3479 = ["A person is not old until regrets take the place of dreams."]

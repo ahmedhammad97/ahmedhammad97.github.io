@@ -1,0 +1,1 @@
+var author980 = "Buddy de Sylva", quotes980 = ["If April showersThat bloom in May."]

@@ -1,0 +1,1 @@
+var author1732 = "Don Siegel", quotes1732 = ["If you're going to be a whore, be a high-priced whore."]

@@ -1,0 +1,1 @@
+var author2328 = "Frederic Dan Huntington", quotes2328 = ["Christendom, as an effect, must be accounted for. It is too large for a mortal cause."]

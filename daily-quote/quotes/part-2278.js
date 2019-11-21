@@ -1,0 +1,1 @@
+var author2278 = "Frank Abagnale", quotes2278 = ["What I did in my youth is hundreds of times easier today. Technology breeds crime."]

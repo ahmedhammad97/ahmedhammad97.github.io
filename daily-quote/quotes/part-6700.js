@@ -1,0 +1,1 @@
+var author6700 = "Tim Riley", quotes6700 = ["Canada is like America without Jesus."]

@@ -1,0 +1,1 @@
+var author4818 = "Nathaniel Parker Willis", quotes4818 = ["He who bindsHis soul to knowledge, steals the key of heaven.","At present there is no distinction among the upper ten thousand of the city."]

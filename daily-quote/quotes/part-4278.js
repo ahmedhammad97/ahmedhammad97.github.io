@@ -1,0 +1,1 @@
+var author4278 = "Mahdi", quotes4278 = ["The face of the Mahdi shall shine upon the surface of the Moon."]

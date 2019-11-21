@@ -1,0 +1,1 @@
+var author4233 = "Luther Burbank", quotes4233 = ["Those who are making history seldom have time to record it.","In child rearing environment is equally essential with heredity."]

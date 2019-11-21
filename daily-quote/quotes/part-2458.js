@@ -1,0 +1,1 @@
+var author2458 = "George Burns", quotes2458 = ["If I paid $3 or $4 for a cigar, first I'd sleep with it."]

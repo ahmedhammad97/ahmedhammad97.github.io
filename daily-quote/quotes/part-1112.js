@@ -1,0 +1,1 @@
+var author1112 = "Chaos theory", quotes1112 = ["Chaos is lawless behavior governed entirely by law.”"]

@@ -1,0 +1,1 @@
+var author2854 = "Henry Rollins", quotes2854 = ["I got three letters today telling me that I'm god. Why can't I pay the rent?","When life hands you a lemon, say Oh yeah, I like lemons. What else you got?","Knowledge without Mileage is bullshit to me.","Cynicism is only intellectual sloth. "]

@@ -1,0 +1,1 @@
+var author3636 = "John R. Commons", quotes3636 = ["Legally, the term liberty means absence of duty, or rather the limit of duty.","Liberty is absence of restraint. Freedom is participation in government.","Liberty, as such, is only the negative of duty, the absence of restraint or compulsion."]

@@ -1,0 +1,1 @@
+var author6764 = "Tracey Emin", quotes6764 = ["Your paintings are stuck, you are stuck! Stuck! Stuck! Stuck!"]

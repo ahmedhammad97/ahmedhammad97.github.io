@@ -1,0 +1,1 @@
+var author5862 = "Ruby (programming language)", quotes5862 = ["Everything is an object - Smalltalk and its children. (whispered:) Ruby. (laughter)"]

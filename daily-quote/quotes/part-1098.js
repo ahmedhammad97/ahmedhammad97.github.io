@@ -1,0 +1,1 @@
+var author1098 = "Cecil Rhodes", quotes1098 = ["Equal rights for all civilized men south of the Zambesi."]

@@ -1,0 +1,1 @@
+var author344 = "Altruism", quotes344 = ["Altruism is a barbarism. Love is the word."]

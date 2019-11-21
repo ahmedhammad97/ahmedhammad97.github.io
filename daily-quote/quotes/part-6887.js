@@ -1,0 +1,1 @@
+var author6887 = "Verbosity", quotes6887 = ["Naturally it takes a good deal of Pencil to say a long thing like that.","He draweth out the thread of his verbosity finer than the staple of his argument."]

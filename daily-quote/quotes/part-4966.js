@@ -1,0 +1,1 @@
+var author4966 = "OOMPH!", quotes4966 = ["So swallow your frown, my love; and follow me down, my love","I'm going down, as you see, I can feel your hand reaching out for me"]

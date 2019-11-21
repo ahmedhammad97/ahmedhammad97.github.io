@@ -1,0 +1,1 @@
+var author2715 = "Halford E. Luccock", quotes2715 = ["I believe in comforting the afflicted and afflicting the comfortable."]

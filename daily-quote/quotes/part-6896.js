@@ -1,0 +1,1 @@
+var author6896 = "Victor Borge", quotes6896 = ["What is the difference between a Nazi and a dog? The Nazi lifts his arm."]

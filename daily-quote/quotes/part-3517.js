@@ -1,0 +1,1 @@
+var author3517 = "John Cotton Dana", quotes3517 = ["Who dares to teach must never cease to learn."]

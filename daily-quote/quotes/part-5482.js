@@ -1,0 +1,1 @@
+var author5482 = "Quintus Sextius", quotes5482 = ["The sage and the contemner of wealth most resemble God."]

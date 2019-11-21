@@ -1,0 +1,1 @@
+var author939 = "Bret Easton Ellis", quotes939 = ["People are afraid to merge on freeways in Los Angeles.","Disappear here.","You do an awfully good impression of yourself.","That doesn't sound like...the Jayster."]

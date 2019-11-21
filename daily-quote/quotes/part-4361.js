@@ -1,0 +1,1 @@
+var author4361 = "Maria Edgeworth", quotes4361 = ["Obtain power, then, by all means; power is the law of man; make it yours.","Surely it is much more generous to forgive and remember, than to forgive and forget.","A love-match was the only thing for happiness, where the parties could any way afford it.","Our Irish blunders are never blunders of the heart."]

@@ -1,0 +1,1 @@
+var author4021 = "Laura Pausini", quotes4021 = ["My daughter gave me the chance to be more mature and live a better life after 20 years."]

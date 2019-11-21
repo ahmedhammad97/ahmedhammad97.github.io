@@ -1,0 +1,1 @@
+var author2564 = "Gilbert & George", quotes2564 = ["THE LAWS OF SCULPTORS","To create, you must empty yourself of every artistic thought.","Really creative thinking does not occur with regard to problems.","SM: Let’s start with a trivial question: why Gilbert and George and not George and Gilbert?"]

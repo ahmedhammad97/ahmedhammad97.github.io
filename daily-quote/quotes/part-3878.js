@@ -1,0 +1,1 @@
+var author3878 = "Katherine Paterson", quotes3878 = ["Even a prince may be a fool","Lord, it would be better to be born without an arm than to go through life with no guts."]

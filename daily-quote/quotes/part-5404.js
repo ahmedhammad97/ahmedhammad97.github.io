@@ -1,0 +1,1 @@
+var author5404 = "Press", quotes5404 = ["An important thing to remember about the press is there is no ideological bias.","In America the President reigns for four years, and Journalism governs for ever and ever."]

@@ -1,0 +1,1 @@
+var author3832 = "K. S. Ranjitsinhji", quotes3832 = ["He revolutionised cricket. He turned it from an accomplishment into a science."]

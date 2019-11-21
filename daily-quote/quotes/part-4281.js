@@ -1,0 +1,1 @@
+var author4281 = "Mahmoud Abbas", quotes4281 = ["We have at least 12 security apparatuses that cannot be controlled by anybody.","Today we are visitors to the airport, tomorrow we will come here as travellers."]

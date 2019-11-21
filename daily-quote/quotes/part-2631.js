@@ -1,0 +1,1 @@
+var author2631 = "Grandma Moses", quotes2631 = ["Painting's not important. The important thing is keeping busy.","A primitive artist is an amateur whose work sells.","If I hadn't started painting, I would have raised chickens."]

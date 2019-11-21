@@ -1,0 +1,1 @@
+var author4280 = "Mahinda Rajapaksa", quotes4280 = ["If there is any violations, we will take actions against anybody, anybody. I am ready to do that."]

@@ -1,0 +1,1 @@
+var author285 = "Alexei Alexeyevich Abrikosov", quotes285 = ["If they can in their proposals write the word Nano, the chances for funding increase."]

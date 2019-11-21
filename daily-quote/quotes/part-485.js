@@ -1,0 +1,1 @@
+var author485 = "Anonymous (group)", quotes485 = ["CITIZENS OF THE UNITED STATES OF AMERICA","We hold these truths to be self-evident,","Think For Yourself, Question Authority - Timothy Leary","We are in the information era.","We are Anonymous,","We are Legion,","We do not forgive,"]

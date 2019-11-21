@@ -1,0 +1,1 @@
+var author4607 = "Michael Okuda", quotes4607 = ["They work just fine, thank you."]

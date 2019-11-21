@@ -1,0 +1,1 @@
+var author641 = "Assata Shakur", quotes641 = ["It is our duty to fight for our freedom."]

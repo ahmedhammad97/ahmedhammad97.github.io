@@ -1,0 +1,1 @@
+var author6554 = "The Systeme of the World: in Four Dialogues", quotes6554 = ["Nature never doth that by many things, which may be done by a few.","The truth sometimes gaines strength by con\\xadtradiction.","Things are ex\\xadactly the same in abstract as in con\\xadcrete.","The circular Fi\\xadgure only is placed amongst the postu\\xadlata of Mathema\\xadticians."]

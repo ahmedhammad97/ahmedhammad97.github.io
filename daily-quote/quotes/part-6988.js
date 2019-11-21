@@ -1,0 +1,1 @@
+var author6988 = "Walter Slezak", quotes6988 = ["I never lie unless it is absolutely necessary. Or convenient."]

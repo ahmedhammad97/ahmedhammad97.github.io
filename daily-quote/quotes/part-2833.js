@@ -1,0 +1,1 @@
+var author2833 = "Henry Fairfield Osborn", quotes2833 = ["We have to be reminded over and over again that Nature is full of paradoxes."]

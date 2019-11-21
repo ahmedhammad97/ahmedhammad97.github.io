@@ -1,0 +1,1 @@
+var author6002 = "Satisfaction", quotes6002 = ["He is well paid that is well satisfied.","Enough is as good as a feast.","My cup runneth over."]

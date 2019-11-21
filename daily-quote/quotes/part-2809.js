@@ -1,0 +1,1 @@
+var author2809 = "Helmut Newton", quotes2809 = ["My job as a portrait photographer is to seduce, amuse and entertain."]

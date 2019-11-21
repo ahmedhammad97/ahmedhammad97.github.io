@@ -1,0 +1,1 @@
+var author1518 = "Dante Gabriel Rossetti", quotes1518 = ["If the light isIt is because God said 'Let there be light.'","Sometimes thou seem'st not as thyself alone,But as the meaning of all things that are.","Look in my face; my name is Might-have-been;I am also called No-more, Too-late, Farewell.","Watch thou and fear; to-morrow thou shalt die."]

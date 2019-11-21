@@ -1,0 +1,1 @@
+var author910 = "Boris Pasternak", quotes910 = ["I love you madly, irrationally, infinitely.","How wonderful to be alive, he thought. But why does it always hurt?"]

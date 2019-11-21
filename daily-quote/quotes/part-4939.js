@@ -1,0 +1,1 @@
+var author4939 = "North Carolina", quotes4939 = ["North Carolina is a valley of humility between two mountains of conceit."]

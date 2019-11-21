@@ -1,0 +1,1 @@
+var author1332 = "Colm Tóibín", quotes1332 = ["If a storyteller came up to me, I'd run away.","I was brought up in a house where there was a great deal of silence.","I was the worst barman who ever lived. My pints of Guinness were unholy.","Ending a novel is almost like putting a child to sleep – it can't be done abruptly."]

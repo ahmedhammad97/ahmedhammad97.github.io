@@ -1,0 +1,1 @@
+var author3336 = "Jean Jullien", quotes3336 = ["Peace for Paris"]

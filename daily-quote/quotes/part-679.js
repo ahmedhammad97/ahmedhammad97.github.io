@@ -1,0 +1,1 @@
+var author679 = "Autumn", quotes679 = ["Autumn is a second Spring when every leaf is a flower.","falling leavesso quietly","Autumn wins you best by this, its muteAppeal to sympathy for its decay.","All-cheering Plenty, with her flowing horn,Led yellow Autumn, wreath'd with nodding corn."]

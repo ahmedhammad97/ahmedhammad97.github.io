@@ -1,0 +1,1 @@
+var author6369 = "Suspicion", quotes6369 = ["All is not well;I doubt some foul play."]

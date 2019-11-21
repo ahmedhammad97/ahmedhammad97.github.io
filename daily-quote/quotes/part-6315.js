@@ -1,0 +1,1 @@
+var author6315 = "Strabo", quotes6315 = ["And Macedonia, of course, is a part of Greece."]

@@ -1,0 +1,1 @@
+var author1830 = "Economy of India", quotes1830 = ["the train has left the station..."]

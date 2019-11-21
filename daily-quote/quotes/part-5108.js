@@ -1,0 +1,1 @@
+var author5108 = "Pastafarianism", quotes5108 = ["With Him, All Things are Pasta-Bowl."]

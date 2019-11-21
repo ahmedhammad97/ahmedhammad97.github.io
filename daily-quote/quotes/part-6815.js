@@ -1,0 +1,1 @@
+var author6815 = "Uma Thurman", quotes6815 = ["Tall, sandy blonde, with sort of blue eyes, skinny in places, fat in others. An average gal."]

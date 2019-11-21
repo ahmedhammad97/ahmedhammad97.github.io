@@ -1,0 +1,1 @@
+var author3711 = "Jonathan Haidt", quotes3711 = ["Sports is to war as pornography is to sex.","Anyone who values truth should stop worshipping reason.","Science is a smorgasbord, and Google will guide you to the study that's right for you."]

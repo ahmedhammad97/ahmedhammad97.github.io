@@ -1,0 +1,1 @@
+var author3199 = "Jacques Deval", quotes3199 = ["God loved the birds and invented trees. Man loved the birds and invented cages."]

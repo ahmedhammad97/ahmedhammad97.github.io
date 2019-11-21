@@ -1,0 +1,1 @@
+var author7226 = "Wladyslaw Sikorski", quotes7226 = ["We, the Poles, do not understand war as a symbol but as a real fight.","There is no happiness without patriotism.","One experienced minute sometimes teaches us more than a lifetime."]

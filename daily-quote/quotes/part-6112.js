@@ -1,0 +1,1 @@
+var author6112 = "Shu Ting", quotes6112 = ["A colorful hanging chart with no lines.A pure algebra problem with no solution."]

@@ -1,0 +1,1 @@
+var author4128 = "Lin Yu-fang", quotes4128 = ["(Mainland) China is telling you (Taiwan) that that there is no safe place."]

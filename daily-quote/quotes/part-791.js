@@ -1,0 +1,1 @@
+var author791 = "Bernard Montgomery, 1st Viscount Montgomery of Alamein", quotes791 = ["Anyone who votes Labour ought to be locked up."]

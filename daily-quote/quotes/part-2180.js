@@ -1,0 +1,1 @@
+var author2180 = "Fawn M. Brodie", quotes2180 = ["Show me a character whose life arouses my curiosity, and my flesh begins crawling with suspense. "]

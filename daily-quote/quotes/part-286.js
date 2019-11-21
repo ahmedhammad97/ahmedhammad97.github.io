@@ -1,0 +1,1 @@
+var author286 = "Alexei Maxim Russell", quotes286 = ["Everything can be summed up into an equation."]

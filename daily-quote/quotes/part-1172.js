@@ -1,0 +1,1 @@
+var author1172 = "Charles Wesley", quotes1172 = ["God buries his workmen, but carries on his work."]

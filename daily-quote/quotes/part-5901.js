@@ -1,0 +1,1 @@
+var author5901 = "Ruth Nanda Anshen", quotes5901 = ["There is no depth of life without a way to depth, no truth without a way to truth."]

@@ -1,0 +1,1 @@
+var author4657 = "Miles Franklin", quotes4657 = ["I make no apologies for being egotistical.","It appears that we all labour under delusions. ","To weary hearts throbbing slowly in hopeless breasts the sweetest thing is rest. "]

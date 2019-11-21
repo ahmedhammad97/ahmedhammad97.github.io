@@ -1,0 +1,1 @@
+var author1673 = "Didache", quotes1673 = ["Let your alms sweat in your hands until you know to whom you are giving.","Where the Lord's nature is spoken of, there he is present.","If he ask for money, he is a false prophet.","And all prophets who teach the truth, if they do not do what they teach, are false prophets."]

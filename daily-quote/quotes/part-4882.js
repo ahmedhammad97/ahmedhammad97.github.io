@@ -1,0 +1,1 @@
+var author4882 = "Nicholas Udall", quotes4882 = ["That same manne, that renneth awaye,Maye again fight, an other daye.","For Myrth prolongeth lyfe, and causeth health.","Wowers never speede well, that have a false harte.","Since I went no grasse hath growne on my hele.","Gay love, God save it, so soone hotte, so soone colde."]

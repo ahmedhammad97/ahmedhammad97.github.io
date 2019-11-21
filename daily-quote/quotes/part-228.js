@@ -1,0 +1,1 @@
+var author228 = "Alberto Giacometti", quotes228 = ["Figures were never for me a compact mass but like a transparent construction. ","There was a third element in reality that concerned me: movement."]

@@ -1,0 +1,1 @@
+var author3043 = "Industrial Revolution", quotes3043 = ["The Industrial Revolution and its consequences have been a disaster for the human race."]

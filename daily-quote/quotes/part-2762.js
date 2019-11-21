@@ -1,0 +1,1 @@
+var author2762 = "Harry Dean Stanton", quotes2762 = ["I play myself all the time... on camera and off. What else can I do? "]

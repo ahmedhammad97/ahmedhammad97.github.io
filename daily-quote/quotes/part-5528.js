@@ -1,0 +1,1 @@
+var author5528 = "Ramanuja", quotes5528 = ["What an individual pursues as a desirable end depends upon what he conceives himself to be."]

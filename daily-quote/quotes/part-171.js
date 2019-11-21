@@ -1,0 +1,1 @@
+var author171 = "Al Hurricane", quotes171 = ["Hey Sugar Baby!","It's party time!","Believe it or not, sometimes when I go on stage, I still get butterflies."]

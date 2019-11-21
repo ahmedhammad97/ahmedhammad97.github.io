@@ -1,0 +1,1 @@
+var author3778 = "João Magueijo", quotes3778 = ["The game of science can accurately be described as a never-ending insult to human intelligence."]

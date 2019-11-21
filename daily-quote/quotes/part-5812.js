@@ -1,0 +1,1 @@
+var author5812 = "Rodion Malinovsky", quotes5812 = ["Service is service, wherever it occurred. The defense of the fatherland is no small thing."]

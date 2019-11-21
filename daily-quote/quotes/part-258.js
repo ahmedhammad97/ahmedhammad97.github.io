@@ -1,0 +1,1 @@
+var author258 = "Alexander Alekhine", quotes258 = ["With his death, we have lost a very great chess genius whose like we'll never see again.","I study chess eight hours a day, on principle.","Chess first of all teaches you to be objective."]

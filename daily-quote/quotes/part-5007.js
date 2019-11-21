@@ -1,0 +1,1 @@
+var author5007 = "Ontology", quotes5007 = ["One is what one is, partly at least.","Ontology recapitulates philology."]

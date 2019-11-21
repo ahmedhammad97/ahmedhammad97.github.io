@@ -1,0 +1,1 @@
+var author3797 = "Julia Butterfly Hill", quotes3797 = ["Activism is Patriotism."]

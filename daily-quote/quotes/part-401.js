@@ -1,0 +1,1 @@
+var author401 = "Andrejs Dunkels", quotes401 = ["It is easy to lie with statistics. It is hard to tell the truth without it."]

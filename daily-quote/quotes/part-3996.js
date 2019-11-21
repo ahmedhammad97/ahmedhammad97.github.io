@@ -1,0 +1,1 @@
+var author3996 = "Landfill", quotes3996 = ["The ungodly ... reasoned unsoundly, saying to themselves,..."]

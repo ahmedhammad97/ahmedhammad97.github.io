@@ -1,0 +1,1 @@
+var author3148 = "J. C. Ryle", quotes3148 = ["So long as you do not quarrel with sin, you will never be a truly happy man."]

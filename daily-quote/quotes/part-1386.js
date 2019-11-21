@@ -1,0 +1,1 @@
+var author1386 = "Contemplation", quotes1386 = ["The act of contemplation then creates the thing contemplated.","Contemplation makes a rare turkey-cock of him: how he jets under his advanced plumes."]

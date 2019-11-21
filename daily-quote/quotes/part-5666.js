@@ -1,0 +1,1 @@
+var author5666 = "Richard Rohr", quotes5666 = ["God does not love you because you are good, God loves you because God is good.","Power should be entrusted only to those who do not seek it."]

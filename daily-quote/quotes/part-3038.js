@@ -1,0 +1,1 @@
+var author3038 = "Indigo Girls", quotes3038 = ["I squeeze the sky out but there’s not a star appears","We're sculpted from youth, the chipping away makes me weary","I don't know what to believe Anymore"]

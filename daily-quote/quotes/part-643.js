@@ -1,0 +1,1 @@
+var author643 = "Association football", quotes643 = ["I think he's saying there should be more than a minute."]

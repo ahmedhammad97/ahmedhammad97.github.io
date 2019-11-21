@@ -1,0 +1,1 @@
+var author3728 = "Joschka Fischer", quotes3728 = ["My name is Mr. Fischer. What’s your name?","Excuse me, I am not convinced."]

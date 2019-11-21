@@ -1,0 +1,1 @@
+var author7246 = "World government", quotes7246 = ["There is an increasing awareness of the need for some form of global government."]

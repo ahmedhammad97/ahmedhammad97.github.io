@@ -1,0 +1,1 @@
+var author183 = "Alan Coren", quotes183 = ["Strictly speaking, the land does not exist; it is merely dehydrated sea."]

@@ -1,0 +1,1 @@
+var author2544 = "Gerald James Whitrow", quotes2544 = ["[Time is not] a mysterious illusion of the intellect. ..It is an essential feature of the universe."]

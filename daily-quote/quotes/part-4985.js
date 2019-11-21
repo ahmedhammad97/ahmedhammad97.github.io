@@ -1,0 +1,1 @@
+var author4985 = "Oklahoma", quotes4985 = ["You can call me what you want toBut Okie is okay with me.","I want to go back to Oklahoma.Living next to the soil.","And now I'd like to settle down,In Oklahoma in my home town.","Got my ticket in my handOklahoma here I come!","Bought a round-trip ride today,Oklahoma's dear to me."]

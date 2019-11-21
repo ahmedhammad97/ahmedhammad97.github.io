@@ -1,0 +1,1 @@
+var author2129 = "Existentialism", quotes2129 = ["This characteristic of Dasein’s being—this “that it is”—is veiled in its “whence” and “whither.”","Knowledge of that which concerns us infinitely is possible only in an attitude of infinite concern."]

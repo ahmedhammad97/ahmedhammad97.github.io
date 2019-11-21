@@ -1,0 +1,1 @@
+var author6235 = "Stan Lee", quotes6235 = ["WITH GREAT POWER THERE MUST ALSO COME--GREAT RESPONSIBILITY!","Face front, true believer!"]

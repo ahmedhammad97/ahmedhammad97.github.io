@@ -1,0 +1,1 @@
+var author5993 = "Sarah Zettel", quotes5993 = ["“I’m starting to get the picture.”“If you can say it so calmly, then you haven’t.”"]

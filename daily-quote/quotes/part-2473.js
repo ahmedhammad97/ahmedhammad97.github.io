@@ -1,0 +1,1 @@
+var author2473 = "George Gershwin", quotes2473 = ["The European boys have small ideas but they sure know how to dress 'em up.","I frequently hear music in the heart of noise.","My people are American, my time is today…music must repeat the thought and aspirations of the times.","I like to think of music as an emotional science."]

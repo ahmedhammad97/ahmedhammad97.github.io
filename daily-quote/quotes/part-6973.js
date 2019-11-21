@@ -1,0 +1,1 @@
+var author6973 = "Walter Dill Scott", quotes6973 = ["Mental attitude is more important than mental capacity","Success or failure in business is caused more by mental attitude even than by mental capacity."]

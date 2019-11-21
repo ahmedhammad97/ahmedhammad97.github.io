@@ -1,0 +1,1 @@
+var author1960 = "Elizabeth Hardwick", quotes1960 = ["Sex, without society as its landscape, has never been of much interest to fiction. "]

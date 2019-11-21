@@ -1,0 +1,1 @@
+var author4364 = "Mariah Carey", quotes4364 = ["See, I'm looking for a man that'll rub me slow, make me sing real high when he goes down low."]

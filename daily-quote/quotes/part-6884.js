@@ -1,0 +1,1 @@
+var author6884 = "Vera Brittain", quotes6884 = ["Meek wifehood is no part of my profession; / I am your friend, but never your possession.","Politics are usually the executive expression of human immaturity."]

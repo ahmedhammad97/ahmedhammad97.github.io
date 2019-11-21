@@ -1,0 +1,1 @@
+var author6446 = "Ted Chiang", quotes6446 = ["Contemplate the marvel that is existence, and rejoice that you are able to do so. "]

@@ -1,0 +1,1 @@
+var author2963 = "Huey Long", quotes2963 = ["Every man a king, but no one wears a crown.","For the present you can just call me the Kingfish.","I wonder why he shot me."]

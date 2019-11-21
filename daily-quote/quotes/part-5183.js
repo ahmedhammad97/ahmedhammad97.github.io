@@ -1,0 +1,1 @@
+var author5183 = "Peace Pilgrim", quotes5183 = ["There is great freedom in simplicity of living.","Spiritual truth should never be sold — those who sell it injure themselves spiritually."]

@@ -1,0 +1,1 @@
+var author4787 = "Naguib Mahfouz", quotes4787 = ["God did not intend religion to be an exercise club. "]

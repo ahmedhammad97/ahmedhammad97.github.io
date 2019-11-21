@@ -1,0 +1,1 @@
+var author6489 = "The Astonishing Hypothesis", quotes6489 = ["What is the neural correlate of visual awareness?","Recall the old line: How do I know what I think till I hear what I say.","What is the neural correlate of consciousness?","The study of consciousness is a scientific problem.","New knowledge has not diminished our sense of awe but increased it immeasurably."]

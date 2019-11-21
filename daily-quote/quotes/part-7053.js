@@ -1,0 +1,1 @@
+var author7053 = "Wilhelm II of Germany", quotes7053 = ["You will be home before the leaves fall from the trees.","For the first time, I am ashamed to be a German.","The fleet is necessary to show that Germany is as well born as Britain."]

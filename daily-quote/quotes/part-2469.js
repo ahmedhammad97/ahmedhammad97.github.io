@@ -1,0 +1,1 @@
+var author2469 = "George Frederick James Temple", quotes2469 = ["During this century mathematics has been transformed...","The function of logic in mathematics is critical rather than constructive.","The 'language theory' is inadequate as a description of the nature of mathematics."]

@@ -1,0 +1,1 @@
+var author4366 = "Marie de Rabutin-Chantal, marquise de Sévigné", quotes4366 = ["Fortune is always on the side of the largest battalions."]

@@ -1,0 +1,1 @@
+var author5525 = "Ram Dass", quotes5525 = ["Only when I know who I am will I know what is possible."]

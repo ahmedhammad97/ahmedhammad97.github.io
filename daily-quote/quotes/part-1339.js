@@ -1,0 +1,1 @@
+var author1339 = "Community", quotes1339 = ["A community is like a ship; everyone ought to be prepared to take the helm. "]

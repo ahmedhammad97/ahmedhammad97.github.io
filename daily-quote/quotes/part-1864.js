@@ -1,0 +1,1 @@
+var author1864 = "Eduard Jan Dijksterhuis", quotes1864 = ["Plato makes the cosmos a living being by investing the world-body with a world-soul."]

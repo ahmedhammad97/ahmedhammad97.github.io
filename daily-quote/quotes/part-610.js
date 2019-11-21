@@ -1,0 +1,1 @@
+var author610 = "Arthur Melzer", quotes610 = ["One cannot philosophize in public any more than one can make love there."]

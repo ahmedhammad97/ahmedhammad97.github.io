@@ -1,0 +1,1 @@
+var author1753 = "Dorothy Lamour", quotes1753 = ["Glamour is just sex that got civilized."]

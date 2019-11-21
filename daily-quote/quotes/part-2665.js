@@ -1,0 +1,1 @@
+var author2665 = "Gudrun Ensslin", quotes2665 = ["Violence is the only way to answer violence.","This is the Auschwitz generation, and there's no arguing with them!","Don’t blather that it is too hard. The action to liberate Baader wasn’t crocheting doilies either."]

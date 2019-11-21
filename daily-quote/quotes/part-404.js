@@ -1,0 +1,1 @@
+var author404 = "Andrew Ferguson", quotes404 = ["Incoherence is a common hazard for journalists who dabble in ethical judgments."]

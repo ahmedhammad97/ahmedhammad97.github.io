@@ -1,0 +1,1 @@
+var author2259 = "Frances Burney", quotes2259 = ["Money is the source of the greatest vice, & that Nation which is most rich, is most wicked.","it has been long and justly remarked, that folly has ever sought alliance with beauty.","A private ball this was called...but Lord! my dear Sir, I believe I saw half the world!"]

@@ -1,0 +1,1 @@
+var author4697 = "Moe (slang)", quotes4697 = ["First of all, “moe” must meet the following conditions"]

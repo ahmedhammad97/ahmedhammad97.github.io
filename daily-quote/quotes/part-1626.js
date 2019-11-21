@@ -1,0 +1,1 @@
+var author1626 = "Delight", quotes1626 = ["Man delights not me: no, nor woman neither, though, by your smiling, you seem to say so.","Why, all delights are vain; and that most vain,Which with pain purchas'd, doth inherit pain.","All in heaven take joy in sharing their delights and blessings with others."]

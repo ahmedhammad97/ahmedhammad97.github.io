@@ -1,0 +1,1 @@
+var author5253 = "Peter Temin", quotes5253 = ["We can see good economic policies in the context of a consistent analysis of the economy."]

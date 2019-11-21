@@ -1,0 +1,1 @@
+var author6692 = "Tigers", quotes6692 = ["Even after killing ninety nine tigers the Maharaja should beware of the hundredth.","Qi hu nan xia — When you’re riding a tiger, the hard part is getting off."]

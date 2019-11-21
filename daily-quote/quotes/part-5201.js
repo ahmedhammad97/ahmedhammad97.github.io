@@ -1,0 +1,1 @@
+var author5201 = "Per Kirkeby", quotes5201 = ["chapter 'Caption', p. 84 ","chapter 'Caption', p. 84"]

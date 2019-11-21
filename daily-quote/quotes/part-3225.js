@@ -1,0 +1,1 @@
+var author3225 = "James Cameron (journalist)", quotes3225 = ["That worst evil of long dictatorships: the loss of all political experience."]

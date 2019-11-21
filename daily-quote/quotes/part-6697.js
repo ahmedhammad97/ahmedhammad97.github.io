@@ -1,0 +1,1 @@
+var author6697 = "Tim Flannery", quotes6697 = ["In our Gaian world, everything is connected to and influences everything else."]

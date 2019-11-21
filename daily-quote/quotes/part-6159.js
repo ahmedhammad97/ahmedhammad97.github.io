@@ -1,0 +1,1 @@
+var author6159 = "Slavery in the United States", quotes6159 = ["This is a beautiful country. ","This country was founded by slave owners who wanted to be free.","Slavery is wrong."]

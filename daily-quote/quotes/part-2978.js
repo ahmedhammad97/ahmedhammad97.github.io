@@ -1,0 +1,1 @@
+var author2978 = "Hummingbirds", quotes2978 = ["My work is loving the world. Here the sunflowers, there the hummingbird—equal seekers of sweetness","Jewelled coryphéeWith quivering wings like shielding gauze outspread."]

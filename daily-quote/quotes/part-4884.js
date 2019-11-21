@@ -1,0 +1,1 @@
+var author4884 = "Nick Clegg", quotes4884 = ["In politics, you live by the sword, and you die by the sword."]

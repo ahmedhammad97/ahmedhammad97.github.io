@@ -1,0 +1,1 @@
+var author369 = "Amrita Sher-Gil", quotes369 = ["Amrita Sher-Gill: Art and Life: A Reader (page xvii)"]

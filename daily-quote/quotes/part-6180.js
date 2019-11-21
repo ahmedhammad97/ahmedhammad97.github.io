@@ -1,0 +1,1 @@
+var author6180 = "Socinianism", quotes6180 = ["Our justification before God is that we are regarded by God as just, or righteous."]

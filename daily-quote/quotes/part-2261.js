@@ -1,0 +1,1 @@
+var author2261 = "Frances Hodgson Burnett", quotes2261 = ["And this, my lovely child, is your garden."]

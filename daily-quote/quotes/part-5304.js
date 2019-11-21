@@ -1,0 +1,1 @@
+var author5304 = "Photography", quotes5304 = ["There are no rules for good photographs, there are only good photographs.","It shows an image that could only have been produced photographically.","A photograph is a biography of a moment.","Photography as a fad is well-nigh on its last legs, thanks principally to the bicycle craze."]

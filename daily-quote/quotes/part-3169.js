@@ -1,0 +1,1 @@
+var author3169 = "Jacek Tylicki", quotes3169 = ["The Universe is the greatest piece of art ","Art happens all the time, everywhere. All we have to do is to keep our minds open.","For a chicken the most beautiful is chicken.","Give If You Can - Take If You Have To."]

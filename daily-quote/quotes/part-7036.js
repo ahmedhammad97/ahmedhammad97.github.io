@@ -1,0 +1,1 @@
+var author7036 = "What's Wrong with the World", quotes7036 = ["For comradeship is simply humanity seen in that one aspect in which men are really equal."]

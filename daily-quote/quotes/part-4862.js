@@ -1,0 +1,1 @@
+var author4862 = "New Deal", quotes4862 = ["You want to know what fascism is like? It is like your New Deal!","I pledge you, I pledge myself, to a new deal for the American people.","I'm a professor all right. But I was always violently anti-New Deal."]

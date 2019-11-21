@@ -1,0 +1,1 @@
+var author3749 = "Joseph McCabe", quotes3749 = ["An idea or institution may arise for one reason and be maintained for quite a different reason.","Any body of men who believe in hell will persecute whenever they have the power.","The absence of theistic belief..."]

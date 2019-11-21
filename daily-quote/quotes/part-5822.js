@@ -1,0 +1,1 @@
+var author5822 = "Roland Barthes", quotes5822 = ["What the public wants is the image of passion, not passion itself.","The Text is not a definitive object."]

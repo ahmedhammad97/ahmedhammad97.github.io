@@ -1,0 +1,1 @@
+var author6290 = "Steve Purcell", quotes6290 = ["A zebra can't drive a moon-buggy. Or any other sort of car for that matter."]

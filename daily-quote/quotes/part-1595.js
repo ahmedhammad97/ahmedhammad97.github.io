@@ -1,0 +1,1 @@
+var author1595 = "David Wright (baseball)", quotes1595 = ["I want to be a Met my whole career.","“I’m always looking to improve. And every year I want to do better than the year before.”","“I take positives out of negatives all the time.” ","“I just want to taste what it’s like to win in New York”"]

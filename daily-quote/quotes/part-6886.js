@@ -1,0 +1,1 @@
+var author6886 = "Vera Rubin", quotes6886 = ["Science is competitive, aggressive, demanding. It is also imaginative, inspiring, uplifting.","Science progresses best when observations force us to alter our preconceptions.","It is well known that I am available twenty-four hours a day to women astronomers."]

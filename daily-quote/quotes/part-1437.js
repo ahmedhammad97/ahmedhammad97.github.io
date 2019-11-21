@@ -1,0 +1,1 @@
+var author1437 = "Croesus", quotes1437 = ["In peace the sons bury their fathers, but in war the fathers bury their sons."]

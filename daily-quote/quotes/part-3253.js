@@ -1,0 +1,1 @@
+var author3253 = "James I of Scotland", quotes3253 = ["Beautee eneuch to mak a world to dote."]

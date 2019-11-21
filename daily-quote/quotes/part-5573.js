@@ -1,0 +1,1 @@
+var author5573 = "Relativity Simply Explained", quotes5573 = ["It is not possible to measure uniform motion in any absolute way.","If an astronaut traveled as fast as light his clock would stop completely."]

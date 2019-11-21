@@ -1,0 +1,1 @@
+var author3714 = "Jonathan Mitchell", quotes3714 = ["But then I got fired from so many jobs, I ended up retiring and being supported by my parents."]

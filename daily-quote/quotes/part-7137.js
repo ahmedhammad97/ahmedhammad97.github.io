@@ -1,0 +1,1 @@
+var author7137 = "William J. Crowe", quotes7137 = ["When I was in the military I always made it my first mission to burn the enemy's crops!"]

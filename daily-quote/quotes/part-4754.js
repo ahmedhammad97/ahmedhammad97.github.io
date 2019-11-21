@@ -1,0 +1,1 @@
+var author4754 = "Mud", quotes4754 = ["Mud is mankind in the moulding,Heaven's mystery unfolding"]

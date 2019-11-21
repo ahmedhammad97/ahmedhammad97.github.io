@@ -1,0 +1,1 @@
+var author2952 = "Howard Dean", quotes2952 = ["This is a struggle of good and evil. And we're the good.","the Republicans are all about suppressing votes.","I may be controversial, but my allegiance is to people outside the Beltway."]

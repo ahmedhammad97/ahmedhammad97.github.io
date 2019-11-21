@@ -1,0 +1,1 @@
+var author3415 = "Jim Starlin", quotes3415 = ["You'll find my power comes from within.... and is a force to be reckoned with.","Obviously my best strategy is to wait, listen, and learn.","My name is Thanos, and my name means Death.","Who would have thought that becoming God would be such a hollow victory."]

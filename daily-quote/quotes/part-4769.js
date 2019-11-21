@@ -1,0 +1,1 @@
+var author4769 = "Muriel Rukeyser", quotes4769 = ["I speak to you. You speak to me. Is that fragile?","All the poems of our lives are not yet made.","The Universe is made of stories, not of atoms. ","O for God's sake underneath."]

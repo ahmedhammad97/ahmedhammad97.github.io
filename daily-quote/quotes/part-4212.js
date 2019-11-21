@@ -1,0 +1,1 @@
+var author4212 = "Lucy Stone", quotes4212 = ["I believe that the influence of woman will save the country before every other power. ","Make the world better."]

@@ -1,0 +1,1 @@
+var author7202 = "William of Malmesbury", quotes7202 = ["That fatal day for England, the sad destruction of our dear country [dulcis patrie]."]

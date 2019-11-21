@@ -1,0 +1,1 @@
+var author3006 = "Ideal", quotes3006 = ["High ideals make a people strong. … decay comes when ideals wane.","The further you progress, the higher the ideal of perfection toward which you strive rises."]

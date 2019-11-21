@@ -1,0 +1,1 @@
+var author4943 = "Norway", quotes4943 = ["Norwegians believe in God, Allah, the Universe and nothing.","Norway is you. Norway is us."]

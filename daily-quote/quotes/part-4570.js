@@ -1,0 +1,1 @@
+var author4570 = "Michael Bruce", quotes4570 = ["Now Spring returns; but not to me returns.","In every pang that rends the heartThe Man of Sorrows had a part"]

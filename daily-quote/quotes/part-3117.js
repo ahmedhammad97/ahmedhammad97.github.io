@@ -1,0 +1,1 @@
+var author3117 = "Isaac Parker", quotes3117 = ["I am the most misunderstood and misrepresented of men. Misrepresented because misunderstood."]

@@ -1,0 +1,1 @@
+var author6241 = "Stanley Fish", quotes6241 = ["No word floats without an anchoring connection within an overall structure.","Sentence writers are not copyists; they are selectors. ","They are their own monuments, as is this quietly thrilling sentence. ","Sentences can save us. Who could ask for anything more?"]

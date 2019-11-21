@@ -1,0 +1,1 @@
+var author5713 = "Robert Atkyns (judge)", quotes5713 = ["The best men are but men, and are sometimes transported with passion.","Pleading is an exact setting forth of the truth."]

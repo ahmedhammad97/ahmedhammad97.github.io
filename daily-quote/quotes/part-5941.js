@@ -1,0 +1,1 @@
+var author5941 = "Samir Geagea", quotes5941 = ["Lebanon is our country, and in it we are staying (as a minority christians).","I would prefer to remain in prison for another 20 years than bargain my beliefs for freedom.","They were long, dark, black years. "]

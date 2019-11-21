@@ -1,0 +1,1 @@
+var author7034 = "Whales", quotes7034 = ["The bottle-nosed whale is a furlong long","The skeleton of the whale furnishes but little clue to the shape of his fully invested body."]

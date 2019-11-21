@@ -1,0 +1,1 @@
+var author3731 = "Josef Pieper", quotes3731 = ["Worship itself is a given — or it does not exist at all.","Being precedes Truth, and … Truth precedes the Good.","All just order in the world is based on this, that man give man what is his due."]

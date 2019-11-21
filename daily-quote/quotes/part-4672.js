@@ -1,0 +1,1 @@
+var author4672 = "Miriam Makeba", quotes4672 = ["I will probably die singing."]

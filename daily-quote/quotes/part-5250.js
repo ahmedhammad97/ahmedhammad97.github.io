@@ -1,0 +1,1 @@
+var author5250 = "Peter Stuyvesant", quotes5250 = ["Nothing is of greater importance than the right early instruction of youth.","I shall govern you as a father his children."]

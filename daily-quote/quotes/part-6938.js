@@ -1,0 +1,1 @@
+var author6938 = "Voluntary association", quotes6938 = ["Abolish competition and replace it with association.","Everyone has the right to freedom of peaceful assembly and association.","No one may be compelled to belong to an association."]

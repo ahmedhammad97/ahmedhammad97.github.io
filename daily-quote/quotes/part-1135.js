@@ -1,0 +1,1 @@
+var author1135 = "Charles Fletcher Dole", quotes1135 = ["The truly civilized man has no enemies.","Democracy is on trial in the world, on a more colossal scale than ever before.","It is a world of startling possibilities.","Religion is as healthy and normal as life itself.","Good Will is the mightiest practical force in the universe.","The Golden Rule works like gravitation."]

@@ -1,0 +1,1 @@
+var author1019 = "Caitlín R. Kiernan", quotes1019 = ["The divine is always abominable.","Magick may be no more than the willful invocation of awe.","A book may only be judged for what it is, not what you'd like it to be.","In the land of the blind, the one-eyed man will poke out his eye to fit in."]

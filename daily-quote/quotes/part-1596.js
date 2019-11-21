@@ -1,0 +1,1 @@
+var author1596 = "David Yezzi", quotes1596 = ["The person who wrote the poem can tell you more about the poem than anyone else.","Not every poet is a great reader of his own work."]

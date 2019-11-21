@@ -1,0 +1,1 @@
+var author284 = "Alexandre Vinet", quotes284 = ["Between God and man, between the gospel and each soul, the interpreter is Love."]

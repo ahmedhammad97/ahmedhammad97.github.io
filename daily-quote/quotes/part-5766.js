@@ -1,0 +1,1 @@
+var author5766 = "Robert Morley", quotes5766 = ["The British tourist is always happy abroad as long as the natives are waiters.","Anyone who works is a fool. I don't work; I merely inflict myself upon the public."]

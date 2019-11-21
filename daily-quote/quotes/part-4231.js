@@ -1,0 +1,1 @@
+var author4231 = "Luminiferous aether", quotes4231 = ["Quite undeservedly, the ether has acquired a bad name."]

@@ -1,0 +1,1 @@
+var author3715 = "Jonathan P. Jackson", quotes3715 = ["All the objective conditions are present here in the Black Colony for revolution."]

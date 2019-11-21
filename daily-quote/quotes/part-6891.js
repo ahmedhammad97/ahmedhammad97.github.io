@@ -1,0 +1,1 @@
+var author6891 = "Vernon Scannell", quotes6891 = ["All I am is in my verse."]

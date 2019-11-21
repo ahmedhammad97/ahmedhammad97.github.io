@@ -1,0 +1,1 @@
+var author5504 = "Rafał A. Ziemkiewicz", quotes5504 = ["Gays should be fought against. "]

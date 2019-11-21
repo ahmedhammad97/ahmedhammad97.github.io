@@ -1,0 +1,1 @@
+var author4687 = "Mitch McConnell", quotes4687 = ["There was no involvement whatsoever."]

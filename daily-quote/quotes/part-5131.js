@@ -1,0 +1,1 @@
+var author5131 = "Patsy Kensit", quotes5131 = ["All I want is to be more famous than anything or anyone."]

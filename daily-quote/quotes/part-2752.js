@@ -1,0 +1,1 @@
+var author2752 = "Harper Lee", quotes2752 = ["Lawyers, I suppose, were children once.","Until I feared I would lose it, I never loved to read. One does not love breathing.","People in their right minds never take pride in their talents.","I think there's just one kind of folks. Folks."]

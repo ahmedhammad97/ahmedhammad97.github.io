@@ -1,0 +1,1 @@
+var author3468 = "John A. Hobson", quotes3468 = ["On what a slippery slope ...international morality reposes."]

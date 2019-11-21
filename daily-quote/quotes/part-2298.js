@@ -1,0 +1,1 @@
+var author2298 = "Franklin Pierce", quotes2298 = ["You have summoned me in my weakness. You must sustain me by your strength."]

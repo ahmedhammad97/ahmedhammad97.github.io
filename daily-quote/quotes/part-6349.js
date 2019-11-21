@@ -1,0 +1,1 @@
+var author6349 = "Sunflowers", quotes6349 = ["Restless sunflower; cease to move.","Space for the sunflower, bright with yellow glow, To court the sky.","As the sunflower turns on her god when he sets,The same look which she turn'd when he rose."]

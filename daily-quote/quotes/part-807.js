@@ -1,0 +1,1 @@
+var author807 = "Bette Davis", quotes807 = ["To look back is to relax one's vigil.","Attempt the impossible in order to improve your work."]

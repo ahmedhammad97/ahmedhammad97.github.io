@@ -1,0 +1,1 @@
+var author4386 = "Mark Jason Dominus", quotes4386 = ["Of course, this is a heuristic, which is a fancy way of saying that it doesn't work.","You can't just make shit up and expect the computer to know what you mean, retardo!"]

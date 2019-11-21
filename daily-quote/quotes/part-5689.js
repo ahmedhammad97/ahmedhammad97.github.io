@@ -1,0 +1,1 @@
+var author5689 = "Rigveda", quotes5689 = ["Play not with dice, [but] cultivate your corn-land. Enjoy the gain, and deem that wealth sufficient."]

@@ -1,0 +1,1 @@
+var author4733 = "Morton Feldman", quotes4733 = ["Most music is metaphor, but Wolff is not. I am not metaphor either. Parable, maybe. Cage is sermon.","Sound is all our dreams of music. Noise is music's dreams of us.","If you don't have a friend who's a painter, you're in trouble."]

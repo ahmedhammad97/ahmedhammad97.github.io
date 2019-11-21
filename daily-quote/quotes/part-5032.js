@@ -1,0 +1,1 @@
+var author5032 = "Orlando: A Biography", quotes5032 = ["As long as she thinks of a man, nobody objects to a woman thinking."]

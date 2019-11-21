@@ -1,0 +1,1 @@
+var author3205 = "Jacques de Molay", quotes3205 = ["Let evil swiftly befall those who have wrongly condemned us - God will avenge us."]

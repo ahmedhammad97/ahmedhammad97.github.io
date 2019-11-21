@@ -1,0 +1,1 @@
+var author2012 = "Energy", quotes2012 = ["You will soon be able to tax it."]

@@ -1,0 +1,1 @@
+var author2337 = "Frederick William Robertson", quotes2337 = ["The Christian life is not knowing or hearing, but doing.","Mourning after an absent God is an evidence of a love as strong, as rejoicing in a present one."]

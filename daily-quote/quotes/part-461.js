@@ -1,0 +1,1 @@
+var author461 = "Anne Bancroft", quotes461 = ["I don't quite jump for joy, but I am awfully glad to see him.","To this day, when men meet me, there's always that movie in the back of their mind."]

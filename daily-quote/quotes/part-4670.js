@@ -1,0 +1,1 @@
+var author4670 = "Minority", quotes4670 = ["Shall we then judge a country by the majority, or by the minority? By the minority, surely.","Experience tells us that sometimes, when minorities insist on their rights, they ultimately prevail."]

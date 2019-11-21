@@ -1,0 +1,1 @@
+var author4749 = "Mourning", quotes4749 = ["He had keptThe whiteness of his soul, and thus men o'er him wept.","He mourns the dead who lives as they desire.","It is better to go to the house of mourning than to go to the house of feasting.","Forever honour'd, and forever mourn'd."]

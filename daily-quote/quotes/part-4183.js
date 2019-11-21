@@ -1,0 +1,1 @@
+var author4183 = "Louis Comfort Tiffany", quotes4183 = ["Color is to the eye what music is to the ear."]

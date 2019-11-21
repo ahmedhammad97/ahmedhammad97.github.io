@@ -1,0 +1,1 @@
+var author3359 = "Jed McCaleb", quotes3359 = ["Internet infrastructure should be owned by any small group of people."]

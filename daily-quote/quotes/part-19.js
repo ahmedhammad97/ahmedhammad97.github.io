@@ -1,0 +1,1 @@
+var author19 = "A Severe Mercy", quotes19 = ["That nameless something that had stopped his heart was Beauty.","We met angrily in the dead of winter.","All I could think of was: Of her bones are coral made."]

@@ -1,0 +1,1 @@
+var author3027 = "Impermanence", quotes3027 = ["It is wiser to contemplate the law of impermanence than to try to repeal it."]

@@ -1,0 +1,1 @@
+var author4688 = "Mitchell Baker", quotes4688 = ["The average consumer does not know the difference between browser, Internet and search box."]

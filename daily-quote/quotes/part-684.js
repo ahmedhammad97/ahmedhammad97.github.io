@@ -1,0 +1,1 @@
+var author684 = "Awakening", quotes684 = ["I hearing get, who had but ears,"]

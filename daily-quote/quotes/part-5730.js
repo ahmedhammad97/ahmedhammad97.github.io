@@ -1,0 +1,1 @@
+var author5730 = "Robert F. Kennedy", quotes5730 = ["One-fifth of the people are against everything all the time.","The free way of life proposes ends, but it does not prescribe means.","Now I can go back to being ruthless again.","About one-fifth of the people are against everything all the time.","Tragedy is a tool for the living to gain wisdom, not a guide by which to live."]

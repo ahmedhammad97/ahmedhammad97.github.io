@@ -1,0 +1,1 @@
+var author3982 = "Labor power", quotes3982 = ["Unlimited exploitation of cheap labour-power is the sole foundation of their power to compete."]

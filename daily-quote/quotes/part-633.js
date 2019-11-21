@@ -1,0 +1,1 @@
+var author633 = "Ashraf Ghani", quotes633 = ["This is the worst job on Earth"]

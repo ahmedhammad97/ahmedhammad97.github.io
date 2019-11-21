@@ -1,0 +1,1 @@
+var author2200 = "Fernando Sabino", quotes2200 = ["writers without books, poets without verses, painters without pictures p198"]

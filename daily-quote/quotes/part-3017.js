@@ -1,0 +1,1 @@
+var author3017 = "Ilya Bolotowsky", quotes3017 = ["Abstract art.. searches for new ways to achieve harmony and equilibrium."]

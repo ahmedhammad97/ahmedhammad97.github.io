@@ -1,0 +1,1 @@
+var author5040 = "Oscar De La Hoya", quotes5040 = ["I respect Floyd as a fighter but come 5 May, he's going to be hurting for weeks."]

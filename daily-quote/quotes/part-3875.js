@@ -1,0 +1,1 @@
+var author3875 = "Katherine Harris", quotes3875 = ["Win back America for God. "]

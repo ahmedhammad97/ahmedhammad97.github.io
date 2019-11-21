@@ -1,0 +1,1 @@
+var author5204 = "Percy Grainger", quotes5204 = ["I do not eat meat, I do not smoke, and I do not drink, and therefore, I do not feel the cold."]
