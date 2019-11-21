@@ -8,21 +8,22 @@ var partNumber = Math.floor(Math.random() * 7335) + 1;
 
 let scriptTag = document.createElement('script');
 scriptTag.src = "./quotes/part-" + partNumber + ".js";
+scriptTag.id = "quoteScript";
 body.appendChild(scriptTag)
 
 var currQuoteNumber = 0;
 
-setTimeout(()=> {
+document.querySelector("#quoteScript").addEventListener('load', ()=> {
   let quoteArray = window[`quotes${partNumber}`];
   currQuoteNumber = Math.floor(Math.random() * quoteArray.length);
   placeHolder.innerText = '\"' + quoteArray[currQuoteNumber] + '\"';
   author.innerText = window[`author${partNumber}`]
-}, 300)
 
-setTimeout(()=> {
-  if (window[`quotes${partNumber}`].length > 1) another.style.display = "block";
-  setTimeout(()=> { random.style.display = "block"; }, 500)
-}, 3000)
+  setTimeout(()=> {
+    if (window[`quotes${partNumber}`].length > 1) another.style.display = "block";
+    setTimeout(()=> { random.style.display = "block"; }, 500)
+  }, 3000)
+})
 
 another.addEventListener('click', e => {
   let quoteArray = window[`quotes${partNumber}`];
