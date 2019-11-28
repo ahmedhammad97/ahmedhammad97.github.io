@@ -129,12 +129,12 @@ h2{
 }
 
 #About img{
-  width: 200px;
+  width: 250px;
   left: 0;
   right: 0;
   margin: auto;
-  margin-top: 20%;
-  margin-bottom: 5%;
+  margin-top: 15%;
+  margin-bottom: 10%;
   border-radius: 50%;
   opacity: 0.9;
 }
@@ -177,8 +177,29 @@ h2{
   color: darkgrey;
 }
 
-#About .red{
-  color: red;
+#Quotes {
+  background-color: #2b2b2b;
+  padding: 40px;
+  color: white;
+}
+
+#Quotes p{
+  font-size: 30px;
+  font-family: 'Itim', cursive;
+}
+
+#Quotes button{
+  width: fit-content;
+  border: 3px solid white;
+  padding: 20px;
+  background-color: transparent;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#Quotes button a{
+  color: white;
+  text-decoration: none;
 }
 
 .tech-skills, .pers-skills{
