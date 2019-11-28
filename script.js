@@ -61,7 +61,7 @@ function scrollToSection(nav){
               'Come on, take a tour...                           '];
 
   $(window).on('load', function(){
-    TxtType($(".homeText h3")[0],str,1500);
+    TxtType($(".homeText h3 .rotateText")[0],str,1500);
   });
 
 
