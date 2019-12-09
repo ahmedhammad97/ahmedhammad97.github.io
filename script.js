@@ -32,7 +32,6 @@ $(window).scroll(event=>{
 
 
 $(".nav-item").click(event=>{
-  if (event.target.innerText === "Daily Quotes") return;
   event.preventDefault();
   scrollToSection(event.target);
 });
