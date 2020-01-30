@@ -202,7 +202,7 @@ h2{
   text-decoration: none;
 }
 
-.tech-skills, .pers-skills{
+.tech-skills{
   padding-top: 90px;
   margin-left: 5%;
   margin-right: 5%;
@@ -212,23 +212,17 @@ h2{
   margin-bottom: 30px;
   background-color: lightgrey;
   margin-left: 30px;
-  font-size: 150px;
 }
 
 .c100 .text-skills{
-  padding-left: 35px;
-  padding-top: 35px;
-  font-size: 15px;
-  font-weight: bold;
-  font-family: 'Merienda One', cursive;
+  font-weight: lighter;
+  font-size: 0.2em;
+  font-family: 'Share Tech', cursive;
 }
 
 .c100:hover > .text-skills {
-  font-size: 25px;
   color: #307bbb;
-  padding-left: 15px;
-  padding-top: 30px;
-  text-align:left;
+  text-align:center;
 }
 
 .c100 .bar{
@@ -239,33 +233,6 @@ h2{
 }
 
 @media screen and (max-width: 992px) {
-  .c100{
-    font-size: 240px;
-  }
-  .c100 .text-skills{
-    font-size: 20px;
-    padding-left: 60px;
-    padding-top: 70px;
-  }
-}
-
-.pers-skills{
-  padding-bottom: 20px;
-}
-
-.progress{
-  height: 30px;
-  border-radius: 20px;
-  font-size: 15px;
-  font-family: 'Merienda One', cursive;
-}
-
-@media screen and (max-width: 992px){
-  .progress{font-size: 25px;}
-}
-
-.progress-bar{
-  border-radius: 20px;
 }
 
 #Experiences .row{
