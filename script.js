@@ -55,7 +55,6 @@ function scrollToSection(nav){
   }
 
   let str = [ 'It\'s nice of you to come and visit!',
-              'I\'m Ahmed',
               'Here, you can know all about me',
               'Come on, take a tour...                           '];
 
