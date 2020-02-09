@@ -274,7 +274,7 @@ h2{
 }
 
 .carousel-caption img{
-  width: 70%;
+  width: 80%;
   filter: blur(0px);
   -webkit-filter: blur(0px);
   opacity: 1;
@@ -305,6 +305,10 @@ h2{
     background-size: cover;
 }
 
+#Projects .carousel-item {
+  padding-top: 90px;
+}
+
 @media screen and (max-width: 992px) {
   .carousel-caption img{
     width: 80%;
@@ -316,11 +320,6 @@ h2{
   .carousel-caption p{
     font-size: 25px;
   }
-
-  #Projects h2{
-    display: none;
-  }
-
 
 }
 
