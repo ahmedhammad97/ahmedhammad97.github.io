@@ -191,10 +191,18 @@ h2{
 #Quotes button{
   width: fit-content;
   border: 3px solid white;
+  border-radius: 10px;
   padding: 20px;
   background-color: transparent;
   font-size: 30px;
   cursor: pointer;
+  font-family: 'Share Tech', cursive;
+  opacity: 0.8;
+}
+
+#Quotes button:hover {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
 }
 
 #Quotes button a{
