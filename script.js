@@ -24,7 +24,7 @@ $(window).scroll(event=>{
     $(".activeLight").addClass("activeDark");
     $(".activeLight").removeClass("activeLight");
     $(".navbar-toggler").addClass("lightGreyBack");
-    $(".navbar-toggler").css("borderRadius","40px");
+    $(".navbar-toggler").css("borderRadius","10px");
     if($(window).width() < 991.98){$(".navbar").addClass("transBack");}
     else{$(".navbar").removeClass("transBack");}
   }
