@@ -46,12 +46,12 @@ function scrollToSection(nav){
 
 //HOME SECTION
   let d = new Date();
-  if(d.getHours() < 5 || d.getHours() >= 18){
-    $(".homeText h1").html("<h1>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h1>");
-  }else if(d.getHours() >= 5 && d.getHours() < 12){
+  if(d.getHours() >= 0 && d.getHours() < 12){
     $(".homeText h1").html("<h1>Good Morning!&nbsp;&nbsp;<i class=\"fas fa-sun\"></i></h1>");
+  }else if(d.getHours() >= 12 && d.getHours() < 17){
+    $(".homeText h1").html("<h1>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h1>");    
   }else{
-    $(".homeText h1").html("<h1>Good Afternoon!&nbsp;&nbsp;<i class=\"fas fa-coffee\"></i></h1>");
+    $(".homeText h1").html("<h1>Good Evening!&nbsp&nbsp;<i class=\"fas fa-moon\"></i></h1>");
   }
 
   let str = [ 'It\'s nice of you to come and visit!',
