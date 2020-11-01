@@ -338,7 +338,7 @@ h2{
 
 .post-flipImages{
   width: 65%;
-  max-width: 300px;
+  max-width: 250px;
   opacity: 0.9;
   transition: all 0.5s ease-in-out;
   margin-left: 20%;
