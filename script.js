@@ -145,9 +145,3 @@ observer.observe();
 //COPYRIGHTS
 const yearSpan = document.querySelector('#year');
 yearSpan.innerText = new Date().getFullYear();
-
-//ATTACH USER COUNTER
-setTimeout(() => {
-  const counterSpan = document.querySelector('#userCounter');
-  counterSpan.innerHTML = '<a style="display: none;" href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=guemxqakd&nd=4&style=1" border="0" alt="web counter"></a>';
-}, 1000);
